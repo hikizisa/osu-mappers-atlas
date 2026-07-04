@@ -1,6 +1,6 @@
 {
   "defaultCountry": "KR",
-  "generatedAt": "2026-07-04T18:28:23.879Z",
+  "generatedAt": "2026-07-04T18:39:38.783Z",
   "source": "https://osu.ppy.sh/rankings/osu/country",
   "countries": [
     {
@@ -53,9 +53,9 @@
       "name": "Andorra",
       "demonym": "Andorra",
       "nativeName": "Andorra",
-      "hasData": false,
+      "hasData": true,
       "mapperCount": 0,
-      "lastUpdated": null
+      "lastUpdated": "2026-07-04T18:39:26.933Z"
     },
     {
       "code": "AO",
@@ -314,9 +314,9 @@
       "name": "Burundi",
       "demonym": "Burundi",
       "nativeName": "Burundi",
-      "hasData": false,
+      "hasData": true,
       "mapperCount": 0,
-      "lastUpdated": null
+      "lastUpdated": "2026-07-04T18:39:26.934Z"
     },
     {
       "code": "CV",
@@ -476,9 +476,9 @@
       "name": "Cuba",
       "demonym": "Cuba",
       "nativeName": "Cuba",
-      "hasData": false,
+      "hasData": true,
       "mapperCount": 0,
-      "lastUpdated": null
+      "lastUpdated": "2026-07-04T18:39:26.935Z"
     },
     {
       "code": "CW",
@@ -674,9 +674,9 @@
       "name": "France",
       "demonym": "France",
       "nativeName": "France",
-      "hasData": false,
-      "mapperCount": 0,
-      "lastUpdated": null
+      "hasData": true,
+      "mapperCount": 1,
+      "lastUpdated": "2026-07-04T18:39:27.045Z"
     },
     {
       "code": "GF",
@@ -926,9 +926,9 @@
       "name": "Ireland",
       "demonym": "Ireland",
       "nativeName": "Ireland",
-      "hasData": false,
+      "hasData": true,
       "mapperCount": 0,
-      "lastUpdated": null
+      "lastUpdated": "2026-07-04T18:39:27.673Z"
     },
     {
       "code": "IR",
