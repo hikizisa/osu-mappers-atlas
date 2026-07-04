@@ -1,0 +1,18 @@
+{
+  "country": {
+    "code": "SJ",
+    "name": "Svalbard and Jan Mayen",
+    "demonym": "Svalbard and Jan Mayen",
+    "nativeName": "Svalbard and Jan Mayen"
+  },
+  "lastUpdated": "2026-07-04T18:42:59.850Z",
+  "totalMappers": 0,
+  "totalBeatmaps": 0,
+  "totalBeatmapsets": 0,
+  "totalOwnBeatmapsets": 0,
+  "totalGuestBeatmapsets": 0,
+  "totalGuestDiffs": 0,
+  "totalOwnDifficulties": 0,
+  "scanType": "shared-discovery-empty",
+  "mappers": []
+}

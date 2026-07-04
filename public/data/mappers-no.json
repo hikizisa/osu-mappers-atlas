@@ -1,0 +1,18 @@
+{
+  "country": {
+    "code": "NO",
+    "name": "Norway",
+    "demonym": "Norway",
+    "nativeName": "Norway"
+  },
+  "lastUpdated": "2026-07-04T18:42:49.633Z",
+  "totalMappers": 0,
+  "totalBeatmaps": 0,
+  "totalBeatmapsets": 0,
+  "totalOwnBeatmapsets": 0,
+  "totalGuestBeatmapsets": 0,
+  "totalGuestDiffs": 0,
+  "totalOwnDifficulties": 0,
+  "scanType": "shared-discovery-empty",
+  "mappers": []
+}
