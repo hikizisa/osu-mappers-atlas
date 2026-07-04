@@ -1,21 +1,21 @@
-name: Monthly Data Refresh (Full)
+name: Monthly Data Refresh
 
 on:
   schedule:
-    # Run on the 1st of every month at 3 AM UTC (after daily refresh)
+    # Run on the 1st of every month at 3 AM UTC.
     - cron: '0 3 1 * *'
   workflow_dispatch:
     inputs:
       country_code:
-        description: 'osu! country code to refresh'
+        description: 'Optional single osu! country code to force-refresh'
         required: false
-        default: 'KR'
+        default: ''
         type: string
-      force_refresh:
-        description: 'Force refresh all mapper data'
+      shard_count:
+        description: 'Rolling shard count for scheduled generated-country refreshes'
         required: false
-        default: 'true'
-        type: boolean
+        default: '6'
+        type: string
 
 permissions:
   contents: write
@@ -26,47 +26,44 @@ permissions:
 jobs:
   refresh-data:
     runs-on: ubuntu-latest
-    
+
     steps:
     - name: Checkout
       uses: actions/checkout@v4
-      
+
     - name: Setup Node.js
       uses: actions/setup-node@v4
       with:
         node-version: '18'
-        
+
     - name: Install dependencies
-      run: |
-        if [ -f package-lock.json ]; then
-          npm ci
-        else
-          npm install
-        fi
-    
+      run: npm ci
+
     - name: Monthly full data refresh
       env:
         OSU_API_KEY: ${{ secrets.OSU_API_KEY }}
-        FORCE_REFRESH: ${{ github.event.inputs.force_refresh || 'true' }}
-        MAPPER_COUNTRY: ${{ github.event.inputs.country_code || 'KR' }}
+        FORCE_REFRESH: 'true'
+        COUNTRY_CODE: ${{ github.event.inputs.country_code || '' }}
+        SHARD_COUNT: ${{ github.event.inputs.shard_count || '6' }}
       run: |
-        echo "🔄 Starting monthly FULL data refresh..."
-        echo "This will update ALL mapper data including play counts, star ratings, etc."
         npm run init-countries
-        npm run fetch-data
+        if [ -n "$COUNTRY_CODE" ]; then
+          node scripts/fetch-country-batch.js --countries="$COUNTRY_CODE" --continue-on-error=false
+        else
+          SHARD_INDEX=$((10#$(date -u +%m) % SHARD_COUNT))
+          node scripts/fetch-country-batch.js --only-existing --shard-count="$SHARD_COUNT" --shard-index="$SHARD_INDEX" --continue-on-error=true
+        fi
         npm run init-countries
-        
+
     - name: Check for changes
       id: verify-changed-files
       run: |
         if [ -n "$(git status --porcelain)" ]; then
           echo "changed=true" >> $GITHUB_OUTPUT
-          echo "Changes detected in mapper data"
         else
           echo "changed=false" >> $GITHUB_OUTPUT
-          echo "No changes in mapper data"
         fi
-        
+
     - name: Commit and push changes
       if: steps.verify-changed-files.outputs.changed == 'true'
       run: |
@@ -74,22 +71,13 @@ jobs:
         git config --local user.name "GitHub Action"
         git add public/data/*.json
         git add data/*.json
-        git commit -m "🔄 Monthly FULL refresh: Complete data update
-
-        - Updated star ratings and difficulty information
-        - Refreshed playcount and favorite count data
-        - Updated mapper beatmap collections
-        - Full refresh of all existing data
-        
-        Automated monthly full refresh on $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+        git commit -m "Monthly country mapper refresh"
         git push
-        
+
     - name: Build and deploy site
       if: steps.verify-changed-files.outputs.changed == 'true'
-      run: |
-        echo "🏗️ Building site with updated data..."
-        npm run export
-        
+      run: npm run export
+
     - name: Deploy to GitHub Pages
       if: steps.verify-changed-files.outputs.changed == 'true'
       uses: peaceiris/actions-gh-pages@v4
@@ -97,15 +85,11 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./out
         force_orphan: true
-        
+
     - name: Create summary
       run: |
-        if [ "${{ steps.verify-changed-files.outputs.changed }}" == "true" ]; then
-          echo "✅ Monthly FULL refresh completed successfully" >> $GITHUB_STEP_SUMMARY
-          echo "📊 All mapper and beatmap data has been refreshed" >> $GITHUB_STEP_SUMMARY
-          echo "🔄 Play counts, star ratings, and stats updated" >> $GITHUB_STEP_SUMMARY
-          echo "🚀 Site deployed to GitHub Pages with refreshed data" >> $GITHUB_STEP_SUMMARY
+        if [ "${{ steps.verify-changed-files.outputs.changed }}" = "true" ]; then
+          echo "Monthly refresh completed with data changes." >> $GITHUB_STEP_SUMMARY
         else
-          echo "ℹ️ Monthly refresh completed - No data changes" >> $GITHUB_STEP_SUMMARY
-          echo "📊 All data was already up to date" >> $GITHUB_STEP_SUMMARY
+          echo "Monthly refresh completed with no data changes." >> $GITHUB_STEP_SUMMARY
         fi

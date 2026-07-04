@@ -8,6 +8,8 @@
     "start": "npx next start",
     "export": "npx next build",
     "fetch-data": "node scripts/fetch-mappers.js",
+    "fetch-country-batch": "node scripts/fetch-country-batch.js",
+    "fetch-all-missing": "node scripts/fetch-country-batch.js --only-missing",
     "init-countries": "node scripts/init-countries.js"
   },
   "dependencies": {

@@ -2,20 +2,20 @@ name: Daily Data Refresh
 
 on:
   schedule:
-    # Run daily at 2 AM UTC to catch new ranked maps
+    # Run daily at 2 AM UTC. Scheduled runs refresh one rolling shard of generated countries.
     - cron: '0 2 * * *'
   workflow_dispatch:
     inputs:
       country_code:
-        description: 'osu! country code to refresh'
+        description: 'Optional single osu! country code to refresh'
         required: false
-        default: 'KR'
+        default: ''
         type: string
-      debug:
-        description: 'Enable debug logging'
+      shard_count:
+        description: 'Rolling shard count for scheduled/generated-country refreshes'
         required: false
-        default: 'false'
-        type: boolean
+        default: '14'
+        type: string
 
 permissions:
   contents: write
@@ -26,47 +26,44 @@ permissions:
 jobs:
   daily-refresh:
     runs-on: ubuntu-latest
-    
+
     steps:
     - name: Checkout
       uses: actions/checkout@v4
-      
+
     - name: Setup Node.js
       uses: actions/setup-node@v4
       with:
         node-version: '18'
-        
+
     - name: Install dependencies
-      run: |
-        if [ -f package-lock.json ]; then
-          npm ci
-        else
-          npm install
-        fi
-    
+      run: npm ci
+
     - name: Daily incremental data fetch
       env:
         OSU_API_KEY: ${{ secrets.OSU_API_KEY }}
         FORCE_REFRESH: 'false'
-        MAPPER_COUNTRY: ${{ github.event.inputs.country_code || 'KR' }}
+        COUNTRY_CODE: ${{ github.event.inputs.country_code || '' }}
+        SHARD_COUNT: ${{ github.event.inputs.shard_count || '14' }}
       run: |
-        echo "🔄 Starting daily incremental data refresh..."
-        echo "This will fetch only new beatmaps since last update"
         npm run init-countries
-        npm run fetch-data
+        if [ -n "$COUNTRY_CODE" ]; then
+          node scripts/fetch-country-batch.js --countries="$COUNTRY_CODE" --continue-on-error=false
+        else
+          SHARD_INDEX=$((10#$(date -u +%j) % SHARD_COUNT))
+          node scripts/fetch-country-batch.js --only-existing --shard-count="$SHARD_COUNT" --shard-index="$SHARD_INDEX" --continue-on-error=true
+        fi
         npm run init-countries
-        
+
     - name: Check for changes
       id: verify-changed-files
       run: |
         if [ -n "$(git status --porcelain)" ]; then
           echo "changed=true" >> $GITHUB_OUTPUT
-          echo "✅ New beatmaps detected!"
         else
           echo "changed=false" >> $GITHUB_OUTPUT
-          echo "ℹ️ No new beatmaps found"
         fi
-        
+
     - name: Commit and push changes
       if: steps.verify-changed-files.outputs.changed == 'true'
       run: |
@@ -74,19 +71,13 @@ jobs:
         git config --local user.name "GitHub Action"
         git add public/data/*.json
         git add data/*.json
-        git commit -m "🆕 Daily update: New beatmaps detected
-        
-        - Added newly ranked/loved beatmaps
-        - Updated mapper statistics
-        - Incremental refresh on $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+        git commit -m "Daily country mapper refresh"
         git push
-        
+
     - name: Build and deploy site
       if: steps.verify-changed-files.outputs.changed == 'true'
-      run: |
-        echo "🏗️ Building site with updated data..."
-        npm run export
-        
+      run: npm run export
+
     - name: Deploy to GitHub Pages
       if: steps.verify-changed-files.outputs.changed == 'true'
       uses: peaceiris/actions-gh-pages@v4
@@ -94,14 +85,11 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./out
         force_orphan: true
-        
+
     - name: Create summary
       run: |
-        if [ "${{ steps.verify-changed-files.outputs.changed }}" == "true" ]; then
-          echo "🆕 Daily refresh completed - New beatmaps found!" >> $GITHUB_STEP_SUMMARY
-          echo "📊 Incremental update applied successfully" >> $GITHUB_STEP_SUMMARY
-          echo "🚀 Site deployed to GitHub Pages with new data" >> $GITHUB_STEP_SUMMARY
+        if [ "${{ steps.verify-changed-files.outputs.changed }}" = "true" ]; then
+          echo "Daily refresh completed with data changes." >> $GITHUB_STEP_SUMMARY
         else
-          echo "✅ Daily refresh completed - No new beatmaps" >> $GITHUB_STEP_SUMMARY
-          echo "📊 All data is up to date" >> $GITHUB_STEP_SUMMARY
+          echo "Daily refresh completed with no data changes." >> $GITHUB_STEP_SUMMARY
         fi

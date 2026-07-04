@@ -1,0 +1,179 @@
+name: All-Country Data Refresh
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Refresh mode'
+        required: true
+        default: 'missing'
+        type: choice
+        options:
+          - missing
+          - all
+          - selected
+      countries:
+        description: 'Comma-separated country codes when mode=selected'
+        required: false
+        default: ''
+        type: string
+      shard_count:
+        description: 'Number of country shards'
+        required: false
+        default: '24'
+        type: string
+      continue_on_error:
+        description: 'Continue fetching other countries after a country fails'
+        required: false
+        default: 'true'
+        type: boolean
+
+permissions:
+  contents: write
+  pull-requests: write
+  pages: write
+  id-token: write
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    outputs:
+      shards: ${{ steps.shards.outputs.shards }}
+      shard_count: ${{ steps.shards.outputs.shard_count }}
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+
+    - name: Install dependencies
+      run: npm ci
+
+    - name: Initialize country list
+      run: npm run init-countries
+
+    - name: Build shard matrix
+      id: shards
+      env:
+        SHARD_COUNT: ${{ github.event.inputs.shard_count || '24' }}
+      run: |
+        node - <<'NODE'
+        const count = Math.max(1, parseInt(process.env.SHARD_COUNT || '24', 10));
+        const shards = Array.from({ length: count }, (_, index) => index);
+        const fs = require('fs');
+        fs.appendFileSync(process.env.GITHUB_OUTPUT, `shards=${JSON.stringify(shards)}\n`);
+        fs.appendFileSync(process.env.GITHUB_OUTPUT, `shard_count=${count}\n`);
+        NODE
+
+  fetch:
+    needs: prepare
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      max-parallel: 3
+      matrix:
+        shard: ${{ fromJson(needs.prepare.outputs.shards) }}
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+
+    - name: Install dependencies
+      run: npm ci
+
+    - name: Initialize country list
+      run: npm run init-countries
+
+    - name: Fetch country shard
+      env:
+        OSU_API_KEY: ${{ secrets.OSU_API_KEY }}
+        MODE: ${{ github.event.inputs.mode || 'missing' }}
+        COUNTRIES: ${{ github.event.inputs.countries || '' }}
+        SHARD_COUNT: ${{ needs.prepare.outputs.shard_count }}
+        SHARD_INDEX: ${{ matrix.shard }}
+        CONTINUE_ON_ERROR: ${{ github.event.inputs.continue_on_error || 'true' }}
+      run: |
+        ARGS="--shard-count=$SHARD_COUNT --shard-index=$SHARD_INDEX --continue-on-error=$CONTINUE_ON_ERROR"
+        if [ "$MODE" = "missing" ]; then
+          ARGS="$ARGS --only-missing"
+        fi
+        if [ "$MODE" = "selected" ]; then
+          ARGS="$ARGS --countries=$COUNTRIES"
+        fi
+        node scripts/fetch-country-batch.js $ARGS
+        npm run init-countries
+
+    - name: Upload shard data
+      uses: actions/upload-artifact@v4
+      with:
+        name: country-data-shard-${{ matrix.shard }}
+        path: |
+          public/data/*.json
+          data/*.json
+        retention-days: 3
+
+  merge:
+    needs: fetch
+    runs-on: ubuntu-latest
+    if: always()
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Download shard data
+      uses: actions/download-artifact@v4
+      with:
+        pattern: country-data-shard-*
+        merge-multiple: true
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+
+    - name: Install dependencies
+      run: npm ci
+
+    - name: Refresh public country metadata
+      run: npm run init-countries
+
+    - name: Check for changes
+      id: verify-changed-files
+      run: |
+        if [ -n "$(git status --porcelain)" ]; then
+          echo "changed=true" >> $GITHUB_OUTPUT
+        else
+          echo "changed=false" >> $GITHUB_OUTPUT
+        fi
+
+    - name: Commit and push changes
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add public/data/*.json
+        git add data/*.json
+        git commit -m "Refresh country mapper data"
+        git push
+
+    - name: Build site
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: npm run export
+
+    - name: Deploy to GitHub Pages
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      uses: peaceiris/actions-gh-pages@v4
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./out
+        force_orphan: true
