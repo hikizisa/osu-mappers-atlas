@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;600&family=Noto+Sans+KR:wght@300;400;500;700&family=Space+Grotesk:wght@500;600;700&display=swap');
 
 :root {
   --foreground-rgb: 0, 0, 0;
@@ -19,13 +19,74 @@
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  color: #172033;
+  background-color: #f5f7fb;
+  background-image:
+    linear-gradient(rgba(15, 23, 42, 0.045) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(15, 23, 42, 0.045) 1px, transparent 1px);
+  background-size: 44px 44px;
+  font-feature-settings: "kern";
+}
+
+@layer components {
+  .atlas-shell {
+    @apply min-h-screen text-slate-800 dark:text-slate-100;
+    background:
+      linear-gradient(180deg, rgba(255, 255, 255, 0.82), rgba(246, 248, 252, 0.92) 44rem),
+      linear-gradient(90deg, rgba(255, 102, 170, 0.08), rgba(0, 102, 204, 0.07));
+  }
+
+  .atlas-header {
+    @apply relative overflow-hidden border-b border-slate-200/80 bg-white/90 shadow-sm backdrop-blur dark:border-slate-700 dark:bg-slate-900/90;
+  }
+
+  .atlas-header::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background-image:
+      linear-gradient(rgba(0, 102, 204, 0.07) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(255, 102, 170, 0.09) 1px, transparent 1px);
+    background-size: 52px 52px;
+    mask-image: linear-gradient(to bottom, black, transparent 78%);
+  }
+
+  .atlas-title {
+    @apply font-display text-4xl font-bold leading-tight text-slate-950 dark:text-white md:text-6xl;
+  }
+
+  .atlas-title-accent {
+    @apply bg-gradient-to-r from-osu-pink via-sky-600 to-emerald-500 bg-clip-text text-transparent;
+  }
+
+  .atlas-subtitle {
+    @apply mx-auto max-w-3xl text-lg leading-8 text-slate-600 dark:text-slate-300 md:text-xl;
+  }
+
+  .atlas-kicker {
+    @apply font-mono text-xs font-semibold uppercase tracking-[0.24em] text-slate-500 dark:text-slate-400;
+  }
+
+  .atlas-card {
+    @apply rounded-lg border border-slate-200 bg-white/95 shadow-[0_14px_40px_rgba(15,23,42,0.10)] dark:border-slate-700 dark:bg-slate-900/95;
+  }
+
+  .atlas-panel {
+    @apply rounded-lg border border-slate-200 bg-white/90 shadow-[0_14px_36px_rgba(15,23,42,0.08)] backdrop-blur dark:border-slate-700 dark:bg-slate-900/90;
+  }
+
+  .atlas-stat-card {
+    @apply rounded-lg border border-slate-200 bg-white/95 p-5 text-center shadow-[0_10px_28px_rgba(15,23,42,0.08)] dark:border-slate-700 dark:bg-slate-900/95;
+  }
+
+  .atlas-primary-action {
+    @apply inline-flex items-center gap-2 rounded-md bg-slate-950 px-5 py-3 font-semibold text-white shadow-lg transition hover:bg-osu-pink focus:outline-none focus:ring-2 focus:ring-osu-pink focus:ring-offset-2 dark:bg-white dark:text-slate-950 dark:hover:bg-osu-pink dark:hover:text-white;
+  }
+
+  .atlas-search-input {
+    @apply w-full rounded-lg border border-slate-300 bg-white px-4 py-3 text-slate-900 shadow-sm outline-none transition placeholder:text-slate-400 focus:border-osu-pink focus:ring-2 focus:ring-osu-pink/30 dark:border-slate-700 dark:bg-slate-900 dark:text-white;
+  }
 }
 
 /* Smooth animations for enhanced user experience */

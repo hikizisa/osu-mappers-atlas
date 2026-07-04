@@ -22,10 +22,10 @@ export const CountrySelector: React.FC = () => {
   } = useCountry()
 
   return (
-    <div className="w-full max-w-3xl rounded-lg border border-gray-200 bg-white/95 p-3 shadow-lg dark:border-gray-700 dark:bg-gray-800/95">
+    <div className="atlas-card w-full max-w-3xl p-3">
       <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
         <label className="flex min-w-0 flex-1 items-center gap-3">
-          <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-md bg-gray-900 text-lg text-white dark:bg-white dark:text-gray-900">
+          <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-md bg-slate-950 font-mono text-sm font-semibold text-white dark:bg-white dark:text-slate-950">
             {flagEmoji(selectedCountryCode)}
           </span>
           <span className="min-w-0 flex-1">
@@ -37,7 +37,7 @@ export const CountrySelector: React.FC = () => {
               value={selectedCountryCode}
               onChange={(event) => setSelectedCountryCode(event.target.value)}
               disabled={isLoadingCountries}
-              className="mt-1 w-full rounded-md border border-gray-300 bg-white px-3 py-2 text-base font-semibold text-gray-900 outline-none transition focus:border-osu-pink focus:ring-2 focus:ring-osu-pink/30 disabled:cursor-wait disabled:opacity-70 dark:border-gray-600 dark:bg-gray-700 dark:text-white"
+              className="mt-1 w-full rounded-md border border-slate-300 bg-white px-3 py-2 text-base font-semibold text-slate-950 outline-none transition focus:border-osu-pink focus:ring-2 focus:ring-osu-pink/30 disabled:cursor-wait disabled:opacity-70 dark:border-slate-700 dark:bg-slate-900 dark:text-white"
             >
               {countries.map(country => (
                 <option key={country.code} value={country.code}>
@@ -48,7 +48,7 @@ export const CountrySelector: React.FC = () => {
           </span>
         </label>
 
-        <div className="flex shrink-0 items-center gap-2 rounded-md bg-gray-100 px-3 py-2 text-sm text-gray-700 dark:bg-gray-700 dark:text-gray-200">
+        <div className="flex shrink-0 items-center gap-2 rounded-md bg-slate-100 px-3 py-2 font-mono text-xs text-slate-700 dark:bg-slate-800 dark:text-slate-200">
           <Database className="h-4 w-4 text-osu-blue" />
           {selectedCountry.hasData
             ? `${selectedCountry.mapperCount || 0} mappers indexed`

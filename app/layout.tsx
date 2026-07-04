@@ -16,7 +16,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="ko">
-      <body className="font-korean bg-gradient-to-br from-slate-50 to-slate-100 dark:from-gray-900 dark:to-gray-800 min-h-screen">
+      <body className="font-korean min-h-screen">
         <LanguageProvider>
           <CountryProvider>
             {children}

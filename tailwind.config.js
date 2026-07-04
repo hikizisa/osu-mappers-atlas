@@ -17,7 +17,9 @@ module.exports = {
         }
       },
       fontFamily: {
-        'korean': ['Noto Sans KR', 'sans-serif']
+        'display': ['Space Grotesk', 'Noto Sans KR', 'sans-serif'],
+        'korean': ['Noto Sans KR', 'sans-serif'],
+        'mono': ['IBM Plex Mono', 'ui-monospace', 'monospace']
       }
     },
   },

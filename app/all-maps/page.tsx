@@ -1,7 +1,7 @@
 'use client'
 
 import React, { useState, useEffect } from 'react'
-import { Search, Calendar, Trophy, ExternalLink, Github, ArrowLeft, ChevronUp, ChevronDown } from 'lucide-react'
+import { Search, Calendar, Trophy, ExternalLink, Github, ArrowLeft, ChevronUp, ChevronDown, Compass } from 'lucide-react'
 import { Mapper, BeatmapsetGroup, SortOption, SortDirection } from '../components/types'
 import { BeatmapsetCard } from '../components/BeatmapsetCard'
 import { getModeIcon, formatNumber, formatDate } from '../components/utils'
@@ -157,7 +157,7 @@ export default function AllMapsPage() {
 
   if (loading) {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-purple-50 to-pink-50 dark:from-gray-900 dark:to-gray-800 flex items-center justify-center">
+      <div className="atlas-shell flex min-h-screen items-center justify-center">
         <div className="text-center">
           <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-osu-pink mx-auto mb-4"></div>
           <p className="text-gray-600 dark:text-gray-400">Loading {selectedCountry.name} beatmaps...</p>
@@ -168,7 +168,7 @@ export default function AllMapsPage() {
 
   if (error) {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-purple-50 to-pink-50 dark:from-gray-900 dark:to-gray-800 flex items-center justify-center">
+      <div className="atlas-shell flex min-h-screen items-center justify-center">
         <div className="mx-auto w-full max-w-3xl px-4 text-center">
           <p className="text-red-600 dark:text-red-400 mb-4">Error: {error}</p>
           <p className="mb-4 text-sm text-gray-600 dark:text-gray-300">
@@ -179,7 +179,7 @@ export default function AllMapsPage() {
           </div>
           <button
             onClick={() => window.location.reload()}
-            className="px-4 py-2 bg-osu-pink text-white rounded-lg hover:bg-osu-purple transition-colors"
+            className="atlas-primary-action"
           >
             Retry
           </button>
@@ -189,29 +189,29 @@ export default function AllMapsPage() {
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-purple-50 to-pink-50 dark:from-gray-900 dark:to-gray-800">
-      <header className="bg-white dark:bg-gray-800 shadow-lg">
-        <div className="container mx-auto px-4 py-6">
+    <div className="atlas-shell">
+      <header className="atlas-header">
+        <div className="container relative mx-auto px-4 py-8">
           <div className="flex justify-end mb-4">
             <LanguageToggle />
           </div>
           <div className="flex items-center justify-between mb-6">
             <Link
               href="/"
-              className="flex items-center gap-2 text-osu-pink hover:text-osu-purple transition-colors"
+              className="flex items-center gap-2 font-semibold text-osu-pink hover:text-sky-700 transition-colors"
             >
               <ArrowLeft className="h-5 w-5" />
               <span className="font-medium">{t.backToHome}</span>
             </Link>
             <div className="flex items-center gap-3">
-              <Github className="h-6 w-6 text-osu-pink" />
-              <h1 className="text-3xl font-bold bg-gradient-to-r from-osu-pink via-osu-purple to-osu-blue bg-clip-text text-transparent">
+              <Compass className="h-7 w-7 text-osu-pink" />
+              <h1 className="atlas-title text-3xl md:text-4xl">
                 {t.allBeatmaps}
               </h1>
             </div>
           </div>
           <div className="flex flex-col gap-4">
-            <p className="text-gray-600 dark:text-gray-400">
+            <p className="atlas-subtitle mx-0 text-base">
               Browse ranked and loved beatmapsets from {selectedCountry.name} mappers.
             </p>
             <CountrySelector />
@@ -221,7 +221,7 @@ export default function AllMapsPage() {
 
       <div className="container mx-auto px-4 py-8">
         {/* Controls - Sticky */}
-        <div className="sticky top-4 z-10 bg-white/90 dark:bg-gray-800/90 backdrop-blur-sm rounded-lg p-6 mb-8 border border-gray-200 dark:border-gray-700 shadow-lg animate-slide-in">
+        <div className="atlas-panel sticky top-4 z-10 p-6 mb-8 animate-slide-in">
           <div className="space-y-4">
             {/* First Row: Search */}
             <div className="flex flex-col sm:flex-row gap-4">
@@ -231,7 +231,7 @@ export default function AllMapsPage() {
                   placeholder={t.searchPlaceholder}
                   value={searchTerm}
                   onChange={(e) => setSearchTerm(e.target.value)}
-                  className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-osu-pink focus:border-transparent dark:bg-gray-700 dark:border-gray-600 dark:text-white transition-all duration-200 ease-in-out"
+                  className="atlas-search-input"
                 />
               </div>
               
