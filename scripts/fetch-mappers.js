@@ -378,14 +378,14 @@ async function fetchCountryMappersFromAPI(isFullScan = false) {
         // Monthly reset: Check from the configured start date to be comprehensive
         sinceDate = COUNTRY_SETTINGS.fetchStartDate;
         maxRequests = 200; // More requests for comprehensive scan
-        console.log('🔄 Full scan mode: Checking beatmaps since 2020-01-01 for comprehensive Korean mapper discovery');
+        console.log(`Full scan mode: Checking beatmaps since ${sinceDate} for comprehensive ${COUNTRY_SETTINGS.name} mapper discovery`);
     } else {
         // Daily update: Check from a week ago for recent activity
         const weekAgo = new Date();
         weekAgo.setDate(weekAgo.getDate() - 7);
         sinceDate = weekAgo.toISOString().split('T')[0]; // YYYY-MM-DD format
         maxRequests = 20; // Fewer requests for incremental scan
-        console.log('📅 Daily update mode: Checking beatmaps from the last week for new Korean mappers');
+        console.log(`Daily update mode: Checking beatmaps from the last week for new ${COUNTRY_SETTINGS.name} mappers`);
     }
     
     try {
