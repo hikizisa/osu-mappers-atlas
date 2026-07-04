@@ -27,6 +27,11 @@ on:
         required: false
         default: 'true'
         type: boolean
+      max_discovery_requests:
+        description: 'Maximum shared discovery requests against get_beatmaps'
+        required: false
+        default: '200'
+        type: string
 
 permissions:
   contents: write
@@ -55,6 +60,23 @@ jobs:
 
     - name: Initialize country list
       run: npm run init-countries
+
+    - name: Discover mapper countries
+      env:
+        OSU_API_KEY: ${{ secrets.OSU_API_KEY }}
+        MAX_DISCOVERY_REQUESTS: ${{ github.event.inputs.max_discovery_requests || '200' }}
+      run: |
+        node scripts/fetch-all-countries.js \
+          --discover-only \
+          --discovery-file=data/country-discovery.json \
+          --max-discovery-requests="$MAX_DISCOVERY_REQUESTS"
+
+    - name: Upload discovery data
+      uses: actions/upload-artifact@v4
+      with:
+        name: country-discovery
+        path: data/country-discovery.json
+        retention-days: 3
 
     - name: Build shard matrix
       id: shards
@@ -93,6 +115,12 @@ jobs:
     - name: Initialize country list
       run: npm run init-countries
 
+    - name: Download discovery data
+      uses: actions/download-artifact@v4
+      with:
+        name: country-discovery
+        path: data
+
     - name: Fetch country shard
       env:
         OSU_API_KEY: ${{ secrets.OSU_API_KEY }}
@@ -102,14 +130,17 @@ jobs:
         SHARD_INDEX: ${{ matrix.shard }}
         CONTINUE_ON_ERROR: ${{ github.event.inputs.continue_on_error || 'true' }}
       run: |
-        ARGS="--shard-count=$SHARD_COUNT --shard-index=$SHARD_INDEX --continue-on-error=$CONTINUE_ON_ERROR"
+        ARGS="--discovery-file=data/country-discovery.json --shard-count=$SHARD_COUNT --shard-index=$SHARD_INDEX --continue-on-error=$CONTINUE_ON_ERROR"
         if [ "$MODE" = "missing" ]; then
-          ARGS="$ARGS --only-missing"
+          ARGS="$ARGS --only-missing --write-empty"
+        fi
+        if [ "$MODE" = "all" ]; then
+          ARGS="$ARGS --write-empty"
         fi
         if [ "$MODE" = "selected" ]; then
           ARGS="$ARGS --countries=$COUNTRIES"
         fi
-        node scripts/fetch-country-batch.js $ARGS
+        node scripts/fetch-all-countries.js $ARGS
         npm run init-countries
 
     - name: Upload shard data

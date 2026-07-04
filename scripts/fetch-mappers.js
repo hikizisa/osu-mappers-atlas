@@ -13,18 +13,26 @@ const OUTPUT_DIR = path.join(__dirname, '..', 'public', 'data');
 const DATA_DIR = path.join(__dirname, '..', 'data');
 const COUNTRY_CONFIG_FILE = path.join(DATA_DIR, 'countries.json');
 
-function getCliCountryCode() {
-    const countryArg = process.argv.find(arg => arg.startsWith('--country='));
-    if (countryArg) {
-        return countryArg.split('=')[1];
+function getCliArg(name) {
+    const inlineArg = process.argv.find(arg => arg.startsWith(`--${name}=`));
+    if (inlineArg) {
+        return inlineArg.split('=').slice(1).join('=');
     }
 
-    const countryIndex = process.argv.findIndex(arg => arg === '--country');
-    if (countryIndex !== -1) {
-        return process.argv[countryIndex + 1];
+    const argIndex = process.argv.findIndex(arg => arg === `--${name}`);
+    if (argIndex !== -1) {
+        return process.argv[argIndex + 1];
     }
 
     return null;
+}
+
+function getCliCountryCode() {
+    return getCliArg('country');
+}
+
+function hasCliFlag(name) {
+    return process.argv.includes(`--${name}`) || getCliArg(name) === 'true';
 }
 
 const ACTIVE_COUNTRY_CODE = (
@@ -109,6 +117,12 @@ function loadCountrySettings() {
 const COUNTRY_SETTINGS = loadCountrySettings();
 const MANUAL_MAPPER_IDS = COUNTRY_SETTINGS.manualMapperIds;
 const IGNORE_MAPPER_IDS = COUNTRY_SETTINGS.ignoreMapperIds;
+const EXTRA_MAPPER_IDS = normalizeIdList([
+    ...(process.env.EXTRA_MAPPER_IDS || '').split(','),
+    ...(getCliArg('mapper-ids') || '').split(',')
+]);
+const SEEDED_MAPPER_IDS = normalizeIdList([...MANUAL_MAPPER_IDS, ...EXTRA_MAPPER_IDS]);
+const SKIP_COUNTRY_DISCOVERY = process.env.SKIP_COUNTRY_DISCOVERY === 'true' || hasCliFlag('skip-discovery');
 
 // Helper function to make API requests with retry logic
 async function makeApiRequest(url, params = {}, retries = MAX_RETRIES) {
@@ -751,14 +765,16 @@ async function fetchCountryMappers() {
         }
     }
 
-    // Process manual mapper IDs
-    console.log(`Processing ${MANUAL_MAPPER_IDS.length} manual mapper IDs...`);
-    for (const userId of MANUAL_MAPPER_IDS) {
+    // Process configured and externally discovered mapper IDs
+    console.log(`Processing ${SEEDED_MAPPER_IDS.length} seeded mapper IDs...`);
+    for (const userId of SEEDED_MAPPER_IDS) {
         await processUser(userId.toString());
     }
 
-    // If it's a full scan, also fetch selected-country mappers from API
-    if (isFullScan) {
+    if (SKIP_COUNTRY_DISCOVERY) {
+        console.log(`Skipping ${COUNTRY_SETTINGS.name} discovery scan; using seeded mapper IDs only.`);
+    } else if (isFullScan) {
+        // If it's a full scan, also fetch selected-country mappers from API
         try {
             const apiCountryMappers = await fetchCountryMappersFromAPI(true); // Pass true for full scan
             console.log(`Processing ${apiCountryMappers.length} ${COUNTRY_SETTINGS.name} mappers from API...`);

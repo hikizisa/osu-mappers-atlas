@@ -51,7 +51,7 @@ jobs:
           node scripts/fetch-country-batch.js --countries="$COUNTRY_CODE" --continue-on-error=false
         else
           SHARD_INDEX=$((10#$(date -u +%j) % SHARD_COUNT))
-          node scripts/fetch-country-batch.js --only-existing --shard-count="$SHARD_COUNT" --shard-index="$SHARD_INDEX" --continue-on-error=true
+          node scripts/fetch-all-countries.js --only-existing --shard-count="$SHARD_COUNT" --shard-index="$SHARD_INDEX" --continue-on-error=true --max-discovery-requests=20
         fi
         npm run init-countries
 
