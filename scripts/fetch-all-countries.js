@@ -287,6 +287,11 @@ async function main() {
   console.log(`Selected ${selectedCountries.length} countries: ${selectedCountries.join(', ') || '(none)'}`);
   console.log(`Discovery window starts at ${sinceDate}; max requests: ${maxRequests}.`);
 
+  if (selectedCountries.length === 0 && !discoverOnly) {
+    console.log('No selected countries require fetching; skipping discovery.');
+    return;
+  }
+
   const discovery = await loadOrCreateDiscovery(allCountries, sinceDate, maxRequests);
   const discoveredCounts = Object.fromEntries(
     selectedCountries.map(countryCode => [
