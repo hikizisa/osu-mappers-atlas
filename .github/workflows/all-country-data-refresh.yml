@@ -117,8 +117,9 @@ jobs:
       with:
         name: country-data-shard-${{ matrix.shard }}
         path: |
-          public/data/*.json
-          data/*.json
+          public/data/mappers-*.json
+          data/fetch-state-*.json
+          data/creator-mappings-*.json
         retention-days: 3
 
   merge:
