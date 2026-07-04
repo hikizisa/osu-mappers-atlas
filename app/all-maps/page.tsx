@@ -40,6 +40,8 @@ export default function AllMapsPage() {
   const ITEMS_PER_PAGE = 50 // Load 50 items at a time
 
   useEffect(() => {
+    let isCurrent = true
+
     const fetchMappers = async () => {
       try {
         setLoading(true)
@@ -49,16 +51,22 @@ export default function AllMapsPage() {
           throw new Error(`No mapper data has been generated for ${selectedCountry.name}.`)
         }
         const data = await response.json()
+        if (!isCurrent) return
         setMappers(data.mappers || data)
       } catch (err) {
+        if (!isCurrent) return
         setMappers([])
         setError(err instanceof Error ? err.message : 'An error occurred')
       } finally {
-        setLoading(false)
+        if (isCurrent) setLoading(false)
       }
     }
 
     fetchMappers()
+
+    return () => {
+      isCurrent = false
+    }
   }, [selectedCountryCode, selectedCountry.name])
 
   const getModeIcon = (mode: string) => {

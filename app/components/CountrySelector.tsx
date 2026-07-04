@@ -41,7 +41,7 @@ export const CountrySelector: React.FC = () => {
             >
               {countries.map(country => (
                 <option key={country.code} value={country.code}>
-                  {country.name} ({country.code}){country.hasData ? ` - ${country.mapperCount || 0} mappers` : ''}
+                  {country.name} ({country.code})
                 </option>
               ))}
             </select>

@@ -42,6 +42,8 @@ export default function Home() {
   const [expandedMappers, setExpandedMappers] = useState<Set<string>>(new Set())
 
   useEffect(() => {
+    let isCurrent = true
+
     setLoading(true)
     setDataError(null)
     setMappers([])
@@ -55,6 +57,7 @@ export default function Home() {
         return res.json()
       })
       .then(data => {
+        if (!isCurrent) return
         // Process mappers using shared utility function
         const processedMappers = (data.mappers || []).map(processMapperData)
         
@@ -73,12 +76,17 @@ export default function Home() {
         setLoading(false)
       })
       .catch(err => {
+        if (!isCurrent) return
         console.error('Error loading mapper data:', err)
         setDataError(`No mapper data has been generated for ${selectedCountry.name}.`)
         setLastUpdated('')
         setTotalStats({})
         setLoading(false)
       })
+
+    return () => {
+      isCurrent = false
+    }
   }, [selectedCountryCode, selectedCountry.name])
 
   useEffect(() => {
