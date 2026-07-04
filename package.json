@@ -1,7 +1,7 @@
 {
-  "name": "korean-mappers-map",
+  "name": "osu-mappers-atlas",
   "version": "1.0.0",
-  "description": "A modern website showcasing Korean osu! mappers and their ranked beatmaps",
+  "description": "A country-aware atlas of osu! mappers and their ranked beatmaps",
   "scripts": {
     "dev": "npx next dev",
     "build": "npx next build",

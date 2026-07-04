@@ -1,4 +1,4 @@
-// Shared utility functions for the Korean Mapper's Map application
+// Shared utility functions for the osu! Mappers Atlas application
 
 export const getModeIcon = (mode: string) => {
   switch (mode) {

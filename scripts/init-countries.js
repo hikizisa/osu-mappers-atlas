@@ -19,6 +19,15 @@ function countryDisplayName(countryCode) {
   }
 }
 
+function decodeHtmlEntities(value) {
+  return String(value || '')
+    .replace(/&#0*39;/g, "'")
+    .replace(/&quot;/g, '"')
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>');
+}
+
 function readJsonIfExists(filePath, fallback) {
   if (!fsSync.existsSync(filePath)) return fallback;
   return JSON.parse(fsSync.readFileSync(filePath, 'utf8'));
@@ -59,7 +68,7 @@ function parseCountries(html) {
   while ((match = regex.exec(html)) !== null) {
     countries.push({
       code: match[1],
-      name: match[2].trim()
+      name: decodeHtmlEntities(match[2].trim())
     });
   }
 
@@ -103,12 +112,13 @@ async function main() {
 
   for (const country of osuCountries) {
     const existingCountry = existingConfig.countries?.[country.code] || {};
+    const displayName = country.name || decodeHtmlEntities(existingCountry.name) || countryDisplayName(country.code);
     countriesByCode[country.code] = {
       ...existingCountry,
       code: country.code,
-      name: country.name || existingCountry.name || countryDisplayName(country.code),
-      demonym: existingCountry.demonym || country.name || countryDisplayName(country.code),
-      nativeName: existingCountry.nativeName || country.name || countryDisplayName(country.code)
+      name: displayName,
+      demonym: decodeHtmlEntities(existingCountry.demonym) || displayName,
+      nativeName: decodeHtmlEntities(existingCountry.nativeName) || displayName
     };
   }
 

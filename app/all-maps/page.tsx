@@ -69,18 +69,6 @@ export default function AllMapsPage() {
     }
   }, [selectedCountryCode, selectedCountry.name])
 
-  const getModeIcon = (mode: string) => {
-    switch (mode) {
-      case '0': return '🔴' // osu! (filled red circle - cooler)
-      case '1': return '🥁' // Taiko
-      case '2': return '🍎' // Catch the Beat
-      case '3': return '🎹' // osu!mania
-      default: return '🔴'
-    }
-  }
-
-
-
   const formatDate = (dateString: string) => {
     return new Date(dateString).toLocaleDateString('en-US', {
       year: 'numeric',
@@ -270,11 +258,11 @@ export default function AllMapsPage() {
                 <label className="text-sm font-medium text-gray-700 dark:text-gray-300 whitespace-nowrap">{t.filterByMode}:</label>
                 <div className="flex gap-2 flex-wrap">
                   {[
-                    { mode: '0', name: 'osu!', icon: '🔴' },
-                    { mode: '1', name: 'Taiko', icon: '🥁' },
-                    { mode: '2', name: 'Catch', icon: '🍎' },
-                    { mode: '3', name: 'Mania', icon: '🎹' }
-                  ].map(({ mode, name, icon }) => (
+                    { mode: '0' },
+                    { mode: '1' },
+                    { mode: '2' },
+                    { mode: '3' }
+                  ].map(({ mode }) => (
                     <button
                       key={mode}
                       onClick={() => {
@@ -293,7 +281,7 @@ export default function AllMapsPage() {
                       }`}
                       title={getModeName(mode, language)}
                     >
-                      {icon}
+                      {getModeIcon(mode)}
                     </button>
                   ))}
                 </div>
@@ -345,10 +333,9 @@ export default function AllMapsPage() {
           </div>
 
           <div className="mt-4 text-sm text-gray-600 dark:text-gray-400">
-            {language === 'ko' 
-              ? `${displayedBeatmapsets.length}/${allFilteredBeatmapsets.length}개의 비트맵셋 표시 중` 
-              : `Showing ${displayedBeatmapsets.length} of ${allFilteredBeatmapsets.length} beatmapsets`
-            }
+            {language === 'ko'
+              ? `${displayedBeatmapsets.length}/${allFilteredBeatmapsets.length}개의 비트맵셋 표시 중`
+              : `Showing ${displayedBeatmapsets.length} of ${allFilteredBeatmapsets.length} beatmapsets`}
           </div>
         </div>
 

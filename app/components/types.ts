@@ -1,4 +1,4 @@
-// Shared type definitions for the Korean Mapper's Map application
+// Shared type definitions for the osu! Mappers Atlas application
 
 export interface Beatmap {
   beatmap_id: string

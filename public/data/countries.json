@@ -1,6 +1,6 @@
 {
   "defaultCountry": "KR",
-  "generatedAt": "2026-07-04T17:44:19.491Z",
+  "generatedAt": "2026-07-04T18:28:23.879Z",
   "source": "https://osu.ppy.sh/rankings/osu/country",
   "countries": [
     {
@@ -455,9 +455,9 @@
     },
     {
       "code": "CI",
-      "name": "Cote D&#039;Ivoire",
-      "demonym": "Cote D&#039;Ivoire",
-      "nativeName": "Cote D&#039;Ivoire",
+      "name": "Cote D'Ivoire",
+      "demonym": "Cote D'Ivoire",
+      "nativeName": "Cote D'Ivoire",
       "hasData": false,
       "mapperCount": 0,
       "lastUpdated": null
@@ -509,9 +509,9 @@
     },
     {
       "code": "KP",
-      "name": "Democratic People&#039;s Republic of Korea",
-      "demonym": "Democratic People&#039;s Republic of Korea",
-      "nativeName": "Democratic People&#039;s Republic of Korea",
+      "name": "Democratic People's Republic of Korea",
+      "demonym": "Democratic People's Republic of Korea",
+      "nativeName": "Democratic People's Republic of Korea",
       "hasData": false,
       "mapperCount": 0,
       "lastUpdated": null
@@ -1058,9 +1058,9 @@
     },
     {
       "code": "LA",
-      "name": "Lao People&#039;s Democratic Republic",
-      "demonym": "Lao People&#039;s Democratic Republic",
-      "nativeName": "Lao People&#039;s Democratic Republic",
+      "name": "Lao People's Democratic Republic",
+      "demonym": "Lao People's Democratic Republic",
+      "nativeName": "Lao People's Democratic Republic",
       "hasData": false,
       "mapperCount": 0,
       "lastUpdated": null
