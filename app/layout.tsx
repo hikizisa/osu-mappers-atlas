@@ -1,11 +1,12 @@
 import type { Metadata } from 'next'
 import './globals.css'
 import { LanguageProvider } from './components/LanguageContext'
+import { CountryProvider } from './components/CountryContext'
 
 export const metadata: Metadata = {
-  title: 'Korean Mappers Map | 한국인의 비트맵',
-  description: 'Discover Korean osu! mappers and their ranked beatmaps',
-  keywords: 'osu, korean mappers, beatmaps, 한국인 매퍼, 비트맵',
+  title: 'osu! Mappers Atlas',
+  description: 'Discover osu! mappers and ranked beatmaps by country',
+  keywords: 'osu, mappers, beatmaps, country, ranked beatmaps',
 }
 
 export default function RootLayout({
@@ -17,7 +18,9 @@ export default function RootLayout({
     <html lang="ko">
       <body className="font-korean bg-gradient-to-br from-slate-50 to-slate-100 dark:from-gray-900 dark:to-gray-800 min-h-screen">
         <LanguageProvider>
-          {children}
+          <CountryProvider>
+            {children}
+          </CountryProvider>
         </LanguageProvider>
       </body>
     </html>

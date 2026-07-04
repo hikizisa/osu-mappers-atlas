@@ -15,15 +15,19 @@ import { LanguageToggle } from './components/LanguageToggle'
 import { FloatingDisplayToggle } from './components/FloatingDisplayToggle'
 import { AnimatedList } from './components/AnimatedList'
 import { getModeName } from './components/i18n'
+import { useCountry } from './components/CountryContext'
+import { CountrySelector } from './components/CountrySelector'
 
 // Interfaces moved to shared components/types.ts
 
 export default function Home() {
   const { language, t } = useLanguage()
+  const { selectedCountry, selectedCountryCode } = useCountry()
   const [mappers, setMappers] = useState<Mapper[]>([])
   const [filteredMappers, setFilteredMappers] = useState<Mapper[]>([])
   const [searchTerm, setSearchTerm] = useState('')
   const [loading, setLoading] = useState(true)
+  const [dataError, setDataError] = useState<string | null>(null)
   const [lastUpdated, setLastUpdated] = useState<string>('')
   const [totalStats, setTotalStats] = useState<any>({})
   const [selectedModes, setSelectedModes] = useState<Set<string>>(new Set(['0', '1', '2', '3']))
@@ -38,12 +42,21 @@ export default function Home() {
   const [expandedMappers, setExpandedMappers] = useState<Set<string>>(new Set())
 
   useEffect(() => {
-    // Load mapper data from JSON file
-    fetchData('data/mappers.json')
-      .then(res => res.json())
+    setLoading(true)
+    setDataError(null)
+    setMappers([])
+    setFilteredMappers([])
+
+    fetchData(`data/mappers-${selectedCountryCode.toLowerCase()}.json`)
+      .then(res => {
+        if (!res.ok) {
+          throw new Error(`No mapper data found for ${selectedCountryCode}`)
+        }
+        return res.json()
+      })
       .then(data => {
         // Process mappers using shared utility function
-        const processedMappers = data.mappers.map(processMapperData)
+        const processedMappers = (data.mappers || []).map(processMapperData)
         
         setMappers(processedMappers)
         setFilteredMappers(processedMappers)
@@ -61,9 +74,12 @@ export default function Home() {
       })
       .catch(err => {
         console.error('Error loading mapper data:', err)
+        setDataError(`No mapper data has been generated for ${selectedCountry.name}.`)
+        setLastUpdated('')
+        setTotalStats({})
         setLoading(false)
       })
-  }, [])
+  }, [selectedCountryCode, selectedCountry.name])
 
   useEffect(() => {
     // Filter mappers using shared utility
@@ -100,7 +116,7 @@ export default function Home() {
       <div className="min-h-screen flex items-center justify-center">
         <div className="text-center">
           <div className="animate-spin rounded-full h-32 w-32 border-b-2 border-osu-pink mx-auto mb-4"></div>
-          <p className="text-xl text-gray-600">Loading Korean mappers...</p>
+          <p className="text-xl text-gray-600">Loading {selectedCountry.name} mappers...</p>
         </div>
       </div>
     )
@@ -114,16 +130,19 @@ export default function Home() {
           <div className="flex justify-end mb-4">
             <LanguageToggle />
           </div>
-          <div className="text-center mb-12">
+          <div className="text-center mb-8">
             <div className="flex items-center justify-center gap-3 mb-4">
               <Github className="h-8 w-8 text-osu-pink" />
               <h1 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-osu-pink via-osu-purple to-osu-blue bg-clip-text text-transparent">
-                {t.title}
+                osu! Mappers Atlas
               </h1>
             </div>
             <p className="text-xl text-gray-600 dark:text-gray-400 mb-8">
-              {t.subtitle}
+              Discover ranked and loved beatmaps from {selectedCountry.name} mappers.
             </p>
+            <div className="mb-8 flex justify-center">
+              <CountrySelector />
+            </div>
             <div className="flex justify-center gap-4 mb-8">
               <Link
                 href="/all-maps"
@@ -134,7 +153,7 @@ export default function Home() {
               </Link>
             </div>
             <p className="text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
-              {t.description}
+              Switch countries to browse every osu! country recognized by the current country rankings.
             </p>
             {lastUpdated && (
               <p className="text-sm text-gray-500 mt-2">
@@ -165,7 +184,7 @@ export default function Home() {
             <h3 className="text-xl font-bold text-gray-800 dark:text-white">
               {calculateFilteredStats(filteredMappers, selectedModes, totalStats).mapperCount}
             </h3>
-            <p className="text-sm text-gray-600 dark:text-gray-400">{language === 'ko' ? '한국 매퍼' : 'Korean Mappers'}</p>
+            <p className="text-sm text-gray-600 dark:text-gray-400">{selectedCountry.name} Mappers</p>
           </div>
           <div className="bg-white dark:bg-gray-800 rounded-lg p-4 shadow-lg text-center">
             <Trophy className="h-6 w-6 text-osu-blue mx-auto mb-2" />
@@ -335,7 +354,16 @@ export default function Home() {
           )}
         />
 
-        {filteredMappers.length === 0 && !loading && (
+        {dataError && !loading && (
+          <div className="rounded-lg border border-amber-200 bg-amber-50 p-6 text-center shadow-sm dark:border-amber-700 dark:bg-amber-900/30">
+            <p className="text-lg font-semibold text-amber-950 dark:text-amber-50">{dataError}</p>
+            <p className="mt-2 text-sm text-amber-900 dark:text-amber-100">
+              Run <code className="font-semibold">npm run fetch-data -- --country={selectedCountryCode}</code>, then <code className="font-semibold">npm run init-countries</code>.
+            </p>
+          </div>
+        )}
+
+        {filteredMappers.length === 0 && !loading && !dataError && (
           <div className="text-center py-12">
             <p className="text-xl text-gray-600 dark:text-gray-400">
               {t.noMappersFound}

@@ -6,6 +6,11 @@ on:
     - cron: '0 3 1 * *'
   workflow_dispatch:
     inputs:
+      country_code:
+        description: 'osu! country code to refresh'
+        required: false
+        default: 'KR'
+        type: string
       force_refresh:
         description: 'Force refresh all mapper data'
         required: false
@@ -43,10 +48,13 @@ jobs:
       env:
         OSU_API_KEY: ${{ secrets.OSU_API_KEY }}
         FORCE_REFRESH: ${{ github.event.inputs.force_refresh || 'true' }}
+        MAPPER_COUNTRY: ${{ github.event.inputs.country_code || 'KR' }}
       run: |
         echo "🔄 Starting monthly FULL data refresh..."
         echo "This will update ALL mapper data including play counts, star ratings, etc."
-        node scripts/fetch-mappers.js
+        npm run init-countries
+        npm run fetch-data
+        npm run init-countries
         
     - name: Check for changes
       id: verify-changed-files
@@ -64,8 +72,8 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add public/data/mappers.json
-        git add data/fetch-state.json
+        git add public/data/*.json
+        git add data/*.json
         git commit -m "🔄 Monthly FULL refresh: Complete data update
 
         - Updated star ratings and difficulty information

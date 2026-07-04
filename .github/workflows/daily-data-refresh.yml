@@ -6,6 +6,11 @@ on:
     - cron: '0 2 * * *'
   workflow_dispatch:
     inputs:
+      country_code:
+        description: 'osu! country code to refresh'
+        required: false
+        default: 'KR'
+        type: string
       debug:
         description: 'Enable debug logging'
         required: false
@@ -43,10 +48,13 @@ jobs:
       env:
         OSU_API_KEY: ${{ secrets.OSU_API_KEY }}
         FORCE_REFRESH: 'false'
+        MAPPER_COUNTRY: ${{ github.event.inputs.country_code || 'KR' }}
       run: |
         echo "🔄 Starting daily incremental data refresh..."
         echo "This will fetch only new beatmaps since last update"
-        node scripts/fetch-mappers.js
+        npm run init-countries
+        npm run fetch-data
+        npm run init-countries
         
     - name: Check for changes
       id: verify-changed-files
@@ -64,8 +72,8 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add public/data/mappers.json
-        git add data/fetch-state.json
+        git add public/data/*.json
+        git add data/*.json
         git commit -m "🆕 Daily update: New beatmaps detected
         
         - Added newly ranked/loved beatmaps

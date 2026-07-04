@@ -1,4 +1,5 @@
 const axios = require('axios');
+const fsSync = require('fs');
 const fs = require('fs').promises;
 const path = require('path');
 
@@ -9,26 +10,105 @@ require('dotenv').config();
 const OSU_API_KEY = process.env.OSU_API_KEY;
 const BASE_URL = 'https://osu.ppy.sh/api';
 const OUTPUT_DIR = path.join(__dirname, '..', 'public', 'data');
-const OUTPUT_FILE = path.join(OUTPUT_DIR, 'mappers.json');
-const STATE_FILE = path.join(__dirname, '..', 'data', 'fetch-state.json');
-const CREATOR_MAPPING_FILE = path.join(__dirname, '..', 'data', 'creator-mappings.json');
+const DATA_DIR = path.join(__dirname, '..', 'data');
+const COUNTRY_CONFIG_FILE = path.join(DATA_DIR, 'countries.json');
+
+function getCliCountryCode() {
+    const countryArg = process.argv.find(arg => arg.startsWith('--country='));
+    if (countryArg) {
+        return countryArg.split('=')[1];
+    }
+
+    const countryIndex = process.argv.findIndex(arg => arg === '--country');
+    if (countryIndex !== -1) {
+        return process.argv[countryIndex + 1];
+    }
+
+    return null;
+}
+
+const ACTIVE_COUNTRY_CODE = (
+    getCliCountryCode() ||
+    process.env.MAPPER_COUNTRY ||
+    process.env.TARGET_COUNTRY_CODE ||
+    process.env.COUNTRY_CODE ||
+    'KR'
+).trim().toUpperCase();
+const OUTPUT_FILE = path.join(OUTPUT_DIR, `mappers-${ACTIVE_COUNTRY_CODE.toLowerCase()}.json`);
+const COMPAT_OUTPUT_FILE = path.join(OUTPUT_DIR, 'mappers.json');
+const STATE_FILE = path.join(DATA_DIR, `fetch-state-${ACTIVE_COUNTRY_CODE.toLowerCase()}.json`);
+const LEGACY_STATE_FILE = path.join(DATA_DIR, 'fetch-state.json');
+const CREATOR_MAPPING_FILE = path.join(DATA_DIR, `creator-mappings-${ACTIVE_COUNTRY_CODE.toLowerCase()}.json`);
+const LEGACY_CREATOR_MAPPING_FILE = path.join(DATA_DIR, 'creator-mappings.json');
 
 // API Configuration
 const MAX_BEATMAPS_PER_REQUEST = 500; // osu! API limit
 const RATE_LIMIT_DELAY = 100; // ms between requests
 const MAX_RETRIES = 3;
 
-// Manual list of additional Korean mapper user IDs to include
-const MANUAL_MAPPER_IDS = [
+// Default KR seed list kept for backward compatibility. Add new countries in data/countries.json.
+const DEFAULT_KR_MANUAL_MAPPER_IDS = [
     16368505, 11602148, 13543418, 16142512, 4115819, 533502, 224280, 11171976, 11185275, 165027, 3011818, 8058206, 2688581, 9262355, 9892196, 9823042, 9326064, 9555243, 1974436, 4904557, 4643294, 566276, 8001433, 1943309, 5413027, 1997633, 3846265, 11103764, 4005683, 8946550, 2489741, 7495614, 113646, 707980, 1742622, 917786, 1545563, 87546, 2036217, 3626063, 246186, 261694, 43468, 250808, 1629059, 2121032, 5591315, 2490770, 739813, 685079, 531253, 197876, 4746949, 1634445, 1966909, 2046893, 717228, 4694602, 626873, 3789302, 2043401, 3896865, 3984370, 538604, 670365, 873758, 3720242, 412787, 1945351, 798743, 70863, 1895984, 6974536, 259972, 759439, 3360737, 120919, 1893883, 1204034, 2859670, 1596078, 4647754, 596298, 257977, 747356, 1029022, 1574070, 1458069, 114017, 899031, 1380419, 5062061, 2162939, 1686145, 194807, 1632431, 1142651, 156215, 2393914, 353453, 9207, 3044645, 101399, 87065, 2786984, 6186628, 832084, 4991434, 5379679, 6465707, 501, 887358, 111011, 865132, 3087654, 232942, 2353313, 1357150, 317802, 323677, 3869951, 11771, 702598, 389236, 2782104, 70730, 297086, 1891192, 1399551, 2732340, 1142692, 157400, 3627182, 1533796, 5456561, 549766, 685229, 117022, 937761, 7898495, 3021168, 1530308, 757783, 4129020, 6336713, 6522146, 980092, 2193723, 3642440, 7515767, 1393255, 4485933, 2193444, 4118962, 7342798, 6673830, 4637369, 3261991, 659959, 13340203, 9014584, 6363008, 697649, 11443437, 2218047, 13924533, 2288943, 14892190, 16368505
 ];
 
-// List of user IDs to ignore (known foreigners with KR flag)
-const IGNORE_MAPPER_IDS = [
-    // Add user IDs here of mappers who have KR flag but are not actually Korean
-    // Example: 123456, 789012
+// Default KR ignore list kept for backward compatibility. Add new countries in data/countries.json.
+const DEFAULT_KR_IGNORE_MAPPER_IDS = [
     12469536, 2139130
 ];
+
+function countryDisplayName(countryCode) {
+    try {
+        return new Intl.DisplayNames(['en'], { type: 'region' }).of(countryCode) || countryCode;
+    } catch (error) {
+        return countryCode;
+    }
+}
+
+function normalizeIdList(ids) {
+    if (!Array.isArray(ids)) return [];
+    return Array.from(new Set(
+        ids
+            .map(id => parseInt(id, 10))
+            .filter(Number.isFinite)
+    ));
+}
+
+function loadCountrySettings() {
+    let config = {};
+    if (fsSync.existsSync(COUNTRY_CONFIG_FILE)) {
+        config = JSON.parse(fsSync.readFileSync(COUNTRY_CONFIG_FILE, 'utf8'));
+    }
+
+    const configuredCountries = config.countries || {};
+    const configured = configuredCountries[ACTIVE_COUNTRY_CODE] || {};
+    const defaultForKr = ACTIVE_COUNTRY_CODE === 'KR'
+        ? {
+            name: 'South Korea',
+            demonym: 'Korean',
+            nativeName: '한국',
+            manualMapperIds: DEFAULT_KR_MANUAL_MAPPER_IDS,
+            ignoreMapperIds: DEFAULT_KR_IGNORE_MAPPER_IDS
+        }
+        : {};
+
+    const name = process.env.TARGET_COUNTRY_NAME || configured.name || defaultForKr.name || countryDisplayName(ACTIVE_COUNTRY_CODE);
+    const demonym = process.env.TARGET_COUNTRY_DEMONYM || configured.demonym || defaultForKr.demonym || name;
+    const nativeName = process.env.TARGET_COUNTRY_NATIVE_NAME || configured.nativeName || defaultForKr.nativeName || name;
+
+    return {
+        code: ACTIVE_COUNTRY_CODE,
+        name,
+        demonym,
+        nativeName,
+        manualMapperIds: normalizeIdList(configured.manualMapperIds || defaultForKr.manualMapperIds),
+        ignoreMapperIds: normalizeIdList(configured.ignoreMapperIds || defaultForKr.ignoreMapperIds),
+        fetchStartDate: process.env.FETCH_START_DATE || configured.fetchStartDate || config.defaultFetchStartDate || '2020-01-01'
+    };
+}
+
+const COUNTRY_SETTINGS = loadCountrySettings();
+const MANUAL_MAPPER_IDS = COUNTRY_SETTINGS.manualMapperIds;
+const IGNORE_MAPPER_IDS = COUNTRY_SETTINGS.ignoreMapperIds;
 
 // Helper function to make API requests with retry logic
 async function makeApiRequest(url, params = {}, retries = MAX_RETRIES) {
@@ -56,6 +136,14 @@ async function loadFetchState() {
         const stateData = await fs.readFile(STATE_FILE, 'utf8');
         return JSON.parse(stateData);
     } catch (error) {
+        if (COUNTRY_SETTINGS.code === 'KR') {
+            try {
+                const legacyStateData = await fs.readFile(LEGACY_STATE_FILE, 'utf8');
+                return JSON.parse(legacyStateData);
+            } catch (legacyError) {
+                // Return default state below.
+            }
+        }
         // Return default state if file doesn't exist
         return {
             lastChecked: null,
@@ -68,7 +156,11 @@ async function loadFetchState() {
 
 // Save fetch state
 async function saveFetchState(state) {
+    await fs.mkdir(path.dirname(STATE_FILE), { recursive: true });
     await fs.writeFile(STATE_FILE, JSON.stringify(state, null, 2));
+    if (COUNTRY_SETTINGS.code === 'KR') {
+        await fs.writeFile(LEGACY_STATE_FILE, JSON.stringify(state, null, 2));
+    }
 }
 
 // Load creator name mappings (creator_name -> user_id)
@@ -77,6 +169,14 @@ async function loadCreatorMappings() {
         const data = await fs.readFile(CREATOR_MAPPING_FILE, 'utf8');
         return JSON.parse(data);
     } catch (error) {
+        if (COUNTRY_SETTINGS.code === 'KR') {
+            try {
+                const legacyData = await fs.readFile(LEGACY_CREATOR_MAPPING_FILE, 'utf8');
+                return JSON.parse(legacyData);
+            } catch (legacyError) {
+                // Return empty mapping below.
+            }
+        }
         // Return empty mapping if file doesn't exist
         return {};
     }
@@ -87,6 +187,9 @@ async function saveCreatorMappings(mappings) {
     // Ensure data directory exists
     await fs.mkdir(path.dirname(CREATOR_MAPPING_FILE), { recursive: true });
     await fs.writeFile(CREATOR_MAPPING_FILE, JSON.stringify(mappings, null, 2));
+    if (COUNTRY_SETTINGS.code === 'KR') {
+        await fs.writeFile(LEGACY_CREATOR_MAPPING_FILE, JSON.stringify(mappings, null, 2));
+    }
 }
 
 // Load existing mapper data
@@ -95,6 +198,14 @@ async function loadExistingData() {
         const data = await fs.readFile(OUTPUT_FILE, 'utf8');
         return JSON.parse(data);
     } catch (error) {
+        if (COUNTRY_SETTINGS.code === 'KR') {
+            try {
+                const legacyData = await fs.readFile(COMPAT_OUTPUT_FILE, 'utf8');
+                return JSON.parse(legacyData);
+            } catch (legacyError) {
+                // Return empty data below.
+            }
+        }
         return {
             lastUpdated: new Date().toISOString(),
             totalMappers: 0,
@@ -250,22 +361,22 @@ async function fetchAllBeatmapsForUser(userId, sinceDate = null) {
     return beatmaps;
 }
 
-// Discover Korean mappers by fetching ranked beatmaps over a period and checking mapper countries
-async function fetchKoreanMappersFromAPI(isFullScan = false) {
-    const koreanMappers = new Set();
+// Discover mappers by fetching ranked beatmaps over a period and checking mapper countries.
+async function fetchCountryMappersFromAPI(isFullScan = false) {
+    const countryMappers = new Set();
     const checkedUsers = new Set();
     
-    console.log('Discovering Korean mappers from ranked beatmaps...');
+    console.log(`Discovering ${COUNTRY_SETTINGS.name} mappers from ranked beatmaps...`);
     
     // Determine date range based on scan type:
-    // - Full scan (monthly): Check from 2020-01-01 to catch all Korean mappers
+    // - Full scan (monthly): Check from the configured start date to catch all mappers
     // - Incremental scan (daily): Check from a week ago to catch recent activity
     let sinceDate;
     let maxRequests;
     
     if (isFullScan) {
-        // Monthly reset: Check from 2020-01-01 to be comprehensive
-        sinceDate = '2020-01-01';
+        // Monthly reset: Check from the configured start date to be comprehensive
+        sinceDate = COUNTRY_SETTINGS.fetchStartDate;
         maxRequests = 200; // More requests for comprehensive scan
         console.log('🔄 Full scan mode: Checking beatmaps since 2020-01-01 for comprehensive Korean mapper discovery');
     } else {
@@ -296,7 +407,7 @@ async function fetchKoreanMappersFromAPI(isFullScan = false) {
                 break;
             }
             
-            console.log(`Checking ${beatmaps.length} recent beatmaps for Korean mappers...`);
+            console.log(`Checking ${beatmaps.length} recent beatmaps for ${COUNTRY_SETTINGS.name} mappers...`);
             
             // Check each unique creator
             for (const beatmap of beatmaps) {
@@ -315,9 +426,9 @@ async function fetchKoreanMappersFromAPI(isFullScan = false) {
                         
                         if (userData && userData.length > 0) {
                             const user = userData[0];
-                            if (user.country === 'KR') {
-                                koreanMappers.add(creatorId);
-                                console.log(`Found Korean mapper: ${user.username} (${creatorId})`);
+                            if (user.country === COUNTRY_SETTINGS.code) {
+                                countryMappers.add(creatorId);
+                                console.log(`Found ${COUNTRY_SETTINGS.name} mapper: ${user.username} (${creatorId})`);
                             }
                         }
                         
@@ -339,19 +450,19 @@ async function fetchKoreanMappersFromAPI(isFullScan = false) {
         }
         
     } catch (error) {
-        console.error('Error discovering Korean mappers:', error.message);
+        console.error(`Error discovering ${COUNTRY_SETTINGS.name} mappers:`, error.message);
     }
     
-    console.log(`Discovered ${koreanMappers.size} Korean mappers from recent beatmaps`);
-    return Array.from(koreanMappers);
+    console.log(`Discovered ${countryMappers.size} ${COUNTRY_SETTINGS.name} mappers from recent beatmaps`);
+    return Array.from(countryMappers);
 }
 
-async function fetchKoreanMappers() {
+async function fetchCountryMappers() {
     if (!OSU_API_KEY) {
         throw new Error('OSU_API_KEY environment variable is required');
     }
 
-    console.log('Starting Korean mappers fetch with incremental updates...');
+    console.log(`Starting ${COUNTRY_SETTINGS.name} mappers fetch with incremental updates...`);
     
     // Load previous fetch state, existing data, and creator mappings
     const fetchState = await loadFetchState();
@@ -401,8 +512,8 @@ async function fetchKoreanMappers() {
     const isFullScan = forceRefresh || !fetchState.lastFullScan || 
         (Date.now() - new Date(fetchState.lastFullScan).getTime()) > 7 * 24 * 60 * 60 * 1000; // Weekly full scan
     
-    // Force start date for data collection (set to 2020-01-01)
-    const FORCE_START_DATE = '2020-01-01';
+    // Force start date for data collection
+    const FORCE_START_DATE = COUNTRY_SETTINGS.fetchStartDate;
     console.log(`Forcing data collection from ${FORCE_START_DATE}...`);
     
     console.log(`Running ${isFullScan ? 'FULL' : 'INCREMENTAL'} scan${forceRefresh ? ' (FORCE REFRESH REQUESTED)' : ''}`);
@@ -496,7 +607,7 @@ async function fetchKoreanMappers() {
                             user = {
                                 user_id: userId,
                                 username: mostRecentBeatmap.creator,
-                                country: 'KR', // Assume Korean since in manual list
+                                country: COUNTRY_SETTINGS.code, // Assume selected country since in manual list
                                 join_date: null,
                                 playcount: 0,
                                 pp_rank: null
@@ -526,9 +637,9 @@ async function fetchKoreanMappers() {
                 return;
             }
             
-            // Check if user is Korean or in manual list (skip country check for beatmap fallback)
-            if (!userFromBeatmaps && user.country !== 'KR' && !MANUAL_MAPPER_IDS.includes(parseInt(userId))) {
-                console.log(`User ${user.username} is not Korean (${user.country}), skipping`);
+            // Check if user is from the selected country or in manual list (skip country check for beatmap fallback)
+            if (!userFromBeatmaps && user.country !== COUNTRY_SETTINGS.code && !MANUAL_MAPPER_IDS.includes(parseInt(userId))) {
+                console.log(`User ${user.username} is not from ${COUNTRY_SETTINGS.name} (${user.country}), skipping`);
                 return;
             }
             
@@ -646,29 +757,29 @@ async function fetchKoreanMappers() {
         await processUser(userId.toString());
     }
 
-    // If it's a full scan, also fetch Korean mappers from API
+    // If it's a full scan, also fetch selected-country mappers from API
     if (isFullScan) {
         try {
-            const apiKoreanMappers = await fetchKoreanMappersFromAPI(true); // Pass true for full scan
-            console.log(`Processing ${apiKoreanMappers.length} Korean mappers from API...`);
+            const apiCountryMappers = await fetchCountryMappersFromAPI(true); // Pass true for full scan
+            console.log(`Processing ${apiCountryMappers.length} ${COUNTRY_SETTINGS.name} mappers from API...`);
             
-            for (const userId of apiKoreanMappers) {
+            for (const userId of apiCountryMappers) {
                 await processUser(userId.toString());
             }
         } catch (error) {
-            console.error('Error fetching Korean mappers from API:', error.message);
+            console.error(`Error fetching ${COUNTRY_SETTINGS.name} mappers from API:`, error.message);
         }
     } else {
-        // For daily updates, still check for new Korean mappers but with limited scope
+        // For daily updates, still check for new selected-country mappers but with limited scope
         try {
-            const apiKoreanMappers = await fetchKoreanMappersFromAPI(false); // Pass false for incremental scan
-            console.log(`Processing ${apiKoreanMappers.length} Korean mappers from recent activity...`);
+            const apiCountryMappers = await fetchCountryMappersFromAPI(false); // Pass false for incremental scan
+            console.log(`Processing ${apiCountryMappers.length} ${COUNTRY_SETTINGS.name} mappers from recent activity...`);
             
-            for (const userId of apiKoreanMappers) {
+            for (const userId of apiCountryMappers) {
                 await processUser(userId.toString());
             }
         } catch (error) {
-            console.error('Error fetching Korean mappers from API:', error.message);
+            console.error(`Error fetching ${COUNTRY_SETTINGS.name} mappers from API:`, error.message);
         }
     }
 
@@ -699,6 +810,12 @@ async function fetchKoreanMappers() {
 
     // Prepare output data
     const outputData = {
+        country: {
+            code: COUNTRY_SETTINGS.code,
+            name: COUNTRY_SETTINGS.name,
+            demonym: COUNTRY_SETTINGS.demonym,
+            nativeName: COUNTRY_SETTINGS.nativeName
+        },
         lastUpdated: currentTime,
         totalMappers: mappersArray.length,
         totalBeatmaps: fetchState.totalBeatmaps,
@@ -716,6 +833,9 @@ async function fetchKoreanMappers() {
 
     // Write the data to file
     await fs.writeFile(OUTPUT_FILE, JSON.stringify(outputData, null, 2));
+    if (COUNTRY_SETTINGS.code === 'KR') {
+        await fs.writeFile(COMPAT_OUTPUT_FILE, JSON.stringify(outputData, null, 2));
+    }
 
     console.log(`\n✅ Fetch completed successfully!`);
     console.log(`📊 Total mappers: ${outputData.totalMappers}`);
@@ -733,15 +853,18 @@ async function fetchKoreanMappers() {
 
 // Main execution
 if (require.main === module) {
-    fetchKoreanMappers()
+    fetchCountryMappers()
         .then(() => {
-            console.log('Korean mappers data fetch completed successfully!');
+            console.log(`${COUNTRY_SETTINGS.name} mappers data fetch completed successfully!`);
             process.exit(0);
         })
         .catch(error => {
-            console.error('Error fetching Korean mappers:', error);
+            console.error(`Error fetching ${COUNTRY_SETTINGS.name} mappers:`, error);
             process.exit(1);
         });
 }
 
-module.exports = { fetchKoreanMappers };
+module.exports = {
+    fetchCountryMappers,
+    fetchKoreanMappers: fetchCountryMappers
+};

@@ -1,0 +1,2140 @@
+{
+  "defaultCountry": "KR",
+  "generatedAt": "2026-07-04T17:44:19.491Z",
+  "source": "https://osu.ppy.sh/rankings/osu/country",
+  "countries": [
+    {
+      "code": "AF",
+      "name": "Afghanistan",
+      "demonym": "Afghanistan",
+      "nativeName": "Afghanistan",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "AX",
+      "name": "Aland Islands",
+      "demonym": "Aland Islands",
+      "nativeName": "Aland Islands",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "AL",
+      "name": "Albania",
+      "demonym": "Albania",
+      "nativeName": "Albania",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "DZ",
+      "name": "Algeria",
+      "demonym": "Algeria",
+      "nativeName": "Algeria",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "AS",
+      "name": "American Samoa",
+      "demonym": "American Samoa",
+      "nativeName": "American Samoa",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "AD",
+      "name": "Andorra",
+      "demonym": "Andorra",
+      "nativeName": "Andorra",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "AO",
+      "name": "Angola",
+      "demonym": "Angola",
+      "nativeName": "Angola",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "AI",
+      "name": "Anguilla",
+      "demonym": "Anguilla",
+      "nativeName": "Anguilla",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "AQ",
+      "name": "Antarctica",
+      "demonym": "Antarctica",
+      "nativeName": "Antarctica",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "AG",
+      "name": "Antigua and Barbuda",
+      "demonym": "Antigua and Barbuda",
+      "nativeName": "Antigua and Barbuda",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "AR",
+      "name": "Argentina",
+      "demonym": "Argentina",
+      "nativeName": "Argentina",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "AM",
+      "name": "Armenia",
+      "demonym": "Armenia",
+      "nativeName": "Armenia",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "AW",
+      "name": "Aruba",
+      "demonym": "Aruba",
+      "nativeName": "Aruba",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "AP",
+      "name": "Asia/Pacific Region",
+      "demonym": "Asia/Pacific Region",
+      "nativeName": "Asia/Pacific Region",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "AU",
+      "name": "Australia",
+      "demonym": "Australia",
+      "nativeName": "Australia",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "AT",
+      "name": "Austria",
+      "demonym": "Austria",
+      "nativeName": "Austria",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "AZ",
+      "name": "Azerbaijan",
+      "demonym": "Azerbaijan",
+      "nativeName": "Azerbaijan",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "BS",
+      "name": "Bahamas",
+      "demonym": "Bahamas",
+      "nativeName": "Bahamas",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "BH",
+      "name": "Bahrain",
+      "demonym": "Bahrain",
+      "nativeName": "Bahrain",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "BD",
+      "name": "Bangladesh",
+      "demonym": "Bangladesh",
+      "nativeName": "Bangladesh",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "BB",
+      "name": "Barbados",
+      "demonym": "Barbados",
+      "nativeName": "Barbados",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "BY",
+      "name": "Belarus",
+      "demonym": "Belarus",
+      "nativeName": "Belarus",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "BE",
+      "name": "Belgium",
+      "demonym": "Belgium",
+      "nativeName": "Belgium",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "BZ",
+      "name": "Belize",
+      "demonym": "Belize",
+      "nativeName": "Belize",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "BJ",
+      "name": "Benin",
+      "demonym": "Benin",
+      "nativeName": "Benin",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "BM",
+      "name": "Bermuda",
+      "demonym": "Bermuda",
+      "nativeName": "Bermuda",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "BT",
+      "name": "Bhutan",
+      "demonym": "Bhutan",
+      "nativeName": "Bhutan",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "BO",
+      "name": "Bolivia",
+      "demonym": "Bolivia",
+      "nativeName": "Bolivia",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "BA",
+      "name": "Bosnia and Herzegovina",
+      "demonym": "Bosnia and Herzegovina",
+      "nativeName": "Bosnia and Herzegovina",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "BW",
+      "name": "Botswana",
+      "demonym": "Botswana",
+      "nativeName": "Botswana",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "BR",
+      "name": "Brazil",
+      "demonym": "Brazil",
+      "nativeName": "Brazil",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "BN",
+      "name": "Brunei",
+      "demonym": "Brunei",
+      "nativeName": "Brunei",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "BG",
+      "name": "Bulgaria",
+      "demonym": "Bulgaria",
+      "nativeName": "Bulgaria",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "BF",
+      "name": "Burkina Faso",
+      "demonym": "Burkina Faso",
+      "nativeName": "Burkina Faso",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "BI",
+      "name": "Burundi",
+      "demonym": "Burundi",
+      "nativeName": "Burundi",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "CV",
+      "name": "Cabo Verde",
+      "demonym": "Cabo Verde",
+      "nativeName": "Cabo Verde",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "KH",
+      "name": "Cambodia",
+      "demonym": "Cambodia",
+      "nativeName": "Cambodia",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "CM",
+      "name": "Cameroon",
+      "demonym": "Cameroon",
+      "nativeName": "Cameroon",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "CA",
+      "name": "Canada",
+      "demonym": "Canada",
+      "nativeName": "Canada",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "BQ",
+      "name": "Caribbean Netherlands",
+      "demonym": "Caribbean Netherlands",
+      "nativeName": "Caribbean Netherlands",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "KY",
+      "name": "Cayman Islands",
+      "demonym": "Cayman Islands",
+      "nativeName": "Cayman Islands",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "TD",
+      "name": "Chad",
+      "demonym": "Chad",
+      "nativeName": "Chad",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "CL",
+      "name": "Chile",
+      "demonym": "Chile",
+      "nativeName": "Chile",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "CN",
+      "name": "China",
+      "demonym": "China",
+      "nativeName": "China",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "CX",
+      "name": "Christmas Island",
+      "demonym": "Christmas Island",
+      "nativeName": "Christmas Island",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "demonym": "Colombia",
+      "nativeName": "Colombia",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "KM",
+      "name": "Comoros",
+      "demonym": "Comoros",
+      "nativeName": "Comoros",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "CG",
+      "name": "Congo",
+      "demonym": "Congo",
+      "nativeName": "Congo",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "CK",
+      "name": "Cook Islands",
+      "demonym": "Cook Islands",
+      "nativeName": "Cook Islands",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "CR",
+      "name": "Costa Rica",
+      "demonym": "Costa Rica",
+      "nativeName": "Costa Rica",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "CI",
+      "name": "Cote D&#039;Ivoire",
+      "demonym": "Cote D&#039;Ivoire",
+      "nativeName": "Cote D&#039;Ivoire",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "HR",
+      "name": "Croatia",
+      "demonym": "Croatia",
+      "nativeName": "Croatia",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "CU",
+      "name": "Cuba",
+      "demonym": "Cuba",
+      "nativeName": "Cuba",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "CW",
+      "name": "Curaçao",
+      "demonym": "Curaçao",
+      "nativeName": "Curaçao",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "CY",
+      "name": "Cyprus",
+      "demonym": "Cyprus",
+      "nativeName": "Cyprus",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "CZ",
+      "name": "Czechia",
+      "demonym": "Czechia",
+      "nativeName": "Czechia",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "KP",
+      "name": "Democratic People&#039;s Republic of Korea",
+      "demonym": "Democratic People&#039;s Republic of Korea",
+      "nativeName": "Democratic People&#039;s Republic of Korea",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "DK",
+      "name": "Denmark",
+      "demonym": "Denmark",
+      "nativeName": "Denmark",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "DJ",
+      "name": "Djibouti",
+      "demonym": "Djibouti",
+      "nativeName": "Djibouti",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "DM",
+      "name": "Dominica",
+      "demonym": "Dominica",
+      "nativeName": "Dominica",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "DO",
+      "name": "Dominican Republic",
+      "demonym": "Dominican Republic",
+      "nativeName": "Dominican Republic",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "EC",
+      "name": "Ecuador",
+      "demonym": "Ecuador",
+      "nativeName": "Ecuador",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "EG",
+      "name": "Egypt",
+      "demonym": "Egypt",
+      "nativeName": "Egypt",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "SV",
+      "name": "El Salvador",
+      "demonym": "El Salvador",
+      "nativeName": "El Salvador",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "GQ",
+      "name": "Equatorial Guinea",
+      "demonym": "Equatorial Guinea",
+      "nativeName": "Equatorial Guinea",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "ER",
+      "name": "Eritrea",
+      "demonym": "Eritrea",
+      "nativeName": "Eritrea",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "EE",
+      "name": "Estonia",
+      "demonym": "Estonia",
+      "nativeName": "Estonia",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "SZ",
+      "name": "Eswatini",
+      "demonym": "Eswatini",
+      "nativeName": "Eswatini",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "ET",
+      "name": "Ethiopia",
+      "demonym": "Ethiopia",
+      "nativeName": "Ethiopia",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "EU",
+      "name": "Europe",
+      "demonym": "Europe",
+      "nativeName": "Europe",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "FO",
+      "name": "Faroe Islands",
+      "demonym": "Faroe Islands",
+      "nativeName": "Faroe Islands",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "FM",
+      "name": "Federated States of Micronesia",
+      "demonym": "Federated States of Micronesia",
+      "nativeName": "Federated States of Micronesia",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "FJ",
+      "name": "Fiji",
+      "demonym": "Fiji",
+      "nativeName": "Fiji",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "FI",
+      "name": "Finland",
+      "demonym": "Finland",
+      "nativeName": "Finland",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "FR",
+      "name": "France",
+      "demonym": "France",
+      "nativeName": "France",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "GF",
+      "name": "French Guiana",
+      "demonym": "French Guiana",
+      "nativeName": "French Guiana",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "PF",
+      "name": "French Polynesia",
+      "demonym": "French Polynesia",
+      "nativeName": "French Polynesia",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "TF",
+      "name": "French Southern Territories",
+      "demonym": "French Southern Territories",
+      "nativeName": "French Southern Territories",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "GA",
+      "name": "Gabon",
+      "demonym": "Gabon",
+      "nativeName": "Gabon",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "GM",
+      "name": "Gambia",
+      "demonym": "Gambia",
+      "nativeName": "Gambia",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "GE",
+      "name": "Georgia",
+      "demonym": "Georgia",
+      "nativeName": "Georgia",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "demonym": "Germany",
+      "nativeName": "Germany",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "GH",
+      "name": "Ghana",
+      "demonym": "Ghana",
+      "nativeName": "Ghana",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "GI",
+      "name": "Gibraltar",
+      "demonym": "Gibraltar",
+      "nativeName": "Gibraltar",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "GR",
+      "name": "Greece",
+      "demonym": "Greece",
+      "nativeName": "Greece",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "GL",
+      "name": "Greenland",
+      "demonym": "Greenland",
+      "nativeName": "Greenland",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "GD",
+      "name": "Grenada",
+      "demonym": "Grenada",
+      "nativeName": "Grenada",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "GP",
+      "name": "Guadeloupe",
+      "demonym": "Guadeloupe",
+      "nativeName": "Guadeloupe",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "GU",
+      "name": "Guam",
+      "demonym": "Guam",
+      "nativeName": "Guam",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "GT",
+      "name": "Guatemala",
+      "demonym": "Guatemala",
+      "nativeName": "Guatemala",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "GG",
+      "name": "Guernsey",
+      "demonym": "Guernsey",
+      "nativeName": "Guernsey",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "GN",
+      "name": "Guinea",
+      "demonym": "Guinea",
+      "nativeName": "Guinea",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "GY",
+      "name": "Guyana",
+      "demonym": "Guyana",
+      "nativeName": "Guyana",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "HT",
+      "name": "Haiti",
+      "demonym": "Haiti",
+      "nativeName": "Haiti",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "VA",
+      "name": "Holy See (Vatican City State)",
+      "demonym": "Holy See (Vatican City State)",
+      "nativeName": "Holy See (Vatican City State)",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "HN",
+      "name": "Honduras",
+      "demonym": "Honduras",
+      "nativeName": "Honduras",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "HK",
+      "name": "Hong Kong",
+      "demonym": "Hong Kong",
+      "nativeName": "Hong Kong",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "HU",
+      "name": "Hungary",
+      "demonym": "Hungary",
+      "nativeName": "Hungary",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "IS",
+      "name": "Iceland",
+      "demonym": "Iceland",
+      "nativeName": "Iceland",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "demonym": "India",
+      "nativeName": "India",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "ID",
+      "name": "Indonesia",
+      "demonym": "Indonesia",
+      "nativeName": "Indonesia",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "IQ",
+      "name": "Iraq",
+      "demonym": "Iraq",
+      "nativeName": "Iraq",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "IE",
+      "name": "Ireland",
+      "demonym": "Ireland",
+      "nativeName": "Ireland",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "IR",
+      "name": "Islamic Republic of Iran",
+      "demonym": "Islamic Republic of Iran",
+      "nativeName": "Islamic Republic of Iran",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "IM",
+      "name": "Isle of Man",
+      "demonym": "Isle of Man",
+      "nativeName": "Isle of Man",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "IL",
+      "name": "Israel",
+      "demonym": "Israel",
+      "nativeName": "Israel",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "IT",
+      "name": "Italy",
+      "demonym": "Italy",
+      "nativeName": "Italy",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "JM",
+      "name": "Jamaica",
+      "demonym": "Jamaica",
+      "nativeName": "Jamaica",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "JP",
+      "name": "Japan",
+      "demonym": "Japan",
+      "nativeName": "Japan",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "JE",
+      "name": "Jersey",
+      "demonym": "Jersey",
+      "nativeName": "Jersey",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "JO",
+      "name": "Jordan",
+      "demonym": "Jordan",
+      "nativeName": "Jordan",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "KZ",
+      "name": "Kazakhstan",
+      "demonym": "Kazakhstan",
+      "nativeName": "Kazakhstan",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "KE",
+      "name": "Kenya",
+      "demonym": "Kenya",
+      "nativeName": "Kenya",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "KI",
+      "name": "Kiribati",
+      "demonym": "Kiribati",
+      "nativeName": "Kiribati",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "XK",
+      "name": "Kosovo",
+      "demonym": "Kosovo",
+      "nativeName": "Kosovo",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "KW",
+      "name": "Kuwait",
+      "demonym": "Kuwait",
+      "nativeName": "Kuwait",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "KG",
+      "name": "Kyrgyzstan",
+      "demonym": "Kyrgyzstan",
+      "nativeName": "Kyrgyzstan",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "LA",
+      "name": "Lao People&#039;s Democratic Republic",
+      "demonym": "Lao People&#039;s Democratic Republic",
+      "nativeName": "Lao People&#039;s Democratic Republic",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "LV",
+      "name": "Latvia",
+      "demonym": "Latvia",
+      "nativeName": "Latvia",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "LB",
+      "name": "Lebanon",
+      "demonym": "Lebanon",
+      "nativeName": "Lebanon",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "LS",
+      "name": "Lesotho",
+      "demonym": "Lesotho",
+      "nativeName": "Lesotho",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "LY",
+      "name": "Libya",
+      "demonym": "Libya",
+      "nativeName": "Libya",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "LI",
+      "name": "Liechtenstein",
+      "demonym": "Liechtenstein",
+      "nativeName": "Liechtenstein",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "LT",
+      "name": "Lithuania",
+      "demonym": "Lithuania",
+      "nativeName": "Lithuania",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "LU",
+      "name": "Luxembourg",
+      "demonym": "Luxembourg",
+      "nativeName": "Luxembourg",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "MO",
+      "name": "Macau",
+      "demonym": "Macau",
+      "nativeName": "Macau",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "MG",
+      "name": "Madagascar",
+      "demonym": "Madagascar",
+      "nativeName": "Madagascar",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "MW",
+      "name": "Malawi",
+      "demonym": "Malawi",
+      "nativeName": "Malawi",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "MY",
+      "name": "Malaysia",
+      "demonym": "Malaysia",
+      "nativeName": "Malaysia",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "MV",
+      "name": "Maldives",
+      "demonym": "Maldives",
+      "nativeName": "Maldives",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "ML",
+      "name": "Mali",
+      "demonym": "Mali",
+      "nativeName": "Mali",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "MT",
+      "name": "Malta",
+      "demonym": "Malta",
+      "nativeName": "Malta",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "MH",
+      "name": "Marshall Islands",
+      "demonym": "Marshall Islands",
+      "nativeName": "Marshall Islands",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "MQ",
+      "name": "Martinique",
+      "demonym": "Martinique",
+      "nativeName": "Martinique",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "MR",
+      "name": "Mauritania",
+      "demonym": "Mauritania",
+      "nativeName": "Mauritania",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "MU",
+      "name": "Mauritius",
+      "demonym": "Mauritius",
+      "nativeName": "Mauritius",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "YT",
+      "name": "Mayotte",
+      "demonym": "Mayotte",
+      "nativeName": "Mayotte",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "MX",
+      "name": "Mexico",
+      "demonym": "Mexico",
+      "nativeName": "Mexico",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "MD",
+      "name": "Moldova",
+      "demonym": "Moldova",
+      "nativeName": "Moldova",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "MC",
+      "name": "Monaco",
+      "demonym": "Monaco",
+      "nativeName": "Monaco",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "MN",
+      "name": "Mongolia",
+      "demonym": "Mongolia",
+      "nativeName": "Mongolia",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "ME",
+      "name": "Montenegro",
+      "demonym": "Montenegro",
+      "nativeName": "Montenegro",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "MS",
+      "name": "Montserrat",
+      "demonym": "Montserrat",
+      "nativeName": "Montserrat",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "MA",
+      "name": "Morocco",
+      "demonym": "Morocco",
+      "nativeName": "Morocco",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "MZ",
+      "name": "Mozambique",
+      "demonym": "Mozambique",
+      "nativeName": "Mozambique",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "MM",
+      "name": "Myanmar",
+      "demonym": "Myanmar",
+      "nativeName": "Myanmar",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "NA",
+      "name": "Namibia",
+      "demonym": "Namibia",
+      "nativeName": "Namibia",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "NP",
+      "name": "Nepal",
+      "demonym": "Nepal",
+      "nativeName": "Nepal",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands",
+      "demonym": "Netherlands",
+      "nativeName": "Netherlands",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "NC",
+      "name": "New Caledonia",
+      "demonym": "New Caledonia",
+      "nativeName": "New Caledonia",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "NZ",
+      "name": "New Zealand",
+      "demonym": "New Zealand",
+      "nativeName": "New Zealand",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "NI",
+      "name": "Nicaragua",
+      "demonym": "Nicaragua",
+      "nativeName": "Nicaragua",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "NE",
+      "name": "Niger",
+      "demonym": "Niger",
+      "nativeName": "Niger",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "NG",
+      "name": "Nigeria",
+      "demonym": "Nigeria",
+      "nativeName": "Nigeria",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "NU",
+      "name": "Niue",
+      "demonym": "Niue",
+      "nativeName": "Niue",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "MK",
+      "name": "North Macedonia",
+      "demonym": "North Macedonia",
+      "nativeName": "North Macedonia",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "MP",
+      "name": "Northern Mariana Islands",
+      "demonym": "Northern Mariana Islands",
+      "nativeName": "Northern Mariana Islands",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "NO",
+      "name": "Norway",
+      "demonym": "Norway",
+      "nativeName": "Norway",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "OM",
+      "name": "Oman",
+      "demonym": "Oman",
+      "nativeName": "Oman",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "PK",
+      "name": "Pakistan",
+      "demonym": "Pakistan",
+      "nativeName": "Pakistan",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "PW",
+      "name": "Palau",
+      "demonym": "Palau",
+      "nativeName": "Palau",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "PA",
+      "name": "Panama",
+      "demonym": "Panama",
+      "nativeName": "Panama",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "PG",
+      "name": "Papua New Guinea",
+      "demonym": "Papua New Guinea",
+      "nativeName": "Papua New Guinea",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "PY",
+      "name": "Paraguay",
+      "demonym": "Paraguay",
+      "nativeName": "Paraguay",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "PE",
+      "name": "Peru",
+      "demonym": "Peru",
+      "nativeName": "Peru",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "PH",
+      "name": "Philippines",
+      "demonym": "Philippines",
+      "nativeName": "Philippines",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "PL",
+      "name": "Poland",
+      "demonym": "Poland",
+      "nativeName": "Poland",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "PT",
+      "name": "Portugal",
+      "demonym": "Portugal",
+      "nativeName": "Portugal",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "PR",
+      "name": "Puerto Rico",
+      "demonym": "Puerto Rico",
+      "nativeName": "Puerto Rico",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "QA",
+      "name": "Qatar",
+      "demonym": "Qatar",
+      "nativeName": "Qatar",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "RE",
+      "name": "Reunion",
+      "demonym": "Reunion",
+      "nativeName": "Reunion",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "RO",
+      "name": "Romania",
+      "demonym": "Romania",
+      "nativeName": "Romania",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "RU",
+      "name": "Russian Federation",
+      "demonym": "Russian Federation",
+      "nativeName": "Russian Federation",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "RW",
+      "name": "Rwanda",
+      "demonym": "Rwanda",
+      "nativeName": "Rwanda",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "BL",
+      "name": "Saint Barthelemy",
+      "demonym": "Saint Barthelemy",
+      "nativeName": "Saint Barthelemy",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "KN",
+      "name": "Saint Kitts and Nevis",
+      "demonym": "Saint Kitts and Nevis",
+      "nativeName": "Saint Kitts and Nevis",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "LC",
+      "name": "Saint Lucia",
+      "demonym": "Saint Lucia",
+      "nativeName": "Saint Lucia",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "MF",
+      "name": "Saint Martin",
+      "demonym": "Saint Martin",
+      "nativeName": "Saint Martin",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "PM",
+      "name": "Saint Pierre and Miquelon",
+      "demonym": "Saint Pierre and Miquelon",
+      "nativeName": "Saint Pierre and Miquelon",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "VC",
+      "name": "Saint Vincent and the Grenadines",
+      "demonym": "Saint Vincent and the Grenadines",
+      "nativeName": "Saint Vincent and the Grenadines",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "WS",
+      "name": "Samoa",
+      "demonym": "Samoa",
+      "nativeName": "Samoa",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "SM",
+      "name": "San Marino",
+      "demonym": "San Marino",
+      "nativeName": "San Marino",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "ST",
+      "name": "Sao Tome and Principe",
+      "demonym": "Sao Tome and Principe",
+      "nativeName": "Sao Tome and Principe",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "SA",
+      "name": "Saudi Arabia",
+      "demonym": "Saudi Arabia",
+      "nativeName": "Saudi Arabia",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "SN",
+      "name": "Senegal",
+      "demonym": "Senegal",
+      "nativeName": "Senegal",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "RS",
+      "name": "Serbia",
+      "demonym": "Serbia",
+      "nativeName": "Serbia",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "SC",
+      "name": "Seychelles",
+      "demonym": "Seychelles",
+      "nativeName": "Seychelles",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "SL",
+      "name": "Sierra Leone",
+      "demonym": "Sierra Leone",
+      "nativeName": "Sierra Leone",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "SG",
+      "name": "Singapore",
+      "demonym": "Singapore",
+      "nativeName": "Singapore",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "SX",
+      "name": "Sint Maarten",
+      "demonym": "Sint Maarten",
+      "nativeName": "Sint Maarten",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "SK",
+      "name": "Slovakia",
+      "demonym": "Slovakia",
+      "nativeName": "Slovakia",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "SI",
+      "name": "Slovenia",
+      "demonym": "Slovenia",
+      "nativeName": "Slovenia",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "SB",
+      "name": "Solomon Islands",
+      "demonym": "Solomon Islands",
+      "nativeName": "Solomon Islands",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "SO",
+      "name": "Somalia",
+      "demonym": "Somalia",
+      "nativeName": "Somalia",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "ZA",
+      "name": "South Africa",
+      "demonym": "South Africa",
+      "nativeName": "South Africa",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "KR",
+      "name": "South Korea",
+      "demonym": "South Korea",
+      "nativeName": "South Korea",
+      "hasData": true,
+      "mapperCount": 286,
+      "lastUpdated": "2026-07-04T05:51:28.045Z"
+    },
+    {
+      "code": "SS",
+      "name": "South Sudan",
+      "demonym": "South Sudan",
+      "nativeName": "South Sudan",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "ES",
+      "name": "Spain",
+      "demonym": "Spain",
+      "nativeName": "Spain",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "LK",
+      "name": "Sri Lanka",
+      "demonym": "Sri Lanka",
+      "nativeName": "Sri Lanka",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "PS",
+      "name": "State of Palestine",
+      "demonym": "State of Palestine",
+      "nativeName": "State of Palestine",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "SD",
+      "name": "Sudan",
+      "demonym": "Sudan",
+      "nativeName": "Sudan",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "SR",
+      "name": "Suriname",
+      "demonym": "Suriname",
+      "nativeName": "Suriname",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "SJ",
+      "name": "Svalbard and Jan Mayen",
+      "demonym": "Svalbard and Jan Mayen",
+      "nativeName": "Svalbard and Jan Mayen",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "SE",
+      "name": "Sweden",
+      "demonym": "Sweden",
+      "nativeName": "Sweden",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "CH",
+      "name": "Switzerland",
+      "demonym": "Switzerland",
+      "nativeName": "Switzerland",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "SY",
+      "name": "Syrian Arab Republic",
+      "demonym": "Syrian Arab Republic",
+      "nativeName": "Syrian Arab Republic",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "TW",
+      "name": "Taiwan",
+      "demonym": "Taiwan",
+      "nativeName": "Taiwan",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "TJ",
+      "name": "Tajikistan",
+      "demonym": "Tajikistan",
+      "nativeName": "Tajikistan",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "TH",
+      "name": "Thailand",
+      "demonym": "Thailand",
+      "nativeName": "Thailand",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "CD",
+      "name": "The Democratic Republic of the Congo",
+      "demonym": "The Democratic Republic of the Congo",
+      "nativeName": "The Democratic Republic of the Congo",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "TL",
+      "name": "Timor-Leste",
+      "demonym": "Timor-Leste",
+      "nativeName": "Timor-Leste",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "TG",
+      "name": "Togo",
+      "demonym": "Togo",
+      "nativeName": "Togo",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "TO",
+      "name": "Tonga",
+      "demonym": "Tonga",
+      "nativeName": "Tonga",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "TT",
+      "name": "Trinidad and Tobago",
+      "demonym": "Trinidad and Tobago",
+      "nativeName": "Trinidad and Tobago",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "TN",
+      "name": "Tunisia",
+      "demonym": "Tunisia",
+      "nativeName": "Tunisia",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "TR",
+      "name": "Türkiye",
+      "demonym": "Türkiye",
+      "nativeName": "Türkiye",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "TM",
+      "name": "Turkmenistan",
+      "demonym": "Turkmenistan",
+      "nativeName": "Turkmenistan",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "TC",
+      "name": "Turks and Caicos Islands",
+      "demonym": "Turks and Caicos Islands",
+      "nativeName": "Turks and Caicos Islands",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "TV",
+      "name": "Tuvalu",
+      "demonym": "Tuvalu",
+      "nativeName": "Tuvalu",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "UG",
+      "name": "Uganda",
+      "demonym": "Uganda",
+      "nativeName": "Uganda",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "UA",
+      "name": "Ukraine",
+      "demonym": "Ukraine",
+      "nativeName": "Ukraine",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "AE",
+      "name": "United Arab Emirates",
+      "demonym": "United Arab Emirates",
+      "nativeName": "United Arab Emirates",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom",
+      "demonym": "United Kingdom",
+      "nativeName": "United Kingdom",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "TZ",
+      "name": "United Republic of Tanzania",
+      "demonym": "United Republic of Tanzania",
+      "nativeName": "United Republic of Tanzania",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "US",
+      "name": "United States",
+      "demonym": "United States",
+      "nativeName": "United States",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "UY",
+      "name": "Uruguay",
+      "demonym": "Uruguay",
+      "nativeName": "Uruguay",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "UZ",
+      "name": "Uzbekistan",
+      "demonym": "Uzbekistan",
+      "nativeName": "Uzbekistan",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "VU",
+      "name": "Vanuatu",
+      "demonym": "Vanuatu",
+      "nativeName": "Vanuatu",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "VE",
+      "name": "Venezuela",
+      "demonym": "Venezuela",
+      "nativeName": "Venezuela",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "VN",
+      "name": "Vietnam",
+      "demonym": "Vietnam",
+      "nativeName": "Vietnam",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "VG",
+      "name": "Virgin Islands, British",
+      "demonym": "Virgin Islands, British",
+      "nativeName": "Virgin Islands, British",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "VI",
+      "name": "Virgin Islands, U.S.",
+      "demonym": "Virgin Islands, U.S.",
+      "nativeName": "Virgin Islands, U.S.",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "WF",
+      "name": "Wallis and Futuna",
+      "demonym": "Wallis and Futuna",
+      "nativeName": "Wallis and Futuna",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "EH",
+      "name": "Western Sahara",
+      "demonym": "Western Sahara",
+      "nativeName": "Western Sahara",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "YE",
+      "name": "Yemen",
+      "demonym": "Yemen",
+      "nativeName": "Yemen",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "ZM",
+      "name": "Zambia",
+      "demonym": "Zambia",
+      "nativeName": "Zambia",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
+      "code": "ZW",
+      "name": "Zimbabwe",
+      "demonym": "Zimbabwe",
+      "nativeName": "Zimbabwe",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    }
+  ]
+}

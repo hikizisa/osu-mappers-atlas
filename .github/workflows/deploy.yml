@@ -1,7 +1,13 @@
-name: Deploy Korean Mappers Map
+name: Deploy osu! Mappers Atlas
 
 on:
   workflow_dispatch:
+    inputs:
+      country_code:
+        description: 'osu! country code to refresh before deploy'
+        required: false
+        default: 'KR'
+        type: string
   schedule:
     # Run monthly on the 1st at 2 AM UTC to refresh data
     - cron: '0 2 1 * *'
@@ -16,16 +22,16 @@ permissions:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    
+
     steps:
     - name: Checkout
       uses: actions/checkout@v4
-      
+
     - name: Setup Node.js
       uses: actions/setup-node@v4
       with:
         node-version: '18'
-        
+
     - name: Install dependencies
       run: |
         if [ -f package-lock.json ]; then
@@ -33,26 +39,30 @@ jobs:
         else
           npm install
         fi
-      
+
     - name: Fetch mapper data
       env:
         OSU_API_KEY: ${{ secrets.OSU_API_KEY }}
-      run: node scripts/fetch-mappers.js
-      
+        MAPPER_COUNTRY: ${{ github.event.inputs.country_code || 'KR' }}
+      run: |
+        npm run init-countries
+        npm run fetch-data
+        npm run init-countries
+
     - name: Build site
       run: npm run export
-      
+
     - name: Verify data exists in output
       run: |
-        if [ -f "./out/data/mappers.json" ]; then
-          echo "✅ mappers.json found in output directory"
-          echo "File size: $(du -h ./out/data/mappers.json | cut -f1)"
+        if [ -f "./out/data/countries.json" ] && ls ./out/data/mappers-*.json >/dev/null 2>&1; then
+          echo "Data files found in output directory"
+          echo "Countries file size: $(du -h ./out/data/countries.json | cut -f1)"
         else
-          echo "⚠️ Warning: mappers.json not found in output directory"
+          echo "Warning: generated data files not found in output directory"
           echo "Contents of ./out/data/:"
           ls -la ./out/data/ || echo "./out/data/ directory does not exist"
         fi
-      
+
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v4
       with:

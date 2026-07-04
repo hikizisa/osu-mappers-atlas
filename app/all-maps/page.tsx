@@ -13,10 +13,13 @@ import { LanguageToggle } from '../components/LanguageToggle'
 import { FloatingDisplayToggle } from '../components/FloatingDisplayToggle'
 import { getModeName } from '../components/i18n'
 import { AnimatedList } from '../components/AnimatedList'
+import { useCountry } from '../components/CountryContext'
+import { CountrySelector } from '../components/CountrySelector'
 import Link from 'next/link'
 
 export default function AllMapsPage() {
   const { language, t } = useLanguage()
+  const { selectedCountry, selectedCountryCode } = useCountry()
   const [mappers, setMappers] = useState<Mapper[]>([])
   const [searchTerm, setSearchTerm] = useState('')
   const [selectedModes, setSelectedModes] = useState<Set<string>>(new Set(['0', '1', '2', '3']))
@@ -39,13 +42,16 @@ export default function AllMapsPage() {
   useEffect(() => {
     const fetchMappers = async () => {
       try {
-        const response = await fetchData('data/mappers.json')
+        setLoading(true)
+        setError(null)
+        const response = await fetchData(`data/mappers-${selectedCountryCode.toLowerCase()}.json`)
         if (!response.ok) {
-          throw new Error('Failed to fetch mappers data')
+          throw new Error(`No mapper data has been generated for ${selectedCountry.name}.`)
         }
         const data = await response.json()
         setMappers(data.mappers || data)
       } catch (err) {
+        setMappers([])
         setError(err instanceof Error ? err.message : 'An error occurred')
       } finally {
         setLoading(false)
@@ -53,7 +59,7 @@ export default function AllMapsPage() {
     }
 
     fetchMappers()
-  }, [])
+  }, [selectedCountryCode, selectedCountry.name])
 
   const getModeIcon = (mode: string) => {
     switch (mode) {
@@ -146,7 +152,7 @@ export default function AllMapsPage() {
       <div className="min-h-screen bg-gradient-to-br from-purple-50 to-pink-50 dark:from-gray-900 dark:to-gray-800 flex items-center justify-center">
         <div className="text-center">
           <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-osu-pink mx-auto mb-4"></div>
-          <p className="text-gray-600 dark:text-gray-400">Loading beatmaps...</p>
+          <p className="text-gray-600 dark:text-gray-400">Loading {selectedCountry.name} beatmaps...</p>
         </div>
       </div>
     )
@@ -155,8 +161,14 @@ export default function AllMapsPage() {
   if (error) {
     return (
       <div className="min-h-screen bg-gradient-to-br from-purple-50 to-pink-50 dark:from-gray-900 dark:to-gray-800 flex items-center justify-center">
-        <div className="text-center">
+        <div className="mx-auto w-full max-w-3xl px-4 text-center">
           <p className="text-red-600 dark:text-red-400 mb-4">Error: {error}</p>
+          <p className="mb-4 text-sm text-gray-600 dark:text-gray-300">
+            Run <code className="font-semibold">npm run fetch-data -- --country={selectedCountryCode}</code>, then <code className="font-semibold">npm run init-countries</code>.
+          </p>
+          <div className="mb-4 flex justify-center">
+            <CountrySelector />
+          </div>
           <button
             onClick={() => window.location.reload()}
             className="px-4 py-2 bg-osu-pink text-white rounded-lg hover:bg-osu-purple transition-colors"
@@ -190,9 +202,12 @@ export default function AllMapsPage() {
               </h1>
             </div>
           </div>
-          <p className="text-gray-600 dark:text-gray-400">
-            {t.description}
-          </p>
+          <div className="flex flex-col gap-4">
+            <p className="text-gray-600 dark:text-gray-400">
+              Browse ranked and loved beatmapsets from {selectedCountry.name} mappers.
+            </p>
+            <CountrySelector />
+          </div>
         </div>
       </header>
 
