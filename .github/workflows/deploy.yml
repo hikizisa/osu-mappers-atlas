@@ -4,9 +4,9 @@ on:
   workflow_dispatch:
     inputs:
       country_code:
-        description: 'osu! country code to refresh before deploy'
+        description: 'Optional osu! country code to refresh before deploy'
         required: false
-        default: 'KR'
+        default: ''
         type: string
   schedule:
     # Run monthly on the 1st at 2 AM UTC to refresh data
@@ -40,14 +40,19 @@ jobs:
           npm install
         fi
 
-    - name: Fetch mapper data
+    - name: Refresh requested country data
+      if: github.event_name == 'workflow_dispatch' && github.event.inputs.country_code != ''
       env:
         OSU_API_KEY: ${{ secrets.OSU_API_KEY }}
-        MAPPER_COUNTRY: ${{ github.event.inputs.country_code || 'KR' }}
+        MAPPER_COUNTRY: ${{ github.event.inputs.country_code }}
       run: |
         npm run init-countries
         npm run fetch-data
         npm run init-countries
+
+    - name: Initialize country metadata
+      if: github.event_name != 'workflow_dispatch' || github.event.inputs.country_code == ''
+      run: npm run init-countries
 
     - name: Build site
       run: npm run export

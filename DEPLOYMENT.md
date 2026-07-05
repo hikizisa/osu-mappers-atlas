@@ -1,143 +1,135 @@
-# Korean Mappers Map - Deployment Guide
+# Deployment
 
-## 🚀 Quick Start Deployment
+This repo deploys a static Next.js export to GitHub Pages.
 
-### Step 1: Create GitHub Repository
+Current production URL:
 
-1. Go to [GitHub](https://github.com) and create a new repository named `kankokujin-no-map`
-2. Make it public (required for GitHub Pages)
-3. Don't initialize with README (we already have files)
+https://hikizisa.github.io/osu-mappers-atlas/
 
-### Step 2: Upload Your Code
+## Required Secret
 
-```bash
-# In your project directory
-git init
-git add .
-git commit -m "Initial commit: Korean Mappers Map website"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/kankokujin-no-map.git
-git push -u origin main
+Add this repository secret in GitHub:
+
+- `OSU_API_KEY`: osu! API v1 key
+
+Path:
+
+`Settings` -> `Secrets and variables` -> `Actions` -> `New repository secret`
+
+## GitHub Pages
+
+In repository settings:
+
+1. Open `Settings` -> `Pages`.
+2. Set `Source` to `GitHub Actions`.
+3. Save.
+
+The workflow publishes the static export from `out/`.
+
+## Normal Deploy
+
+Push to `main`.
+
+The `Deploy osu! Mappers Atlas` workflow will:
+
+1. Install dependencies.
+2. Run `npm run init-countries`.
+3. Build the site with `npm run export`.
+4. Publish `out/` to GitHub Pages.
+
+On push, this workflow does not do all-country indexing.
+
+## Manual Deploy With One Country Refresh
+
+Use this when you want to refresh one country and deploy immediately.
+
+1. Open `Actions`.
+2. Select `Deploy osu! Mappers Atlas`.
+3. Click `Run workflow`.
+4. Enter a country code, for example `JP`.
+5. Run it.
+
+The workflow refreshes that country, rebuilds, and deploys.
+
+## Full Or Missing-Country Indexing
+
+Use `All-Country Data Refresh`.
+
+Inputs:
+
+- `mode=missing`: fetch countries that do not have `public/data/mappers-{country}.json` yet.
+- `mode=all`: fetch all countries.
+- `mode=selected`: fetch only the comma-separated `countries` list.
+- `countries`: used only with `mode=selected`, for example `US,GB,JP`.
+- `shard_count`: number of country shards. Default is `24`.
+- `continue_on_error`: usually keep this `true`.
+- `max_discovery_requests`: cap for discovery requests against osu! API.
+
+Typical first pass:
+
+- `mode=missing`
+- `shard_count=24`
+- `continue_on_error=true`
+
+The workflow commits data changes as `Refresh country mapper data` if anything changed.
+
+## How To Check Progress
+
+Open:
+
+https://github.com/hikizisa/osu-mappers-atlas/actions
+
+Then open the active `All-Country Data Refresh` run.
+
+Useful places:
+
+- `prepare`: country setup and discovery.
+- `fetch`: shard jobs. Open a shard log and look for `Selected ... countries` and `=== Fetching XX ===`.
+- `merge`: artifact merge, metadata refresh, commit, and deploy.
+
+If the workflow is not running, indexing is not progressing. Completed deploy runs only mean the site was published.
+
+## Scheduled Refreshes
+
+`Daily Data Refresh`:
+
+- Runs daily.
+- Refreshes one rolling shard of countries that already have data.
+- Can be manually run for one country.
+
+`Monthly Data Refresh`:
+
+- Runs monthly.
+- Refreshes a wider rolling shard of existing countries.
+- Can be manually run for one country.
+
+## Local Build Check
+
+PowerShell:
+
+```powershell
+$env:NEXT_PUBLIC_BASE_PATH='/osu-mappers-atlas'
+npm run export
 ```
 
-### Step 3: Get osu! API Key
+The build should complete without TypeScript errors.
 
-1. Visit [osu! API page](https://osu.ppy.sh/p/api/)
-2. Log in with your osu! account
-3. Request an API key
-4. Copy the key (you'll need it in the next step)
+## Local Data Fetch
 
-### Step 4: Configure GitHub Secrets
+PowerShell:
 
-1. Go to your GitHub repository
-2. Click **Settings** → **Secrets and variables** → **Actions**
-3. Click **New repository secret**
-4. Name: `OSU_API_KEY`
-5. Value: Paste your osu! API key
-6. Click **Add secret**
-
-### Step 5: Enable GitHub Pages
-
-1. In your repository, go to **Settings** → **Pages**
-2. Under **Source**, select **GitHub Actions**
-3. The workflow will automatically deploy your site
-
-### Step 6: Test the Workflow
-
-1. Go to **Actions** tab in your repository
-2. Click **Run workflow** → **Run workflow** to trigger manually
-3. Wait for the workflow to complete (about 2-3 minutes)
-4. Your site will be available at: `https://YOUR_USERNAME.github.io/kankokujin-no-map/`
-
-## 🔧 Customization
-
-### Adding Manual User IDs
-
-Edit `scripts/fetch-mappers.js` and add user IDs to the `MANUAL_MAPPER_IDS` array:
-
-```javascript
-const MANUAL_MAPPER_IDS = [
-  194807,  // lepidopodus
-  114017,  // KRZY
-  1574070, // Kloyd
-  // Add more user IDs here
-];
+```powershell
+npm run fetch-data -- --country=US
+npm run init-countries
 ```
 
-### Ignoring Specific User IDs
+Set `OSU_API_KEY` in your shell or `.env` before running the fetch. Do not commit `.env` or API keys.
 
-Some users might have the Korean flag but are not actually Korean mappers. You can exclude them by adding their IDs to the ignore list:
+## Files That Usually Change After Fetching
 
-```javascript
-const IGNORE_MAPPER_IDS = [
-  123456,  // Example: Non-Korean user with KR flag
-  789012,  // Example: Another user to ignore
-  // Add more user IDs to ignore here
-];
-```
+- `public/data/mappers-{country}.json`
+- `public/data/countries.json`
+- `data/fetch-state-{country}.json`
+- `data/creator-mappings-{country}.json`
 
-### Updating Site Information
-
-- **Site title**: Edit `index.html` and `app/layout.tsx`
-- **GitHub link**: Update the footer links in both files
-- **Colors/styling**: Modify `app/globals.css` and Tailwind classes
-
-## 📊 How It Works
-
-1. **Daily Updates**: GitHub Actions runs every day at 2 AM UTC (11 AM KST)
-2. **Data Fetching**: Script calls osu! API to get Korean mappers and their beatmaps
-3. **Site Generation**: Updates the JSON data file and rebuilds the site
-4. **Deployment**: Automatically deploys to GitHub Pages
-
-## 🛠️ Local Development (Optional)
-
-If you want to develop locally, you can use the simple HTML version:
-
-1. Open `index.html` in your browser
-2. Edit the HTML/CSS/JavaScript directly
-3. Refresh to see changes
-
-For the Next.js version (requires Node.js setup):
-
-```bash
-npm install
-npm run dev
-```
-
-## 📝 File Structure
-
-```
-kankokujin-no-map/
-├── index.html              # Simple HTML version (works immediately)
-├── data/mappers.json       # Generated data file
-├── scripts/fetch-mappers.js # Data fetching script
-├── .github/workflows/      # GitHub Actions
-├── app/                    # Next.js version (advanced)
-└── README.md              # Project documentation
-```
-
-## 🐛 Troubleshooting
-
-### Workflow Fails
-- Check if `OSU_API_KEY` secret is set correctly
-- Verify the API key is valid on osu! website
-- Check Actions logs for specific error messages
-
-### No Data Showing
-- Ensure the workflow has run at least once
-- Check if `data/mappers.json` exists in your repository
-- Verify the API key has sufficient permissions
-
-### Site Not Loading
-- Confirm GitHub Pages is enabled
-- Check if the repository is public
-- Wait a few minutes after workflow completion
-
-## 🎯 Next Steps
-
-1. **Customize the manual user list** with more Korean mappers
-2. **Adjust the styling** to match your preferences  
-3. **Share the site** with the osu! community
-4. **Monitor the daily updates** to ensure data freshness
-
-Your Korean Mappers Map will automatically stay updated with the latest beatmaps from Korean mappers! 🇰🇷
+Commit generated data only when it is intentional.
