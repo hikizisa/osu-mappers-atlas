@@ -3,6 +3,7 @@ import { Calendar, ExternalLink, ChevronDown, ChevronUp } from 'lucide-react'
 import { Beatmapset, Difficulty } from './types'
 import { getModeIcon, getModeName, getApprovedStatus, formatDate, formatNumber } from './utils'
 import { getDifficultyStyle, formatStarRating } from './difficulty-colors'
+import { useLanguage } from './LanguageContext'
 
 interface BeatmapsetCardProps {
   beatmapset: Beatmapset
@@ -19,6 +20,7 @@ export const BeatmapsetCard: React.FC<BeatmapsetCardProps> = ({
   showMapperName = true,
   className = ''
 }) => {
+  const { t } = useLanguage()
   const [showAllDifficulties, setShowAllDifficulties] = useState(false)
   const [isExpanded, setIsExpanded] = useState(false)
   // Filter and sort difficulties based on selected modes and star rating (descending)
@@ -29,6 +31,11 @@ export const BeatmapsetCard: React.FC<BeatmapsetCardProps> = ({
   if (filteredDifficulties.length === 0) return null
 
   const status = getApprovedStatus(beatmapset.approved)
+  const statusLabel =
+    status.text === 'Approved' ? t.approved :
+    status.text === 'Qualified' ? t.qualified :
+    status.text === 'Loved' ? t.loved :
+    t.ranked
   
   // Always aggregate stats from difficulties to ensure accuracy
   // Favorite count: use beatmapset-level if available, otherwise use first difficulty's value (shared across set)
@@ -53,7 +60,7 @@ export const BeatmapsetCard: React.FC<BeatmapsetCardProps> = ({
     }
     
     return (
-      <div className={`bg-white dark:bg-gray-800 rounded-lg border-2 border-gray-300 dark:border-gray-600 hover:border-osu-pink dark:hover:border-osu-pink hover:shadow-lg transition-all duration-200 ${className}`}>
+      <div className={`bg-slate-50/95 dark:bg-gray-800 rounded-lg border-2 border-slate-300 dark:border-gray-600 hover:border-osu-pink dark:hover:border-osu-pink hover:shadow-lg transition-all duration-200 ${className}`}>
         <div 
           className="p-3 cursor-pointer hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors duration-200"
           onClick={handleCardClick}
@@ -63,12 +70,12 @@ export const BeatmapsetCard: React.FC<BeatmapsetCardProps> = ({
             <div className="flex-1 min-w-0">
               <div className="flex items-center gap-2 flex-wrap">
                 <span className={`text-xs px-2 py-0.5 rounded font-medium ${status.color} flex-shrink-0`}>
-                  {status.emoji} {status.text}
+                  {status.code} {statusLabel}
                 </span>
                 <h4 className="font-medium text-gray-900 dark:text-white truncate">
                   {beatmapset.title}
                 </h4>
-                <span className="text-sm text-gray-500 dark:text-gray-400 flex-shrink-0">by {beatmapset.artist}</span>
+                <span className="text-sm text-gray-500 dark:text-gray-400 flex-shrink-0">{t.byArtist} {beatmapset.artist}</span>
                 {showMapperName && (
                   <span className="text-xs text-gray-500 dark:text-gray-400 flex-shrink-0">• {beatmapset.creator}</span>
                 )}
@@ -95,7 +102,7 @@ export const BeatmapsetCard: React.FC<BeatmapsetCardProps> = ({
                 target="_blank"
                 rel="noopener noreferrer"
                 className="external-link text-gray-400 hover:text-osu-pink transition-colors"
-                title="Open on osu! website"
+                title={t.openOnOsu}
               >
                 <ExternalLink className="h-4 w-4" />
               </a>
@@ -124,7 +131,7 @@ export const BeatmapsetCard: React.FC<BeatmapsetCardProps> = ({
                     <span className="flex-1 truncate">{difficulty.version}</span>
                     <span className="flex items-center gap-1 text-xs">
                       <span>▶️</span>
-                      <span>{formatNumber(parseInt(difficulty.playcount || '0'))}</span>
+              <span>{formatNumber(parseInt(difficulty.playcount || '0'))}</span>
                     </span>
                     <span 
                       className="px-2 py-1 rounded text-xs font-bold transition-all duration-200 hover:scale-105"
@@ -154,7 +161,7 @@ export const BeatmapsetCard: React.FC<BeatmapsetCardProps> = ({
     }
     
     return (
-      <div className={`bg-white dark:bg-gray-800 rounded-lg border-2 border-gray-300 dark:border-gray-600 hover:border-osu-pink dark:hover:border-osu-pink shadow-sm hover:shadow-lg transition-all duration-200 ${isExpanded ? 'col-span-full' : ''} ${className}`}>
+      <div className={`bg-slate-50/95 dark:bg-gray-800 rounded-lg border-2 border-slate-300 dark:border-gray-600 hover:border-osu-pink dark:hover:border-osu-pink shadow-sm hover:shadow-lg transition-all duration-200 ${isExpanded ? 'col-span-full' : ''} ${className}`}>
         <div className="p-3">
           <div 
             className="flex gap-3 cursor-pointer hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors duration-200 rounded-lg p-2 -m-2"
@@ -179,7 +186,7 @@ export const BeatmapsetCard: React.FC<BeatmapsetCardProps> = ({
               </a>
               <div className="absolute -top-1 -left-1">
                 <span className={`text-xs px-1 py-0.5 rounded ${status.color}`}>
-                  {status.emoji}
+                  {status.code}
                 </span>
               </div>
             </div>
@@ -188,7 +195,7 @@ export const BeatmapsetCard: React.FC<BeatmapsetCardProps> = ({
                 {beatmapset.title}
               </h4>
               <p className="text-sm text-gray-600 dark:text-gray-400 truncate mb-2">
-                by {beatmapset.artist}
+                {t.byArtist} {beatmapset.artist}
               </p>
               <div className="flex items-center justify-between text-xs text-gray-500 dark:text-gray-400">
                 <div className="flex items-center gap-3">
@@ -209,7 +216,7 @@ export const BeatmapsetCard: React.FC<BeatmapsetCardProps> = ({
                     target="_blank"
                     rel="noopener noreferrer"
                     className="external-link text-gray-400 hover:text-osu-pink transition-colors"
-                    title="Open on osu! website"
+                title={t.openOnOsu}
                   >
                     <ExternalLink className="h-3 w-3" />
                   </a>
@@ -260,7 +267,7 @@ export const BeatmapsetCard: React.FC<BeatmapsetCardProps> = ({
 
   // Card display style (default)
   return (
-    <div className={`bg-white dark:bg-gray-800 rounded-lg border-2 border-gray-300 dark:border-gray-600 hover:border-osu-pink dark:hover:border-osu-pink shadow-md hover:shadow-lg transition-all duration-200 overflow-hidden ${className}`}>
+    <div className={`bg-slate-50/95 dark:bg-gray-800 rounded-lg border-2 border-slate-300 dark:border-gray-600 hover:border-osu-pink dark:hover:border-osu-pink shadow-md hover:shadow-lg transition-all duration-200 overflow-hidden ${className}`}>
       {/* Cover Image */}
       <div className="relative h-32 bg-gradient-to-r from-osu-pink to-purple-600">
         <a
@@ -282,7 +289,7 @@ export const BeatmapsetCard: React.FC<BeatmapsetCardProps> = ({
         {/* Status and Mode indicators */}
         <div className="absolute top-2 left-2 flex gap-1">
           <span className={`bg-black/50 text-white px-2 py-1 rounded text-xs flex items-center gap-1 ${status.color}`}>
-            {status.emoji} {status.text}
+            {status.code} {statusLabel}
           </span>
         </div>
         
@@ -306,7 +313,7 @@ export const BeatmapsetCard: React.FC<BeatmapsetCardProps> = ({
             {beatmapset.title}
           </h3>
           <p className="text-gray-600 dark:text-gray-400 truncate">
-            by {beatmapset.artist}
+            {t.byArtist} {beatmapset.artist}
           </p>
         </div>
 
@@ -316,13 +323,13 @@ export const BeatmapsetCard: React.FC<BeatmapsetCardProps> = ({
             {formatDate(beatmapset.approved_date)}
           </span>
           {showMapperName && (
-            <span>Mapped by {beatmapset.creator}</span>
+            <span>{t.mappedBy} {beatmapset.creator}</span>
           )}
         </div>
 
         <div className="flex items-center justify-between text-sm text-gray-600 dark:text-gray-400 mb-2">
           <span>
-            {filteredDifficulties.length} {filteredDifficulties.length === 1 ? 'difficulty' : 'difficulties'}
+            {filteredDifficulties.length} {filteredDifficulties.length === 1 ? t.difficulty : t.difficulties}
           </span>
           <div className="flex items-center gap-3">
             <span className="flex items-center gap-1">
@@ -362,12 +369,12 @@ export const BeatmapsetCard: React.FC<BeatmapsetCardProps> = ({
               {showAllDifficulties ? (
                 <>
                   <ChevronUp className="h-3 w-3" />
-                  Show less
+                  {t.showLess}
                 </>
               ) : (
                 <>
                   <ChevronDown className="h-3 w-3" />
-                  +{filteredDifficulties.length - 3} more...
+                  +{filteredDifficulties.length - 3} {t.more}...
                 </>
               )}
             </button>

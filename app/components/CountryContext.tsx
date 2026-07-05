@@ -27,10 +27,10 @@ interface CountryContextType {
 }
 
 const fallbackCountry: CountryOption = {
-  code: 'KR',
-  name: 'South Korea',
-  demonym: 'Korean',
-  nativeName: 'South Korea',
+  code: 'US',
+  name: 'United States',
+  demonym: 'American',
+  nativeName: 'United States',
   hasData: true
 }
 

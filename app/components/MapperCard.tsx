@@ -117,7 +117,7 @@ export const MapperCard: React.FC<MapperCardProps> = ({
   const aliases = mapper.aliases && mapper.aliases.length > 0 ? mapper.aliases : []
 
   return (
-    <div className="bg-white dark:bg-gray-800 rounded-lg border-2 border-gray-300 dark:border-gray-600 hover:border-osu-pink dark:hover:border-osu-pink shadow-md hover:shadow-lg transition-all duration-200">
+    <div className="bg-slate-50/95 dark:bg-gray-800 rounded-lg border-2 border-slate-300 dark:border-gray-600 hover:border-osu-pink dark:hover:border-osu-pink shadow-md hover:shadow-lg transition-all duration-200">
       <div 
         className="p-6 cursor-pointer"
         onClick={() => onToggle(mapper.user_id)}
@@ -145,7 +145,7 @@ export const MapperCard: React.FC<MapperCardProps> = ({
                 {isNewMapper && (
                   <span 
                     className="inline-flex items-center gap-1 px-2 py-1 rounded-full text-xs font-medium bg-green-100 text-green-800 dark:bg-green-800 dark:text-green-100"
-                    title="Recently ranked map (within last month)"
+                    title={t.recentlyRankedMap}
                   >
                     <Sparkles className="h-3 w-3" />
                     New
@@ -154,7 +154,7 @@ export const MapperCard: React.FC<MapperCardProps> = ({
               </div>
               {aliases.length > 0 && (
                 <p className="text-sm text-gray-500 dark:text-gray-400">
-                  Also known as: {aliases.join(', ')}
+                  {t.alsoKnownAs}: {aliases.join(', ')}
                 </p>
               )}
             </div>
@@ -165,13 +165,13 @@ export const MapperCard: React.FC<MapperCardProps> = ({
               <div className="text-2xl font-bold text-osu-pink">
                 {formatNumber(filteredBeatmapsets.length)}
               </div>
-              <div className="text-xs text-gray-500 dark:text-gray-400">Beatmapsets</div>
+              <div className="text-xs text-gray-500 dark:text-gray-400">{t.beatmapsets}</div>
             </div>
             <div className="text-center">
               <div className="text-2xl font-bold text-blue-600">
                 {formatNumber(filteredBeatmaps.length)}
               </div>
-              <div className="text-xs text-gray-500 dark:text-gray-400">Beatmaps</div>
+              <div className="text-xs text-gray-500 dark:text-gray-400">{t.beatmaps}</div>
             </div>
             <div className="ml-4">
               {isExpanded ? (
@@ -189,11 +189,11 @@ export const MapperCard: React.FC<MapperCardProps> = ({
           {/* Beatmapset sorting info */}
           <div className="flex items-center justify-between mb-4">
             <h4 className="text-lg font-semibold text-gray-800 dark:text-white">
-              Beatmapsets ({finalBeatmapsets.length})
+              {t.beatmapsets} ({finalBeatmapsets.length})
             </h4>
             <div className="flex items-center gap-2 text-sm text-gray-500 dark:text-gray-400">
               <SortAsc className="h-4 w-4" />
-              <span>Sorted by: {sortingLabel}</span>
+              <span>{t.sortedBy}: {sortingLabel}</span>
             </div>
           </div>
           

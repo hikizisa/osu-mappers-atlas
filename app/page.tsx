@@ -13,7 +13,7 @@ import { filterMappers, calculateFilteredStats } from './components/page-utils'
 import { useLanguage } from './components/LanguageContext'
 import { LanguageToggle } from './components/LanguageToggle'
 import { AnimatedList } from './components/AnimatedList'
-import { getModeName } from './components/i18n'
+import { countryMapperSubtitle, countryMappersLabel, getModeName } from './components/i18n'
 import { useCountry } from './components/CountryContext'
 import { WorldMapLanding } from './components/WorldMapLanding'
 
@@ -51,7 +51,7 @@ export default function Home() {
     fetchData(`data/mappers-${selectedCountryCode.toLowerCase()}.json`)
       .then(res => {
         if (!res.ok) {
-          throw new Error(`No mapper data found for ${selectedCountryCode}`)
+          throw new Error(t.noMapperDataGenerated)
         }
         return res.json()
       })
@@ -77,7 +77,7 @@ export default function Home() {
       .catch(err => {
         if (!isCurrent) return
         console.error('Error loading mapper data:', err)
-        setDataError(`No mapper data has been generated for ${selectedCountry.name}.`)
+        setDataError(t.noMapperDataGenerated)
         setLastUpdated('')
         setTotalStats({})
         setLoading(false)
@@ -86,7 +86,7 @@ export default function Home() {
     return () => {
       isCurrent = false
     }
-  }, [selectedCountryCode, selectedCountry.name])
+  }, [selectedCountryCode, selectedCountry.name, t.noMapperDataGenerated])
 
   useEffect(() => {
     // Filter mappers using shared utility
@@ -129,15 +129,15 @@ export default function Home() {
             <LanguageToggle />
           </div>
           <div className="text-center mb-8">
-            <p className="atlas-kicker mb-3">{countries.length} osu! countries indexed</p>
+            <p className="atlas-kicker mb-3">{countries.length} {t.countriesIndexed}</p>
             <div className="flex items-center justify-center gap-3 mb-4">
               <Compass className="h-9 w-9 text-osu-pink" />
               <h1 className="atlas-title">
-                osu! Mappers Atlas
+                {t.title}
               </h1>
             </div>
             <p className="atlas-subtitle mb-8">
-              Discover ranked and loved beatmaps from {selectedCountry.name} mappers.
+              {countryMapperSubtitle(selectedCountry.name, language)}
             </p>
             <WorldMapLanding />
             <div className="flex justify-center gap-4 mb-8">
@@ -150,7 +150,7 @@ export default function Home() {
               </Link>
             </div>
             <p className="mx-auto max-w-2xl text-sm leading-6 text-slate-500 dark:text-slate-400">
-              Switch countries to browse every osu! country recognized by the current country rankings.
+              {t.switchCountriesHelp}
             </p>
             {lastUpdated && (
               <p className="mt-2 font-mono text-xs text-slate-500">
@@ -181,14 +181,14 @@ export default function Home() {
             <h3 className="text-xl font-bold text-gray-800 dark:text-white">
               {loading ? '...' : formatNumber(filteredStats.mapperCount)}
             </h3>
-            <p className="text-sm text-gray-600 dark:text-gray-400">{selectedCountry.name} Mappers</p>
+            <p className="text-sm text-gray-600 dark:text-gray-400">{countryMappersLabel(selectedCountry.name, language)}</p>
           </div>
           <div className="atlas-stat-card">
             <Trophy className="h-6 w-6 text-osu-blue mx-auto mb-2" />
             <h3 className="text-xl font-bold text-gray-800 dark:text-white">
               {loading ? '...' : formatNumber(filteredStats.beatmapCount)}
             </h3>
-            <p className="text-sm text-gray-600 dark:text-gray-400">Total Beatmaps</p>
+            <p className="text-sm text-gray-600 dark:text-gray-400">{t.totalBeatmaps}</p>
           </div>
           <div className="atlas-stat-card">
             <div className="h-6 w-6 text-emerald-600 mx-auto mb-2 flex items-center justify-center font-bold text-lg">#</div>
@@ -225,7 +225,7 @@ export default function Home() {
                       }}
                       className="rounded border-gray-300 text-osu-pink focus:ring-osu-pink"
                     />
-                    <span className="text-sm text-gray-700 dark:text-gray-300 whitespace-nowrap">🏆 {t.ranked}</span>
+                    <span className="text-sm text-gray-700 dark:text-gray-300 whitespace-nowrap">R {t.ranked}</span>
                   </label>
                   <label className="flex items-center gap-2 cursor-pointer">
                     <input
@@ -242,7 +242,7 @@ export default function Home() {
                       }}
                       className="rounded border-gray-300 text-osu-pink focus:ring-osu-pink"
                     />
-                    <span className="text-sm text-gray-700 dark:text-gray-300 whitespace-nowrap">💖 {t.loved}</span>
+                    <span className="text-sm text-gray-700 dark:text-gray-300 whitespace-nowrap">L {t.loved}</span>
                   </label>
                 </div>
               </div>
@@ -296,7 +296,7 @@ export default function Home() {
                   <button
                     onClick={() => setMapperSortDirection(mapperSortDirection === 'asc' ? 'desc' : 'asc')}
                     className="px-2 py-1 border border-l-0 border-gray-300 rounded-r-md text-sm bg-white dark:bg-gray-700 dark:border-gray-600 dark:text-white hover:bg-gray-50 dark:hover:bg-gray-600 focus:ring-2 focus:ring-osu-pink focus:border-transparent transition-all duration-200 ease-in-out"
-                    title={mapperSortDirection === 'asc' ? 'Ascending' : 'Descending'}
+                    title={mapperSortDirection === 'asc' ? t.ascending : t.descending}
                   >
                     {mapperSortDirection === 'asc' ? <ChevronUp className="h-4 w-4" /> : <ChevronDown className="h-4 w-4" />}
                   </button>
@@ -322,7 +322,7 @@ export default function Home() {
                   <button
                     onClick={() => setBeatmapSortDirection(beatmapSortDirection === 'asc' ? 'desc' : 'asc')}
                     className="px-2 py-1 border border-l-0 border-gray-300 rounded-r-md text-sm bg-white dark:bg-gray-700 dark:border-gray-600 dark:text-white hover:bg-gray-50 dark:hover:bg-gray-600 focus:ring-2 focus:ring-osu-pink focus:border-transparent transition-all duration-200 ease-in-out"
-                    title={beatmapSortDirection === 'asc' ? 'Ascending' : 'Descending'}
+                    title={beatmapSortDirection === 'asc' ? t.ascending : t.descending}
                   >
                     {beatmapSortDirection === 'asc' ? <ChevronUp className="h-4 w-4" /> : <ChevronDown className="h-4 w-4" />}
                   </button>
@@ -337,7 +337,7 @@ export default function Home() {
           <div className="atlas-panel mb-8 flex min-h-48 items-center justify-center p-8 text-center">
             <div>
               <div className="mx-auto mb-4 h-12 w-12 animate-spin rounded-full border-b-2 border-osu-pink"></div>
-              <p className="text-lg font-semibold text-slate-700 dark:text-slate-200">Loading mapper data...</p>
+              <p className="text-lg font-semibold text-slate-700 dark:text-slate-200">{t.loadingMapperData}</p>
             </div>
           </div>
         )}
@@ -366,7 +366,7 @@ export default function Home() {
           <div className="rounded-lg border border-amber-200 bg-amber-50 p-6 text-center shadow-sm dark:border-amber-700 dark:bg-amber-900/30">
             <p className="text-lg font-semibold text-amber-950 dark:text-amber-50">{dataError}</p>
             <p className="mt-2 text-sm text-amber-900 dark:text-amber-100">
-              Run <code className="font-semibold">npm run fetch-data -- --country={selectedCountryCode}</code>, then <code className="font-semibold">npm run init-countries</code>.
+              {t.generateCountryHint}
             </p>
           </div>
         )}

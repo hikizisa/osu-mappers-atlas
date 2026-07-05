@@ -11,7 +11,7 @@ import { getAllBeatmapsetsFromMappers, filterBeatmapsets } from '../components/p
 import { useLanguage } from '../components/LanguageContext'
 import { LanguageToggle } from '../components/LanguageToggle'
 import { FloatingDisplayToggle } from '../components/FloatingDisplayToggle'
-import { getModeName } from '../components/i18n'
+import { formatTemplate, getModeName } from '../components/i18n'
 import { AnimatedList } from '../components/AnimatedList'
 import { useCountry } from '../components/CountryContext'
 import { CountrySelector } from '../components/CountrySelector'
@@ -48,7 +48,7 @@ export default function AllMapsPage() {
         setError(null)
         const response = await fetchData(`data/mappers-${selectedCountryCode.toLowerCase()}.json`)
         if (!response.ok) {
-          throw new Error(`No mapper data has been generated for ${selectedCountry.name}.`)
+          throw new Error(t.noMapperDataGenerated)
         }
         const data = await response.json()
         if (!isCurrent) return
@@ -56,7 +56,7 @@ export default function AllMapsPage() {
       } catch (err) {
         if (!isCurrent) return
         setMappers([])
-        setError(err instanceof Error ? err.message : 'An error occurred')
+        setError(err instanceof Error ? err.message : t.noMapperDataGenerated)
       } finally {
         if (isCurrent) setLoading(false)
       }
@@ -67,7 +67,7 @@ export default function AllMapsPage() {
     return () => {
       isCurrent = false
     }
-  }, [selectedCountryCode, selectedCountry.name])
+  }, [selectedCountryCode, selectedCountry.name, t.noMapperDataGenerated])
 
   const formatDate = (dateString: string) => {
     return new Date(dateString).toLocaleDateString('en-US', {
@@ -149,7 +149,7 @@ export default function AllMapsPage() {
         <div className="text-center">
           <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-osu-pink mx-auto mb-4"></div>
           <p className="text-gray-600 dark:text-gray-400">
-            {language === 'ko' ? '비트맵 데이터를 불러오는 중...' : 'Loading beatmap data...'}
+            {t.loadingBeatmapData}
           </p>
         </div>
       </div>
@@ -162,7 +162,7 @@ export default function AllMapsPage() {
         <div className="mx-auto w-full max-w-3xl px-4 text-center">
           <p className="text-red-600 dark:text-red-400 mb-4">Error: {error}</p>
           <p className="mb-4 text-sm text-gray-600 dark:text-gray-300">
-            Run <code className="font-semibold">npm run fetch-data -- --country={selectedCountryCode}</code>, then <code className="font-semibold">npm run init-countries</code>.
+            {t.generateCountryHint}
           </p>
           <div className="mb-4 flex justify-center">
             <CountrySelector />
@@ -171,7 +171,7 @@ export default function AllMapsPage() {
             onClick={() => window.location.reload()}
             className="atlas-primary-action"
           >
-            Retry
+            {t.retry}
           </button>
         </div>
       </div>
@@ -202,7 +202,7 @@ export default function AllMapsPage() {
           </div>
           <div className="flex flex-col gap-4">
             <p className="atlas-subtitle mx-0 text-base">
-              Browse ranked and loved beatmapsets from {selectedCountry.name} mappers.
+              {t.allMapsSubtitle}
             </p>
             <CountrySelector />
           </div>
@@ -242,7 +242,7 @@ export default function AllMapsPage() {
                 <button
                   onClick={() => setSortDirection(sortDirection === 'asc' ? 'desc' : 'asc')}
                   className="p-2 border border-gray-300 rounded-lg hover:bg-gray-50 dark:border-gray-600 dark:hover:bg-gray-700 transition-all duration-200 ease-in-out"
-                  title={sortDirection === 'asc' ? (language === 'ko' ? '오름차순' : 'Ascending') : (language === 'ko' ? '내림차순' : 'Descending')}
+                  title={sortDirection === 'asc' ? t.ascending : t.descending}
                 >
                   {sortDirection === 'asc' ? (
                     <ChevronUp className="h-4 w-4 text-gray-600 dark:text-gray-300" />
@@ -308,7 +308,7 @@ export default function AllMapsPage() {
                       }}
                       className="rounded border-gray-300 text-osu-pink focus:ring-osu-pink"
                     />
-                    <span className="text-sm text-gray-700 dark:text-gray-300 whitespace-nowrap">🏆 {t.ranked}</span>
+                    <span className="text-sm text-gray-700 dark:text-gray-300 whitespace-nowrap">R {t.ranked}</span>
                   </label>
                   <label className="flex items-center gap-2 cursor-pointer">
                     <input
@@ -325,7 +325,7 @@ export default function AllMapsPage() {
                       }}
                       className="rounded border-gray-300 text-osu-pink focus:ring-osu-pink"
                     />
-                    <span className="text-sm text-gray-700 dark:text-gray-300 whitespace-nowrap">💖 {t.loved}</span>
+                    <span className="text-sm text-gray-700 dark:text-gray-300 whitespace-nowrap">L {t.loved}</span>
                   </label>
                 </div>
               </div>
@@ -335,9 +335,10 @@ export default function AllMapsPage() {
           </div>
 
           <div className="mt-4 text-sm text-gray-600 dark:text-gray-400">
-            {language === 'ko'
-              ? `${displayedBeatmapsets.length}/${allFilteredBeatmapsets.length}개의 비트맵셋 표시 중`
-              : `Showing ${displayedBeatmapsets.length} of ${allFilteredBeatmapsets.length} beatmapsets`}
+            {formatTemplate(t.showingBeatmapsets, {
+              shown: displayedBeatmapsets.length,
+              total: allFilteredBeatmapsets.length
+            })}
           </div>
         </div>
 
@@ -361,7 +362,7 @@ export default function AllMapsPage() {
           <div className="text-center py-8 animate-fade-in">
             <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-osu-pink mx-auto mb-2"></div>
             <p className="text-gray-600 dark:text-gray-400 animate-pulse">
-              {language === 'ko' ? '더 많은 비트맵셋을 불러오는 중...' : 'Loading more beatmapsets...'}
+              {t.loadingMoreBeatmapsets}
             </p>
           </div>
         )}
@@ -373,7 +374,7 @@ export default function AllMapsPage() {
               onClick={loadMore}
               className="px-6 py-3 bg-osu-pink text-white rounded-lg hover:bg-osu-pink-dark transition-colors duration-200 font-medium"
             >
-              {language === 'ko' ? '더 보기' : 'Load More'}
+              {t.loadMore}
             </button>
           </div>
         )}
@@ -382,7 +383,7 @@ export default function AllMapsPage() {
         {allFilteredBeatmapsets.length === 0 && !loading && (
           <div className="text-center py-12">
             <p className="text-gray-600 dark:text-gray-400 text-lg">
-              {language === 'ko' ? '검색 조건에 맞는 비트맵셋을 찾을 수 없습니다.' : 'No beatmapsets found matching your criteria.'}
+              {t.noBeatmapsetsFound}
             </p>
           </div>
         )}
@@ -391,7 +392,7 @@ export default function AllMapsPage() {
         {!hasMore && displayedBeatmapsets.length > 0 && (
           <div className="text-center py-8">
             <p className="text-gray-500 dark:text-gray-400">
-              {language === 'ko' ? '모든 비트맵셋을 표시했습니다.' : 'You\'ve reached the end of the results.'}
+              {t.endOfResults}
             </p>
           </div>
         )}
