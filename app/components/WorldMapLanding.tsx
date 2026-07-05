@@ -6,7 +6,7 @@ import * as isoCountries from 'i18n-iso-countries'
 import worldCountries from 'world-atlas/countries-110m.json'
 import { Database, Globe2, LocateFixed, MapPinned, Minus, Plus, RotateCcw } from 'lucide-react'
 import { CountryOption, useCountry } from './CountryContext'
-import { CountrySelector } from './CountrySelector'
+import { CountryFlag, CountrySelector } from './CountrySelector'
 import { useLanguage } from './LanguageContext'
 import { formatNumber } from './utils'
 
@@ -239,7 +239,9 @@ export const WorldMapLanding: React.FC = () => {
                   onClick={() => setSelectedCountryCode(country.code)}
                   className={`atlas-map-rank-item ${country.code === selectedCountryCode ? 'atlas-map-rank-item--active' : ''}`}
                 >
-                  <span>{country.code}</span>
+                  <span className="atlas-map-rank-flag" aria-hidden="true">
+                    <CountryFlag countryCode={country.code} />
+                  </span>
                   <strong>{country.name}</strong>
                   <em>{formatNumber(country.mapperCount || 0)}</em>
                 </button>

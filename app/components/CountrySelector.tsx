@@ -13,7 +13,7 @@ function flagImageUrl(countryCode: string): string {
   return `https://flagcdn.com/${countryCode.toLowerCase()}.svg`
 }
 
-const CountryFlag: React.FC<{ countryCode: string }> = ({ countryCode }) => {
+export const CountryFlag: React.FC<{ countryCode: string }> = ({ countryCode }) => {
   const [hasImageError, setHasImageError] = useState(false)
 
   if (!canUseFlagImage(countryCode) || hasImageError) {
