@@ -387,7 +387,7 @@ export default function Home() {
           <div className="flex items-center justify-center space-x-2 mb-2">
             <Github className="h-5 w-5 text-gray-600" />
             <a
-              href="https://github.com/hikizisa/kankokujin-no-map"
+              href="https://github.com/hikizisa/osu-mappers-atlas"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 hover:text-osu-pink transition-colors"

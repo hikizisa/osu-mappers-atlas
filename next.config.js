@@ -1,6 +1,12 @@
 /** @type {import('next').NextConfig} */
-// Check if we're building for GitHub Pages deployment
-const isGitHubPages = process.env.GITHUB_ACTIONS || process.env.NODE_ENV === 'production'
+function normalizeBasePath(value) {
+  if (!value) return ''
+  const trimmed = value.trim().replace(/\/+$/, '')
+  return trimmed.startsWith('/') ? trimmed : `/${trimmed}`
+}
+
+const repositoryName = process.env.GITHUB_REPOSITORY?.split('/')[1] || ''
+const basePath = normalizeBasePath(process.env.NEXT_PUBLIC_BASE_PATH || repositoryName)
 
 const nextConfig = {
   output: 'export',
@@ -9,9 +15,11 @@ const nextConfig = {
     unoptimized: true,
     domains: ['a.ppy.sh']
   },
-  // For GitHub Pages deployment
-  basePath: isGitHubPages ? '/kankokujin-no-map' : '',
-  assetPrefix: isGitHubPages ? '/kankokujin-no-map/' : '',
+  basePath,
+  assetPrefix: basePath ? `${basePath}/` : '',
+  env: {
+    NEXT_PUBLIC_BASE_PATH: basePath
+  },
   distDir: 'out'
 }
 

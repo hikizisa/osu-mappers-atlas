@@ -5,9 +5,7 @@
  * This ensures that data fetching works correctly both in development and on GitHub Pages
  */
 export function getBasePath(): string {
-  // Check if we're in GitHub Pages environment (same logic as next.config.js)
-  const isGitHubPages = process.env.GITHUB_ACTIONS || process.env.NODE_ENV === 'production'
-  return isGitHubPages ? '/kankokujin-no-map' : ''
+  return process.env.NEXT_PUBLIC_BASE_PATH || ''
 }
 
 /**
