@@ -84,7 +84,7 @@ export interface BeatmapsetGroup {
 }
 
 export type SortOption = 'date' | 'artist' | 'title' | 'favorite' | 'playcount'
-export type MapperSortOption = 'name' | 'beatmaps' | 'mapsets' | 'recent'
+export type MapperSortOption = 'name' | 'beatmaps' | 'mapsets' | 'recent' | 'first'
 export type SortDirection = 'asc' | 'desc'
 
 export interface SortConfig {

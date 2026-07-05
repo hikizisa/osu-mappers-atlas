@@ -106,6 +106,13 @@ If the workflow is not running, indexing is not progressing. Completed deploy ru
 - Refreshes a wider rolling shard of existing countries.
 - Can be manually run for one country.
 
+`Mapset Stats Refresh`:
+
+- Runs weekly.
+- Updates playcount and favorite counts through osu! API v1 for already indexed mapsets.
+- Refreshes mapsets ranked/loved within the last 31 days after 7 days; older mapsets after 30 days.
+- Uses `data/mapset-stats-refresh-state.json` to avoid refreshing every mapset every run.
+
 `Update Manual Mapper IDs`:
 
 - Updates `manualMapperIds` in `data/countries.json` for one country.
@@ -138,6 +145,12 @@ To update manual IDs locally:
 
 ```powershell
 npm run update-manual-mappers -- --country=JP --ids=12345,67890 --mode=add
+```
+
+To check due mapset stat updates without writing data:
+
+```powershell
+npm run refresh-mapset-stats -- --countries=KR --max-requests=100 --dry-run
 ```
 
 ## Files That Usually Change After Fetching

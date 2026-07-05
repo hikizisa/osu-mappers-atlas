@@ -1,9 +1,9 @@
 import React from 'react'
 import { User, ChevronDown, ChevronUp, Sparkles, SortAsc } from 'lucide-react'
-import { Mapper, SortOption, SortDirection } from './types'
+import { Mapper, MapperSortOption, SortOption, SortDirection } from './types'
 import { BeatmapsetCard } from './BeatmapsetCard'
-import { formatNumber } from './utils'
-import { hasRecentRankedMap, sortMapperBeatmapsetsV2 } from './sorting'
+import { formatDate, formatNumber } from './utils'
+import { calculateFirstRankedDateFiltered, calculateMostRecentRankedDateFiltered, hasRecentRankedMap, sortMapperBeatmapsetsV2 } from './sorting'
 import { useLanguage } from './LanguageContext'
 
 interface MapperCardProps {
@@ -15,6 +15,8 @@ interface MapperCardProps {
   onToggle: (mapperId: string) => void
   beatmapSortBy: SortOption
   beatmapSortDirection: SortDirection
+  mapperSortBy: MapperSortOption
+  sortMetricMapper?: Mapper
 }
 
 export const MapperCard: React.FC<MapperCardProps> = ({
@@ -25,7 +27,9 @@ export const MapperCard: React.FC<MapperCardProps> = ({
   isExpanded,
   onToggle,
   beatmapSortBy,
-  beatmapSortDirection
+  beatmapSortDirection,
+  mapperSortBy,
+  sortMetricMapper
 }) => {
   const { t } = useLanguage()
   // No longer need local state - using global sorting from main page
@@ -115,6 +119,33 @@ export const MapperCard: React.FC<MapperCardProps> = ({
 
   const displayName = mapper.username
   const aliases = mapper.aliases && mapper.aliases.length > 0 ? mapper.aliases : []
+  const metricSource = sortMetricMapper || mapper
+  const dateMetric = (() => {
+    if (mapperSortBy === 'recent') {
+      const date = calculateMostRecentRankedDateFiltered(metricSource, selectedModes, selectedStatuses)
+      return date === '1970-01-01' ? t.unknown : formatDate(date, t.unknown)
+    }
+    if (mapperSortBy === 'first') {
+      const date = calculateFirstRankedDateFiltered(metricSource, selectedModes, selectedStatuses)
+      return date === '9999-12-31' ? t.unknown : formatDate(date, t.unknown)
+    }
+    return null
+  })()
+  const primaryMetric = (() => {
+    if (mapperSortBy === 'beatmaps') {
+      return { value: formatNumber(filteredBeatmaps.length), label: t.beatmaps }
+    }
+    if (mapperSortBy === 'recent') {
+      return { value: dateMetric || t.unknown, label: t.sortByRecent }
+    }
+    if (mapperSortBy === 'first') {
+      return { value: dateMetric || t.unknown, label: t.sortByFirst }
+    }
+    return { value: formatNumber(filteredBeatmapsets.length), label: t.beatmapsets }
+  })()
+  const secondaryMetric = mapperSortBy === 'beatmaps'
+    ? { value: formatNumber(filteredBeatmapsets.length), label: t.beatmapsets }
+    : { value: formatNumber(filteredBeatmaps.length), label: t.beatmaps }
 
   return (
     <div className="bg-slate-50/95 dark:bg-gray-800 rounded-lg border-2 border-slate-300 dark:border-gray-600 hover:border-osu-pink dark:hover:border-osu-pink shadow-md hover:shadow-lg transition-all duration-200">
@@ -162,16 +193,16 @@ export const MapperCard: React.FC<MapperCardProps> = ({
           
           <div className="flex items-center space-x-6">
             <div className="text-center">
-              <div className="text-2xl font-bold text-osu-pink">
-                {formatNumber(filteredBeatmapsets.length)}
+              <div className={`${mapperSortBy === 'recent' || mapperSortBy === 'first' ? 'text-base' : 'text-2xl'} font-bold text-osu-pink`}>
+                {primaryMetric.value}
               </div>
-              <div className="text-xs text-gray-500 dark:text-gray-400">{t.beatmapsets}</div>
+              <div className="text-xs text-gray-500 dark:text-gray-400">{primaryMetric.label}</div>
             </div>
             <div className="text-center">
               <div className="text-2xl font-bold text-blue-600">
-                {formatNumber(filteredBeatmaps.length)}
+                {secondaryMetric.value}
               </div>
-              <div className="text-xs text-gray-500 dark:text-gray-400">{t.beatmaps}</div>
+              <div className="text-xs text-gray-500 dark:text-gray-400">{secondaryMetric.label}</div>
             </div>
             <div className="ml-4">
               {isExpanded ? (

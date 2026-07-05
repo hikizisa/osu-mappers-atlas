@@ -1,6 +1,6 @@
 'use client'
 
-import React, { useState, useEffect } from 'react'
+import React, { useState, useEffect, useMemo } from 'react'
 import Link from 'next/link'
 import { Search, User, Calendar, Trophy, Github, ChevronDown, ChevronUp, Compass } from 'lucide-react'
 import { Mapper, MapperSortOption, SortOption } from './components/types'
@@ -9,7 +9,7 @@ import { processMapperData } from './components/beatmapset-utils'
 import { formatNumber, formatDate } from './components/utils'
 import { sortMappers } from './components/sorting'
 import { fetchData } from './components/api-utils'
-import { filterMappers, calculateFilteredStats } from './components/page-utils'
+import { ALL_YEARS, filterMappers, calculateFilteredStats, getAvailableYearsFromMappers } from './components/page-utils'
 import { useLanguage } from './components/LanguageContext'
 import { LanguageToggle } from './components/LanguageToggle'
 import { AnimatedList } from './components/AnimatedList'
@@ -32,6 +32,7 @@ export default function Home() {
   const [totalStats, setTotalStats] = useState<any>({})
   const [selectedModes, setSelectedModes] = useState<Set<string>>(new Set(['0', '1', '2', '3']))
   const [selectedStatuses, setSelectedStatuses] = useState<Set<string>>(new Set(['1', '4'])) // ranked and loved
+  const [selectedYear, setSelectedYear] = useState(ALL_YEARS)
   const displayStyle: 'card' | 'thumbnail' | 'minimal' = 'card'
 
   const [beatmapSortBy, setBeatmapSortBy] = useState<SortOption>('date')
@@ -48,6 +49,7 @@ export default function Home() {
     setDataError(null)
     setMappers([])
     setFilteredMappers([])
+    setSelectedYear(ALL_YEARS)
 
     fetchData(`data/mappers-${selectedCountryCode.toLowerCase()}.json`)
       .then(res => {
@@ -89,15 +91,24 @@ export default function Home() {
     }
   }, [selectedCountryCode, selectedCountry.name, t.noMapperDataGenerated])
 
+  const availableYears = useMemo(() => getAvailableYearsFromMappers(mappers), [mappers])
+
   useEffect(() => {
     // Filter mappers using shared utility
-    let filtered = filterMappers(mappers, searchTerm, selectedModes, selectedStatuses)
+    let filtered = filterMappers(mappers, searchTerm, selectedModes, selectedStatuses, selectedYear)
+    const fullYearSortSources = filterMappers(mappers, searchTerm, selectedModes, selectedStatuses, ALL_YEARS)
+    const sortSourceById = new Map(fullYearSortSources.map(mapper => [mapper.user_id, mapper]))
     
     // Sort mappers using shared sorting utility (considering current filters)
-    filtered = sortMappers(filtered, mapperSortBy, mapperSortDirection, selectedModes, selectedStatuses)
+    filtered = sortMappers(filtered, mapperSortBy, mapperSortDirection, selectedModes, selectedStatuses, sortSourceById)
     
     setFilteredMappers(filtered)
-  }, [searchTerm, mappers, mapperSortBy, mapperSortDirection, selectedModes, selectedStatuses])
+  }, [searchTerm, mappers, mapperSortBy, mapperSortDirection, selectedModes, selectedStatuses, selectedYear])
+
+  const mapperSortSourceById = useMemo(() => {
+    const fullYearSortSources = filterMappers(mappers, searchTerm, selectedModes, selectedStatuses, ALL_YEARS)
+    return new Map(fullYearSortSources.map(mapper => [mapper.user_id, mapper]))
+  }, [mappers, searchTerm, selectedModes, selectedStatuses])
 
   const toggleMapper = (mapperId: string) => {
     const newExpanded = new Set(expandedMappers)
@@ -119,7 +130,7 @@ export default function Home() {
     setSelectedModes(newModes)
   }
 
-  const filteredStats = calculateFilteredStats(filteredMappers, selectedModes, totalStats)
+  const filteredStats = calculateFilteredStats(filteredMappers)
 
   return (
     <div className="atlas-shell">
@@ -248,6 +259,21 @@ export default function Home() {
                 </div>
               </div>
 
+              {/* Year Filter */}
+              <div className="flex flex-col sm:flex-row sm:items-center gap-2">
+                <label className="text-sm font-medium text-gray-700 dark:text-gray-300 whitespace-nowrap">{t.filterByYear}:</label>
+                <select
+                  value={selectedYear}
+                  onChange={(event) => setSelectedYear(event.target.value)}
+                  className="px-3 py-1 border border-gray-300 rounded-md text-sm bg-white dark:bg-gray-700 dark:border-gray-600 dark:text-white focus:ring-2 focus:ring-osu-pink focus:border-transparent transition-all duration-200 ease-in-out"
+                >
+                  <option value={ALL_YEARS}>{t.allYears}</option>
+                  {availableYears.map(year => (
+                    <option key={year} value={year}>{year}</option>
+                  ))}
+                </select>
+              </div>
+
               {/* Game Mode Filter */}
               <div className="flex flex-col sm:flex-row sm:items-center gap-2">
                 <label className="text-sm font-medium text-gray-700 dark:text-gray-300 whitespace-nowrap">{t.filterByMode}:</label>
@@ -284,6 +310,10 @@ export default function Home() {
                       // Set default direction for Recent Activity to show most recent first
                       if (newSortBy === 'recent') {
                         setMapperSortDirection('desc')
+                      } else if (newSortBy === 'first') {
+                        setMapperSortDirection('asc')
+                      } else if (newSortBy === 'beatmaps' || newSortBy === 'mapsets') {
+                        setMapperSortDirection('desc')
                       }
                     }}
                     className="px-3 py-1 border border-gray-300 rounded-l-md text-sm bg-white dark:bg-gray-700 dark:border-gray-600 dark:text-white focus:ring-2 focus:ring-osu-pink focus:border-transparent transition-all duration-200 ease-in-out appearance-none"
@@ -291,8 +321,9 @@ export default function Home() {
                   >
                     <option value="name">{t.sortByName}</option>
                     <option value="mapsets">{t.sortByBeatmapsets}</option>
-                    {/* <option value="beatmaps">Total Beatmaps</option> */}
+                    <option value="beatmaps">{t.sortByBeatmaps}</option>
                     <option value="recent">{t.sortByRecent}</option>
+                    <option value="first">{t.sortByFirst}</option>
                   </select>
                   <button
                     onClick={() => setMapperSortDirection(mapperSortDirection === 'asc' ? 'desc' : 'asc')}
@@ -358,6 +389,8 @@ export default function Home() {
                 onToggle={toggleMapper}
                 beatmapSortBy={beatmapSortBy}
                 beatmapSortDirection={beatmapSortDirection}
+                mapperSortBy={mapperSortBy}
+                sortMetricMapper={mapperSortSourceById.get(mapper.user_id)}
               />
             )}
           />

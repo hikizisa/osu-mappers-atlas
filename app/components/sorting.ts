@@ -92,11 +92,14 @@ export const sortMappers = (
   sortBy: MapperSortOption,
   direction: SortDirection = 'desc',
   selectedModes?: Set<string>,
-  selectedStatuses?: Set<string>
+  selectedStatuses?: Set<string>,
+  sortSourceById: Map<string, Mapper> = new Map()
 ): Mapper[] => {
   const multiplier = direction === 'desc' ? -1 : 1
   
   return [...mappers].sort((a, b) => {
+    const aSortSource = sortSourceById.get(a.user_id) || a
+    const bSortSource = sortSourceById.get(b.user_id) || b
     let result = 0
     switch (sortBy) {
       case 'name':
@@ -115,9 +118,15 @@ export const sortMappers = (
         break
       case 'recent':
         // Sort by most recently ranked beatmapset (considering filters)
-        const aRecentDate = calculateMostRecentRankedDateFiltered(a, selectedModes, selectedStatuses)
-        const bRecentDate = calculateMostRecentRankedDateFiltered(b, selectedModes, selectedStatuses)
+        const aRecentDate = calculateMostRecentRankedDateFiltered(aSortSource, selectedModes, selectedStatuses)
+        const bRecentDate = calculateMostRecentRankedDateFiltered(bSortSource, selectedModes, selectedStatuses)
         result = new Date(aRecentDate).getTime() - new Date(bRecentDate).getTime()
+        break
+      case 'first':
+        // Sort by first ranked/loved beatmapset after active non-year filters.
+        const aFirstDate = calculateFirstRankedDateFiltered(aSortSource, selectedModes, selectedStatuses)
+        const bFirstDate = calculateFirstRankedDateFiltered(bSortSource, selectedModes, selectedStatuses)
+        result = new Date(aFirstDate).getTime() - new Date(bFirstDate).getTime()
         break
       default:
         const aDefaultMapsets = getFilteredBeatmapsetCount(a, selectedModes, selectedStatuses)
@@ -227,6 +236,45 @@ export const calculateMostRecentRankedDateFiltered = (
     .sort((a, b) => new Date(b.approved_date).getTime() - new Date(a.approved_date).getTime())
   
   return sortedByDate.length > 0 ? sortedByDate[0].approved_date : '1970-01-01'
+}
+
+/**
+ * Calculate first ranked/loved date considering only beatmapsets matching filters
+ */
+export const calculateFirstRankedDateFiltered = (
+  mapper: Mapper,
+  selectedModes?: Set<string>,
+  selectedStatuses?: Set<string>
+): string => {
+  if (!mapper.beatmapsets || mapper.beatmapsets.length === 0) {
+    return '9999-12-31'
+  }
+
+  let filteredBeatmapsets = mapper.beatmapsets.filter(beatmapset => beatmapset.approved_date)
+
+  if (selectedStatuses && selectedStatuses.size > 0) {
+    filteredBeatmapsets = filteredBeatmapsets.filter(beatmapset =>
+      selectedStatuses.has(beatmapset.approved.toString())
+    )
+  }
+
+  if (selectedModes && selectedModes.size > 0) {
+    filteredBeatmapsets = filteredBeatmapsets.filter(beatmapset => {
+      const hasMatchingMode = beatmapset.difficulties && beatmapset.difficulties.some(diff =>
+        selectedModes.has(diff.mode)
+      )
+      const hasModeInArray = !hasMatchingMode && beatmapset.modes && beatmapset.modes.some(mode =>
+        selectedModes.has(mode)
+      )
+
+      return hasMatchingMode || hasModeInArray
+    })
+  }
+
+  const sortedByDate = filteredBeatmapsets
+    .sort((a, b) => new Date(a.approved_date).getTime() - new Date(b.approved_date).getTime())
+
+  return sortedByDate.length > 0 ? sortedByDate[0].approved_date : '9999-12-31'
 }
 
 /**

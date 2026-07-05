@@ -68,6 +68,7 @@ Generated files are:
 - `Daily Data Refresh`: rolling refresh for existing generated countries. Can also refresh one country manually.
 - `Monthly Data Refresh`: wider rolling refresh for existing generated countries. Can also refresh one country manually.
 - `All-Country Data Refresh`: manual initializer for missing/all/selected countries. It splits countries into shards, merges the results, commits changed data, then deploys.
+- `Mapset Stats Refresh`: weekly scheduled playcount/favorite refresh for already indexed mapsets. Recent mapsets refresh after 7 days; older mapsets refresh after 30 days.
 
 Actions page:
 
@@ -113,6 +114,16 @@ Local equivalent:
 ```bash
 npm run update-manual-mappers -- --country=JP --ids=12345,67890 --mode=add
 ```
+
+## Refreshing Mapset Stats
+
+Playcount and favorite counts are updated separately from mapper discovery:
+
+```bash
+npm run refresh-mapset-stats -- --countries=KR --max-requests=100 --dry-run
+```
+
+The scheduled action keeps a state file in `data/mapset-stats-refresh-state.json`, so it only requests mapsets that are due.
 
 ## Repository Notes
 

@@ -12,6 +12,8 @@ export interface Translations {
   noResults: string
   filterByMode: string
   filterByStatus: string
+  filterByYear: string
+  allYears: string
   ranked: string
   approved: string
   qualified: string
@@ -23,6 +25,7 @@ export interface Translations {
   sortByBeatmapsets: string
   sortByBeatmaps: string
   sortByRecent: string
+  sortByFirst: string
   sortByDate: string
   sortByArtist: string
   sortByTitle: string
@@ -106,6 +109,8 @@ export const translations: Record<Language, Translations> = {
     noResults: 'No results found',
     filterByMode: 'Filter by Mode',
     filterByStatus: 'Filter by Status',
+    filterByYear: 'Year',
+    allYears: 'All years',
     ranked: 'Ranked',
     approved: 'Approved',
     qualified: 'Qualified',
@@ -117,6 +122,7 @@ export const translations: Record<Language, Translations> = {
     sortByBeatmapsets: 'Beatmapsets',
     sortByBeatmaps: 'Total Beatmaps',
     sortByRecent: 'Recent Activity',
+    sortByFirst: 'First Ranked/Loved',
     sortByDate: 'Date',
     sortByArtist: 'Artist',
     sortByTitle: 'Title',
@@ -198,6 +204,8 @@ export const translations: Record<Language, Translations> = {
     noResults: '\uAC80\uC0C9 \uACB0\uACFC\uAC00 \uC5C6\uC2B5\uB2C8\uB2E4',
     filterByMode: '\uBAA8\uB4DC \uD544\uD130',
     filterByStatus: '\uC0C1\uD0DC \uD544\uD130',
+    filterByYear: '\uC5F0\uB3C4',
+    allYears: '\uBAA8\uB4E0 \uC5F0\uB3C4',
     ranked: '\uB7AD\uD06C',
     approved: '\uC2B9\uC778',
     qualified: '\uD004\uB9AC\uD30C\uC774\uB4DC',
@@ -209,6 +217,7 @@ export const translations: Record<Language, Translations> = {
     sortByBeatmapsets: '\uBE44\uD2B8\uB9F5\uC14B',
     sortByBeatmaps: '\uC804\uCCB4 \uBE44\uD2B8\uB9F5',
     sortByRecent: '\uCD5C\uADFC \uD65C\uB3D9',
+    sortByFirst: '\uCCAB \uB7AD\uD06C/\uB7EC\uBE0C\uB4DC',
     sortByDate: '\uB0A0\uC9DC',
     sortByArtist: '\uC544\uD2F0\uC2A4\uD2B8',
     sortByTitle: '\uC81C\uBAA9',

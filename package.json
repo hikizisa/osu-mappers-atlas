@@ -12,6 +12,7 @@
     "fetch-all-countries": "node scripts/fetch-all-countries.js",
     "fetch-all-missing": "node scripts/fetch-all-countries.js --only-missing --write-empty",
     "init-countries": "node scripts/init-countries.js",
+    "refresh-mapset-stats": "node scripts/refresh-mapset-stats.js",
     "update-manual-mappers": "node scripts/update-manual-mappers.js"
   },
   "dependencies": {

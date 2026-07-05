@@ -1,6 +1,85 @@
-import { Mapper, BeatmapsetGroup } from './types'
+import { Mapper, Beatmap, Beatmapset, BeatmapsetGroup } from './types'
 import { constructBeatmapsetsFromBeatmaps } from './beatmapset-utils'
 import { searchInMapper } from './utils'
+
+export const ALL_YEARS = 'all'
+
+export function getApprovedYear(approvedDate?: string): string | null {
+  if (!approvedDate) return null
+  const year = new Date(approvedDate).getFullYear()
+  return Number.isFinite(year) ? String(year) : null
+}
+
+export function matchesSelectedYear(approvedDate: string | undefined, selectedYear: string): boolean {
+  return selectedYear === ALL_YEARS || getApprovedYear(approvedDate) === selectedYear
+}
+
+export function getAvailableYearsFromMappers(mappers: Mapper[]): string[] {
+  return Array.from(new Set(
+    mappers
+      .flatMap(mapper => mapper.beatmaps || [])
+      .map(beatmap => getApprovedYear(beatmap.approved_date))
+      .filter((year): year is string => Boolean(year))
+  )).sort((a, b) => Number(b) - Number(a))
+}
+
+export function beatmapMatchesFilters(
+  beatmap: Beatmap,
+  selectedModes: Set<string>,
+  selectedStatuses: Set<string>,
+  selectedYear: string = ALL_YEARS
+): boolean {
+  return selectedModes.has(beatmap.mode || '0') &&
+    selectedStatuses.has(beatmap.approved || '1') &&
+    matchesSelectedYear(beatmap.approved_date, selectedYear)
+}
+
+export function beatmapsetMatchesFilters(
+  beatmapset: Beatmapset | BeatmapsetGroup,
+  selectedModes: Set<string>,
+  selectedStatuses: Set<string>,
+  selectedYear: string = ALL_YEARS
+): boolean {
+  const hasMatchingStatus = selectedStatuses.has(beatmapset.approved || '1')
+  const hasMatchingYear = matchesSelectedYear(beatmapset.approved_date, selectedYear)
+  const hasMatchingMode = beatmapset.difficulties && beatmapset.difficulties.some(diff =>
+    selectedModes.has(diff.mode)
+  )
+  const hasModeInArray = !hasMatchingMode && beatmapset.modes && beatmapset.modes.some(mode =>
+    selectedModes.has(mode)
+  )
+
+  return hasMatchingStatus && hasMatchingYear && (hasMatchingMode || hasModeInArray)
+}
+
+export function filterMapperMaps(
+  mapper: Mapper,
+  selectedModes: Set<string>,
+  selectedStatuses: Set<string>,
+  selectedYear: string = ALL_YEARS
+): Mapper {
+  const beatmaps = (mapper.beatmaps || []).filter(beatmap =>
+    beatmapMatchesFilters(beatmap, selectedModes, selectedStatuses, selectedYear)
+  )
+  const beatmapsBySet = new Set(beatmaps.map(beatmap => beatmap.beatmapset_id))
+  const beatmapsets = (mapper.beatmapsets || []).filter(beatmapset =>
+    beatmapsetMatchesFilters(beatmapset, selectedModes, selectedStatuses, selectedYear) &&
+    beatmapsBySet.has(beatmapset.beatmapset_id)
+  )
+
+  return {
+    ...mapper,
+    beatmaps,
+    beatmapsets,
+    rankedBeatmaps: beatmaps.length,
+    rankedBeatmapsets: beatmapsets.length,
+    stats: {
+      ...mapper.stats,
+      totalBeatmaps: beatmaps.length,
+      totalBeatmapsets: beatmapsets.length
+    }
+  }
+}
 
 /**
  * Filters mappers based on search term and mode/status filters
@@ -16,32 +95,17 @@ export function filterMappers(
   mappers: Mapper[],
   searchTerm: string,
   selectedModes: Set<string>,
-  selectedStatuses: Set<string>
+  selectedStatuses: Set<string>,
+  selectedYear: string = ALL_YEARS
 ): Mapper[] {
   // Filter mappers based on search term using shared utility
-  let filtered = mappers.filter(mapper => searchInMapper(mapper, searchTerm))
+  let filtered = mappers
+    .filter(mapper => searchInMapper(mapper, searchTerm))
+    .map(mapper => filterMapperMaps(mapper, selectedModes, selectedStatuses, selectedYear))
   
   // Filter out mappers who have no beatmapsets matching the selected modes and statuses
   filtered = filtered.filter(mapper => {
-    const matchingBeatmapsets = (mapper.beatmapsets || []).filter(set => {
-      // Check if beatmapset status is selected
-      const hasMatchingStatus = selectedStatuses.has(set.approved || '1')
-      
-      // Check if beatmapset has difficulties that match selected modes
-      // We need to check the difficulties array, not just the modes array
-      const hasMatchingMode = set.difficulties && set.difficulties.some(diff => 
-        selectedModes.has(diff.mode)
-      )
-      
-      // Fallback: if no difficulties array, check modes array
-      const hasModeInArray = !hasMatchingMode && set.modes && set.modes.some(mode => 
-        selectedModes.has(mode)
-      )
-      
-      return hasMatchingStatus && (hasMatchingMode || hasModeInArray)
-    })
-    
-    return matchingBeatmapsets.length > 0
+    return (mapper.beatmapsets || []).length > 0 || (mapper.beatmaps || []).length > 0
   })
   
   return filtered
@@ -60,7 +124,8 @@ export function filterBeatmapsets(
   beatmapsets: BeatmapsetGroup[],
   searchTerm: string,
   selectedModes: Set<string>,
-  selectedStatuses: Set<string>
+  selectedStatuses: Set<string>,
+  selectedYear: string = ALL_YEARS
 ): BeatmapsetGroup[] {
   let filtered = beatmapsets
 
@@ -73,14 +138,8 @@ export function filterBeatmapsets(
     )
   }
 
-  // Filter by selected modes
   filtered = filtered.filter(set =>
-    set.modes.some(mode => selectedModes.has(mode))
-  )
-
-  // Filter by selected statuses
-  filtered = filtered.filter(set =>
-    selectedStatuses.has(set.approved)
+    beatmapsetMatchesFilters(set, selectedModes, selectedStatuses, selectedYear)
   )
 
   return filtered
@@ -118,50 +177,14 @@ export function getAllBeatmapsetsFromMappers(mappers: Mapper[]): BeatmapsetGroup
  * @returns Object containing calculated statistics
  */
 export function calculateFilteredStats(
-  filteredMappers: Mapper[],
-  selectedModes: Set<string>,
-  totalStats: any
+  filteredMappers: Mapper[]
 ) {
-  const mapperCount = (() => {
-    // Count mappers who have beatmaps matching the current mode filter
-    if (selectedModes.size === 0) {
-      return totalStats.totalMappers || filteredMappers.length
-    }
-    return filteredMappers.filter(mapper => 
-      mapper.beatmaps?.some(beatmap => selectedModes.has(beatmap.mode || '0'))
-    ).length
-  })()
-
-  const beatmapCount = (() => {
-    if (selectedModes.size === 0) {
-      return totalStats.totalBeatmaps || filteredMappers.reduce((total, mapper) => total + (mapper.rankedBeatmaps || mapper.beatmaps?.length || 0), 0)
-    }
-    return filteredMappers.reduce((total, mapper) => {
-      const filteredBeatmaps = mapper.beatmaps?.filter(beatmap => selectedModes.has(beatmap.mode || '0')) || []
-      return total + filteredBeatmaps.length
-    }, 0)
-  })()
-
-  const beatmapsetCount = (() => {
-    if (selectedModes.size === 0) {
-      return totalStats.totalBeatmapsets || filteredMappers.reduce((total, mapper) => total + (mapper.rankedBeatmapsets || 0), 0)
-    }
-    // Count unique beatmapsets that have difficulties in selected modes
-    const beatmapsetIds = new Set()
-    filteredMappers.forEach(mapper => {
-      mapper.beatmaps?.forEach(beatmap => {
-        if (selectedModes.has(beatmap.mode || '0')) {
-          beatmapsetIds.add(beatmap.beatmapset_id)
-        }
-      })
-    })
-    return beatmapsetIds.size
-  })()
-
   return {
-    mapperCount,
-    beatmapCount,
-    beatmapsetCount
+    mapperCount: filteredMappers.length,
+    beatmapCount: filteredMappers.reduce((total, mapper) => total + (mapper.beatmaps?.length || 0), 0),
+    beatmapsetCount: new Set(
+      filteredMappers.flatMap(mapper => (mapper.beatmapsets || []).map(beatmapset => beatmapset.beatmapset_id))
+    ).size
   }
 }
 

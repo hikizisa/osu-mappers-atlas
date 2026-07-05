@@ -1,0 +1,91 @@
+name: Mapset Stats Refresh
+
+on:
+  schedule:
+    # Weekly run; the script's state file decides whether each mapset is due
+    # on the 7-day recent or 30-day older cadence.
+    - cron: '0 4 * * 0'
+  workflow_dispatch:
+    inputs:
+      countries:
+        description: 'Optional comma-separated country codes'
+        required: false
+        default: ''
+        type: string
+      max_requests:
+        description: 'Maximum beatmapset stat requests'
+        required: false
+        default: '500'
+        type: string
+      dry_run:
+        description: 'List due mapsets without writing data'
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  refresh-mapset-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v5
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v5
+      with:
+        node-version: '24'
+
+    - name: Install dependencies
+      run: npm ci
+
+    - name: Refresh mapset stats
+      env:
+        OSU_API_KEY: ${{ secrets.OSU_API_KEY }}
+        COUNTRIES: ${{ github.event.inputs.countries || '' }}
+        MAX_REQUESTS: ${{ github.event.inputs.max_requests || '500' }}
+        DRY_RUN: ${{ github.event.inputs.dry_run || 'false' }}
+      run: |
+        ARGS="--max-requests=$MAX_REQUESTS"
+        if [ -n "$COUNTRIES" ]; then
+          ARGS="$ARGS --countries=$COUNTRIES"
+        fi
+        if [ "$DRY_RUN" = "true" ]; then
+          ARGS="$ARGS --dry-run"
+        fi
+        npm run refresh-mapset-stats -- $ARGS
+
+    - name: Check for changes
+      id: verify-changed-files
+      run: |
+        if [ -n "$(git status --porcelain)" ]; then
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+        else
+          echo "changed=false" >> "$GITHUB_OUTPUT"
+        fi
+
+    - name: Commit and push changes
+      if: steps.verify-changed-files.outputs.changed == 'true' && github.event.inputs.dry_run != 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add public/data/*.json data/mapset-stats-refresh-state.json
+        git commit -m "Refresh mapset play and favorite stats"
+        git push
+
+    - name: Build site
+      if: steps.verify-changed-files.outputs.changed == 'true' && github.event.inputs.dry_run != 'true'
+      run: npm run export
+
+    - name: Deploy to GitHub Pages
+      if: steps.verify-changed-files.outputs.changed == 'true' && github.event.inputs.dry_run != 'true'
+      uses: peaceiris/actions-gh-pages@v4
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./out
+        force_orphan: true

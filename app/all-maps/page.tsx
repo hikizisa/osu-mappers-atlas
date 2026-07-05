@@ -1,13 +1,13 @@
 'use client'
 
-import React, { useState, useEffect } from 'react'
+import React, { useState, useEffect, useMemo } from 'react'
 import { Search, Calendar, Trophy, ExternalLink, Github, ArrowLeft, ChevronUp, ChevronDown, Compass } from 'lucide-react'
 import { Mapper, BeatmapsetGroup, SortOption, SortDirection } from '../components/types'
 import { BeatmapsetCard } from '../components/BeatmapsetCard'
 import { formatNumber, formatDate } from '../components/utils'
 import { sortBeatmapsets } from '../components/sorting'
 import { fetchData } from '../components/api-utils'
-import { getAllBeatmapsetsFromMappers, filterBeatmapsets } from '../components/page-utils'
+import { ALL_YEARS, getAllBeatmapsetsFromMappers, filterBeatmapsets, getAvailableYearsFromMappers } from '../components/page-utils'
 import { useLanguage } from '../components/LanguageContext'
 import { LanguageToggle } from '../components/LanguageToggle'
 import { FloatingDisplayToggle } from '../components/FloatingDisplayToggle'
@@ -25,6 +25,7 @@ export default function AllMapsPage() {
   const [searchTerm, setSearchTerm] = useState('')
   const [selectedModes, setSelectedModes] = useState<Set<string>>(new Set(['0', '1', '2', '3']))
   const [selectedStatuses, setSelectedStatuses] = useState<Set<string>>(new Set(['1', '4'])) // ranked and loved
+  const [selectedYear, setSelectedYear] = useState(ALL_YEARS)
   const [displayStyle, setDisplayStyle] = useState<'card' | 'thumbnail' | 'minimal'>('card')
   const [sortBy, setSortBy] = useState<SortOption>('date')
   const [sortDirection, setSortDirection] = useState<SortDirection>('desc')
@@ -64,11 +65,14 @@ export default function AllMapsPage() {
     }
 
     fetchMappers()
+    setSelectedYear(ALL_YEARS)
 
     return () => {
       isCurrent = false
     }
   }, [selectedCountryCode, selectedCountry.name, t.noMapperDataGenerated])
+
+  const availableYears = useMemo(() => getAvailableYearsFromMappers(mappers), [mappers])
 
   const formatDate = (dateString: string) => {
     return new Date(dateString).toLocaleDateString('en-US', {
@@ -95,13 +99,13 @@ export default function AllMapsPage() {
     let beatmapsets = getAllBeatmapsetsFromMappers(mappers)
     
     // Filter beatmapsets using shared utility
-    beatmapsets = filterBeatmapsets(beatmapsets, searchTerm, selectedModes, selectedStatuses)
+    beatmapsets = filterBeatmapsets(beatmapsets, searchTerm, selectedModes, selectedStatuses, selectedYear)
     
     // Sort beatmapsets using shared sorting utility
     beatmapsets = sortBeatmapsets(beatmapsets, sortBy, sortDirection)
     
     return beatmapsets
-  }, [mappers, searchTerm, selectedModes, selectedStatuses, sortBy, sortDirection])
+  }, [mappers, searchTerm, selectedModes, selectedStatuses, selectedYear, sortBy, sortDirection])
 
   // Update filtered beatmapsets when filters change
   useEffect(() => {
@@ -329,6 +333,21 @@ export default function AllMapsPage() {
                     <span className="text-sm text-gray-700 dark:text-gray-300 whitespace-nowrap">L {t.loved}</span>
                   </label>
                 </div>
+              </div>
+
+              {/* Year Filter */}
+              <div className="flex flex-col sm:flex-row sm:items-center gap-2">
+                <label className="text-sm font-medium text-gray-700 dark:text-gray-300 whitespace-nowrap">{t.filterByYear}:</label>
+                <select
+                  value={selectedYear}
+                  onChange={(event) => setSelectedYear(event.target.value)}
+                  className="px-3 py-2 border border-gray-300 rounded-lg text-sm bg-white dark:bg-gray-700 dark:border-gray-600 dark:text-white focus:ring-2 focus:ring-osu-pink focus:border-transparent transition-all duration-200 ease-in-out"
+                >
+                  <option value={ALL_YEARS}>{t.allYears}</option>
+                  {availableYears.map(year => (
+                    <option key={year} value={year}>{year}</option>
+                  ))}
+                </select>
               </div>
             </div>
 
