@@ -4,7 +4,7 @@ import React, { useState, useEffect } from 'react'
 import { Search, Calendar, Trophy, ExternalLink, Github, ArrowLeft, ChevronUp, ChevronDown, Compass } from 'lucide-react'
 import { Mapper, BeatmapsetGroup, SortOption, SortDirection } from '../components/types'
 import { BeatmapsetCard } from '../components/BeatmapsetCard'
-import { getModeIcon, formatNumber, formatDate } from '../components/utils'
+import { formatNumber, formatDate } from '../components/utils'
 import { sortBeatmapsets } from '../components/sorting'
 import { fetchData } from '../components/api-utils'
 import { getAllBeatmapsetsFromMappers, filterBeatmapsets } from '../components/page-utils'
@@ -15,6 +15,7 @@ import { formatTemplate, getModeName } from '../components/i18n'
 import { AnimatedList } from '../components/AnimatedList'
 import { useCountry } from '../components/CountryContext'
 import { CountrySelector } from '../components/CountrySelector'
+import { ModeIcon } from '../components/ModeIcon'
 import Link from 'next/link'
 
 export default function AllMapsPage() {
@@ -283,7 +284,7 @@ export default function AllMapsPage() {
                       }`}
                       title={getModeName(mode, language)}
                     >
-                      {getModeIcon(mode)}
+                      <ModeIcon mode={mode} className="h-4 w-4" />
                     </button>
                   ))}
                 </div>

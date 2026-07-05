@@ -30,7 +30,12 @@ on:
       max_discovery_requests:
         description: 'Maximum shared discovery requests against get_beatmaps'
         required: false
-        default: '200'
+        default: '2000'
+        type: string
+      since:
+        description: 'Discovery start date for first-pass indexing'
+        required: false
+        default: '2007-01-01'
         type: string
 
 permissions:
@@ -64,11 +69,13 @@ jobs:
     - name: Discover mapper countries
       env:
         OSU_API_KEY: ${{ secrets.OSU_API_KEY }}
-        MAX_DISCOVERY_REQUESTS: ${{ github.event.inputs.max_discovery_requests || '200' }}
+        MAX_DISCOVERY_REQUESTS: ${{ github.event.inputs.max_discovery_requests || '2000' }}
+        SINCE_DATE: ${{ github.event.inputs.since || '2007-01-01' }}
       run: |
         node scripts/fetch-all-countries.js \
           --discover-only \
           --discovery-file=data/country-discovery.json \
+          --since="$SINCE_DATE" \
           --max-discovery-requests="$MAX_DISCOVERY_REQUESTS"
 
     - name: Upload discovery data

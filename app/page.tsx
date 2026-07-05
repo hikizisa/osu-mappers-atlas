@@ -6,7 +6,7 @@ import { Search, User, Calendar, Trophy, Github, ChevronDown, ChevronUp, Compass
 import { Mapper, MapperSortOption, SortOption } from './components/types'
 import { MapperCard } from './components/MapperCard'
 import { processMapperData } from './components/beatmapset-utils'
-import { getModeIcon, formatNumber, formatDate } from './components/utils'
+import { formatNumber, formatDate } from './components/utils'
 import { sortMappers } from './components/sorting'
 import { fetchData } from './components/api-utils'
 import { filterMappers, calculateFilteredStats } from './components/page-utils'
@@ -16,6 +16,7 @@ import { AnimatedList } from './components/AnimatedList'
 import { countryMapperSubtitle, countryMappersLabel, getModeName } from './components/i18n'
 import { useCountry } from './components/CountryContext'
 import { WorldMapLanding } from './components/WorldMapLanding'
+import { ModeIcon } from './components/ModeIcon'
 
 // Interfaces moved to shared components/types.ts
 
@@ -262,7 +263,7 @@ export default function Home() {
                       }`}
                        title={getModeName(mode, language)}
                     >
-                      {getModeIcon(mode)}
+                      <ModeIcon mode={mode} className="h-4 w-4" />
                     </button>
                   ))}
                 </div>

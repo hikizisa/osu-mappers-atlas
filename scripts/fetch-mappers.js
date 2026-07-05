@@ -12,6 +12,7 @@ const BASE_URL = 'https://osu.ppy.sh/api';
 const OUTPUT_DIR = path.join(__dirname, '..', 'public', 'data');
 const DATA_DIR = path.join(__dirname, '..', 'data');
 const COUNTRY_CONFIG_FILE = path.join(DATA_DIR, 'countries.json');
+const DEFAULT_FETCH_START_DATE = '2007-01-01';
 
 function getCliArg(name) {
     const inlineArg = process.argv.find(arg => arg.startsWith(`--${name}=`));
@@ -110,7 +111,7 @@ function loadCountrySettings() {
         nativeName,
         manualMapperIds: normalizeIdList(configured.manualMapperIds || defaultForKr.manualMapperIds),
         ignoreMapperIds: normalizeIdList(configured.ignoreMapperIds || defaultForKr.ignoreMapperIds),
-        fetchStartDate: process.env.FETCH_START_DATE || configured.fetchStartDate || config.defaultFetchStartDate || '2020-01-01'
+        fetchStartDate: process.env.FETCH_START_DATE || configured.fetchStartDate || config.defaultFetchStartDate || DEFAULT_FETCH_START_DATE
     };
 }
 

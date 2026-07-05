@@ -1,16 +1,34 @@
 'use client'
 
-import React from 'react'
+import React, { useState } from 'react'
 import { Database, Globe2 } from 'lucide-react'
 import { useCountry } from './CountryContext'
 import { useLanguage } from './LanguageContext'
 
-function flagEmoji(countryCode: string): string {
-  if (!/^[A-Z]{2}$/.test(countryCode)) return '??'
-  return countryCode
-    .split('')
-    .map(char => String.fromCodePoint(127397 + char.charCodeAt(0)))
-    .join('')
+function canUseFlagImage(countryCode: string): boolean {
+  return /^[A-Z]{2}$/.test(countryCode) && countryCode !== 'AP'
+}
+
+function flagImageUrl(countryCode: string): string {
+  return `https://flagcdn.com/${countryCode.toLowerCase()}.svg`
+}
+
+const CountryFlag: React.FC<{ countryCode: string }> = ({ countryCode }) => {
+  const [hasImageError, setHasImageError] = useState(false)
+
+  if (!canUseFlagImage(countryCode) || hasImageError) {
+    return <>{countryCode}</>
+  }
+
+  return (
+    <img
+      src={flagImageUrl(countryCode)}
+      alt=""
+      className="h-full w-full object-cover"
+      loading="lazy"
+      onError={() => setHasImageError(true)}
+    />
+  )
 }
 
 export const CountrySelector: React.FC = () => {
@@ -27,8 +45,8 @@ export const CountrySelector: React.FC = () => {
     <div className="atlas-card w-full max-w-3xl p-3">
       <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
         <label className="flex min-w-0 flex-1 items-center gap-3">
-          <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-md bg-slate-950 font-mono text-sm font-semibold text-white dark:bg-white dark:text-slate-950">
-            {flagEmoji(selectedCountryCode)}
+          <span className="flex h-10 w-10 shrink-0 items-center justify-center overflow-hidden rounded-md bg-slate-950 font-mono text-sm font-semibold text-white dark:bg-white dark:text-slate-950">
+            <CountryFlag countryCode={selectedCountryCode} />
           </span>
           <span className="min-w-0 flex-1">
             <span className="flex items-center gap-2 text-xs font-semibold uppercase tracking-[0.18em] text-gray-500 dark:text-gray-400">

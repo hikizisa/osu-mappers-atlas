@@ -63,13 +63,16 @@ Inputs:
 - `countries`: used only with `mode=selected`, for example `US,GB,JP`.
 - `shard_count`: number of country shards. Default is `24`.
 - `continue_on_error`: usually keep this `true`.
-- `max_discovery_requests`: cap for discovery requests against osu! API.
+- `max_discovery_requests`: cap for discovery requests against osu! API. Default is `2000`.
+- `since`: discovery start date. Default is `2007-01-01`.
 
 Typical first pass:
 
 - `mode=missing`
 - `shard_count=24`
+- `since=2007-01-01`
 - `continue_on_error=true`
+- `max_discovery_requests=2000`
 
 The workflow commits data changes as `Refresh country mapper data` if anything changed.
 

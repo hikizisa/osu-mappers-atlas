@@ -15,6 +15,7 @@ const FETCH_SCRIPT = path.join(__dirname, 'fetch-mappers.js');
 const MAX_BEATMAPS_PER_REQUEST = 500;
 const RATE_LIMIT_DELAY = 100;
 const MAX_RETRIES = 3;
+const DEFAULT_FETCH_START_DATE = '2007-01-01';
 
 function getArg(name, fallback = null) {
   const inline = process.argv.find(arg => arg.startsWith(`--${name}=`));
@@ -60,7 +61,7 @@ function loadCountryConfig() {
   const publicData = readJsonIfExists(PUBLIC_COUNTRY_FILE, null);
   if (publicData?.countries) {
     return {
-      defaultFetchStartDate: '2020-01-01',
+      defaultFetchStartDate: DEFAULT_FETCH_START_DATE,
       countries: Object.fromEntries(publicData.countries.map(country => [country.code, country]))
     };
   }
@@ -272,7 +273,7 @@ async function main() {
     .filter(Boolean)
     .sort();
   const selectedCountries = selectCountries(allCountries);
-  const sinceDate = getArg('since', config.defaultFetchStartDate || '2020-01-01');
+  const sinceDate = getArg('since', config.defaultFetchStartDate || DEFAULT_FETCH_START_DATE);
   const maxRequests = parseInt(getArg('max-discovery-requests', '200'), 10);
   const dryRun = hasFlag('dry-run');
   const discoverOnly = hasFlag('discover-only');

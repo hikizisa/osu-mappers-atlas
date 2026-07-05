@@ -85,6 +85,8 @@ What to look for:
 
 If there is no active `All-Country Data Refresh` run, full indexing is not currently running. A normal deploy run only builds and publishes the site.
 
+For a first historical pass, use `since=2007-01-01` and a high `max_discovery_requests` value. The workflow default is `2000`.
+
 ## Country Shards
 
 A shard is a slice of the selected country list. With `shard_count=24`, the workflow creates 24 shard jobs. Each job handles its slice of countries, while `max-parallel: 3` limits how many shards hit the API at once.

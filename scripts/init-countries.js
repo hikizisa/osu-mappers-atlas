@@ -10,6 +10,7 @@ const PUBLIC_COUNTRY_FILE = path.join(PUBLIC_DATA_DIR, 'countries.json');
 const LEGACY_MAPPERS_FILE = path.join(PUBLIC_DATA_DIR, 'mappers.json');
 const DEFAULT_COUNTRY = (process.env.DEFAULT_COUNTRY || 'KR').trim().toUpperCase();
 const SOURCE_URL = 'https://osu.ppy.sh/rankings/osu/country';
+const DEFAULT_FETCH_START_DATE = '2007-01-01';
 
 function countryDisplayName(countryCode) {
   try {
@@ -139,7 +140,7 @@ async function main() {
 
   const config = {
     defaultCountry: existingConfig.defaultCountry || DEFAULT_COUNTRY,
-    defaultFetchStartDate: existingConfig.defaultFetchStartDate || '2020-01-01',
+    defaultFetchStartDate: existingConfig.defaultFetchStartDate || DEFAULT_FETCH_START_DATE,
     generatedAt: new Date().toISOString(),
     source: SOURCE_URL,
     countries: countriesByCode

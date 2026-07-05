@@ -1,9 +1,10 @@
 import React, { useState } from 'react'
 import { Calendar, ExternalLink, ChevronDown, ChevronUp } from 'lucide-react'
 import { Beatmapset, Difficulty } from './types'
-import { getModeIcon, getModeName, getApprovedStatus, formatDate, formatNumber } from './utils'
+import { getModeName, getApprovedStatus, formatDate, formatNumber } from './utils'
 import { getDifficultyStyle, formatStarRating } from './difficulty-colors'
 import { useLanguage } from './LanguageContext'
+import { ModeIcon } from './ModeIcon'
 
 interface BeatmapsetCardProps {
   beatmapset: Beatmapset
@@ -91,8 +92,8 @@ export const BeatmapsetCard: React.FC<BeatmapsetCardProps> = ({
               
               <div className="flex items-center gap-1">
                 {uniqueModes.map(mode => (
-                  <span key={mode} className="text-xl p-1 bg-gray-100 dark:bg-gray-700 rounded" title={getModeName(mode)}>
-                    {getModeIcon(mode)}
+                  <span key={mode} className="inline-flex h-7 w-7 items-center justify-center rounded bg-gray-100 text-slate-700 dark:bg-gray-700 dark:text-slate-100" title={getModeName(mode)}>
+                    <ModeIcon mode={mode} className="h-4 w-4" />
                   </span>
                 ))}
               </div>
@@ -127,7 +128,9 @@ export const BeatmapsetCard: React.FC<BeatmapsetCardProps> = ({
                       transitionDelay: isExpanded ? `${index * 50}ms` : '0ms'
                     }}
                   >
-                    <span className="text-base">{getModeIcon(difficulty.mode)}</span>
+                    <span className="inline-flex h-6 w-6 items-center justify-center rounded bg-gray-100 text-slate-700 dark:bg-gray-700 dark:text-slate-100">
+                      <ModeIcon mode={difficulty.mode} className="h-3.5 w-3.5" />
+                    </span>
                     <span className="flex-1 truncate">{difficulty.version}</span>
                     <span className="flex items-center gap-1 text-xs">
                       <span>▶️</span>
@@ -206,8 +209,8 @@ export const BeatmapsetCard: React.FC<BeatmapsetCardProps> = ({
                   <span>▶️ {formatNumber(totalPlaycount)}</span>
                   <div className="flex items-center gap-1">
                     {uniqueModes.map(mode => (
-                      <span key={mode} className="text-base p-1 bg-gray-100 dark:bg-gray-700 rounded" title={getModeName(mode)}>
-                        {getModeIcon(mode)}
+                      <span key={mode} className="inline-flex h-6 w-6 items-center justify-center rounded bg-gray-100 text-slate-700 dark:bg-gray-700 dark:text-slate-100" title={getModeName(mode)}>
+                        <ModeIcon mode={mode} className="h-3.5 w-3.5" />
                       </span>
                     ))}
                   </div>
@@ -243,7 +246,9 @@ export const BeatmapsetCard: React.FC<BeatmapsetCardProps> = ({
                       transitionDelay: isExpanded ? `${index * 50}ms` : '0ms'
                     }}
                   >
-                    <span className="text-base">{getModeIcon(difficulty.mode)}</span>
+                    <span className="inline-flex h-6 w-6 items-center justify-center rounded bg-gray-100 text-slate-700 dark:bg-gray-700 dark:text-slate-100">
+                      <ModeIcon mode={difficulty.mode} className="h-3.5 w-3.5" />
+                    </span>
                     <span className="flex-1 truncate">{difficulty.version}</span>
                     <span className="flex items-center gap-1 text-xs">
                       <span>▶️</span>
@@ -300,7 +305,7 @@ export const BeatmapsetCard: React.FC<BeatmapsetCardProps> = ({
               className="bg-black/50 text-white px-2 py-1 rounded text-xs flex items-center gap-1"
               title={getModeName(mode)}
             >
-              {getModeIcon(mode)}
+              <ModeIcon mode={mode} className="h-3.5 w-3.5" />
             </span>
           ))}
         </div>
@@ -347,7 +352,9 @@ export const BeatmapsetCard: React.FC<BeatmapsetCardProps> = ({
         <div className="mt-3 space-y-1">
           {(showAllDifficulties ? filteredDifficulties : filteredDifficulties.slice(0, 3)).map((difficulty, index) => (
             <div key={difficulty.beatmap_id} className="flex items-center gap-2 text-xs text-gray-500 dark:text-gray-400">
-              <span>{getModeIcon(difficulty.mode)}</span>
+              <span className="inline-flex h-5 w-5 items-center justify-center rounded bg-black/10 dark:bg-white/10">
+                <ModeIcon mode={difficulty.mode} className="h-3 w-3" />
+              </span>
               <span className="truncate flex-1">{difficulty.version}</span>
               <span className="flex items-center gap-1 text-gray-400">
                 <span>▶️</span>
