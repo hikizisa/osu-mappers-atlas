@@ -1,0 +1,100 @@
+name: Update Manual Mapper IDs
+
+on:
+  workflow_dispatch:
+    inputs:
+      country_code:
+        description: 'Two-letter osu! country code'
+        required: true
+        type: string
+      mapper_ids:
+        description: 'Comma or space-separated osu! user IDs'
+        required: true
+        type: string
+      mode:
+        description: 'How to update manualMapperIds'
+        required: true
+        default: 'add'
+        type: choice
+        options:
+          - add
+          - remove
+          - replace
+      refresh_country:
+        description: 'Fetch this country after updating manual IDs'
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  update-manual-mappers:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v5
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v5
+      with:
+        node-version: '24'
+
+    - name: Install dependencies
+      run: npm ci
+
+    - name: Update manual mapper IDs
+      env:
+        COUNTRY_CODE: ${{ github.event.inputs.country_code }}
+        MAPPER_IDS: ${{ github.event.inputs.mapper_ids }}
+        UPDATE_MODE: ${{ github.event.inputs.mode }}
+      run: |
+        npm run update-manual-mappers -- \
+          --country="$COUNTRY_CODE" \
+          --ids="$MAPPER_IDS" \
+          --mode="$UPDATE_MODE"
+
+    - name: Refresh country data
+      if: github.event.inputs.refresh_country == 'true'
+      env:
+        OSU_API_KEY: ${{ secrets.OSU_API_KEY }}
+        COUNTRY_CODE: ${{ github.event.inputs.country_code }}
+        FORCE_REFRESH: 'true'
+      run: |
+        node scripts/fetch-mappers.js --country="$COUNTRY_CODE" --skip-discovery
+        npm run init-countries
+
+    - name: Check for changes
+      id: verify-changed-files
+      run: |
+        if [ -n "$(git status --porcelain)" ]; then
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+        else
+          echo "changed=false" >> "$GITHUB_OUTPUT"
+        fi
+
+    - name: Commit and push changes
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data/countries.json
+        git add public/data/*.json data/fetch-state-*.json data/creator-mappings-*.json
+        git commit -m "Update manual mapper IDs"
+        git push
+
+    - name: Build site
+      if: github.event.inputs.refresh_country == 'true' && steps.verify-changed-files.outputs.changed == 'true'
+      run: npm run export
+
+    - name: Deploy to GitHub Pages
+      if: github.event.inputs.refresh_country == 'true' && steps.verify-changed-files.outputs.changed == 'true'
+      uses: peaceiris/actions-gh-pages@v4
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./out
+        force_orphan: true

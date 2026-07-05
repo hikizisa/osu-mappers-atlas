@@ -61,6 +61,7 @@ export interface Translations {
   loadingBeatmapData: string
   loadingMoreBeatmapsets: string
   country: string
+  countrySearchPlaceholder: string
   selectedCountry: string
   mapperSignalMap: string
   mappersIndexed: string
@@ -154,6 +155,7 @@ export const translations: Record<Language, Translations> = {
     loadingBeatmapData: 'Loading beatmap data...',
     loadingMoreBeatmapsets: 'Loading more beatmapsets...',
     country: 'Country',
+    countrySearchPlaceholder: 'Search countries...',
     selectedCountry: 'Selected country',
     mapperSignalMap: 'Mapper signal map',
     mappersIndexed: 'mappers indexed',
@@ -245,6 +247,7 @@ export const translations: Record<Language, Translations> = {
     loadingBeatmapData: '\uBE44\uD2B8\uB9F5 \uB370\uC774\uD130\uB97C \uBD88\uB7EC\uC624\uB294 \uC911...',
     loadingMoreBeatmapsets: '\uBE44\uD2B8\uB9F5\uC14B\uC744 \uB354 \uBD88\uB7EC\uC624\uB294 \uC911...',
     country: '\uAD6D\uAC00',
+    countrySearchPlaceholder: '\uAD6D\uAC00 \uAC80\uC0C9...',
     selectedCountry: '\uC120\uD0DD\uD55C \uAD6D\uAC00',
     mapperSignalMap: '\uB9E4\uD37C \uC2E0\uD638 \uC9C0\uB3C4',
     mappersIndexed: '\uB9E4\uD37C \uC778\uB371\uC2F1\uB428',

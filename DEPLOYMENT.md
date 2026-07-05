@@ -106,6 +106,12 @@ If the workflow is not running, indexing is not progressing. Completed deploy ru
 - Refreshes a wider rolling shard of existing countries.
 - Can be manually run for one country.
 
+`Update Manual Mapper IDs`:
+
+- Updates `manualMapperIds` in `data/countries.json` for one country.
+- Accepts `add`, `remove`, or `replace`.
+- Can optionally refresh and deploy that country after the list changes.
+
 ## Local Build Check
 
 PowerShell:
@@ -127,6 +133,12 @@ npm run init-countries
 ```
 
 Set `OSU_API_KEY` in your shell or `.env` before running the fetch. Do not commit `.env` or API keys.
+
+To update manual IDs locally:
+
+```powershell
+npm run update-manual-mappers -- --country=JP --ids=12345,67890 --mode=add
+```
 
 ## Files That Usually Change After Fetching
 

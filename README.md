@@ -93,7 +93,7 @@ A shard is a slice of the selected country list. With `shard_count=24`, the work
 
 ## Adding Manual Mapper IDs
 
-Manual IDs should be country-specific in `data/countries.json`:
+Manual IDs are country-specific in `data/countries.json`:
 
 ```json
 {
@@ -106,7 +106,13 @@ Manual IDs should be country-specific in `data/countries.json`:
 }
 ```
 
-The old built-in KR seed list in `scripts/fetch-mappers.js` is kept only as a compatibility fallback.
+Use the `Update Manual Mapper IDs` action to add, remove, or replace IDs without editing JSON by hand. It takes a country code and a comma or space-separated ID list. Turn on `refresh_country` when you want the action to fetch that country immediately after updating the list.
+
+Local equivalent:
+
+```bash
+npm run update-manual-mappers -- --country=JP --ids=12345,67890 --mode=add
+```
 
 ## Repository Notes
 

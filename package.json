@@ -11,7 +11,8 @@
     "fetch-country-batch": "node scripts/fetch-country-batch.js",
     "fetch-all-countries": "node scripts/fetch-all-countries.js",
     "fetch-all-missing": "node scripts/fetch-all-countries.js --only-missing --write-empty",
-    "init-countries": "node scripts/init-countries.js"
+    "init-countries": "node scripts/init-countries.js",
+    "update-manual-mappers": "node scripts/update-manual-mappers.js"
   },
   "dependencies": {
     "axios": "^1.6.0",

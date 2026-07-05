@@ -55,16 +55,6 @@ const MAX_BEATMAPS_PER_REQUEST = 500; // osu! API limit
 const RATE_LIMIT_DELAY = 100; // ms between requests
 const MAX_RETRIES = 3;
 
-// Default KR seed list kept for backward compatibility. Add new countries in data/countries.json.
-const DEFAULT_KR_MANUAL_MAPPER_IDS = [
-    16368505, 11602148, 13543418, 16142512, 4115819, 533502, 224280, 11171976, 11185275, 165027, 3011818, 8058206, 2688581, 9262355, 9892196, 9823042, 9326064, 9555243, 1974436, 4904557, 4643294, 566276, 8001433, 1943309, 5413027, 1997633, 3846265, 11103764, 4005683, 8946550, 2489741, 7495614, 113646, 707980, 1742622, 917786, 1545563, 87546, 2036217, 3626063, 246186, 261694, 43468, 250808, 1629059, 2121032, 5591315, 2490770, 739813, 685079, 531253, 197876, 4746949, 1634445, 1966909, 2046893, 717228, 4694602, 626873, 3789302, 2043401, 3896865, 3984370, 538604, 670365, 873758, 3720242, 412787, 1945351, 798743, 70863, 1895984, 6974536, 259972, 759439, 3360737, 120919, 1893883, 1204034, 2859670, 1596078, 4647754, 596298, 257977, 747356, 1029022, 1574070, 1458069, 114017, 899031, 1380419, 5062061, 2162939, 1686145, 194807, 1632431, 1142651, 156215, 2393914, 353453, 9207, 3044645, 101399, 87065, 2786984, 6186628, 832084, 4991434, 5379679, 6465707, 501, 887358, 111011, 865132, 3087654, 232942, 2353313, 1357150, 317802, 323677, 3869951, 11771, 702598, 389236, 2782104, 70730, 297086, 1891192, 1399551, 2732340, 1142692, 157400, 3627182, 1533796, 5456561, 549766, 685229, 117022, 937761, 7898495, 3021168, 1530308, 757783, 4129020, 6336713, 6522146, 980092, 2193723, 3642440, 7515767, 1393255, 4485933, 2193444, 4118962, 7342798, 6673830, 4637369, 3261991, 659959, 13340203, 9014584, 6363008, 697649, 11443437, 2218047, 13924533, 2288943, 14892190, 16368505
-];
-
-// Default KR ignore list kept for backward compatibility. Add new countries in data/countries.json.
-const DEFAULT_KR_IGNORE_MAPPER_IDS = [
-    12469536, 2139130
-];
-
 function countryDisplayName(countryCode) {
     try {
         return new Intl.DisplayNames(['en'], { type: 'region' }).of(countryCode) || countryCode;
@@ -90,27 +80,18 @@ function loadCountrySettings() {
 
     const configuredCountries = config.countries || {};
     const configured = configuredCountries[ACTIVE_COUNTRY_CODE] || {};
-    const defaultForKr = ACTIVE_COUNTRY_CODE === 'KR'
-        ? {
-            name: 'South Korea',
-            demonym: 'Korean',
-            nativeName: '한국',
-            manualMapperIds: DEFAULT_KR_MANUAL_MAPPER_IDS,
-            ignoreMapperIds: DEFAULT_KR_IGNORE_MAPPER_IDS
-        }
-        : {};
 
-    const name = process.env.TARGET_COUNTRY_NAME || configured.name || defaultForKr.name || countryDisplayName(ACTIVE_COUNTRY_CODE);
-    const demonym = process.env.TARGET_COUNTRY_DEMONYM || configured.demonym || defaultForKr.demonym || name;
-    const nativeName = process.env.TARGET_COUNTRY_NATIVE_NAME || configured.nativeName || defaultForKr.nativeName || name;
+    const name = process.env.TARGET_COUNTRY_NAME || configured.name || countryDisplayName(ACTIVE_COUNTRY_CODE);
+    const demonym = process.env.TARGET_COUNTRY_DEMONYM || configured.demonym || name;
+    const nativeName = process.env.TARGET_COUNTRY_NATIVE_NAME || configured.nativeName || name;
 
     return {
         code: ACTIVE_COUNTRY_CODE,
         name,
         demonym,
         nativeName,
-        manualMapperIds: normalizeIdList(configured.manualMapperIds || defaultForKr.manualMapperIds),
-        ignoreMapperIds: normalizeIdList(configured.ignoreMapperIds || defaultForKr.ignoreMapperIds),
+        manualMapperIds: normalizeIdList(configured.manualMapperIds),
+        ignoreMapperIds: normalizeIdList(configured.ignoreMapperIds),
         fetchStartDate: process.env.FETCH_START_DATE || configured.fetchStartDate || config.defaultFetchStartDate || DEFAULT_FETCH_START_DATE
     };
 }
