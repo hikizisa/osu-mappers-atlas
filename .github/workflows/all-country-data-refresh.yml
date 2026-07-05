@@ -53,12 +53,12 @@ jobs:
 
     steps:
     - name: Checkout
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
 
     - name: Setup Node.js
-      uses: actions/setup-node@v4
+      uses: actions/setup-node@v5
       with:
-        node-version: '18'
+        node-version: '24'
 
     - name: Install dependencies
       run: npm ci
@@ -79,7 +79,7 @@ jobs:
           --max-discovery-requests="$MAX_DISCOVERY_REQUESTS"
 
     - name: Upload discovery data
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v6
       with:
         name: country-discovery
         path: data/country-discovery.json
@@ -109,12 +109,12 @@ jobs:
 
     steps:
     - name: Checkout
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
 
     - name: Setup Node.js
-      uses: actions/setup-node@v4
+      uses: actions/setup-node@v5
       with:
-        node-version: '18'
+        node-version: '24'
 
     - name: Install dependencies
       run: npm ci
@@ -123,7 +123,7 @@ jobs:
       run: npm run init-countries
 
     - name: Download discovery data
-      uses: actions/download-artifact@v4
+      uses: actions/download-artifact@v7
       with:
         name: country-discovery
         path: data
@@ -193,10 +193,12 @@ jobs:
         NODE
 
     - name: Upload shard data
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v6
       with:
         name: country-data-shard-${{ matrix.shard }}
-        path: shard-output/**
+        path: shard-output/
+        include-hidden-files: true
+        if-no-files-found: ignore
         retention-days: 3
 
   merge:
@@ -206,18 +208,18 @@ jobs:
 
     steps:
     - name: Checkout
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
 
     - name: Download shard data
-      uses: actions/download-artifact@v4
+      uses: actions/download-artifact@v7
       with:
         pattern: country-data-shard-*
         merge-multiple: true
 
     - name: Setup Node.js
-      uses: actions/setup-node@v4
+      uses: actions/setup-node@v5
       with:
-        node-version: '18'
+        node-version: '24'
 
     - name: Install dependencies
       run: npm ci
