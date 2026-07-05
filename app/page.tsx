@@ -124,7 +124,9 @@ export default function Home() {
       <div className="atlas-shell flex min-h-screen items-center justify-center">
         <div className="text-center">
           <div className="animate-spin rounded-full h-32 w-32 border-b-2 border-osu-pink mx-auto mb-4"></div>
-          <p className="text-xl text-gray-600">Loading {selectedCountry.name} mappers...</p>
+          <p className="text-xl text-gray-600">
+            {language === 'ko' ? '매퍼 데이터를 불러오는 중...' : 'Loading mapper data...'}
+          </p>
         </div>
       </div>
     )

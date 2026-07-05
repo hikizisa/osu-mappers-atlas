@@ -881,6 +881,5 @@ if (require.main === module) {
 }
 
 module.exports = {
-    fetchCountryMappers,
-    fetchKoreanMappers: fetchCountryMappers
+    fetchCountryMappers
 };

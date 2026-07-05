@@ -148,7 +148,9 @@ export default function AllMapsPage() {
       <div className="atlas-shell flex min-h-screen items-center justify-center">
         <div className="text-center">
           <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-osu-pink mx-auto mb-4"></div>
-          <p className="text-gray-600 dark:text-gray-400">Loading {selectedCountry.name} beatmaps...</p>
+          <p className="text-gray-600 dark:text-gray-400">
+            {language === 'ko' ? '비트맵 데이터를 불러오는 중...' : 'Loading beatmap data...'}
+          </p>
         </div>
       </div>
     )

@@ -12,7 +12,7 @@ interface LanguageContextType {
 const LanguageContext = createContext<LanguageContextType | undefined>(undefined)
 
 export const LanguageProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
-  // Default to Korean as requested
+  // Default UI language is Korean.
   const [language, setLanguageState] = useState<Language>('ko')
 
   // Load language preference from localStorage on mount
