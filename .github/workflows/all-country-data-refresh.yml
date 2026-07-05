@@ -143,14 +143,53 @@ jobs:
         node scripts/fetch-all-countries.js $ARGS
         npm run init-countries
 
+    - name: Collect shard data
+      run: |
+        rm -rf shard-output
+        mkdir -p shard-output
+        touch shard-output/.keep
+
+        git status --porcelain -- public/data data | while IFS= read -r line; do
+          file="${line:3}"
+          case "$file" in
+            public/data/mappers-*.json|data/fetch-state-*.json|data/creator-mappings-*.json)
+              mkdir -p "shard-output/$(dirname "$file")"
+              cp "$file" "shard-output/$file"
+              ;;
+          esac
+        done
+
+        echo "Shard artifact contents:"
+        find shard-output -type f -print | sort
+
+    - name: Validate shard JSON
+      run: |
+        node - <<'NODE'
+        const fs = require('fs');
+        const path = require('path');
+
+        function walk(dir) {
+          if (!fs.existsSync(dir)) return [];
+          return fs.readdirSync(dir, { withFileTypes: true }).flatMap(entry => {
+            const fullPath = path.join(dir, entry.name);
+            return entry.isDirectory() ? walk(fullPath) : [fullPath];
+          });
+        }
+
+        for (const file of walk('shard-output').filter(file => file.endsWith('.json'))) {
+          try {
+            JSON.parse(fs.readFileSync(file, 'utf8'));
+          } catch (error) {
+            throw new Error(`Invalid JSON in ${file}: ${error.message}`);
+          }
+        }
+        NODE
+
     - name: Upload shard data
       uses: actions/upload-artifact@v4
       with:
         name: country-data-shard-${{ matrix.shard }}
-        path: |
-          public/data/mappers-*.json
-          data/fetch-state-*.json
-          data/creator-mappings-*.json
+        path: shard-output/**
         retention-days: 3
 
   merge:
@@ -175,6 +214,31 @@ jobs:
 
     - name: Install dependencies
       run: npm ci
+
+    - name: Validate merged JSON
+      run: |
+        node - <<'NODE'
+        const fs = require('fs');
+        const path = require('path');
+
+        function walk(dir) {
+          if (!fs.existsSync(dir)) return [];
+          return fs.readdirSync(dir, { withFileTypes: true }).flatMap(entry => {
+            const fullPath = path.join(dir, entry.name);
+            return entry.isDirectory() ? walk(fullPath) : [fullPath];
+          });
+        }
+
+        for (const dir of ['public/data', 'data']) {
+          for (const file of walk(dir).filter(file => file.endsWith('.json'))) {
+            try {
+              JSON.parse(fs.readFileSync(file, 'utf8'));
+            } catch (error) {
+              throw new Error(`Invalid JSON in ${file}: ${error.message}`);
+            }
+          }
+        }
+        NODE
 
     - name: Refresh public country metadata
       run: npm run init-countries

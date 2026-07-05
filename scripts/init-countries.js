@@ -30,7 +30,12 @@ function decodeHtmlEntities(value) {
 
 function readJsonIfExists(filePath, fallback) {
   if (!fsSync.existsSync(filePath)) return fallback;
-  return JSON.parse(fsSync.readFileSync(filePath, 'utf8'));
+  try {
+    return JSON.parse(fsSync.readFileSync(filePath, 'utf8'));
+  } catch (error) {
+    const relativePath = path.relative(path.join(__dirname, '..'), filePath);
+    throw new Error(`Failed to parse JSON file ${relativePath}: ${error.message}`);
+  }
 }
 
 function getMapperSummary(countryCode) {
