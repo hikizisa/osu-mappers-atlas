@@ -2,21 +2,20 @@
 
 import React, { useState, useEffect } from 'react'
 import Link from 'next/link'
-import { Search, User, Calendar, Trophy, ExternalLink, Github, ChevronDown, ChevronUp, Compass } from 'lucide-react'
-import { Mapper, MapperSortOption, SortOption, BeatmapsetGroup } from './components/types'
+import { Search, User, Calendar, Trophy, Github, ChevronDown, ChevronUp, Compass } from 'lucide-react'
+import { Mapper, MapperSortOption, SortOption } from './components/types'
 import { MapperCard } from './components/MapperCard'
 import { processMapperData } from './components/beatmapset-utils'
 import { getModeIcon, formatNumber, formatDate } from './components/utils'
-import { sortMappers, calculateMostRecentRankedDate } from './components/sorting'
+import { sortMappers } from './components/sorting'
 import { fetchData } from './components/api-utils'
-import { filterMappers, calculateFilteredStats, toggleMode as toggleModeUtil } from './components/page-utils'
+import { filterMappers, calculateFilteredStats } from './components/page-utils'
 import { useLanguage } from './components/LanguageContext'
 import { LanguageToggle } from './components/LanguageToggle'
-import { FloatingDisplayToggle } from './components/FloatingDisplayToggle'
 import { AnimatedList } from './components/AnimatedList'
 import { getModeName } from './components/i18n'
 import { useCountry } from './components/CountryContext'
-import { CountrySelector } from './components/CountrySelector'
+import { WorldMapLanding } from './components/WorldMapLanding'
 
 // Interfaces moved to shared components/types.ts
 
@@ -32,7 +31,7 @@ export default function Home() {
   const [totalStats, setTotalStats] = useState<any>({})
   const [selectedModes, setSelectedModes] = useState<Set<string>>(new Set(['0', '1', '2', '3']))
   const [selectedStatuses, setSelectedStatuses] = useState<Set<string>>(new Set(['1', '4'])) // ranked and loved
-  const [displayStyle, setDisplayStyle] = useState<'card' | 'thumbnail' | 'minimal'>('card')
+  const displayStyle: 'card' | 'thumbnail' | 'minimal' = 'card'
 
   const [beatmapSortBy, setBeatmapSortBy] = useState<SortOption>('date')
   const [beatmapSortDirection, setBeatmapSortDirection] = useState<'asc' | 'desc'>('desc')
@@ -119,18 +118,7 @@ export default function Home() {
     setSelectedModes(newModes)
   }
 
-  if (loading) {
-    return (
-      <div className="atlas-shell flex min-h-screen items-center justify-center">
-        <div className="text-center">
-          <div className="animate-spin rounded-full h-32 w-32 border-b-2 border-osu-pink mx-auto mb-4"></div>
-          <p className="text-xl text-gray-600">
-            {language === 'ko' ? '매퍼 데이터를 불러오는 중...' : 'Loading mapper data...'}
-          </p>
-        </div>
-      </div>
-    )
-  }
+  const filteredStats = calculateFilteredStats(filteredMappers, selectedModes, totalStats)
 
   return (
     <div className="atlas-shell">
@@ -151,9 +139,7 @@ export default function Home() {
             <p className="atlas-subtitle mb-8">
               Discover ranked and loved beatmaps from {selectedCountry.name} mappers.
             </p>
-            <div className="mb-8 flex justify-center">
-              <CountrySelector />
-            </div>
+            <WorldMapLanding />
             <div className="flex justify-center gap-4 mb-8">
               <Link
                 href="/all-maps"
@@ -193,21 +179,21 @@ export default function Home() {
           <div className="atlas-stat-card">
             <User className="h-6 w-6 text-osu-pink mx-auto mb-2" />
             <h3 className="text-xl font-bold text-gray-800 dark:text-white">
-              {calculateFilteredStats(filteredMappers, selectedModes, totalStats).mapperCount}
+              {loading ? '...' : formatNumber(filteredStats.mapperCount)}
             </h3>
             <p className="text-sm text-gray-600 dark:text-gray-400">{selectedCountry.name} Mappers</p>
           </div>
           <div className="atlas-stat-card">
             <Trophy className="h-6 w-6 text-osu-blue mx-auto mb-2" />
             <h3 className="text-xl font-bold text-gray-800 dark:text-white">
-              {calculateFilteredStats(filteredMappers, selectedModes, totalStats).beatmapCount}
+              {loading ? '...' : formatNumber(filteredStats.beatmapCount)}
             </h3>
             <p className="text-sm text-gray-600 dark:text-gray-400">Total Beatmaps</p>
           </div>
           <div className="atlas-stat-card">
             <div className="h-6 w-6 text-emerald-600 mx-auto mb-2 flex items-center justify-center font-bold text-lg">#</div>
             <h3 className="text-xl font-bold text-gray-800 dark:text-white">
-              {calculateFilteredStats(filteredMappers, selectedModes, totalStats).beatmapsetCount}
+              {loading ? '...' : formatNumber(filteredStats.beatmapsetCount)}
             </h3>
             <p className="text-sm text-gray-600 dark:text-gray-400">{t.totalBeatmapsets}</p>
           </div>
@@ -347,23 +333,34 @@ export default function Home() {
         </div>
 
         {/* Mappers List */}
-        <AnimatedList
-          items={filteredMappers}
-          getKey={(mapper) => mapper.user_id}
-          className="space-y-8"
-          renderItem={(mapper, index) => (
-            <MapperCard
-              mapper={mapper}
-              selectedModes={selectedModes}
-              selectedStatuses={selectedStatuses}
-              displayStyle={displayStyle}
-              isExpanded={expandedMappers.has(mapper.user_id)}
-              onToggle={toggleMapper}
-              beatmapSortBy={beatmapSortBy}
-              beatmapSortDirection={beatmapSortDirection}
-            />
-          )}
-        />
+        {loading && (
+          <div className="atlas-panel mb-8 flex min-h-48 items-center justify-center p-8 text-center">
+            <div>
+              <div className="mx-auto mb-4 h-12 w-12 animate-spin rounded-full border-b-2 border-osu-pink"></div>
+              <p className="text-lg font-semibold text-slate-700 dark:text-slate-200">Loading mapper data...</p>
+            </div>
+          </div>
+        )}
+
+        {!loading && !dataError && (
+          <AnimatedList
+            items={filteredMappers}
+            getKey={(mapper) => mapper.user_id}
+            className="space-y-8"
+            renderItem={(mapper, index) => (
+              <MapperCard
+                mapper={mapper}
+                selectedModes={selectedModes}
+                selectedStatuses={selectedStatuses}
+                displayStyle={displayStyle}
+                isExpanded={expandedMappers.has(mapper.user_id)}
+                onToggle={toggleMapper}
+                beatmapSortBy={beatmapSortBy}
+                beatmapSortDirection={beatmapSortDirection}
+              />
+            )}
+          />
+        )}
 
         {dataError && !loading && (
           <div className="rounded-lg border border-amber-200 bg-amber-50 p-6 text-center shadow-sm dark:border-amber-700 dark:bg-amber-900/30">
@@ -403,11 +400,6 @@ export default function Home() {
         </div>
       </footer>
       
-      {/* Floating Display Toggle */}
-      <FloatingDisplayToggle
-        displayStyle={displayStyle}
-        onDisplayStyleChange={setDisplayStyle}
-      />
     </div>
   )
 }
