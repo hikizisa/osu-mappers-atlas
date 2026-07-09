@@ -57,6 +57,7 @@ export interface Translations {
   noMappersFound: string
   viewOnGitHub: string
   footerText: string
+  backToTop: string
   description: string
   countriesIndexed: string
   switchCountriesHelp: string
@@ -154,6 +155,7 @@ export const translations: Record<Language, Translations> = {
     noMappersFound: 'No mappers found matching your search.',
     viewOnGitHub: 'View on GitHub',
     footerText: 'Data sourced from osu! API and refreshed by GitHub Actions',
+    backToTop: 'Back to top',
     description: 'Discover osu! mappers and their ranked or loved beatmaps by country.',
     countriesIndexed: 'osu! countries indexed',
     switchCountriesHelp: 'Switch countries to browse every osu! country recognized by the current country rankings.',
@@ -249,6 +251,7 @@ export const translations: Record<Language, Translations> = {
     noMappersFound: '\uC870\uAC74\uC5D0 \uB9DE\uB294 \uB9E4\uD37C\uAC00 \uC5C6\uC2B5\uB2C8\uB2E4.',
     viewOnGitHub: 'GitHub\uC5D0\uC11C \uBCF4\uAE30',
     footerText: 'osu! API \uB370\uC774\uD130\uB85C \uC0DD\uC131\uB418\uBA70 GitHub Actions\uB85C \uAC31\uC2E0\uB429\uB2C8\uB2E4',
+    backToTop: '\uB9E8 \uC704\uB85C',
     description: '\uAD6D\uAC00\uBCC4 osu! \uB9E4\uD37C\uC640 \uB7AD\uD06C \uBC0F \uB7EC\uBE0C\uB4DC \uBE44\uD2B8\uB9F5\uC744 \uCC3E\uC544\uBCF4\uC138\uC694.',
     countriesIndexed: 'osu! \uAD6D\uAC00 \uC778\uB371\uC2F1\uB428',
     switchCountriesHelp: '\uD604\uC7AC \uAD6D\uAC00 \uB7AD\uD0B9\uC5D0\uC11C \uC778\uC2DD\uB418\uB294 \uBAA8\uB4E0 osu! \uAD6D\uAC00\uB97C \uC120\uD0DD\uD574 \uBCFC \uC218 \uC788\uC2B5\uB2C8\uB2E4.',

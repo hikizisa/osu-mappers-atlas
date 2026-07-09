@@ -90,6 +90,56 @@ body {
     @apply rounded-lg border border-slate-300 bg-slate-50/90 shadow-[0_14px_36px_rgba(15,23,42,0.08)] backdrop-blur dark:border-slate-700 dark:bg-slate-900/90;
   }
 
+  /* Sticky filter bar: solid strip so content cannot show through a seam above the panel */
+  .atlas-sticky-controls {
+    @apply sticky top-0 z-20 -mx-4 mb-8 px-4 py-3;
+    background:
+      linear-gradient(180deg, rgba(248, 251, 253, 0.97), rgba(235, 242, 248, 0.95));
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    box-shadow: 0 1px 0 rgba(15, 23, 42, 0.06);
+  }
+
+  .dark .atlas-sticky-controls {
+    background:
+      linear-gradient(180deg, rgba(15, 23, 42, 0.97), rgba(17, 24, 39, 0.96));
+    box-shadow: 0 1px 0 rgba(148, 163, 184, 0.12);
+  }
+
+  .atlas-sticky-controls .atlas-panel {
+    @apply mb-0;
+  }
+
+  /* Fixed bottom bar always visible */
+  .atlas-page-content {
+    @apply pb-20 sm:pb-16;
+  }
+
+  .atlas-footer {
+    @apply fixed bottom-0 left-0 right-0 z-40 border-t border-slate-200/90 bg-white/95 shadow-[0_-8px_24px_rgba(15,23,42,0.08)] backdrop-blur-md dark:border-slate-700 dark:bg-slate-900/95 dark:shadow-[0_-8px_24px_rgba(0,0,0,0.35)];
+  }
+
+  .atlas-back-to-top {
+    @apply fixed bottom-20 right-5 z-50 flex h-11 w-11 items-center justify-center rounded-full border border-slate-300 bg-white text-slate-700 shadow-lg transition-all duration-200 ease-out dark:border-slate-600 dark:bg-slate-800 dark:text-slate-100;
+    opacity: 0;
+    pointer-events: none;
+    transform: translateY(8px) scale(0.94);
+  }
+
+  .atlas-back-to-top--visible {
+    opacity: 1;
+    pointer-events: auto;
+    transform: translateY(0) scale(1);
+  }
+
+  .atlas-back-to-top:hover {
+    @apply border-osu-pink bg-osu-pink text-white;
+  }
+
+  .atlas-back-to-top:focus-visible {
+    @apply outline-none ring-2 ring-osu-pink ring-offset-2 dark:ring-offset-slate-900;
+  }
+
   .atlas-stat-card {
     @apply rounded-lg border border-slate-300 bg-slate-50/95 p-5 text-center shadow-[0_10px_28px_rgba(15,23,42,0.08)] dark:border-slate-700 dark:bg-slate-900/95;
   }

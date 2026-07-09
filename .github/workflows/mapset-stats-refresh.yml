@@ -76,7 +76,21 @@ jobs:
         git config --local user.name "GitHub Action"
         git add public/data/*.json data/mapset-stats-refresh-state.json
         git commit -m "Refresh mapset play and favorite stats"
-        git push
+
+        # Concurrent workflow pushes often leave main ahead of this job.
+        # Rebase onto latest remote and retry instead of failing on non-FF.
+        BRANCH="${GITHUB_REF_NAME:-main}"
+        for attempt in 1 2 3 4 5; do
+          git fetch origin "$BRANCH"
+          if git pull --rebase origin "$BRANCH" && git push origin "HEAD:$BRANCH"; then
+            echo "Pushed successfully on attempt $attempt"
+            exit 0
+          fi
+          echo "Push attempt $attempt failed; retrying..."
+          sleep $((attempt * 5))
+        done
+        echo "Failed to push after retries"
+        exit 1
 
     - name: Build site
       if: steps.verify-changed-files.outputs.changed == 'true' && github.event.inputs.dry_run != 'true'

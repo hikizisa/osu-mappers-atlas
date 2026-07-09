@@ -1,7 +1,7 @@
 'use client'
 
 import React, { useState, useEffect, useMemo } from 'react'
-import { Search, Calendar, Trophy, ExternalLink, Github, ArrowLeft, ChevronUp, ChevronDown, Compass } from 'lucide-react'
+import { Search, Calendar, Trophy, ArrowLeft, ChevronUp, ChevronDown, Compass } from 'lucide-react'
 import { Mapper, BeatmapsetGroup, SortOption, SortDirection } from '../components/types'
 import { BeatmapsetCard } from '../components/BeatmapsetCard'
 import { formatNumber, formatDate } from '../components/utils'
@@ -215,8 +215,9 @@ export default function AllMapsPage() {
       </header>
 
       <div className="container mx-auto px-4 py-8">
-        {/* Controls - Sticky */}
-        <div className="atlas-panel sticky top-4 z-10 p-6 mb-8 animate-slide-in">
+        {/* Controls - Sticky (strip covers seam above the floating filter panel) */}
+        <div className="atlas-sticky-controls animate-slide-in">
+          <div className="atlas-panel p-6">
           <div className="space-y-4">
             {/* First Row: Search */}
             <div className="flex flex-col sm:flex-row gap-4">
@@ -350,8 +351,6 @@ export default function AllMapsPage() {
                 </select>
               </div>
             </div>
-
-
           </div>
 
           <div className="mt-4 text-sm text-gray-600 dark:text-gray-400">
@@ -359,6 +358,7 @@ export default function AllMapsPage() {
               shown: displayedBeatmapsets.length,
               total: allFilteredBeatmapsets.length
             })}
+          </div>
           </div>
         </div>
 

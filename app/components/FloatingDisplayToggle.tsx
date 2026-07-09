@@ -39,7 +39,8 @@ export const FloatingDisplayToggle: React.FC<FloatingDisplayToggleProps> = ({
   ]
 
   return (
-    <div className={`fixed bottom-6 right-6 z-50 ${className}`}>
+    // Sit left of the fixed back-to-top button + above the floating footer
+    <div className={`fixed bottom-20 right-20 z-50 ${className}`}>
       <div className="bg-white dark:bg-gray-800 rounded-full shadow-lg border border-gray-200 dark:border-gray-700 p-2 flex gap-1">
         {displayOptions.map(({ value, icon: Icon, tooltip }) => (
           <button

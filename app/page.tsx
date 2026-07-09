@@ -2,7 +2,7 @@
 
 import React, { useState, useEffect, useMemo } from 'react'
 import Link from 'next/link'
-import { Search, User, Calendar, Trophy, Github, ChevronDown, ChevronUp, Compass } from 'lucide-react'
+import { Search, User, Calendar, Trophy, ChevronDown, ChevronUp, Compass } from 'lucide-react'
 import { Mapper, MapperSortOption, SortOption } from './components/types'
 import { MapperCard } from './components/MapperCard'
 import { processMapperData } from './components/beatmapset-utils'
@@ -211,8 +211,9 @@ export default function Home() {
           </div>
         </div>
 
-        {/* Controls - Sticky */}
-        <div className="atlas-panel sticky top-4 z-10 p-6 mb-8">
+        {/* Controls - Sticky (strip covers seam above the floating filter panel) */}
+        <div className="atlas-sticky-controls">
+          <div className="atlas-panel p-6">
           <div className="space-y-4">
 
 
@@ -362,6 +363,7 @@ export default function Home() {
               </div>
             </div>
           </div>
+          </div>
         </div>
 
         {/* Mappers List */}
@@ -413,27 +415,6 @@ export default function Home() {
           </div>
         )}
       </div>
-
-      {/* Footer */}
-      <footer className="bg-white dark:bg-gray-800 border-t border-gray-200 dark:border-gray-700 mt-12">
-        <div className="container mx-auto px-4 py-6 text-center">
-          <div className="flex items-center justify-center space-x-2 mb-2">
-            <Github className="h-5 w-5 text-gray-600" />
-            <a
-              href="https://github.com/hikizisa/osu-mappers-atlas"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-gray-600 hover:text-osu-pink transition-colors"
-            >
-              {t.viewOnGitHub}
-            </a>
-          </div>
-          <p className="text-sm text-gray-500">
-            {t.footerText}
-          </p>
-        </div>
-      </footer>
-      
     </div>
   )
 }
