@@ -1,6 +1,375 @@
 {
-  "lastChecked": "2026-07-04T18:43:04.565Z",
+  "lastChecked": "2026-07-10T06:12:21.551Z",
   "mapperStates": {
+    "106": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "108": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "274": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "301": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "410": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "424": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "488": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "586": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "602": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "612": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "682": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "739": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "857": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "951": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "1079": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "1332": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "1432": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "1728": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "1733": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "2024": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "2154": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "2233": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "2237": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "2316": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "2348": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "2355": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "2527": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "2596": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "2675": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "2778": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "2905": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "2930": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "2934": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "3004": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "3562": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "3736": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "4018": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "4128": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "4249": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "4271": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "5096": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "5220": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "5243": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "5352": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "5402": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "5725": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "5772": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "5807": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "6136": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "6347": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "6529": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "6659": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "7332": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "7900": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "8012": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "8399": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "8614": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "8649": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "8950": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "9018": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "9251": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "9415": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "9631": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "9934": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "10158": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "10466": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "10542": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "10863": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "11361": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "11593": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "11738": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "11874": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "12506": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "15038": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "16977": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "16978": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "17695": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "17938": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "18589": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "18605": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "19819": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "19883": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "20865": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "22263": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "22966": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "27844": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "31537": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "31803": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "32453": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "32931": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "33788": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "35074": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "35199": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "35341": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "37335": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "38763": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "42460": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "43677": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "51994": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "52934": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "53531": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "54178": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "57526": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "58042": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "64501": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "79188": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "82793": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "84726": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "85235": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "91341": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "94534": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "98758": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "103282": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "107485": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "107857": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "112302": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "117369": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "126859": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "139493": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "158848": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "190292": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "244216": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
+    "280362": {
+      "lastBeatmapCheck": "2026-07-10T06:12:21.551Z"
+    },
     "1047883": {
       "lastBeatmapCheck": "2026-07-04T18:43:04.565Z"
     },
@@ -50,6 +419,6 @@
       "lastBeatmapCheck": "2026-07-04T18:43:04.565Z"
     }
   },
-  "totalBeatmaps": 2344,
+  "totalBeatmaps": 5844,
   "lastFullScan": "2026-07-04T18:43:04.565Z"
 }

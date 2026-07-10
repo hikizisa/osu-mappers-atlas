@@ -1,6 +1,21 @@
 {
-  "lastChecked": "2026-07-04T18:42:35.266Z",
+  "lastChecked": "2026-07-10T06:12:14.851Z",
   "mapperStates": {
+    "17446": {
+      "lastBeatmapCheck": "2026-07-10T06:12:14.851Z"
+    },
+    "33646": {
+      "lastBeatmapCheck": "2026-07-10T06:12:14.851Z"
+    },
+    "67192": {
+      "lastBeatmapCheck": "2026-07-10T06:12:14.851Z"
+    },
+    "79616": {
+      "lastBeatmapCheck": "2026-07-10T06:12:14.851Z"
+    },
+    "160158": {
+      "lastBeatmapCheck": "2026-07-10T06:12:14.851Z"
+    },
     "224335": {
       "lastBeatmapCheck": "2026-07-04T18:42:35.266Z"
     },
@@ -8,6 +23,6 @@
       "lastBeatmapCheck": "2026-07-04T18:42:35.266Z"
     }
   },
-  "totalBeatmaps": 123,
+  "totalBeatmaps": 222,
   "lastFullScan": "2026-07-04T18:42:35.266Z"
 }
