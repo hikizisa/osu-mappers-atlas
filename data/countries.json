@@ -1,7 +1,7 @@
 {
   "defaultCountry": "KR",
   "defaultFetchStartDate": "2007-01-01",
-  "generatedAt": "2026-07-10T06:13:09.012Z",
+  "generatedAt": "2026-07-11T05:20:47.262Z",
   "source": "https://osu.ppy.sh/rankings/osu/country",
   "countries": {
     "AF": {
@@ -340,12 +340,6 @@
       "demonym": "Czechia",
       "nativeName": "Czechia"
     },
-    "KP": {
-      "code": "KP",
-      "name": "Democratic People's Republic of Korea",
-      "demonym": "Democratic People's Republic of Korea",
-      "nativeName": "Democratic People's Republic of Korea"
-    },
     "DK": {
       "code": "DK",
       "name": "Denmark",
@@ -465,12 +459,6 @@
       "name": "French Polynesia",
       "demonym": "French Polynesia",
       "nativeName": "French Polynesia"
-    },
-    "TF": {
-      "code": "TF",
-      "name": "French Southern Territories",
-      "demonym": "French Southern Territories",
-      "nativeName": "French Southern Territories"
     },
     "GA": {
       "code": "GA",
@@ -1390,12 +1378,6 @@
       "demonym": "Suriname",
       "nativeName": "Suriname"
     },
-    "SJ": {
-      "code": "SJ",
-      "name": "Svalbard and Jan Mayen",
-      "demonym": "Svalbard and Jan Mayen",
-      "nativeName": "Svalbard and Jan Mayen"
-    },
     "SE": {
       "code": "SE",
       "name": "Sweden",
@@ -1575,12 +1557,6 @@
       "name": "Wallis and Futuna",
       "demonym": "Wallis and Futuna",
       "nativeName": "Wallis and Futuna"
-    },
-    "EH": {
-      "code": "EH",
-      "name": "Western Sahara",
-      "demonym": "Western Sahara",
-      "nativeName": "Western Sahara"
     },
     "YE": {
       "code": "YE",

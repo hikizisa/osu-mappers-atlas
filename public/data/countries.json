@@ -1,6 +1,6 @@
 {
   "defaultCountry": "KR",
-  "generatedAt": "2026-07-10T06:13:09.012Z",
+  "generatedAt": "2026-07-11T05:20:47.262Z",
   "source": "https://osu.ppy.sh/rankings/osu/country",
   "countries": [
     {
@@ -99,8 +99,8 @@
       "demonym": "Argentina",
       "nativeName": "Argentina",
       "hasData": true,
-      "mapperCount": 2,
-      "lastUpdated": "2026-07-04T18:42:12.497Z"
+      "mapperCount": 5,
+      "lastUpdated": "2026-07-11T05:20:36.268Z"
     },
     {
       "code": "AM",
@@ -508,15 +508,6 @@
       "lastUpdated": "2026-07-04T18:42:31.842Z"
     },
     {
-      "code": "KP",
-      "name": "Democratic People's Republic of Korea",
-      "demonym": "Democratic People's Republic of Korea",
-      "nativeName": "Democratic People's Republic of Korea",
-      "hasData": true,
-      "mapperCount": 0,
-      "lastUpdated": "2026-07-04T18:42:47.428Z"
-    },
-    {
       "code": "DK",
       "name": "Denmark",
       "demonym": "Denmark",
@@ -695,15 +686,6 @@
       "hasData": true,
       "mapperCount": 0,
       "lastUpdated": "2026-07-04T18:42:49.636Z"
-    },
-    {
-      "code": "TF",
-      "name": "French Southern Territories",
-      "demonym": "French Southern Territories",
-      "nativeName": "French Southern Territories",
-      "hasData": true,
-      "mapperCount": 0,
-      "lastUpdated": "2026-07-04T18:42:59.856Z"
     },
     {
       "code": "GA",
@@ -909,8 +891,8 @@
       "demonym": "Indonesia",
       "nativeName": "Indonesia",
       "hasData": true,
-      "mapperCount": 7,
-      "lastUpdated": "2026-07-04T18:42:41.589Z"
+      "mapperCount": 14,
+      "lastUpdated": "2026-07-11T05:20:37.415Z"
     },
     {
       "code": "IQ",
@@ -1557,8 +1539,8 @@
       "demonym": "Russian Federation",
       "nativeName": "Russian Federation",
       "hasData": true,
-      "mapperCount": 3,
-      "lastUpdated": "2026-07-04T18:42:57.286Z"
+      "mapperCount": 15,
+      "lastUpdated": "2026-07-11T05:20:39.906Z"
     },
     {
       "code": "RW",
@@ -1822,15 +1804,6 @@
       "lastUpdated": "2026-07-04T18:42:59.852Z"
     },
     {
-      "code": "SJ",
-      "name": "Svalbard and Jan Mayen",
-      "demonym": "Svalbard and Jan Mayen",
-      "nativeName": "Svalbard and Jan Mayen",
-      "hasData": true,
-      "mapperCount": 0,
-      "lastUpdated": "2026-07-04T18:42:59.850Z"
-    },
-    {
       "code": "SE",
       "name": "Sweden",
       "demonym": "Sweden",
@@ -2061,8 +2034,8 @@
       "demonym": "Venezuela",
       "nativeName": "Venezuela",
       "hasData": true,
-      "mapperCount": 1,
-      "lastUpdated": "2026-07-04T18:43:16.223Z"
+      "mapperCount": 3,
+      "lastUpdated": "2026-07-11T05:20:44.880Z"
     },
     {
       "code": "VN",
@@ -2099,15 +2072,6 @@
       "hasData": true,
       "mapperCount": 0,
       "lastUpdated": "2026-07-04T18:43:17.701Z"
-    },
-    {
-      "code": "EH",
-      "name": "Western Sahara",
-      "demonym": "Western Sahara",
-      "nativeName": "Western Sahara",
-      "hasData": true,
-      "mapperCount": 0,
-      "lastUpdated": "2026-07-04T18:42:35.156Z"
     },
     {
       "code": "YE",
