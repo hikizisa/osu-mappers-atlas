@@ -63,7 +63,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1459",
+          "playcount": "1495",
           "passcount": "274",
           "packs": "ST353",
           "max_combo": "886",
@@ -107,7 +107,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "316",
+          "playcount": "318",
           "passcount": "102",
           "packs": "ST353",
           "max_combo": "396",
@@ -151,7 +151,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "660",
+          "playcount": "661",
           "passcount": "191",
           "packs": "ST353",
           "max_combo": "847",
@@ -195,7 +195,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "271",
+          "playcount": "272",
           "passcount": "100",
           "packs": "ST353",
           "max_combo": "234",
@@ -239,7 +239,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "465",
+          "playcount": "466",
           "passcount": "125",
           "packs": "ST353",
           "max_combo": "578",
@@ -283,7 +283,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1954",
+          "playcount": "1963",
           "passcount": "345",
           "packs": "ST351",
           "max_combo": "905",
@@ -371,7 +371,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "612",
+          "playcount": "613",
           "passcount": "167",
           "packs": "ST351",
           "max_combo": "373",
@@ -459,7 +459,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "679",
+          "playcount": "682",
           "passcount": "200",
           "packs": "ST351",
           "max_combo": "649",
@@ -6295,7 +6295,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "27",
+          "playcount": "1243"
         },
         {
           "beatmapset_id": "2321384",
@@ -6340,7 +6342,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "11",
+          "playcount": "4893"
         },
         {
           "beatmapset_id": "2321386",
@@ -6385,7 +6389,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "18",
+          "playcount": "3212"
         }
       ],
       "guestDifficulties": [],

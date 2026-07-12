@@ -65,7 +65,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "7399",
+          "playcount": "7462",
           "passcount": "1719",
           "packs": "S1729",
           "max_combo": "1221",
@@ -109,7 +109,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "3403",
+          "playcount": "3466",
           "passcount": "1166",
           "packs": "S1729",
           "max_combo": "985",
@@ -197,7 +197,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "8002",
+          "playcount": "8110",
           "passcount": "1569",
           "packs": "S1729",
           "max_combo": "1258",
@@ -241,7 +241,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1513",
+          "playcount": "1522",
           "passcount": "622",
           "packs": "S1729",
           "max_combo": "670",
@@ -2587,7 +2587,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "53",
+          "playcount": "21578"
         }
       ],
       "guestDifficulties": [],

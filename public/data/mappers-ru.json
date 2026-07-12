@@ -57,13 +57,13 @@
           "tags": "jazz japanese electronic corsace co2021 ro32 nm4 swansong cygnus collection ss2016 cc-c90 treow haluna naturale piece of cipher plus minus karent piano cygnus.cc tokitoru u-sk sakashoudou-p 逆衝動p",
           "genre_id": "10",
           "language_id": "3",
-          "favourite_count": "153",
+          "favourite_count": "161",
           "rating": "10",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "2665",
+          "playcount": "3799",
           "passcount": "377",
           "packs": "LR96,P286",
           "max_combo": "1532",
@@ -107,7 +107,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "6391",
+          "playcount": "6427",
           "passcount": "994",
           "packs": "S1659",
           "max_combo": "1620",
@@ -13666,7 +13666,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "63",
+          "playcount": "6427"
         },
         {
           "beatmapset_id": "1550481",
@@ -13683,7 +13685,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "161",
+          "playcount": "3799"
         }
       ],
       "guestDifficulties": [],
@@ -28072,7 +28076,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "2026",
+          "playcount": "2161",
           "passcount": "396",
           "packs": "LR92,P193",
           "max_combo": "1446",
@@ -28110,13 +28114,13 @@
           "tags": "russian русский rock pop indie orchestral live оркестр симфонические твари зловонный маскарад gazpriest nine19 chogori битва экстрасенсов",
           "genre_id": "4",
           "language_id": "12",
-          "favourite_count": "168",
+          "favourite_count": "171",
           "rating": "9.05405",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "7714",
+          "playcount": "7912",
           "passcount": "2540",
           "packs": "S1763",
           "max_combo": "1178",
@@ -28154,13 +28158,13 @@
           "tags": "russian русский rock pop indie orchestral live оркестр симфонические твари зловонный маскарад gazpriest nine19 chogori битва экстрасенсов",
           "genre_id": "4",
           "language_id": "12",
-          "favourite_count": "168",
+          "favourite_count": "171",
           "rating": "9.05405",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "10639",
+          "playcount": "10900",
           "passcount": "3657",
           "packs": "S1763",
           "max_combo": "960",
@@ -28198,13 +28202,13 @@
           "tags": "english rock thrash speed metal hantrik",
           "genre_id": "11",
           "language_id": "2",
-          "favourite_count": "32",
+          "favourite_count": "31",
           "rating": "8.57143",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "4096",
+          "playcount": "4141",
           "passcount": "149",
           "packs": "S1732",
           "max_combo": "3197",
@@ -32834,7 +32838,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "31",
+          "playcount": "4141"
         },
         {
           "beatmapset_id": "2484771",
@@ -32858,7 +32864,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "171",
+          "playcount": "18812"
         },
         {
           "beatmapset_id": "1801375",
@@ -32875,7 +32883,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "76",
+          "playcount": "2161"
         }
       ],
       "guestDifficulties": [],
@@ -38141,13 +38151,13 @@
           "tags": "klishe cliché vfs вфс видеоигры russian русский indie rock инди рок wenect unranked mapper unranked_mapper wenet frakturehawkens alumetri shizuku- ayesha altugle ayesha_altugle kazato asa shikibe mayu cappu tachibana_",
           "genre_id": "4",
           "language_id": "12",
-          "favourite_count": "207",
+          "favourite_count": "208",
           "rating": "8.80357",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "4663",
+          "playcount": "4807",
           "passcount": "1923",
           "packs": "S1692",
           "max_combo": "439",
@@ -38185,13 +38195,13 @@
           "tags": "klishe cliché vfs вфс видеоигры russian русский indie rock инди рок wenect unranked mapper unranked_mapper wenet frakturehawkens alumetri shizuku- ayesha altugle ayesha_altugle kazato asa shikibe mayu cappu tachibana_",
           "genre_id": "4",
           "language_id": "12",
-          "favourite_count": "207",
+          "favourite_count": "208",
           "rating": "8.80357",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "16813",
+          "playcount": "16921",
           "passcount": "4021",
           "packs": "S1692",
           "max_combo": "803",
@@ -38229,13 +38239,13 @@
           "tags": "klishe cliché vfs вфс видеоигры russian русский indie rock инди рок wenect unranked mapper unranked_mapper wenet frakturehawkens alumetri shizuku- ayesha altugle ayesha_altugle kazato asa shikibe mayu cappu tachibana_",
           "genre_id": "4",
           "language_id": "12",
-          "favourite_count": "207",
+          "favourite_count": "208",
           "rating": "8.80357",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "10378",
+          "playcount": "10486",
           "passcount": "2043",
           "packs": "S1692",
           "max_combo": "643",
@@ -38273,13 +38283,13 @@
           "tags": "klishe cliché vfs вфс видеоигры russian русский indie rock инди рок wenect unranked mapper unranked_mapper wenet frakturehawkens alumetri shizuku- ayesha altugle ayesha_altugle kazato asa shikibe mayu cappu tachibana_",
           "genre_id": "4",
           "language_id": "12",
-          "favourite_count": "207",
+          "favourite_count": "208",
           "rating": "8.80357",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "6733",
+          "playcount": "6823",
           "passcount": "881",
           "packs": "S1692",
           "max_combo": "892",
@@ -38317,13 +38327,13 @@
           "tags": "klishe cliché vfs вфс видеоигры russian русский indie rock инди рок wenect unranked mapper unranked_mapper wenet frakturehawkens alumetri shizuku- ayesha altugle ayesha_altugle kazato asa shikibe mayu cappu tachibana_",
           "genre_id": "4",
           "language_id": "12",
-          "favourite_count": "207",
+          "favourite_count": "208",
           "rating": "8.80357",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "9388",
+          "playcount": "9523",
           "passcount": "2835",
           "packs": "S1692",
           "max_combo": "572",
@@ -38361,13 +38371,13 @@
           "tags": "klishe cliché vfs вфс видеоигры russian русский indie rock инди рок wenect unranked mapper unranked_mapper wenet frakturehawkens alumetri shizuku- ayesha altugle ayesha_altugle kazato asa shikibe mayu cappu tachibana_",
           "genre_id": "4",
           "language_id": "12",
-          "favourite_count": "207",
+          "favourite_count": "208",
           "rating": "8.80357",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "8344",
+          "playcount": "8416",
           "passcount": "1071",
           "packs": "S1692",
           "max_combo": "945",
@@ -40221,7 +40231,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "208",
+          "playcount": "56976"
         }
       ],
       "guestDifficulties": [],
@@ -40283,7 +40295,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "7408",
+          "playcount": "7417",
           "passcount": "1981",
           "packs": "LR60",
           "max_combo": "750",
@@ -41735,7 +41747,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "51",
+          "playcount": "7417"
         }
       ],
       "guestDifficulties": [],

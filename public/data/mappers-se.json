@@ -59,13 +59,13 @@
           "tags": "マルバ m3-2025春 m3 2025 spring haru photology elixir nocturne m3-55 pagan folk electronic instrumental dahkjdas",
           "genre_id": "13",
           "language_id": "5",
-          "favourite_count": "32",
+          "favourite_count": "31",
           "rating": "9.12",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "2638",
+          "playcount": "2674",
           "passcount": "820",
           "packs": "S1789",
           "max_combo": "1609",
@@ -103,13 +103,13 @@
           "tags": "マルバ m3-2025春 m3 2025 spring haru photology elixir nocturne m3-55 pagan folk electronic instrumental dahkjdas",
           "genre_id": "13",
           "language_id": "5",
-          "favourite_count": "32",
+          "favourite_count": "31",
           "rating": "9.12",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "4330",
+          "playcount": "4384",
           "passcount": "1478",
           "packs": "S1789",
           "max_combo": "1470",
@@ -6428,7 +6428,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "31",
+          "playcount": "7058"
         }
       ],
       "guestDifficulties": [],
@@ -6484,13 +6486,13 @@
           "tags": "english pop indie alice in wonderland alternative cry baby crybaby",
           "genre_id": "5",
           "language_id": "2",
-          "favourite_count": "165",
+          "favourite_count": "168",
           "rating": "8.87097",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "11728",
+          "playcount": "11818",
           "passcount": "2300",
           "packs": "S1691",
           "max_combo": "1046",
@@ -6528,13 +6530,13 @@
           "tags": "english pop indie alice in wonderland alternative cry baby crybaby",
           "genre_id": "5",
           "language_id": "2",
-          "favourite_count": "165",
+          "favourite_count": "168",
           "rating": "8.87097",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "8047",
+          "playcount": "8173",
           "passcount": "3155",
           "packs": "S1691",
           "max_combo": "569",
@@ -6572,13 +6574,13 @@
           "tags": "english pop indie alice in wonderland alternative cry baby crybaby",
           "genre_id": "5",
           "language_id": "2",
-          "favourite_count": "165",
+          "favourite_count": "168",
           "rating": "8.87097",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "10864",
+          "playcount": "10963",
           "passcount": "3988",
           "packs": "S1691",
           "max_combo": "797",
@@ -10437,7 +10439,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "168",
+          "playcount": "30954"
         }
       ],
       "guestDifficulties": [],
@@ -18079,7 +18083,7 @@
           "tags": "fa featured artist terraformer flying jangus records tys03 tom monda matt reynolds ben karas cody mccorry faye fadem sam greenfield joe gullace mike feretti andy van dette alternative progressive rock metal jazz fusion instrumental hybrid marathon chrome",
           "genre_id": "4",
           "language_id": "5",
-          "favourite_count": "116",
+          "favourite_count": "117",
           "rating": "10",
           "storyboard": "0",
           "video": "0",
@@ -18945,7 +18949,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "117",
+          "playcount": "2539"
         }
       ],
       "guestDifficulties": [],

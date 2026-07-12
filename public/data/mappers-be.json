@@ -63,7 +63,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "12898",
+          "playcount": "12934",
           "passcount": "2484",
           "packs": "LR52",
           "max_combo": "388",
@@ -465,7 +465,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "54",
+          "playcount": "12934"
         }
       ],
       "guestDifficulties": [],

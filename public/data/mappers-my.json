@@ -68,7 +68,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "406",
+          "playcount": "426",
           "passcount": "83",
           "packs": "ST391",
           "max_combo": "1758",
@@ -112,7 +112,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "330",
+          "playcount": "332",
           "passcount": "144",
           "packs": "ST391",
           "max_combo": "1169",
@@ -156,7 +156,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "2593",
+          "playcount": "2611",
           "passcount": "263",
           "packs": "LR47",
           "max_combo": "1326",
@@ -200,7 +200,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1315",
+          "playcount": "1324",
           "passcount": "204",
           "packs": "LR47",
           "max_combo": "2272",
@@ -244,7 +244,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1108",
+          "playcount": "1135",
           "passcount": "164",
           "packs": "LR47",
           "max_combo": "1232",
@@ -288,7 +288,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "572",
+          "playcount": "581",
           "passcount": "76",
           "packs": "LR47",
           "max_combo": "2592",
@@ -420,7 +420,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1594",
+          "playcount": "1630",
           "passcount": "430",
           "packs": "LR47",
           "max_combo": "1827",
@@ -7221,7 +7221,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "119",
+          "playcount": "9839"
         },
         {
           "beatmapset_id": "2244840",
@@ -7245,7 +7247,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "12",
+          "playcount": "758"
         }
       ],
       "guestDifficulties": [],
@@ -7303,13 +7307,13 @@
           "tags": "mwc 2025 world cup mwc2025 mwc7k2025 qualifiers ln long note coordination featured artist fa electronic dance music japanese jpop",
           "genre_id": "10",
           "language_id": "3",
-          "favourite_count": "58",
+          "favourite_count": "61",
           "rating": "10",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "3412",
+          "playcount": "3484",
           "passcount": "1674",
           "packs": "LR89,P270",
           "max_combo": "4241",
@@ -7353,7 +7357,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "2854",
+          "playcount": "2953",
           "passcount": "1521",
           "packs": "P312,SM339",
           "max_combo": "7794",
@@ -12014,7 +12018,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "41",
+          "playcount": "2953"
         },
         {
           "beatmapset_id": "2303945",
@@ -12031,7 +12037,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "61",
+          "playcount": "3484"
         }
       ],
       "guestDifficulties": [],
