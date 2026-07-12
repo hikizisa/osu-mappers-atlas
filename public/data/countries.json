@@ -1,6 +1,6 @@
 {
   "defaultCountry": "KR",
-  "generatedAt": "2026-07-11T05:20:47.262Z",
+  "generatedAt": "2026-07-12T05:36:11.103Z",
   "source": "https://osu.ppy.sh/rankings/osu/country",
   "countries": [
     {
@@ -657,8 +657,8 @@
       "demonym": "Finland",
       "nativeName": "Finland",
       "hasData": true,
-      "mapperCount": 0,
-      "lastUpdated": "2026-07-04T18:42:36.700Z"
+      "mapperCount": 6,
+      "lastUpdated": "2026-07-12T05:36:03.286Z"
     },
     {
       "code": "FR",
@@ -909,8 +909,8 @@
       "demonym": "Ireland",
       "nativeName": "Ireland",
       "hasData": true,
-      "mapperCount": 0,
-      "lastUpdated": "2026-07-04T18:39:27.673Z"
+      "mapperCount": 1,
+      "lastUpdated": "2026-07-12T05:36:05.375Z"
     },
     {
       "code": "IR",
@@ -1476,8 +1476,8 @@
       "demonym": "Philippines",
       "nativeName": "Philippines",
       "hasData": true,
-      "mapperCount": 3,
-      "lastUpdated": "2026-07-04T18:42:49.747Z"
+      "mapperCount": 14,
+      "lastUpdated": "2026-07-12T05:36:05.802Z"
     },
     {
       "code": "PL",
