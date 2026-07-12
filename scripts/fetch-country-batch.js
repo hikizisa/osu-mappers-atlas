@@ -52,7 +52,14 @@ function loadCountries() {
 }
 
 function hasMapperData(countryCode) {
-  return fs.existsSync(path.join(PUBLIC_DATA_DIR, `mappers-${countryCode.toLowerCase()}.json`));
+  const filePath = path.join(PUBLIC_DATA_DIR, `mappers-${countryCode.toLowerCase()}.json`);
+  if (!fs.existsSync(filePath)) return false;
+  try {
+    const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+    return data && typeof data.totalMappers === 'number' && data.totalMappers > 0;
+  } catch (error) {
+    return false;
+  }
 }
 
 function selectCountries(allCountries) {

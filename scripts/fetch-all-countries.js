@@ -69,8 +69,43 @@ function loadCountryConfig() {
   throw new Error('No country list found. Run npm run init-countries first.');
 }
 
+function loadExistingMappers() {
+  const mappersByCountry = {};
+  const checkedUsers = new Set();
+
+  if (!fs.existsSync(PUBLIC_DATA_DIR)) return { mappersByCountry, checkedUsers };
+
+  const files = fs.readdirSync(PUBLIC_DATA_DIR);
+  for (const file of files) {
+    const match = file.match(/^mappers-([a-z]{2})\.json$/);
+    if (!match) continue;
+
+    const countryCode = match[1].toUpperCase();
+    try {
+      const data = JSON.parse(fs.readFileSync(path.join(PUBLIC_DATA_DIR, file), 'utf8'));
+      if (Array.isArray(data.mappers)) {
+        const ids = data.mappers.map(m => parseInt(m.user_id, 10)).filter(Number.isFinite);
+        mappersByCountry[countryCode] = ids;
+        for (const id of ids) {
+          checkedUsers.add(id);
+        }
+      }
+    } catch (e) {
+      // Ignore invalid or empty files
+    }
+  }
+  return { mappersByCountry, checkedUsers };
+}
+
 function hasMapperData(countryCode) {
-  return fs.existsSync(path.join(PUBLIC_DATA_DIR, `mappers-${countryCode.toLowerCase()}.json`));
+  const filePath = path.join(PUBLIC_DATA_DIR, `mappers-${countryCode.toLowerCase()}.json`);
+  if (!fs.existsSync(filePath)) return false;
+  try {
+    const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+    return data && typeof data.totalMappers === 'number' && data.totalMappers > 0;
+  } catch (error) {
+    return false;
+  }
 }
 
 function selectCountries(allCountries) {
@@ -130,8 +165,10 @@ async function discoverMappersByCountry(countryCodes, sinceDate, maxRequests) {
   }
 
   const countrySet = new Set(countryCodes);
-  const checkedUsers = new Set();
-  const discovered = Object.fromEntries(countryCodes.map(countryCode => [countryCode, []]));
+  const { mappersByCountry, checkedUsers } = loadExistingMappers();
+  const discovered = Object.fromEntries(
+    countryCodes.map(countryCode => [countryCode, mappersByCountry[countryCode] || []])
+  );
   let since = sinceDate;
   let requestCount = 0;
 
@@ -153,7 +190,6 @@ async function discoverMappersByCountry(countryCodes, sinceDate, maxRequests) {
         continue;
       }
 
-      checkedUsers.add(creatorId);
       try {
         const userData = await makeApiRequest(`${BASE_URL}/get_user`, {
           k: OSU_API_KEY,
@@ -166,6 +202,7 @@ async function discoverMappersByCountry(countryCodes, sinceDate, maxRequests) {
         if (countrySet.has(countryCode)) {
           discovered[countryCode].push(creatorId);
         }
+        checkedUsers.add(creatorId);
       } catch (error) {
         console.error(`Failed to check user ${creatorId}: ${error.message}`);
       }
