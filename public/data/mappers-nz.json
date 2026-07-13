@@ -5,7 +5,7 @@
     "demonym": "New Zealand",
     "nativeName": "New Zealand"
   },
-  "lastUpdated": "2026-07-08T05:28:46.080Z",
+  "lastUpdated": "2026-07-13T05:44:47.106Z",
   "totalMappers": 2,
   "totalBeatmaps": 58,
   "totalBeatmapsets": 23,
@@ -13,7 +13,7 @@
   "totalGuestBeatmapsets": 0,
   "totalGuestDiffs": 0,
   "totalOwnDifficulties": 58,
-  "scanType": "full",
+  "scanType": "incremental",
   "mappers": [
     {
       "user_id": "431",
@@ -2010,30 +2010,23 @@
       ],
       "beatmapsets": [
         {
-          "beatmapset_id": "80",
-          "title": "Sakuranbo",
-          "artist": "Ai Otsuka",
+          "beatmapset_id": "3339",
+          "title": "Unwell",
+          "artist": "Matchbox 20",
           "creator": "Echo",
-          "approved_date": "2007-10-13 14:56:47",
+          "approved_date": "2009-02-16 09:50:38",
           "difficulties": [
             {
-              "beatmap_id": "180",
-              "version": "Easy",
-              "difficultyrating": "1.94507",
+              "beatmap_id": "23170",
+              "version": "Echo's Hard",
+              "difficultyrating": "3.556",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "181",
-              "version": "Normal",
-              "difficultyrating": "2.2282",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "182",
-              "version": "Hard",
-              "difficultyrating": "3.41365",
+              "beatmap_id": "23171",
+              "version": "Luigi's Normal",
+              "difficultyrating": "2.31946",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -2041,47 +2034,30 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "81",
-          "title": "Brilliant World",
-          "artist": "Kaori Oda",
+          "beatmapset_id": "3697",
+          "title": "weeeek",
+          "artist": "NEWS",
           "creator": "Echo",
-          "approved_date": "2007-10-13 20:10:12",
+          "approved_date": "2008-12-10 20:54:25",
           "difficulties": [
             {
-              "beatmap_id": "183",
+              "beatmap_id": "22370",
               "version": "Hard",
-              "difficultyrating": "2.90508",
+              "difficultyrating": "3.77026",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "184",
-              "version": "Normal",
-              "difficultyrating": "2.24781",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "83",
-          "title": "Zenryoku Shounen",
-          "artist": "Sukima Switch",
-          "creator": "Echo",
-          "approved_date": "2007-10-14 11:09:13",
-          "difficulties": [
-            {
-              "beatmap_id": "189",
-              "version": "Normal",
-              "difficultyrating": "2.50776",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "960",
+              "beatmap_id": "22422",
               "version": "Insane",
-              "difficultyrating": "3.14543",
+              "difficultyrating": "4.81299",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "23397",
+              "version": "Normal",
+              "difficultyrating": "2.80177",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -2089,30 +2065,54 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "96",
-          "title": "Speed Over Beethoven",
-          "artist": "",
+          "beatmapset_id": "920",
+          "title": "Red Sun",
+          "artist": "Hacken Lee",
           "creator": "Echo",
-          "approved_date": "2007-10-19 08:51:33",
+          "approved_date": "2008-08-20 02:43:22",
           "difficulties": [
             {
-              "beatmap_id": "213",
+              "beatmap_id": "6783",
+              "version": "Hard",
+              "difficultyrating": "2.9341",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "19786",
+              "version": "Normal",
+              "difficultyrating": "2.29647",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1976",
+          "title": "Love So Sweet",
+          "artist": "Arashi",
+          "creator": "Echo",
+          "approved_date": "2008-07-10 04:51:20",
+          "difficulties": [
+            {
+              "beatmap_id": "18309",
               "version": "Easy",
-              "difficultyrating": "2.22096",
+              "difficultyrating": "2.01504",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "214",
+              "beatmap_id": "18310",
               "version": "Normal",
-              "difficultyrating": "3.12672",
+              "difficultyrating": "1.95556",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "215",
+              "beatmap_id": "18311",
               "version": "Hard",
-              "difficultyrating": "3.67957",
+              "difficultyrating": "2.63173",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -2120,68 +2120,23 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "118",
-          "title": "Survival dAnce ~no no cry more~",
-          "artist": "TRF",
+          "beatmapset_id": "1981",
+          "title": "King Knight",
+          "artist": "Ali Project",
           "creator": "Echo",
-          "approved_date": "2007-10-24 19:24:25",
+          "approved_date": "2008-07-10 00:39:37",
           "difficulties": [
             {
-              "beatmap_id": "257",
-              "version": "Easy",
-              "difficultyrating": "2.60867",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "258",
+              "beatmap_id": "18353",
               "version": "Hard",
-              "difficultyrating": "3.49387",
+              "difficultyrating": "3.62802",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "259",
-              "version": "Insane",
-              "difficultyrating": "4.18904",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "132",
-          "title": "Wizards In Winter",
-          "artist": "Trans-Siberian Orchestra",
-          "creator": "Echo",
-          "approved_date": "2007-10-29 07:52:17",
-          "difficulties": [
-            {
-              "beatmap_id": "293",
+              "beatmap_id": "18446",
               "version": "Normal",
-              "difficultyrating": "2.67094",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "294",
-              "version": "Hard",
-              "difficultyrating": "3.95167",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "295",
-              "version": "Insane",
-              "difficultyrating": "4.37154",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "296",
-              "version": "Impossible",
-              "difficultyrating": "4.78633",
+              "difficultyrating": "2.162",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -2189,122 +2144,30 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "138",
-          "title": "Tong Hua",
-          "artist": "Guang Liang",
+          "beatmapset_id": "827",
+          "title": "the starry sky",
+          "artist": "HAL",
           "creator": "Echo",
-          "approved_date": "2007-10-30 22:46:28",
+          "approved_date": "2008-07-08 04:52:02",
           "difficulties": [
             {
-              "beatmap_id": "309",
-              "version": "Easy",
-              "difficultyrating": "2.00362",
+              "beatmap_id": "16565",
+              "version": "Echo",
+              "difficultyrating": "3.42139",
               "mode": "0",
               "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "231",
-          "title": "Tobira no Mukou he",
-          "artist": "YeLLOW Generation",
-          "creator": "Echo",
-          "approved_date": "2007-11-16 22:47:48",
-          "difficulties": [
+            },
             {
-              "beatmap_id": "980",
+              "beatmap_id": "18300",
               "version": "Normal",
-              "difficultyrating": "2.83244",
+              "difficultyrating": "3.00494",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "981",
-              "version": "Hard",
-              "difficultyrating": "2.87961",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "268",
-          "title": "Way Of Difference",
-          "artist": "Glay",
-          "creator": "Echo",
-          "approved_date": "2007-12-08 01:54:38",
-          "difficulties": [
-            {
-              "beatmap_id": "1854",
-              "version": "Normal",
-              "difficultyrating": "2.66601",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1855",
-              "version": "Hard",
-              "difficultyrating": "3.65537",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "659",
-          "title": "Yoake Umarekuru Shoujo",
-          "artist": "Youko Takahashi",
-          "creator": "Echo",
-          "approved_date": "2008-02-04 13:42:40",
-          "difficulties": [
-            {
-              "beatmap_id": "3784",
-              "version": "Hard",
-              "difficultyrating": "3.03156",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "800",
-          "title": "Mozaiku Kakera",
-          "artist": "SunSet Swish",
-          "creator": "Echo",
-          "approved_date": "2008-02-24 05:32:20",
-          "difficulties": [
-            {
-              "beatmap_id": "5034",
-              "version": "Normal",
-              "difficultyrating": "2.66987",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "851",
-          "title": "Cosmic Night Run",
-          "artist": "m-flo",
-          "creator": "Echo",
-          "approved_date": "2008-03-25 04:57:49",
-          "difficulties": [
-            {
-              "beatmap_id": "6770",
-              "version": "Normal",
-              "difficultyrating": "2.39298",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "6771",
-              "version": "Hard",
-              "difficultyrating": "3.22415",
+              "beatmap_id": "18312",
+              "version": "JAMES DIFFICULTY!!",
+              "difficultyrating": "3.61735",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -2350,54 +2213,23 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "827",
-          "title": "the starry sky",
-          "artist": "HAL",
+          "beatmapset_id": "851",
+          "title": "Cosmic Night Run",
+          "artist": "m-flo",
           "creator": "Echo",
-          "approved_date": "2008-07-08 04:52:02",
+          "approved_date": "2008-03-25 04:57:49",
           "difficulties": [
             {
-              "beatmap_id": "16565",
-              "version": "Echo",
-              "difficultyrating": "3.42139",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "18300",
+              "beatmap_id": "6770",
               "version": "Normal",
-              "difficultyrating": "3.00494",
+              "difficultyrating": "2.39298",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "18312",
-              "version": "JAMES DIFFICULTY!!",
-              "difficultyrating": "3.61735",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1981",
-          "title": "King Knight",
-          "artist": "Ali Project",
-          "creator": "Echo",
-          "approved_date": "2008-07-10 00:39:37",
-          "difficulties": [
-            {
-              "beatmap_id": "18353",
+              "beatmap_id": "6771",
               "version": "Hard",
-              "difficultyrating": "3.62802",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "18446",
-              "version": "Normal",
-              "difficultyrating": "2.162",
+              "difficultyrating": "3.22415",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -2405,30 +2237,98 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "1976",
-          "title": "Love So Sweet",
-          "artist": "Arashi",
+          "beatmapset_id": "800",
+          "title": "Mozaiku Kakera",
+          "artist": "SunSet Swish",
           "creator": "Echo",
-          "approved_date": "2008-07-10 04:51:20",
+          "approved_date": "2008-02-24 05:32:20",
           "difficulties": [
             {
-              "beatmap_id": "18309",
+              "beatmap_id": "5034",
+              "version": "Normal",
+              "difficultyrating": "2.66987",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "659",
+          "title": "Yoake Umarekuru Shoujo",
+          "artist": "Youko Takahashi",
+          "creator": "Echo",
+          "approved_date": "2008-02-04 13:42:40",
+          "difficulties": [
+            {
+              "beatmap_id": "3784",
+              "version": "Hard",
+              "difficultyrating": "3.03156",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "268",
+          "title": "Way Of Difference",
+          "artist": "Glay",
+          "creator": "Echo",
+          "approved_date": "2007-12-08 01:54:38",
+          "difficulties": [
+            {
+              "beatmap_id": "1854",
+              "version": "Normal",
+              "difficultyrating": "2.66601",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1855",
+              "version": "Hard",
+              "difficultyrating": "3.65537",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "231",
+          "title": "Tobira no Mukou he",
+          "artist": "YeLLOW Generation",
+          "creator": "Echo",
+          "approved_date": "2007-11-16 22:47:48",
+          "difficulties": [
+            {
+              "beatmap_id": "980",
+              "version": "Normal",
+              "difficultyrating": "2.83244",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "981",
+              "version": "Hard",
+              "difficultyrating": "2.87961",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "138",
+          "title": "Tong Hua",
+          "artist": "Guang Liang",
+          "creator": "Echo",
+          "approved_date": "2007-10-30 22:46:28",
+          "difficulties": [
+            {
+              "beatmap_id": "309",
               "version": "Easy",
-              "difficultyrating": "2.01504",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "18310",
-              "version": "Normal",
-              "difficultyrating": "1.95556",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "18311",
-              "version": "Hard",
-              "difficultyrating": "2.63173",
+              "difficultyrating": "2.00362",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -2436,54 +2336,37 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "920",
-          "title": "Red Sun",
-          "artist": "Hacken Lee",
+          "beatmapset_id": "132",
+          "title": "Wizards In Winter",
+          "artist": "Trans-Siberian Orchestra",
           "creator": "Echo",
-          "approved_date": "2008-08-20 02:43:22",
+          "approved_date": "2007-10-29 07:52:17",
           "difficulties": [
             {
-              "beatmap_id": "6783",
-              "version": "Hard",
-              "difficultyrating": "2.9341",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "19786",
+              "beatmap_id": "293",
               "version": "Normal",
-              "difficultyrating": "2.29647",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "3697",
-          "title": "weeeek",
-          "artist": "NEWS",
-          "creator": "Echo",
-          "approved_date": "2008-12-10 20:54:25",
-          "difficulties": [
-            {
-              "beatmap_id": "22370",
-              "version": "Hard",
-              "difficultyrating": "3.77026",
+              "difficultyrating": "2.67094",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "22422",
+              "beatmap_id": "294",
+              "version": "Hard",
+              "difficultyrating": "3.95167",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "295",
               "version": "Insane",
-              "difficultyrating": "4.81299",
+              "difficultyrating": "4.37154",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "23397",
-              "version": "Normal",
-              "difficultyrating": "2.80177",
+              "beatmap_id": "296",
+              "version": "Impossible",
+              "difficultyrating": "4.78633",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -2491,23 +2374,140 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "3339",
-          "title": "Unwell",
-          "artist": "Matchbox 20",
+          "beatmapset_id": "118",
+          "title": "Survival dAnce ~no no cry more~",
+          "artist": "TRF",
           "creator": "Echo",
-          "approved_date": "2009-02-16 09:50:38",
+          "approved_date": "2007-10-24 19:24:25",
           "difficulties": [
             {
-              "beatmap_id": "23170",
-              "version": "Echo's Hard",
-              "difficultyrating": "3.556",
+              "beatmap_id": "257",
+              "version": "Easy",
+              "difficultyrating": "2.60867",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "23171",
-              "version": "Luigi's Normal",
-              "difficultyrating": "2.31946",
+              "beatmap_id": "258",
+              "version": "Hard",
+              "difficultyrating": "3.49387",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "259",
+              "version": "Insane",
+              "difficultyrating": "4.18904",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "96",
+          "title": "Speed Over Beethoven",
+          "artist": "",
+          "creator": "Echo",
+          "approved_date": "2007-10-19 08:51:33",
+          "difficulties": [
+            {
+              "beatmap_id": "213",
+              "version": "Easy",
+              "difficultyrating": "2.22096",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "214",
+              "version": "Normal",
+              "difficultyrating": "3.12672",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "215",
+              "version": "Hard",
+              "difficultyrating": "3.67957",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "83",
+          "title": "Zenryoku Shounen",
+          "artist": "Sukima Switch",
+          "creator": "Echo",
+          "approved_date": "2007-10-14 11:09:13",
+          "difficulties": [
+            {
+              "beatmap_id": "189",
+              "version": "Normal",
+              "difficultyrating": "2.50776",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "960",
+              "version": "Insane",
+              "difficultyrating": "3.14543",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "81",
+          "title": "Brilliant World",
+          "artist": "Kaori Oda",
+          "creator": "Echo",
+          "approved_date": "2007-10-13 20:10:12",
+          "difficulties": [
+            {
+              "beatmap_id": "183",
+              "version": "Hard",
+              "difficultyrating": "2.90508",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "184",
+              "version": "Normal",
+              "difficultyrating": "2.24781",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "80",
+          "title": "Sakuranbo",
+          "artist": "Ai Otsuka",
+          "creator": "Echo",
+          "approved_date": "2007-10-13 14:56:47",
+          "difficulties": [
+            {
+              "beatmap_id": "180",
+              "version": "Easy",
+              "difficultyrating": "1.94507",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "181",
+              "version": "Normal",
+              "difficultyrating": "2.2282",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "182",
+              "version": "Hard",
+              "difficultyrating": "3.41365",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -2524,7 +2524,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 45
       },
-      "lastUpdated": "2026-07-08T05:28:46.080Z"
+      "lastUpdated": "2026-07-13T05:44:47.106Z"
     },
     {
       "user_id": "128370",
@@ -3113,30 +3113,61 @@
       ],
       "beatmapsets": [
         {
-          "beatmapset_id": "8992",
-          "title": "HOWLING",
-          "artist": "Abingdon Boys School",
+          "beatmapset_id": "10546",
+          "title": "Yakusoku",
+          "artist": "Hinata Girls",
           "creator": "deadbeat",
-          "approved_date": "2009-11-12 12:57:43",
+          "approved_date": "2011-01-02 22:43:02",
           "difficulties": [
             {
-              "beatmap_id": "36376",
+              "beatmap_id": "80036",
+              "version": "EEeee's Promise",
+              "difficultyrating": "3.41528",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "80037",
+              "version": "Kaneko's Promise",
+              "difficultyrating": "1.98132",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "80038",
+              "version": "My Promise",
+              "difficultyrating": "2.47771",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "11797",
+          "title": "Kaigan Doori",
+          "artist": "Asian Kung-Fu Generation",
+          "creator": "deadbeat",
+          "approved_date": "2010-03-27 02:30:49",
+          "difficulties": [
+            {
+              "beatmap_id": "44803",
               "version": "Easy",
-              "difficultyrating": "2.03757",
+              "difficultyrating": "1.73002",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "36574",
+              "beatmap_id": "44804",
               "version": "Hard",
-              "difficultyrating": "4.13215",
+              "difficultyrating": "3.40664",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "39136",
-              "version": "Normal +",
-              "difficultyrating": "2.83765",
+              "beatmap_id": "44805",
+              "version": "Normal",
+              "difficultyrating": "2.49182",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -3182,61 +3213,30 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "11797",
-          "title": "Kaigan Doori",
-          "artist": "Asian Kung-Fu Generation",
+          "beatmapset_id": "8992",
+          "title": "HOWLING",
+          "artist": "Abingdon Boys School",
           "creator": "deadbeat",
-          "approved_date": "2010-03-27 02:30:49",
+          "approved_date": "2009-11-12 12:57:43",
           "difficulties": [
             {
-              "beatmap_id": "44803",
+              "beatmap_id": "36376",
               "version": "Easy",
-              "difficultyrating": "1.73002",
+              "difficultyrating": "2.03757",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "44804",
+              "beatmap_id": "36574",
               "version": "Hard",
-              "difficultyrating": "3.40664",
+              "difficultyrating": "4.13215",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "44805",
-              "version": "Normal",
-              "difficultyrating": "2.49182",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "10546",
-          "title": "Yakusoku",
-          "artist": "Hinata Girls",
-          "creator": "deadbeat",
-          "approved_date": "2011-01-02 22:43:02",
-          "difficulties": [
-            {
-              "beatmap_id": "80036",
-              "version": "EEeee's Promise",
-              "difficultyrating": "3.41528",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "80037",
-              "version": "Kaneko's Promise",
-              "difficultyrating": "1.98132",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "80038",
-              "version": "My Promise",
-              "difficultyrating": "2.47771",
+              "beatmap_id": "39136",
+              "version": "Normal +",
+              "difficultyrating": "2.83765",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -3253,7 +3253,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 13
       },
-      "lastUpdated": "2026-07-08T05:28:46.080Z"
+      "lastUpdated": "2026-07-13T05:44:47.106Z"
     }
   ]
 }

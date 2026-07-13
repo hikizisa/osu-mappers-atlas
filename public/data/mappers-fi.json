@@ -5,7 +5,7 @@
     "demonym": "Finland",
     "nativeName": "Finland"
   },
-  "lastUpdated": "2026-07-12T05:36:03.286Z",
+  "lastUpdated": "2026-07-13T05:44:45.041Z",
   "totalMappers": 6,
   "totalBeatmaps": 113,
   "totalBeatmapsets": 37,
@@ -13,7 +13,7 @@
   "totalGuestBeatmapsets": 0,
   "totalGuestDiffs": 0,
   "totalOwnDifficulties": 113,
-  "scanType": "full",
+  "scanType": "incremental",
   "mappers": [
     {
       "user_id": "57448",
@@ -3462,695 +3462,61 @@
       ],
       "beatmapsets": [
         {
-          "beatmapset_id": "9417",
-          "title": "colorful x colorful",
+          "beatmapset_id": "77683",
+          "title": "Passion (DJ Toy Remix)",
+          "artist": "Utada Hikaru",
+          "creator": "Lanttu",
+          "approved_date": "2013-12-07 00:11:37",
+          "difficulties": [
+            {
+              "beatmap_id": "217853",
+              "version": "Normal",
+              "difficultyrating": "1.69169",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "229874",
+              "version": "Hard",
+              "difficultyrating": "2.13572",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "229875",
+              "version": "Insane",
+              "difficultyrating": "3.03669",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "45493",
+          "title": "Schrodinger's Kitten",
           "artist": "Hatsune Miku",
           "creator": "Lanttu",
-          "approved_date": "2010-01-30 20:54:49",
+          "approved_date": "2012-04-25 09:30:03",
           "difficulties": [
             {
-              "beatmap_id": "37674",
-              "version": "Hard",
-              "difficultyrating": "2.4653",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "37675",
-              "version": "Normal",
-              "difficultyrating": "2.09248",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "38853",
-              "version": "Insane",
-              "difficultyrating": "3.41516",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "14244",
-          "title": "Toaru Ryuu no Koi no Uta",
-          "artist": "Itou Kanako",
-          "creator": "Lanttu",
-          "approved_date": "2010-06-11 22:31:23",
-          "difficulties": [
-            {
-              "beatmap_id": "52233",
-              "version": "Love Song",
-              "difficultyrating": "3.36248",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "52234",
-              "version": "Romantic Poem",
-              "difficultyrating": "2.46615",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "52416",
-              "version": "Sweet Lullaby",
-              "difficultyrating": "1.71391",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "16018",
-          "title": "Brand New Morning (TV Size)",
-          "artist": "Mai Mizuhashi",
-          "creator": "Lanttu",
-          "approved_date": "2010-08-08 16:36:42",
-          "difficulties": [
-            {
-              "beatmap_id": "57637",
-              "version": "Hard",
-              "difficultyrating": "2.90509",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "57638",
-              "version": "Insane",
-              "difficultyrating": "3.84096",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "57639",
-              "version": "Normal",
-              "difficultyrating": "2.16958",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "19876",
-          "title": "Tataeshi Tatakai no Uta",
-          "artist": "Itou Kanako",
-          "creator": "Lanttu",
-          "approved_date": "2010-10-08 17:48:43",
-          "difficulties": [
-            {
-              "beatmap_id": "69654",
-              "version": "Hard",
-              "difficultyrating": "3.44321",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "69655",
-              "version": "Normal",
-              "difficultyrating": "2.09755",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "70812",
+              "beatmap_id": "142061",
               "version": "Easy",
-              "difficultyrating": "1.40785",
+              "difficultyrating": "1.87194",
               "mode": "0",
               "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "19025",
-          "title": "Tuo se mulle",
-          "artist": "Johanna Kurkela",
-          "creator": "Lanttu",
-          "approved_date": "2010-10-26 08:44:09",
-          "difficulties": [
+            },
             {
-              "beatmap_id": "67076",
+              "beatmap_id": "142062",
               "version": "Hard",
-              "difficultyrating": "2.74459",
+              "difficultyrating": "3.40755",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "67077",
+              "beatmap_id": "142063",
               "version": "Normal",
-              "difficultyrating": "1.83774",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "68346",
-              "version": "Easy",
-              "difficultyrating": "1.38197",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "21299",
-          "title": "Disturbia",
-          "artist": "Hatsune Miku",
-          "creator": "Lanttu",
-          "approved_date": "2010-10-31 15:02:42",
-          "difficulties": [
-            {
-              "beatmap_id": "73981",
-              "version": "Easy",
-              "difficultyrating": "1.28332",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "73982",
-              "version": "Hard",
-              "difficultyrating": "3.2829",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "73983",
-              "version": "Normal",
-              "difficultyrating": "1.91184",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "18105",
-          "title": "Cardioid",
-          "artist": "Hatsune Miku",
-          "creator": "Lanttu",
-          "approved_date": "2010-11-12 20:54:58",
-          "difficulties": [
-            {
-              "beatmap_id": "64341",
-              "version": "Hard",
-              "difficultyrating": "2.45851",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "64342",
-              "version": "Normal",
-              "difficultyrating": "2.11876",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "20424",
-          "title": "Keep Smiling*",
-          "artist": "Oosuka Jun",
-          "creator": "Lanttu",
-          "approved_date": "2011-01-08 00:12:06",
-          "difficulties": [
-            {
-              "beatmap_id": "71385",
-              "version": "Easy",
-              "difficultyrating": "1.37172",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "71386",
-              "version": "Hard",
-              "difficultyrating": "3.1176",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "71387",
-              "version": "Normal",
-              "difficultyrating": "2.06632",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "73723",
-              "version": "Luna~Smile",
-              "difficultyrating": "4.06123",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "23280",
-          "title": "Tsumugi-uta",
-          "artist": "Kagamine Rin & Len",
-          "creator": "Lanttu",
-          "approved_date": "2011-01-18 05:46:01",
-          "difficulties": [
-            {
-              "beatmap_id": "79819",
-              "version": "Hard",
-              "difficultyrating": "2.34034",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "79820",
-              "version": "Normal",
-              "difficultyrating": "1.65422",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "22117",
-          "title": "glow",
-          "artist": "Hatsune Miku",
-          "creator": "Lanttu",
-          "approved_date": "2011-02-02 21:20:47",
-          "difficulties": [
-            {
-              "beatmap_id": "76421",
-              "version": "Hard",
-              "difficultyrating": "2.41659",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "76422",
-              "version": "Normal",
-              "difficultyrating": "1.77359",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "76466",
-              "version": "kuyu's glow",
-              "difficultyrating": "2.23772",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "22455",
-          "title": "IkeLenka",
-          "artist": "Kagamine Len",
-          "creator": "Lanttu",
-          "approved_date": "2011-02-08 10:00:41",
-          "difficulties": [
-            {
-              "beatmap_id": "77464",
-              "version": "Bishounen",
-              "difficultyrating": "2.69256",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "77465",
-              "version": "Ikemen",
-              "difficultyrating": "3.77476",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "77690",
-              "version": "Shota",
-              "difficultyrating": "1.64947",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "24858",
-          "title": "DIAMONDS",
-          "artist": "Jun Fukuyama",
-          "creator": "Lanttu",
-          "approved_date": "2011-02-26 21:04:45",
-          "difficulties": [
-            {
-              "beatmap_id": "84370",
-              "version": "Hard",
-              "difficultyrating": "3.26663",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "84474",
-              "version": "Normal",
-              "difficultyrating": "2.10305",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "84910",
-              "version": "Yunacat's Taiko",
-              "difficultyrating": "2.93338",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "25505",
-          "title": "Last Night, Good Night",
-          "artist": "Kagamine Rin",
-          "creator": "Lanttu",
-          "approved_date": "2011-03-11 15:40:55",
-          "difficulties": [
-            {
-              "beatmap_id": "86474",
-              "version": "kuyu's Last Night",
-              "difficultyrating": "2.61704",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "86528",
-              "version": "Evening",
-              "difficultyrating": "2.01617",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "86529",
-              "version": "Twilight",
-              "difficultyrating": "2.57492",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "12429",
-          "title": "Trust Me (TV Size)",
-          "artist": "Yuya Matsushita",
-          "creator": "Lanttu",
-          "approved_date": "2011-03-26 17:45:17",
-          "difficulties": [
-            {
-              "beatmap_id": "46623",
-              "version": "Insane",
-              "difficultyrating": "3.23701",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "90112",
-              "version": "Normal",
-              "difficultyrating": "1.77363",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "90145",
-              "version": "Easy",
-              "difficultyrating": "1.45618",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "92519",
-              "version": "Hard",
-              "difficultyrating": "2.49802",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "10204",
-          "title": "I Bless Thy Life",
-          "artist": "Itou Kanako",
-          "creator": "Lanttu",
-          "approved_date": "2011-04-07 17:52:51",
-          "difficulties": [
-            {
-              "beatmap_id": "39946",
-              "version": "Hard",
-              "difficultyrating": "2.8605",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "39947",
-              "version": "Insane",
-              "difficultyrating": "3.52861",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "77692",
-              "version": "G-Easy",
-              "difficultyrating": "1.77237",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "77695",
-              "version": "G-Normal",
-              "difficultyrating": "2.34899",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "27852",
-          "title": "Birth of New Witch (Instrumental)",
-          "artist": "07th Expansion",
-          "creator": "Lanttu",
-          "approved_date": "2011-04-22 12:41:18",
-          "difficulties": [
-            {
-              "beatmap_id": "93133",
-              "version": "Hard",
-              "difficultyrating": "3.1498",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "93265",
-              "version": "Normal",
-              "difficultyrating": "2.20226",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "93382",
-              "version": "Easy",
-              "difficultyrating": "1.66417",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "95122",
-              "version": "Yuna's Taiko",
-              "difficultyrating": "3.44664",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "28793",
-          "title": "Sakutarou's Adventure",
-          "artist": "07th Expansion",
-          "creator": "Lanttu",
-          "approved_date": "2011-05-03 18:37:01",
-          "difficulties": [
-            {
-              "beatmap_id": "95864",
-              "version": "Uryuu~!",
-              "difficultyrating": "2.94907",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "95909",
-              "version": "Normal~!",
-              "difficultyrating": "1.77495",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "95989",
-              "version": "Easy~!",
-              "difficultyrating": "1.47222",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "28019",
-          "title": "Hetki hiljaa",
-          "artist": "Johanna Kurkela",
-          "creator": "Lanttu",
-          "approved_date": "2011-05-09 05:10:50",
-          "difficulties": [
-            {
-              "beatmap_id": "93572",
-              "version": "Hard",
-              "difficultyrating": "2.46804",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "93738",
-              "version": "Normal",
-              "difficultyrating": "2.07652",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "94524",
-              "version": "Easy",
-              "difficultyrating": "1.48469",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "30252",
-          "title": "When They Cry -Rosin Mix-",
-          "artist": "Rap-bit & Ritsuka",
-          "creator": "Lanttu",
-          "approved_date": "2011-07-25 17:30:15",
-          "difficulties": [
-            {
-              "beatmap_id": "99981",
-              "version": "Hard",
-              "difficultyrating": "3.79955",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "100305",
-              "version": "Normal",
-              "difficultyrating": "2.45285",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "100490",
-              "version": "Easy",
-              "difficultyrating": "1.79613",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "30949",
-          "title": "Ashita, Boku wa Kimi ni Ai ni Yuku (TV Size)",
-          "artist": "Wakaba",
-          "creator": "Lanttu",
-          "approved_date": "2011-10-09 15:40:38",
-          "difficulties": [
-            {
-              "beatmap_id": "101946",
-              "version": "Hard",
-              "difficultyrating": "2.72144",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "101990",
-              "version": "Normal",
-              "difficultyrating": "1.70231",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "102001",
-              "version": "Easy",
-              "difficultyrating": "1.2974",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "29465",
-          "title": "Kimi ga Umareta Hi",
-          "artist": "DATEKEN",
-          "creator": "Lanttu",
-          "approved_date": "2011-12-14 08:39:48",
-          "difficulties": [
-            {
-              "beatmap_id": "97735",
-              "version": "Hard",
-              "difficultyrating": "2.03778",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "97736",
-              "version": "Normal",
-              "difficultyrating": "1.72484",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "29394",
-          "title": "Dread of the grave -More fear-",
-          "artist": "07th Expansion",
-          "creator": "Lanttu",
-          "approved_date": "2012-01-25 17:00:38",
-          "difficulties": [
-            {
-              "beatmap_id": "97531",
-              "version": "Insane",
-              "difficultyrating": "4.11155",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "101883",
-              "version": "Normal",
-              "difficultyrating": "2.2627",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "103669",
-              "version": "theowest's Hard",
-              "difficultyrating": "3.11014",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "107023",
-              "version": "Mukku's Easy",
-              "difficultyrating": "1.58099",
+              "difficultyrating": "2.32672",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -4196,30 +3562,37 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "45493",
-          "title": "Schrodinger's Kitten",
-          "artist": "Hatsune Miku",
+          "beatmapset_id": "29394",
+          "title": "Dread of the grave -More fear-",
+          "artist": "07th Expansion",
           "creator": "Lanttu",
-          "approved_date": "2012-04-25 09:30:03",
+          "approved_date": "2012-01-25 17:00:38",
           "difficulties": [
             {
-              "beatmap_id": "142061",
-              "version": "Easy",
-              "difficultyrating": "1.87194",
+              "beatmap_id": "97531",
+              "version": "Insane",
+              "difficultyrating": "4.11155",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "142062",
-              "version": "Hard",
-              "difficultyrating": "3.40755",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "142063",
+              "beatmap_id": "101883",
               "version": "Normal",
-              "difficultyrating": "2.32672",
+              "difficultyrating": "2.2627",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "103669",
+              "version": "theowest's Hard",
+              "difficultyrating": "3.11014",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "107023",
+              "version": "Mukku's Easy",
+              "difficultyrating": "1.58099",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -4227,30 +3600,657 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "77683",
-          "title": "Passion (DJ Toy Remix)",
-          "artist": "Utada Hikaru",
+          "beatmapset_id": "29465",
+          "title": "Kimi ga Umareta Hi",
+          "artist": "DATEKEN",
           "creator": "Lanttu",
-          "approved_date": "2013-12-07 00:11:37",
+          "approved_date": "2011-12-14 08:39:48",
           "difficulties": [
             {
-              "beatmap_id": "217853",
-              "version": "Normal",
-              "difficultyrating": "1.69169",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "229874",
+              "beatmap_id": "97735",
               "version": "Hard",
-              "difficultyrating": "2.13572",
+              "difficultyrating": "2.03778",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "229875",
+              "beatmap_id": "97736",
+              "version": "Normal",
+              "difficultyrating": "1.72484",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "30949",
+          "title": "Ashita, Boku wa Kimi ni Ai ni Yuku (TV Size)",
+          "artist": "Wakaba",
+          "creator": "Lanttu",
+          "approved_date": "2011-10-09 15:40:38",
+          "difficulties": [
+            {
+              "beatmap_id": "101946",
+              "version": "Hard",
+              "difficultyrating": "2.72144",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "101990",
+              "version": "Normal",
+              "difficultyrating": "1.70231",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "102001",
+              "version": "Easy",
+              "difficultyrating": "1.2974",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "30252",
+          "title": "When They Cry -Rosin Mix-",
+          "artist": "Rap-bit & Ritsuka",
+          "creator": "Lanttu",
+          "approved_date": "2011-07-25 17:30:15",
+          "difficulties": [
+            {
+              "beatmap_id": "99981",
+              "version": "Hard",
+              "difficultyrating": "3.79955",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "100305",
+              "version": "Normal",
+              "difficultyrating": "2.45285",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "100490",
+              "version": "Easy",
+              "difficultyrating": "1.79613",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "28019",
+          "title": "Hetki hiljaa",
+          "artist": "Johanna Kurkela",
+          "creator": "Lanttu",
+          "approved_date": "2011-05-09 05:10:50",
+          "difficulties": [
+            {
+              "beatmap_id": "93572",
+              "version": "Hard",
+              "difficultyrating": "2.46804",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "93738",
+              "version": "Normal",
+              "difficultyrating": "2.07652",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "94524",
+              "version": "Easy",
+              "difficultyrating": "1.48469",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "28793",
+          "title": "Sakutarou's Adventure",
+          "artist": "07th Expansion",
+          "creator": "Lanttu",
+          "approved_date": "2011-05-03 18:37:01",
+          "difficulties": [
+            {
+              "beatmap_id": "95864",
+              "version": "Uryuu~!",
+              "difficultyrating": "2.94907",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "95909",
+              "version": "Normal~!",
+              "difficultyrating": "1.77495",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "95989",
+              "version": "Easy~!",
+              "difficultyrating": "1.47222",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "27852",
+          "title": "Birth of New Witch (Instrumental)",
+          "artist": "07th Expansion",
+          "creator": "Lanttu",
+          "approved_date": "2011-04-22 12:41:18",
+          "difficulties": [
+            {
+              "beatmap_id": "93133",
+              "version": "Hard",
+              "difficultyrating": "3.1498",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "93265",
+              "version": "Normal",
+              "difficultyrating": "2.20226",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "93382",
+              "version": "Easy",
+              "difficultyrating": "1.66417",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "95122",
+              "version": "Yuna's Taiko",
+              "difficultyrating": "3.44664",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "10204",
+          "title": "I Bless Thy Life",
+          "artist": "Itou Kanako",
+          "creator": "Lanttu",
+          "approved_date": "2011-04-07 17:52:51",
+          "difficulties": [
+            {
+              "beatmap_id": "39946",
+              "version": "Hard",
+              "difficultyrating": "2.8605",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "39947",
               "version": "Insane",
-              "difficultyrating": "3.03669",
+              "difficultyrating": "3.52861",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "77692",
+              "version": "G-Easy",
+              "difficultyrating": "1.77237",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "77695",
+              "version": "G-Normal",
+              "difficultyrating": "2.34899",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "12429",
+          "title": "Trust Me (TV Size)",
+          "artist": "Yuya Matsushita",
+          "creator": "Lanttu",
+          "approved_date": "2011-03-26 17:45:17",
+          "difficulties": [
+            {
+              "beatmap_id": "46623",
+              "version": "Insane",
+              "difficultyrating": "3.23701",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "90112",
+              "version": "Normal",
+              "difficultyrating": "1.77363",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "90145",
+              "version": "Easy",
+              "difficultyrating": "1.45618",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "92519",
+              "version": "Hard",
+              "difficultyrating": "2.49802",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "25505",
+          "title": "Last Night, Good Night",
+          "artist": "Kagamine Rin",
+          "creator": "Lanttu",
+          "approved_date": "2011-03-11 15:40:55",
+          "difficulties": [
+            {
+              "beatmap_id": "86474",
+              "version": "kuyu's Last Night",
+              "difficultyrating": "2.61704",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "86528",
+              "version": "Evening",
+              "difficultyrating": "2.01617",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "86529",
+              "version": "Twilight",
+              "difficultyrating": "2.57492",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "24858",
+          "title": "DIAMONDS",
+          "artist": "Jun Fukuyama",
+          "creator": "Lanttu",
+          "approved_date": "2011-02-26 21:04:45",
+          "difficulties": [
+            {
+              "beatmap_id": "84370",
+              "version": "Hard",
+              "difficultyrating": "3.26663",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "84474",
+              "version": "Normal",
+              "difficultyrating": "2.10305",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "84910",
+              "version": "Yunacat's Taiko",
+              "difficultyrating": "2.93338",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "22455",
+          "title": "IkeLenka",
+          "artist": "Kagamine Len",
+          "creator": "Lanttu",
+          "approved_date": "2011-02-08 10:00:41",
+          "difficulties": [
+            {
+              "beatmap_id": "77464",
+              "version": "Bishounen",
+              "difficultyrating": "2.69256",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "77465",
+              "version": "Ikemen",
+              "difficultyrating": "3.77476",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "77690",
+              "version": "Shota",
+              "difficultyrating": "1.64947",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "22117",
+          "title": "glow",
+          "artist": "Hatsune Miku",
+          "creator": "Lanttu",
+          "approved_date": "2011-02-02 21:20:47",
+          "difficulties": [
+            {
+              "beatmap_id": "76421",
+              "version": "Hard",
+              "difficultyrating": "2.41659",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "76422",
+              "version": "Normal",
+              "difficultyrating": "1.77359",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "76466",
+              "version": "kuyu's glow",
+              "difficultyrating": "2.23772",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "23280",
+          "title": "Tsumugi-uta",
+          "artist": "Kagamine Rin & Len",
+          "creator": "Lanttu",
+          "approved_date": "2011-01-18 05:46:01",
+          "difficulties": [
+            {
+              "beatmap_id": "79819",
+              "version": "Hard",
+              "difficultyrating": "2.34034",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "79820",
+              "version": "Normal",
+              "difficultyrating": "1.65422",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "20424",
+          "title": "Keep Smiling*",
+          "artist": "Oosuka Jun",
+          "creator": "Lanttu",
+          "approved_date": "2011-01-08 00:12:06",
+          "difficulties": [
+            {
+              "beatmap_id": "71385",
+              "version": "Easy",
+              "difficultyrating": "1.37172",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "71386",
+              "version": "Hard",
+              "difficultyrating": "3.1176",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "71387",
+              "version": "Normal",
+              "difficultyrating": "2.06632",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "73723",
+              "version": "Luna~Smile",
+              "difficultyrating": "4.06123",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "18105",
+          "title": "Cardioid",
+          "artist": "Hatsune Miku",
+          "creator": "Lanttu",
+          "approved_date": "2010-11-12 20:54:58",
+          "difficulties": [
+            {
+              "beatmap_id": "64341",
+              "version": "Hard",
+              "difficultyrating": "2.45851",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "64342",
+              "version": "Normal",
+              "difficultyrating": "2.11876",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "21299",
+          "title": "Disturbia",
+          "artist": "Hatsune Miku",
+          "creator": "Lanttu",
+          "approved_date": "2010-10-31 15:02:42",
+          "difficulties": [
+            {
+              "beatmap_id": "73981",
+              "version": "Easy",
+              "difficultyrating": "1.28332",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "73982",
+              "version": "Hard",
+              "difficultyrating": "3.2829",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "73983",
+              "version": "Normal",
+              "difficultyrating": "1.91184",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "19025",
+          "title": "Tuo se mulle",
+          "artist": "Johanna Kurkela",
+          "creator": "Lanttu",
+          "approved_date": "2010-10-26 08:44:09",
+          "difficulties": [
+            {
+              "beatmap_id": "67076",
+              "version": "Hard",
+              "difficultyrating": "2.74459",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "67077",
+              "version": "Normal",
+              "difficultyrating": "1.83774",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "68346",
+              "version": "Easy",
+              "difficultyrating": "1.38197",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "19876",
+          "title": "Tataeshi Tatakai no Uta",
+          "artist": "Itou Kanako",
+          "creator": "Lanttu",
+          "approved_date": "2010-10-08 17:48:43",
+          "difficulties": [
+            {
+              "beatmap_id": "69654",
+              "version": "Hard",
+              "difficultyrating": "3.44321",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "69655",
+              "version": "Normal",
+              "difficultyrating": "2.09755",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "70812",
+              "version": "Easy",
+              "difficultyrating": "1.40785",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "16018",
+          "title": "Brand New Morning (TV Size)",
+          "artist": "Mai Mizuhashi",
+          "creator": "Lanttu",
+          "approved_date": "2010-08-08 16:36:42",
+          "difficulties": [
+            {
+              "beatmap_id": "57637",
+              "version": "Hard",
+              "difficultyrating": "2.90509",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "57638",
+              "version": "Insane",
+              "difficultyrating": "3.84096",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "57639",
+              "version": "Normal",
+              "difficultyrating": "2.16958",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "14244",
+          "title": "Toaru Ryuu no Koi no Uta",
+          "artist": "Itou Kanako",
+          "creator": "Lanttu",
+          "approved_date": "2010-06-11 22:31:23",
+          "difficulties": [
+            {
+              "beatmap_id": "52233",
+              "version": "Love Song",
+              "difficultyrating": "3.36248",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "52234",
+              "version": "Romantic Poem",
+              "difficultyrating": "2.46615",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "52416",
+              "version": "Sweet Lullaby",
+              "difficultyrating": "1.71391",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "9417",
+          "title": "colorful x colorful",
+          "artist": "Hatsune Miku",
+          "creator": "Lanttu",
+          "approved_date": "2010-01-30 20:54:49",
+          "difficulties": [
+            {
+              "beatmap_id": "37674",
+              "version": "Hard",
+              "difficultyrating": "2.4653",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "37675",
+              "version": "Normal",
+              "difficultyrating": "2.09248",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "38853",
+              "version": "Insane",
+              "difficultyrating": "3.41516",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -4267,7 +4267,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 78
       },
-      "lastUpdated": "2026-07-12T05:36:03.286Z"
+      "lastUpdated": "2026-07-13T05:44:45.041Z"
     },
     {
       "user_id": "71756",
@@ -5032,30 +5032,99 @@
       ],
       "beatmapsets": [
         {
-          "beatmapset_id": "7404",
-          "title": "Monstrous Turtles (OC Remix)",
-          "artist": "Zircon",
+          "beatmapset_id": "25117",
+          "title": "Welcome Home, DK (OC ReMix)",
+          "artist": "Blue Magic",
           "creator": "Mukku",
-          "approved_date": "2009-07-29 16:53:46",
+          "approved_date": "2011-12-19 16:17:01",
           "difficulties": [
             {
-              "beatmap_id": "31873",
-              "version": "Normal",
-              "difficultyrating": "1.95516",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "32061",
+              "beatmap_id": "85089",
               "version": "Hard",
-              "difficultyrating": "3.26618",
+              "difficultyrating": "3.60125",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "32758",
-              "version": "Fire Flower (Mianki)",
-              "difficultyrating": "2.9768",
+              "beatmap_id": "96273",
+              "version": "Garven's Easy",
+              "difficultyrating": "1.71802",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "96274",
+              "version": "Normal",
+              "difficultyrating": "2.30247",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "111492",
+              "version": "Ono's Taiko Oni",
+              "difficultyrating": "3.31448",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "14205",
+          "title": "Dirt Devil (OC ReMix)",
+          "artist": "Zircon",
+          "creator": "Mukku",
+          "approved_date": "2010-06-20 21:19:31",
+          "difficulties": [
+            {
+              "beatmap_id": "52117",
+              "version": "Garven's Normal",
+              "difficultyrating": "2.07265",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "53575",
+              "version": "DC's Easy",
+              "difficultyrating": "1.55426",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "55760",
+              "version": "Insane",
+              "difficultyrating": "3.63831",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "9549",
+          "title": "The Gears Go Awry",
+          "artist": "Michiru Yamane & Yuzo Koshiro",
+          "creator": "Mukku",
+          "approved_date": "2010-02-01 04:41:21",
+          "difficulties": [
+            {
+              "beatmap_id": "38046",
+              "version": "Hard",
+              "difficultyrating": "3.53348",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "42363",
+              "version": "Normal",
+              "difficultyrating": "2.19083",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "42364",
+              "version": "ignore's Insane",
+              "difficultyrating": "4.00448",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -5101,100 +5170,31 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "9549",
-          "title": "The Gears Go Awry",
-          "artist": "Michiru Yamane & Yuzo Koshiro",
-          "creator": "Mukku",
-          "approved_date": "2010-02-01 04:41:21",
-          "difficulties": [
-            {
-              "beatmap_id": "38046",
-              "version": "Hard",
-              "difficultyrating": "3.53348",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "42363",
-              "version": "Normal",
-              "difficultyrating": "2.19083",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "42364",
-              "version": "ignore's Insane",
-              "difficultyrating": "4.00448",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "14205",
-          "title": "Dirt Devil (OC ReMix)",
+          "beatmapset_id": "7404",
+          "title": "Monstrous Turtles (OC Remix)",
           "artist": "Zircon",
           "creator": "Mukku",
-          "approved_date": "2010-06-20 21:19:31",
+          "approved_date": "2009-07-29 16:53:46",
           "difficulties": [
             {
-              "beatmap_id": "52117",
-              "version": "Garven's Normal",
-              "difficultyrating": "2.07265",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "53575",
-              "version": "DC's Easy",
-              "difficultyrating": "1.55426",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "55760",
-              "version": "Insane",
-              "difficultyrating": "3.63831",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "25117",
-          "title": "Welcome Home, DK (OC ReMix)",
-          "artist": "Blue Magic",
-          "creator": "Mukku",
-          "approved_date": "2011-12-19 16:17:01",
-          "difficulties": [
-            {
-              "beatmap_id": "85089",
-              "version": "Hard",
-              "difficultyrating": "3.60125",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "96273",
-              "version": "Garven's Easy",
-              "difficultyrating": "1.71802",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "96274",
+              "beatmap_id": "31873",
               "version": "Normal",
-              "difficultyrating": "2.30247",
+              "difficultyrating": "1.95516",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "111492",
-              "version": "Ono's Taiko Oni",
-              "difficultyrating": "3.31448",
-              "mode": "1",
+              "beatmap_id": "32061",
+              "version": "Hard",
+              "difficultyrating": "3.26618",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "32758",
+              "version": "Fire Flower (Mianki)",
+              "difficultyrating": "2.9768",
+              "mode": "0",
               "isGuestDiff": false
             }
           ],
@@ -5210,7 +5210,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 17
       },
-      "lastUpdated": "2026-07-12T05:36:03.286Z"
+      "lastUpdated": "2026-07-13T05:44:45.041Z"
     },
     {
       "user_id": "5940",
@@ -5535,30 +5535,23 @@
       ],
       "beatmapsets": [
         {
-          "beatmapset_id": "805",
-          "title": "El Mirador",
-          "artist": "nobodyknows+",
+          "beatmapset_id": "829",
+          "title": "Ice Cap Act 1",
+          "artist": "Sonic Team",
           "creator": "MetalSonic3",
-          "approved_date": "2008-02-24 21:05:24",
+          "approved_date": "2008-02-26 16:31:56",
           "difficulties": [
             {
-              "beatmap_id": "5098",
+              "beatmap_id": "5206",
               "version": "Easy",
-              "difficultyrating": "2.04778",
+              "difficultyrating": "1.63015",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "5099",
+              "beatmap_id": "5207",
               "version": "Normal",
-              "difficultyrating": "2.29638",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5100",
-              "version": "Hard",
-              "difficultyrating": "2.27252",
+              "difficultyrating": "2.06174",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -5590,23 +5583,30 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "829",
-          "title": "Ice Cap Act 1",
-          "artist": "Sonic Team",
+          "beatmapset_id": "805",
+          "title": "El Mirador",
+          "artist": "nobodyknows+",
           "creator": "MetalSonic3",
-          "approved_date": "2008-02-26 16:31:56",
+          "approved_date": "2008-02-24 21:05:24",
           "difficulties": [
             {
-              "beatmap_id": "5206",
+              "beatmap_id": "5098",
               "version": "Easy",
-              "difficultyrating": "1.63015",
+              "difficultyrating": "2.04778",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "5207",
+              "beatmap_id": "5099",
               "version": "Normal",
-              "difficultyrating": "2.06174",
+              "difficultyrating": "2.29638",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5100",
+              "version": "Hard",
+              "difficultyrating": "2.27252",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -5623,7 +5623,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 7
       },
-      "lastUpdated": "2026-07-12T05:36:03.286Z"
+      "lastUpdated": "2026-07-13T05:44:45.041Z"
     },
     {
       "user_id": "37964",
@@ -5860,30 +5860,6 @@
       ],
       "beatmapsets": [
         {
-          "beatmapset_id": "5340",
-          "title": "Taekwondo Princess",
-          "artist": "Dunderpatrullen (feat Wiklund)",
-          "creator": "CheZDa",
-          "approved_date": "2009-05-23 19:41:51",
-          "difficulties": [
-            {
-              "beatmap_id": "26431",
-              "version": "Hard",
-              "difficultyrating": "3.71624",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "26432",
-              "version": "Normal",
-              "difficultyrating": "2.75582",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
           "beatmapset_id": "15473",
           "title": "R-Type (Doppelganger Summer Remix)",
           "artist": "Lagerfeldt",
@@ -5913,6 +5889,30 @@
             }
           ],
           "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "5340",
+          "title": "Taekwondo Princess",
+          "artist": "Dunderpatrullen (feat Wiklund)",
+          "creator": "CheZDa",
+          "approved_date": "2009-05-23 19:41:51",
+          "difficulties": [
+            {
+              "beatmap_id": "26431",
+              "version": "Hard",
+              "difficultyrating": "3.71624",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "26432",
+              "version": "Normal",
+              "difficultyrating": "2.75582",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
@@ -5924,7 +5924,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 5
       },
-      "lastUpdated": "2026-07-12T05:36:03.286Z"
+      "lastUpdated": "2026-07-13T05:44:45.041Z"
     },
     {
       "user_id": "7365",
@@ -6164,7 +6164,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 4
       },
-      "lastUpdated": "2026-07-12T05:36:03.286Z"
+      "lastUpdated": "2026-07-13T05:44:45.041Z"
     },
     {
       "user_id": "2271",
@@ -6302,7 +6302,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 2
       },
-      "lastUpdated": "2026-07-12T05:36:03.286Z"
+      "lastUpdated": "2026-07-13T05:44:45.041Z"
     }
   ]
 }
