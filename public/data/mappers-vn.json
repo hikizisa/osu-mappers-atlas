@@ -5,7 +5,7 @@
     "demonym": "Vietnam",
     "nativeName": "Vietnam"
   },
-  "lastUpdated": "2026-07-04T18:43:17.002Z",
+  "lastUpdated": "2026-07-14T04:57:08.045Z",
   "totalMappers": 1,
   "totalBeatmaps": 111,
   "totalBeatmapsets": 32,
@@ -4914,44 +4914,51 @@
       ],
       "beatmapsets": [
         {
-          "beatmapset_id": "496072",
-          "title": "...To Eternity",
-          "artist": "Gladenfold",
+          "beatmapset_id": "2471980",
+          "title": "The Ruby of Twilight",
+          "artist": "cygnus",
           "creator": "LMT",
-          "approved_date": "2017-07-14 08:00:25",
+          "approved_date": "2025-12-25 12:01:52",
           "difficulties": [
             {
-              "beatmap_id": "1055943",
-              "version": "Easy",
-              "difficultyrating": "1.78446",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1055944",
+              "beatmap_id": "5416128",
               "version": "Hard",
-              "difficultyrating": "3.23519",
+              "difficultyrating": "3.4868",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "1055945",
-              "version": "Insane",
-              "difficultyrating": "4.94999",
+              "beatmap_id": "5416129",
+              "version": "Hikan's Insane",
+              "difficultyrating": "4.30484",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "1056037",
+              "beatmap_id": "5416130",
+              "version": "-kevincela-'s Insane",
+              "difficultyrating": "4.86291",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5416131",
               "version": "Normal",
-              "difficultyrating": "2.13613",
+              "difficultyrating": "2.25925",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "1056699",
-              "version": "Yamicchi's Light Insane",
-              "difficultyrating": "3.89647",
+              "beatmap_id": "5416132",
+              "version": "oko's Extra",
+              "difficultyrating": "6.23832",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5416133",
+              "version": "Pure Ruby",
+              "difficultyrating": "6.8694",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -4959,58 +4966,16 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "555454",
-          "title": "Endure The Silence",
-          "artist": "Myrath",
+          "beatmapset_id": "1515555",
+          "title": "Ekpyrosis",
+          "artist": "Obscura",
           "creator": "LMT",
-          "approved_date": "2017-08-20 16:40:56",
+          "approved_date": "2025-04-11 14:44:35",
           "difficulties": [
             {
-              "beatmap_id": "1175602",
-              "version": "Silent Lonely Nights",
-              "difficultyrating": "6.16053",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1213261",
-              "version": "Another",
-              "difficultyrating": "4.65026",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1219563",
-              "version": "Insane",
-              "difficultyrating": "4.39061",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1219574",
-              "version": "Mir's Hard",
-              "difficultyrating": "3.28419",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1303812",
-              "version": "BOUYAAA's Extra",
-              "difficultyrating": "5.62853",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1303813",
-              "version": "Normal",
-              "difficultyrating": "2.26309",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1322072",
-              "version": "Easy",
-              "difficultyrating": "1.68591",
+              "beatmap_id": "3102876",
+              "version": "Divine Wrath",
+              "difficultyrating": "7.80495",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -5018,16 +4983,154 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "629668",
-          "title": "Liar Liar (Wasteland Monarchy)",
+          "beatmapset_id": "2056846",
+          "title": "Anvilia",
+          "artist": "cygnus",
+          "creator": "LMT",
+          "approved_date": "2025-03-19 03:09:07",
+          "difficulties": [
+            {
+              "beatmap_id": "4298214",
+              "version": "Confusion",
+              "difficultyrating": "7.42579",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "4392934",
+              "version": "Collab Extra",
+              "difficultyrating": "5.88569",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "4630849",
+              "version": "Hard",
+              "difficultyrating": "4.17159",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "4630850",
+              "version": "Normal",
+              "difficultyrating": "2.47175",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "4880511",
+              "version": "Insane",
+              "difficultyrating": "5.13432",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5006548",
+              "version": "Intermediate",
+              "difficultyrating": "3.38281",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1301404",
+          "title": "Fight Your Demons",
+          "artist": "EPICA",
+          "creator": "LMT",
+          "approved_date": "2024-11-06 03:08:00",
+          "difficulties": [
+            {
+              "beatmap_id": "2699264",
+              "version": "fight your primal urges",
+              "difficultyrating": "4.73999",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2044069",
+          "title": "Inertia Split",
+          "artist": "Aethoro",
+          "creator": "LMT",
+          "approved_date": "2024-04-04 14:04:47",
+          "difficulties": [
+            {
+              "beatmap_id": "4266218",
+              "version": "Hard",
+              "difficultyrating": "3.29213",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "4266219",
+              "version": "Normal",
+              "difficultyrating": "2.16925",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "4266220",
+              "version": "Transience of Eternity",
+              "difficultyrating": "6.72757",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "4266221",
+              "version": "VINXIS' Insane",
+              "difficultyrating": "4.81024",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "4547774",
+              "version": "Extra",
+              "difficultyrating": "5.85203",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1267263",
+          "title": "The Magic Valleys of Dark Wolf",
+          "artist": "Riverside",
+          "creator": "LMT",
+          "approved_date": "2024-03-27 23:50:14",
+          "difficulties": [
+            {
+              "beatmap_id": "2633689",
+              "version": "Expert",
+              "difficultyrating": "6.89076",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1000057",
+          "title": "Vespertine (My Crimson Bride)",
           "artist": "KAMELOT",
           "creator": "LMT",
-          "approved_date": "2017-11-04 21:40:06",
+          "approved_date": "2023-07-11 19:50:52",
           "difficulties": [
             {
-              "beatmap_id": "1329273",
-              "version": "Dark",
-              "difficultyrating": "6.37164",
+              "beatmap_id": "2092259",
+              "version": "Crimson Tears",
+              "difficultyrating": "6.91281",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "3401158",
+              "version": "ar9.3",
+              "difficultyrating": "6.91281",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -5035,347 +5138,51 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "707720",
-          "title": "On The Backs Of Angels",
-          "artist": "Dream Theater",
-          "creator": "LMT",
-          "approved_date": "2018-03-22 23:20:03",
-          "difficulties": [
-            {
-              "beatmap_id": "1496425",
-              "version": "Systematic Failure",
-              "difficultyrating": "6.08993",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "803842",
-          "title": "Next Profundis",
-          "artist": "Adagio",
-          "creator": "LMT",
-          "approved_date": "2018-08-10 22:20:03",
-          "difficulties": [
-            {
-              "beatmap_id": "1687347",
-              "version": "The Ferryman's Passage",
-              "difficultyrating": "6.84014",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "827156",
-          "title": "Guong",
-          "artist": "Gac Mai",
-          "creator": "LMT",
-          "approved_date": "2018-10-07 04:00:02",
-          "difficulties": [
-            {
-              "beatmap_id": "1733312",
-              "version": "Mirror",
-              "difficultyrating": "4.60077",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1740195",
-              "version": "PandaHero's Insane",
-              "difficultyrating": "4.2323",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "816542",
-          "title": "ame no musique",
-          "artist": "Fal (CV: Asano Masumi)",
-          "creator": "LMT",
-          "approved_date": "2018-10-18 03:40:02",
-          "difficulties": [
-            {
-              "beatmap_id": "1712369",
-              "version": "insane",
-              "difficultyrating": "4.19947",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1744877",
-              "version": "hard",
-              "difficultyrating": "2.90564",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "709296",
-          "title": "Take This Life",
-          "artist": "In Flames",
-          "creator": "LMT",
-          "approved_date": "2019-01-20 18:00:05",
-          "difficulties": [
-            {
-              "beatmap_id": "1499387",
-              "version": "End Me",
-              "difficultyrating": "7.52665",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1569878",
-              "version": "kiry's Extra",
-              "difficultyrating": "6.38822",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1668465",
-              "version": "Insane",
-              "difficultyrating": "5.08052",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1681393",
-              "version": "Hard",
-              "difficultyrating": "3.63359",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1793090",
-              "version": "Collab Extra",
-              "difficultyrating": "6.11691",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "896546",
-          "title": "Few Against Many",
-          "artist": "Firewind",
-          "creator": "LMT",
-          "approved_date": "2019-02-11 19:00:03",
-          "difficulties": [
-            {
-              "beatmap_id": "1873090",
-              "version": "Last Stand",
-              "difficultyrating": "7.71489",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1876210",
-              "version": "kiry's Extra",
-              "difficultyrating": "6.20497",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1916906",
-              "version": "Sandvich's Insane",
-              "difficultyrating": "5.15718",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "930460",
-          "title": "Crystal of Beginning",
-          "artist": "Aoba Ringo & Nakae Mitsuki",
-          "creator": "LMT",
-          "approved_date": "2019-03-24 18:20:04",
-          "difficulties": [
-            {
-              "beatmap_id": "1943086",
-              "version": "Extra",
-              "difficultyrating": "5.53234",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1943739",
-              "version": "Insane",
-              "difficultyrating": "4.68668",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1943851",
-              "version": "Hard",
-              "difficultyrating": "3.80832",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1943896",
-              "version": "Normal",
-              "difficultyrating": "2.27191",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "763607",
-          "title": "Owari Tsumugishi Mono",
-          "artist": "Denkishiki Karen Ongaku Shuudan",
-          "creator": "LMT",
-          "approved_date": "2019-05-01 16:00:11",
-          "difficulties": [
-            {
-              "beatmap_id": "1605533",
-              "version": "Hatred",
-              "difficultyrating": "8.27069",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1710836",
-              "version": "Hard",
-              "difficultyrating": "3.64542",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1710965",
-              "version": "Normal",
-              "difficultyrating": "2.55471",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1711326",
-              "version": "Lasse's Extra",
-              "difficultyrating": "6.92105",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1732926",
-              "version": "kiry's Insane",
-              "difficultyrating": "4.9334",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1785322",
-              "version": "Icekalt's Extra",
-              "difficultyrating": "6.4152",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "948165",
-          "title": "Methods",
-          "artist": "Ben Briggs",
-          "creator": "LMT",
-          "approved_date": "2019-05-04 19:40:03",
-          "difficulties": [
-            {
-              "beatmap_id": "1980295",
-              "version": "Expert",
-              "difficultyrating": "5.94018",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "876588",
-          "title": "Ciao carina",
-          "artist": "Takaki Moriya",
-          "creator": "LMT",
-          "approved_date": "2019-07-10 14:20:01",
-          "difficulties": [
-            {
-              "beatmap_id": "1832018",
-              "version": "Tragedy",
-              "difficultyrating": "4.62306",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1926591",
-              "version": "Normal",
-              "difficultyrating": "2.20549",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1932842",
-              "version": "Dored's Hard",
-              "difficultyrating": "3.34118",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1932898",
-              "version": "Easy",
-              "difficultyrating": "1.70082",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1050313",
-          "title": "Ontology",
+          "beatmapset_id": "1276364",
+          "title": "Mars",
           "artist": "Shade",
           "creator": "LMT",
-          "approved_date": "2019-11-08 11:45:02",
+          "approved_date": "2021-11-12 14:22:31",
           "difficulties": [
             {
-              "beatmap_id": "2195031",
-              "version": "Brutal King",
-              "difficultyrating": "7.51398",
+              "beatmap_id": "2651853",
+              "version": "Reload",
+              "difficultyrating": "7.79273",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "2202563",
+              "beatmap_id": "3117250",
+              "version": "Liyuchi's Extra",
+              "difficultyrating": "6.89311",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "3183131",
+              "version": "Hyper",
+              "difficultyrating": "4.47585",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "3184876",
+              "version": "Hard",
+              "difficultyrating": "3.64292",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "3184877",
               "version": "Normal",
-              "difficultyrating": "2.61452",
+              "difficultyrating": "2.36887",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "2203283",
-              "version": "Hard",
-              "difficultyrating": "3.74943",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2205248",
-              "version": "Insane",
-              "difficultyrating": "5.20661",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2207682",
-              "version": "Zelq's Extra",
-              "difficultyrating": "6.51179",
+              "beatmap_id": "3220424",
+              "version": "Reiji Maigo's Insane",
+              "difficultyrating": "5.19458",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -5383,175 +5190,23 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "986205",
-          "title": "Eden Echo",
-          "artist": "KAMELOT",
+          "beatmapset_id": "720978",
+          "title": "Frailness",
+          "artist": "MiddleIsland",
           "creator": "LMT",
-          "approved_date": "2019-11-24 20:26:13",
+          "approved_date": "2021-10-12 20:30:05",
           "difficulties": [
             {
-              "beatmap_id": "2063201",
-              "version": "Insane",
-              "difficultyrating": "4.96445",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2085413",
-              "version": "Hard",
-              "difficultyrating": "3.7793",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2108460",
-              "version": "hiki x kiry's Master",
-              "difficultyrating": "6.04007",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1000995",
-          "title": "On the Coldest Winter Night",
-          "artist": "KAMELOT",
-          "creator": "LMT",
-          "approved_date": "2019-11-30 05:24:11",
-          "difficulties": [
-            {
-              "beatmap_id": "2095186",
-              "version": "Winter Dreams",
-              "difficultyrating": "4.46243",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2210989",
-              "version": "Hard",
-              "difficultyrating": "3.42214",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1027470",
-          "title": "Kokoro no Ame",
-          "artist": "Okazaki Ritsuko",
-          "creator": "LMT",
-          "approved_date": "2020-01-11 11:23:05",
-          "difficulties": [
-            {
-              "beatmap_id": "2148632",
-              "version": "The Neverending Rain in Piova",
-              "difficultyrating": "3.9048",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2149527",
-              "version": "Al Fine",
-              "difficultyrating": "2.50811",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2149528",
-              "version": "Da Capo",
-              "difficultyrating": "1.63239",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1061535",
-          "title": "The Skin Thief",
-          "artist": "Nekrogoblikon",
-          "creator": "LMT",
-          "approved_date": "2020-01-18 11:04:34",
-          "difficulties": [
-            {
-              "beatmap_id": "2222880",
-              "version": "Murder",
-              "difficultyrating": "7.62525",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2223742",
-              "version": "Insane",
-              "difficultyrating": "5.35939",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2269416",
-              "version": "Normal",
-              "difficultyrating": "2.80675",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2275967",
-              "version": "Hard",
-              "difficultyrating": "3.7242",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2279004",
-              "version": "SILENCE PLAYER & Hectic's Extra",
-              "difficultyrating": "6.99433",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1056233",
-          "title": "Perpetual Trauma",
-          "artist": "bbn",
-          "creator": "LMT",
-          "approved_date": "2020-01-18 15:22:28",
-          "difficulties": [
-            {
-              "beatmap_id": "2207749",
+              "beatmap_id": "1522554",
               "version": "Virtuoso",
-              "difficultyrating": "6.16828",
+              "difficultyrating": "6.32651",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "2208435",
-              "version": "Insane",
-              "difficultyrating": "5.00761",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2208982",
-              "version": "Easy",
-              "difficultyrating": "1.91621",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2209527",
-              "version": "Normal",
-              "difficultyrating": "2.76483",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2209694",
-              "version": "Hard",
-              "difficultyrating": "3.88124",
+              "beatmap_id": "3068321",
+              "version": "Virtuoso AR9.5",
+              "difficultyrating": "6.32664",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -5559,23 +5214,47 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "1007427",
-          "title": "388",
-          "artist": "Gac Mai",
+          "beatmapset_id": "1187196",
+          "title": "Never Forget",
+          "artist": "Denkishiki Karen Ongaku Shuudan",
           "creator": "LMT",
-          "approved_date": "2020-03-02 02:06:59",
+          "approved_date": "2020-11-27 20:42:17",
           "difficulties": [
             {
-              "beatmap_id": "2108552",
-              "version": "Lost In Time",
-              "difficultyrating": "5.39177",
+              "beatmap_id": "2474203",
+              "version": "Loss of a Loved One",
+              "difficultyrating": "5.08666",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "2291720",
-              "version": "PandaHero's Insane",
-              "difficultyrating": "4.79419",
+              "beatmap_id": "2503480",
+              "version": "Hard",
+              "difficultyrating": "3.37349",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2530428",
+              "version": "Garden's Insane",
+              "difficultyrating": "4.42195",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1097135",
+          "title": "Secluded Within Myself",
+          "artist": "Adagio",
+          "creator": "LMT",
+          "approved_date": "2020-09-11 12:01:26",
+          "difficulties": [
+            {
+              "beatmap_id": "2292543",
+              "version": "Masked Reality",
+              "difficultyrating": "6.31595",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -5663,16 +5342,23 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "1097135",
-          "title": "Secluded Within Myself",
-          "artist": "Adagio",
+          "beatmapset_id": "1007427",
+          "title": "388",
+          "artist": "Gac Mai",
           "creator": "LMT",
-          "approved_date": "2020-09-11 12:01:26",
+          "approved_date": "2020-03-02 02:06:59",
           "difficulties": [
             {
-              "beatmap_id": "2292543",
-              "version": "Masked Reality",
-              "difficultyrating": "6.31595",
+              "beatmap_id": "2108552",
+              "version": "Lost In Time",
+              "difficultyrating": "5.39177",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2291720",
+              "version": "PandaHero's Insane",
+              "difficultyrating": "4.79419",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -5680,54 +5366,44 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "1187196",
-          "title": "Never Forget",
-          "artist": "Denkishiki Karen Ongaku Shuudan",
+          "beatmapset_id": "1056233",
+          "title": "Perpetual Trauma",
+          "artist": "bbn",
           "creator": "LMT",
-          "approved_date": "2020-11-27 20:42:17",
+          "approved_date": "2020-01-18 15:22:28",
           "difficulties": [
             {
-              "beatmap_id": "2474203",
-              "version": "Loss of a Loved One",
-              "difficultyrating": "5.08666",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2503480",
-              "version": "Hard",
-              "difficultyrating": "3.37349",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2530428",
-              "version": "Garden's Insane",
-              "difficultyrating": "4.42195",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "720978",
-          "title": "Frailness",
-          "artist": "MiddleIsland",
-          "creator": "LMT",
-          "approved_date": "2021-10-12 20:30:05",
-          "difficulties": [
-            {
-              "beatmap_id": "1522554",
+              "beatmap_id": "2207749",
               "version": "Virtuoso",
-              "difficultyrating": "6.32651",
+              "difficultyrating": "6.16828",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "3068321",
-              "version": "Virtuoso AR9.5",
-              "difficultyrating": "6.32664",
+              "beatmap_id": "2208435",
+              "version": "Insane",
+              "difficultyrating": "5.00761",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2208982",
+              "version": "Easy",
+              "difficultyrating": "1.91621",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2209527",
+              "version": "Normal",
+              "difficultyrating": "2.76483",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2209694",
+              "version": "Hard",
+              "difficultyrating": "3.88124",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -5735,51 +5411,44 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "1276364",
-          "title": "Mars",
-          "artist": "Shade",
+          "beatmapset_id": "1061535",
+          "title": "The Skin Thief",
+          "artist": "Nekrogoblikon",
           "creator": "LMT",
-          "approved_date": "2021-11-12 14:22:31",
+          "approved_date": "2020-01-18 11:04:34",
           "difficulties": [
             {
-              "beatmap_id": "2651853",
-              "version": "Reload",
-              "difficultyrating": "7.79273",
+              "beatmap_id": "2222880",
+              "version": "Murder",
+              "difficultyrating": "7.62525",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "3117250",
-              "version": "Liyuchi's Extra",
-              "difficultyrating": "6.89311",
+              "beatmap_id": "2223742",
+              "version": "Insane",
+              "difficultyrating": "5.35939",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "3183131",
-              "version": "Hyper",
-              "difficultyrating": "4.47585",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "3184876",
-              "version": "Hard",
-              "difficultyrating": "3.64292",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "3184877",
+              "beatmap_id": "2269416",
               "version": "Normal",
-              "difficultyrating": "2.36887",
+              "difficultyrating": "2.80675",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "3220424",
-              "version": "Reiji Maigo's Insane",
-              "difficultyrating": "5.19458",
+              "beatmap_id": "2275967",
+              "version": "Hard",
+              "difficultyrating": "3.7242",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2279004",
+              "version": "SILENCE PLAYER & Hectic's Extra",
+              "difficultyrating": "6.99433",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -5787,85 +5456,54 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "1000057",
-          "title": "Vespertine (My Crimson Bride)",
+          "beatmapset_id": "1027470",
+          "title": "Kokoro no Ame",
+          "artist": "Okazaki Ritsuko",
+          "creator": "LMT",
+          "approved_date": "2020-01-11 11:23:05",
+          "difficulties": [
+            {
+              "beatmap_id": "2148632",
+              "version": "The Neverending Rain in Piova",
+              "difficultyrating": "3.9048",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2149527",
+              "version": "Al Fine",
+              "difficultyrating": "2.50811",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2149528",
+              "version": "Da Capo",
+              "difficultyrating": "1.63239",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1000995",
+          "title": "On the Coldest Winter Night",
           "artist": "KAMELOT",
           "creator": "LMT",
-          "approved_date": "2023-07-11 19:50:52",
+          "approved_date": "2019-11-30 05:24:11",
           "difficulties": [
             {
-              "beatmap_id": "2092259",
-              "version": "Crimson Tears",
-              "difficultyrating": "6.91281",
+              "beatmap_id": "2095186",
+              "version": "Winter Dreams",
+              "difficultyrating": "4.46243",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "3401158",
-              "version": "ar9.3",
-              "difficultyrating": "6.91281",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1267263",
-          "title": "The Magic Valleys of Dark Wolf",
-          "artist": "Riverside",
-          "creator": "LMT",
-          "approved_date": "2024-03-27 23:50:14",
-          "difficulties": [
-            {
-              "beatmap_id": "2633689",
-              "version": "Expert",
-              "difficultyrating": "6.89076",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "2044069",
-          "title": "Inertia Split",
-          "artist": "Aethoro",
-          "creator": "LMT",
-          "approved_date": "2024-04-04 14:04:47",
-          "difficulties": [
-            {
-              "beatmap_id": "4266218",
+              "beatmap_id": "2210989",
               "version": "Hard",
-              "difficultyrating": "3.29213",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "4266219",
-              "version": "Normal",
-              "difficultyrating": "2.16925",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "4266220",
-              "version": "Transience of Eternity",
-              "difficultyrating": "6.72757",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "4266221",
-              "version": "VINXIS' Insane",
-              "difficultyrating": "4.81024",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "4547774",
-              "version": "Extra",
-              "difficultyrating": "5.85203",
+              "difficultyrating": "3.42214",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -5873,144 +5511,504 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "1301404",
-          "title": "Fight Your Demons",
-          "artist": "EPICA",
+          "beatmapset_id": "986205",
+          "title": "Eden Echo",
+          "artist": "KAMELOT",
           "creator": "LMT",
-          "approved_date": "2024-11-06 03:08:00",
+          "approved_date": "2019-11-24 20:26:13",
           "difficulties": [
             {
-              "beatmap_id": "2699264",
-              "version": "fight your primal urges",
-              "difficultyrating": "4.73999",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "2056846",
-          "title": "Anvilia",
-          "artist": "cygnus",
-          "creator": "LMT",
-          "approved_date": "2025-03-19 03:09:07",
-          "difficulties": [
-            {
-              "beatmap_id": "4298214",
-              "version": "Confusion",
-              "difficultyrating": "7.42579",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "4392934",
-              "version": "Collab Extra",
-              "difficultyrating": "5.88569",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "4630849",
-              "version": "Hard",
-              "difficultyrating": "4.17159",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "4630850",
-              "version": "Normal",
-              "difficultyrating": "2.47175",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "4880511",
+              "beatmap_id": "2063201",
               "version": "Insane",
-              "difficultyrating": "5.13432",
+              "difficultyrating": "4.96445",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "5006548",
-              "version": "Intermediate",
-              "difficultyrating": "3.38281",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1515555",
-          "title": "Ekpyrosis",
-          "artist": "Obscura",
-          "creator": "LMT",
-          "approved_date": "2025-04-11 14:44:35",
-          "difficulties": [
-            {
-              "beatmap_id": "3102876",
-              "version": "Divine Wrath",
-              "difficultyrating": "7.80495",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "2471980",
-          "title": "The Ruby of Twilight",
-          "artist": "cygnus",
-          "creator": "LMT",
-          "approved_date": "2025-12-25 12:01:52",
-          "difficulties": [
-            {
-              "beatmap_id": "5416128",
+              "beatmap_id": "2085413",
               "version": "Hard",
-              "difficultyrating": "3.4868",
+              "difficultyrating": "3.7793",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "5416129",
-              "version": "Hikan's Insane",
-              "difficultyrating": "4.30484",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5416130",
-              "version": "-kevincela-'s Insane",
-              "difficultyrating": "4.86291",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5416131",
-              "version": "Normal",
-              "difficultyrating": "2.25925",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5416132",
-              "version": "oko's Extra",
-              "difficultyrating": "6.23832",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5416133",
-              "version": "Pure Ruby",
-              "difficultyrating": "6.8694",
+              "beatmap_id": "2108460",
+              "version": "hiki x kiry's Master",
+              "difficultyrating": "6.04007",
               "mode": "0",
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "306",
-          "playcount": "72258"
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1050313",
+          "title": "Ontology",
+          "artist": "Shade",
+          "creator": "LMT",
+          "approved_date": "2019-11-08 11:45:02",
+          "difficulties": [
+            {
+              "beatmap_id": "2195031",
+              "version": "Brutal King",
+              "difficultyrating": "7.51398",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2202563",
+              "version": "Normal",
+              "difficultyrating": "2.61452",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2203283",
+              "version": "Hard",
+              "difficultyrating": "3.74943",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2205248",
+              "version": "Insane",
+              "difficultyrating": "5.20661",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2207682",
+              "version": "Zelq's Extra",
+              "difficultyrating": "6.51179",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "876588",
+          "title": "Ciao carina",
+          "artist": "Takaki Moriya",
+          "creator": "LMT",
+          "approved_date": "2019-07-10 14:20:01",
+          "difficulties": [
+            {
+              "beatmap_id": "1832018",
+              "version": "Tragedy",
+              "difficultyrating": "4.62306",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1926591",
+              "version": "Normal",
+              "difficultyrating": "2.20549",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1932842",
+              "version": "Dored's Hard",
+              "difficultyrating": "3.34118",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1932898",
+              "version": "Easy",
+              "difficultyrating": "1.70082",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "948165",
+          "title": "Methods",
+          "artist": "Ben Briggs",
+          "creator": "LMT",
+          "approved_date": "2019-05-04 19:40:03",
+          "difficulties": [
+            {
+              "beatmap_id": "1980295",
+              "version": "Expert",
+              "difficultyrating": "5.94018",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "763607",
+          "title": "Owari Tsumugishi Mono",
+          "artist": "Denkishiki Karen Ongaku Shuudan",
+          "creator": "LMT",
+          "approved_date": "2019-05-01 16:00:11",
+          "difficulties": [
+            {
+              "beatmap_id": "1605533",
+              "version": "Hatred",
+              "difficultyrating": "8.27069",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1710836",
+              "version": "Hard",
+              "difficultyrating": "3.64542",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1710965",
+              "version": "Normal",
+              "difficultyrating": "2.55471",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1711326",
+              "version": "Lasse's Extra",
+              "difficultyrating": "6.92105",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1732926",
+              "version": "kiry's Insane",
+              "difficultyrating": "4.9334",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1785322",
+              "version": "Icekalt's Extra",
+              "difficultyrating": "6.4152",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "930460",
+          "title": "Crystal of Beginning",
+          "artist": "Aoba Ringo & Nakae Mitsuki",
+          "creator": "LMT",
+          "approved_date": "2019-03-24 18:20:04",
+          "difficulties": [
+            {
+              "beatmap_id": "1943086",
+              "version": "Extra",
+              "difficultyrating": "5.53234",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1943739",
+              "version": "Insane",
+              "difficultyrating": "4.68668",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1943851",
+              "version": "Hard",
+              "difficultyrating": "3.80832",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1943896",
+              "version": "Normal",
+              "difficultyrating": "2.27191",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "896546",
+          "title": "Few Against Many",
+          "artist": "Firewind",
+          "creator": "LMT",
+          "approved_date": "2019-02-11 19:00:03",
+          "difficulties": [
+            {
+              "beatmap_id": "1873090",
+              "version": "Last Stand",
+              "difficultyrating": "7.71489",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1876210",
+              "version": "kiry's Extra",
+              "difficultyrating": "6.20497",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1916906",
+              "version": "Sandvich's Insane",
+              "difficultyrating": "5.15718",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "709296",
+          "title": "Take This Life",
+          "artist": "In Flames",
+          "creator": "LMT",
+          "approved_date": "2019-01-20 18:00:05",
+          "difficulties": [
+            {
+              "beatmap_id": "1499387",
+              "version": "End Me",
+              "difficultyrating": "7.52665",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1569878",
+              "version": "kiry's Extra",
+              "difficultyrating": "6.38822",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1668465",
+              "version": "Insane",
+              "difficultyrating": "5.08052",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1681393",
+              "version": "Hard",
+              "difficultyrating": "3.63359",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1793090",
+              "version": "Collab Extra",
+              "difficultyrating": "6.11691",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "816542",
+          "title": "ame no musique",
+          "artist": "Fal (CV: Asano Masumi)",
+          "creator": "LMT",
+          "approved_date": "2018-10-18 03:40:02",
+          "difficulties": [
+            {
+              "beatmap_id": "1712369",
+              "version": "insane",
+              "difficultyrating": "4.19947",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1744877",
+              "version": "hard",
+              "difficultyrating": "2.90564",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "827156",
+          "title": "Guong",
+          "artist": "Gac Mai",
+          "creator": "LMT",
+          "approved_date": "2018-10-07 04:00:02",
+          "difficulties": [
+            {
+              "beatmap_id": "1733312",
+              "version": "Mirror",
+              "difficultyrating": "4.60077",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1740195",
+              "version": "PandaHero's Insane",
+              "difficultyrating": "4.2323",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "803842",
+          "title": "Next Profundis",
+          "artist": "Adagio",
+          "creator": "LMT",
+          "approved_date": "2018-08-10 22:20:03",
+          "difficulties": [
+            {
+              "beatmap_id": "1687347",
+              "version": "The Ferryman's Passage",
+              "difficultyrating": "6.84014",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "707720",
+          "title": "On The Backs Of Angels",
+          "artist": "Dream Theater",
+          "creator": "LMT",
+          "approved_date": "2018-03-22 23:20:03",
+          "difficulties": [
+            {
+              "beatmap_id": "1496425",
+              "version": "Systematic Failure",
+              "difficultyrating": "6.08993",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "629668",
+          "title": "Liar Liar (Wasteland Monarchy)",
+          "artist": "KAMELOT",
+          "creator": "LMT",
+          "approved_date": "2017-11-04 21:40:06",
+          "difficulties": [
+            {
+              "beatmap_id": "1329273",
+              "version": "Dark",
+              "difficultyrating": "6.37164",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "555454",
+          "title": "Endure The Silence",
+          "artist": "Myrath",
+          "creator": "LMT",
+          "approved_date": "2017-08-20 16:40:56",
+          "difficulties": [
+            {
+              "beatmap_id": "1175602",
+              "version": "Silent Lonely Nights",
+              "difficultyrating": "6.16053",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1213261",
+              "version": "Another",
+              "difficultyrating": "4.65026",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1219563",
+              "version": "Insane",
+              "difficultyrating": "4.39061",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1219574",
+              "version": "Mir's Hard",
+              "difficultyrating": "3.28419",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1303812",
+              "version": "BOUYAAA's Extra",
+              "difficultyrating": "5.62853",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1303813",
+              "version": "Normal",
+              "difficultyrating": "2.26309",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1322072",
+              "version": "Easy",
+              "difficultyrating": "1.68591",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "496072",
+          "title": "...To Eternity",
+          "artist": "Gladenfold",
+          "creator": "LMT",
+          "approved_date": "2017-07-14 08:00:25",
+          "difficulties": [
+            {
+              "beatmap_id": "1055943",
+              "version": "Easy",
+              "difficultyrating": "1.78446",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1055944",
+              "version": "Hard",
+              "difficultyrating": "3.23519",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1055945",
+              "version": "Insane",
+              "difficultyrating": "4.94999",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1056037",
+              "version": "Normal",
+              "difficultyrating": "2.13613",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1056699",
+              "version": "Yamicchi's Light Insane",
+              "difficultyrating": "3.89647",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
@@ -6022,7 +6020,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 111
       },
-      "lastUpdated": "2026-07-04T18:43:17.002Z"
+      "lastUpdated": "2026-07-14T04:57:08.045Z"
     }
   ]
 }
