@@ -5,7 +5,7 @@
     "demonym": "Argentina",
     "nativeName": "Argentina"
   },
-  "lastUpdated": "2026-07-11T05:20:36.268Z",
+  "lastUpdated": "2026-07-15T04:56:58.500Z",
   "totalMappers": 5,
   "totalBeatmaps": 180,
   "totalBeatmapsets": 65,
@@ -13,7 +13,7 @@
   "totalGuestBeatmapsets": 0,
   "totalGuestDiffs": 0,
   "totalOwnDifficulties": 180,
-  "scanType": "incremental",
+  "scanType": "full",
   "mappers": [
     {
       "user_id": "4138746",
@@ -6456,263 +6456,16 @@
       ],
       "beatmapsets": [
         {
-          "beatmapset_id": "401604",
-          "title": "Feliz Pascoa pra todos voces apesar de ninguem ter me mandado chocolates",
-          "artist": "Maffalda",
-          "creator": "Hareimu",
-          "approved_date": "2016-04-04 23:00:11",
-          "difficulties": [
-            {
-              "beatmap_id": "873530",
-              "version": "Cup",
-              "difficultyrating": "1.43412",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "873531",
-              "version": "Salad",
-              "difficultyrating": "2.02565",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "877746",
-              "version": "Easter!",
-              "difficultyrating": "3.66935",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "882638",
-              "version": "Hyperion's Platter",
-              "difficultyrating": "2.84557",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "883224",
-              "version": "Piku's Rain",
-              "difficultyrating": "3.50929",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "485700",
-          "title": "DARK THUNDER",
-          "artist": "Camellia",
-          "creator": "Hareimu",
-          "approved_date": "2017-01-13 01:40:03",
-          "difficulties": [
-            {
-              "beatmap_id": "1035719",
-              "version": "BLACK TEMPEST",
-              "difficultyrating": "5.65221",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "576041",
-          "title": "- Prelude of IX (Variation V)",
-          "artist": "BITPLANE",
-          "creator": "Hareimu",
-          "approved_date": "2017-03-09 18:40:09",
-          "difficulties": [
-            {
-              "beatmap_id": "1219622",
-              "version": "Cup",
-              "difficultyrating": "1.06995",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1219623",
-              "version": "Puppeteer",
-              "difficultyrating": "1.41621",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "629289",
-          "title": "Fairytale,",
-          "artist": "cillia",
-          "creator": "Hareimu",
-          "approved_date": "2017-12-20 20:00:02",
-          "difficulties": [
-            {
-              "beatmap_id": "1328584",
-              "version": "Once Upon a Time",
-              "difficultyrating": "5.55016",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "685542",
-          "title": "Iscariot no Sakebi",
-          "artist": "*namirin",
-          "creator": "Hareimu",
-          "approved_date": "2018-01-10 19:20:01",
-          "difficulties": [
-            {
-              "beatmap_id": "1451063",
-              "version": "Treason",
-              "difficultyrating": "4.0152",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "675642",
-          "title": "ill intelligence",
-          "artist": "Camellia",
-          "creator": "Hareimu",
-          "approved_date": "2018-03-26 00:20:02",
-          "difficulties": [
-            {
-              "beatmap_id": "1429191",
-              "version": "SYSTEM MALFUNCTION",
-              "difficultyrating": "6.78742",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "693550",
-          "title": "pi",
-          "artist": "Jinjin",
-          "creator": "Hareimu",
-          "approved_date": "2018-03-27 20:20:08",
-          "difficulties": [
-            {
-              "beatmap_id": "1467475",
-              "version": "Cup",
-              "difficultyrating": "0.822438",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1467476",
-              "version": "Irrational",
-              "difficultyrating": "1.42265",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1467477",
-              "version": "Salad",
-              "difficultyrating": "1.09839",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "555680",
-          "title": "I Love You",
-          "artist": "DJ OKAWARI ft. Rem (CV: Minase Inori)",
-          "creator": "Hareimu",
-          "approved_date": "2018-04-02 05:39:58",
-          "difficulties": [
-            {
-              "beatmap_id": "1176048",
-              "version": "Unconditional Love for Rem's Hero",
-              "difficultyrating": "6.55053",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "462829",
-          "title": "YUKARI",
-          "artist": "Ocelot",
-          "creator": "Hareimu",
-          "approved_date": "2018-05-13 18:23:32",
-          "difficulties": [
-            {
-              "beatmap_id": "991152",
-              "version": "Reimu's Lilac",
-              "difficultyrating": "7.4092",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "596327",
-          "title": "Marigold (feat. Guriri)",
-          "artist": "M2U",
-          "creator": "Hareimu",
-          "approved_date": "2018-07-30 22:00:07",
-          "difficulties": [
-            {
-              "beatmap_id": "1260986",
-              "version": "Rain",
-              "difficultyrating": "4.00394",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1262194",
-              "version": "Cup",
-              "difficultyrating": "1.55579",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1262956",
-              "version": "Salad",
-              "difficultyrating": "2.16752",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1270304",
-              "version": "Deif's Overdose",
-              "difficultyrating": "4.99662",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1278915",
-              "version": "Platter",
-              "difficultyrating": "3.0397",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "673244",
-          "title": "Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo.",
+          "beatmapset_id": "2527173",
+          "title": "Yuuaku no Inori - Anima immortalis est. -",
           "artist": "Imperial Circus Dead Decadence",
-          "creator": "Hareimu",
-          "approved_date": "2019-02-03 00:39:48",
+          "creator": "Cielbami",
+          "approved_date": "2026-05-13 13:22:16",
           "difficulties": [
             {
-              "beatmap_id": "1424870",
-              "version": "The Empire's Torch",
-              "difficultyrating": "7.69271",
+              "beatmap_id": "5583169",
+              "version": "Imber Lucis Immortalis",
+              "difficultyrating": "8.68215",
               "mode": "2",
               "isGuestDiff": false
             }
@@ -6720,310 +6473,44 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "895287",
-          "title": "World's end - Millefolium",
-          "artist": "Noah",
-          "creator": "Hareimu",
-          "approved_date": "2019-02-11 07:40:02",
+          "beatmapset_id": "2526654",
+          "title": "Tsunagaranai Sekai (Game Ver.)",
+          "artist": "Denkishiki Karen Ongaku Shuudan",
+          "creator": "Cielbami",
+          "approved_date": "2026-05-03 11:22:51",
           "difficulties": [
             {
-              "beatmap_id": "1870715",
-              "version": "Catastrophic Finale",
-              "difficultyrating": "7.70672",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "711681",
-          "title": "Donor Song",
-          "artist": "cillia",
-          "creator": "Hareimu",
-          "approved_date": "2019-04-14 17:00:02",
-          "difficulties": [
-            {
-              "beatmap_id": "1504686",
-              "version": "Health",
-              "difficultyrating": "4.52176",
+              "beatmap_id": "5581707",
+              "version": "Cry END",
+              "difficultyrating": "4.55748",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "1504707",
-              "version": "Salad",
-              "difficultyrating": "2.28804",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1514441",
-              "version": "Sinnoh's Rain",
-              "difficultyrating": "3.63788",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1888930",
-              "version": "Bombeimu's Platter",
-              "difficultyrating": "2.89635",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1976319",
-              "version": "AJamez's Cup",
-              "difficultyrating": "1.7395",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "623862",
-          "title": "JoJo Sono Chi no Kioku ~end of THE WORLD~ (TV Size)",
-          "artist": "JO*STARS ~TOMMY, Coda, JIN~",
-          "creator": "Hareimu",
-          "approved_date": "2019-05-01 22:20:03",
-          "difficulties": [
-            {
-              "beatmap_id": "1314881",
-              "version": "THE FOOL",
-              "difficultyrating": "6.18841",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1328318",
-              "version": "NELLY'S RAIN",
-              "difficultyrating": "4.06988",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1361692",
-              "version": "SALAD",
-              "difficultyrating": "2.48164",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1426226",
-              "version": "TOYBOT'S OVERDOSE",
-              "difficultyrating": "4.81186",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1428952",
-              "version": "ASCENDANCE'S SILVER CHARIOT",
-              "difficultyrating": "5.6146",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1463030",
-              "version": "SORCERER'S PLATTER",
-              "difficultyrating": "3.23322",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1870725",
-              "version": "IDU5T'S CUP",
-              "difficultyrating": "1.97184",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "748228",
-          "title": "Yuki no Elfin Lied ~Never ending love song~",
-          "artist": "Yamamoto Mineko",
-          "creator": "Hareimu",
-          "approved_date": "2019-05-24 08:00:01",
-          "difficulties": [
-            {
-              "beatmap_id": "1576326",
-              "version": "Niveous Song of Infinite Devotion",
-              "difficultyrating": "2.95818",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1918784",
+              "beatmap_id": "5581708",
               "version": "Cup",
-              "difficultyrating": "1.37095",
+              "difficultyrating": "1.41022",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "2005616",
-              "version": "Lumi's Salad",
-              "difficultyrating": "2.06084",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "985106",
-          "title": "Sunflower",
-          "artist": "tieff",
-          "creator": "Hareimu",
-          "approved_date": "2019-11-14 21:21:50",
-          "difficulties": [
-            {
-              "beatmap_id": "2061108",
-              "version": "Rain",
-              "difficultyrating": "3.61803",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2077774",
-              "version": "Hyperion's Platter",
-              "difficultyrating": "2.67239",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2107687",
-              "version": "MBomb's Salad",
-              "difficultyrating": "2.25381",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2107757",
-              "version": "Cup",
-              "difficultyrating": "1.36189",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "903500",
-          "title": "I",
-          "artist": "wac",
-          "creator": "Hareimu",
-          "approved_date": "2019-11-26 00:42:46",
-          "difficulties": [
-            {
-              "beatmap_id": "1886118",
-              "version": "end",
-              "difficultyrating": "1.41927",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1886119",
-              "version": "beginning",
-              "difficultyrating": "0.936033",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1886120",
-              "version": "middle",
-              "difficultyrating": "1.19525",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "745105",
-          "title": "HYDRA (TV Size)",
-          "artist": "MYTH & ROID",
-          "creator": "Hareimu",
-          "approved_date": "2020-01-04 06:24:40",
-          "difficulties": [
-            {
-              "beatmap_id": "1570902",
-              "version": "Overdose",
-              "difficultyrating": "5.89372",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1578628",
-              "version": "Cup",
-              "difficultyrating": "1.62606",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1608599",
-              "version": "Salad",
-              "difficultyrating": "2.16195",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1967076",
-              "version": "Rain",
-              "difficultyrating": "4.22505",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2188338",
+              "beatmap_id": "5581709",
               "version": "Platter",
-              "difficultyrating": "3.20201",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "730460",
-          "title": "Shocking Party (TV Size)",
-          "artist": "A-RISE",
-          "creator": "Hareimu",
-          "approved_date": "2023-02-22 15:22:17",
-          "difficulties": [
-            {
-              "beatmap_id": "1541592",
-              "version": "Rain",
-              "difficultyrating": "3.44366",
+              "difficultyrating": "2.60197",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "1545282",
-              "version": "Sanyi's Cup",
-              "difficultyrating": "1.4742",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1558897",
-              "version": "Ascendance's Captivation",
-              "difficultyrating": "4.27723",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1595570",
-              "version": "Xetopia's Platter",
-              "difficultyrating": "2.84962",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1595590",
+              "beatmap_id": "5581710",
               "version": "Salad",
-              "difficultyrating": "2.23844",
+              "difficultyrating": "2.07507",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5581711",
+              "version": "Xinnoh's Rain",
+              "difficultyrating": "3.12685",
               "mode": "2",
               "isGuestDiff": false
             }
@@ -7031,130 +6518,44 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "828941",
-          "title": "TRAUMATIC",
-          "artist": "Utsu-P",
-          "creator": "Hareimu",
-          "approved_date": "2023-02-28 20:04:09",
+          "beatmapset_id": "1016325",
+          "title": "pensamento tipico de esquerda caviar",
+          "artist": "Maffalda",
+          "creator": "Cielbami",
+          "approved_date": "2026-03-26 17:26:06",
           "difficulties": [
             {
-              "beatmap_id": "1736728",
-              "version": "OVERDOSE",
-              "difficultyrating": "5.4873",
+              "beatmap_id": "2127078",
+              "version": "Gangsta Overdose",
+              "difficultyrating": "5.2272",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "1740474",
-              "version": "CUP",
-              "difficultyrating": "1.56827",
+              "beatmap_id": "5552135",
+              "version": "Rain",
+              "difficultyrating": "4.09261",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "1740509",
-              "version": "RAIN",
-              "difficultyrating": "4.02752",
+              "beatmap_id": "5553284",
+              "version": "Collab Salad",
+              "difficultyrating": "2.19056",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "1742745",
-              "version": "SANYI'S PLATTER",
-              "difficultyrating": "3.14583",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "3997827",
-              "version": "SALAD",
-              "difficultyrating": "2.18553",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "4008266",
-              "version": "LACRIMA'S OVERDOSE",
-              "difficultyrating": "5.83177",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "810477",
-          "title": "osu!favourites",
-          "artist": "SakiZ",
-          "creator": "Hareimu",
-          "approved_date": "2023-03-07 02:23:37",
-          "difficulties": [
-            {
-              "beatmap_id": "1700476",
-              "version": "Gauntlet",
-              "difficultyrating": "7.29003",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1953850",
-          "title": "Overkill",
-          "artist": "RIOT",
-          "creator": "Hareimu",
-          "approved_date": "2023-04-05 11:21:58",
-          "difficulties": [
-            {
-              "beatmap_id": "4046344",
-              "version": "KILL THEM ALL",
-              "difficultyrating": "7.0111",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1964393",
-          "title": "Watashi no Tenshi feat. Narumi Sena (CV: Amamiya Sora) (Cut Ver.)",
-          "artist": "HoneyWorks",
-          "creator": "Hareimu",
-          "approved_date": "2023-05-08 21:03:13",
-          "difficulties": [
-            {
-              "beatmap_id": "4073084",
-              "version": "Cup",
-              "difficultyrating": "1.64369",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "4073085",
+              "beatmap_id": "5553402",
               "version": "Platter",
-              "difficultyrating": "2.96975",
+              "difficultyrating": "3.16479",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "4073086",
-              "version": "Rain",
-              "difficultyrating": "4.30272",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "4073087",
-              "version": "Salad",
-              "difficultyrating": "2.36152",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "4074062",
-              "version": "Greaper's Overdose",
-              "difficultyrating": "4.62659",
+              "beatmap_id": "5554301",
+              "version": "Daletto's Cup",
+              "difficultyrating": "1.46506",
               "mode": "2",
               "isGuestDiff": false
             }
@@ -7162,44 +6563,188 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "1062960",
-          "title": "Neko Atsume no Thema",
-          "artist": "Shintani Ryo",
-          "creator": "Hareimu",
-          "approved_date": "2023-05-09 23:03:19",
+          "beatmapset_id": "2336097",
+          "title": "Itoshigo yo",
+          "artist": "RURUTIA",
+          "creator": "Cielbami",
+          "approved_date": "2026-03-25 20:02:47",
           "difficulties": [
             {
-              "beatmap_id": "2225824",
-              "version": "Cup",
-              "difficultyrating": "1.24929",
+              "beatmap_id": "5014945",
+              "version": "Obsession",
+              "difficultyrating": "3.7384",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2520292",
+          "title": "Wonder Stella",
+          "artist": "fhana",
+          "creator": "Cielbami",
+          "approved_date": "2026-03-21 19:24:51",
+          "difficulties": [
+            {
+              "beatmap_id": "5562376",
+              "version": "Marvelous",
+              "difficultyrating": "6.58439",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2389491",
+          "title": "Yuki no Elfin Lied -White Eternity- ver.",
+          "artist": "Ceui",
+          "creator": "Cielbami",
+          "approved_date": "2026-03-11 15:02:05",
+          "difficulties": [
+            {
+              "beatmap_id": "5171479",
+              "version": "Eternity",
+              "difficultyrating": "4.65032",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "563322",
+          "title": "Painful History",
+          "artist": "NicolArmarfi",
+          "creator": "Cielbami",
+          "approved_date": "2026-03-01 13:25:16",
+          "difficulties": [
+            {
+              "beatmap_id": "5120012",
+              "version": "Ascendance's Cup",
+              "difficultyrating": "1.49346",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "2225825",
+              "beatmap_id": "5120013",
+              "version": "Krfawy's Painful",
+              "difficultyrating": "2.33726",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5120014",
+              "version": "Krfawy's Relaxing",
+              "difficultyrating": "1.75915",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5120015",
+              "version": "Painful Platter",
+              "difficultyrating": "2.40787",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5120016",
+              "version": "Salad",
+              "difficultyrating": "1.98368",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2485248",
+          "title": "Moe Ochiru Hokori -Counter raid Another D-",
+          "artist": "Katakiri Rekka",
+          "creator": "Cielbami",
+          "approved_date": "2026-01-26 12:42:42",
+          "difficulties": [
+            {
+              "beatmap_id": "5454861",
+              "version": "Burning Pride",
+              "difficultyrating": "7.69219",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "642686",
+          "title": "Sweet Sweet Cendrillon Drug",
+          "artist": "Rena",
+          "creator": "Cielbami",
+          "approved_date": "2026-01-16 20:23:57",
+          "difficulties": [
+            {
+              "beatmap_id": "5454657",
+              "version": "Cendrillon",
+              "difficultyrating": "6.58201",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2454095",
+          "title": "Hanairo Biyori",
+          "artist": "Natsume Chiaki",
+          "creator": "Cielbami",
+          "approved_date": "2026-01-08 16:23:38",
+          "difficulties": [
+            {
+              "beatmap_id": "5362580",
+              "version": "Oriental",
+              "difficultyrating": "6.75808",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5424813",
+              "version": "Daletto's Cup",
+              "difficultyrating": "1.50977",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5424815",
+              "version": "MILK's Rain",
+              "difficultyrating": "4.52852",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5424817",
+              "version": "Verti's Overdose",
+              "difficultyrating": "6.16137",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5424819",
+              "version": "ZiRoX's Salad",
+              "difficultyrating": "2.34903",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5432947",
               "version": "Platter",
-              "difficultyrating": "2.29295",
+              "difficultyrating": "3.2046",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "2225826",
-              "version": "Rain",
-              "difficultyrating": "2.90071",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2225827",
-              "version": "Salad",
-              "difficultyrating": "1.80617",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "3999091",
-              "version": "Overdose",
-              "difficultyrating": "3.7792",
+              "beatmap_id": "5432948",
+              "version": "Yoshi's Overdose",
+              "difficultyrating": "5.75085",
               "mode": "2",
               "isGuestDiff": false
             }
@@ -7207,33 +6752,16 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "924823",
-          "title": "Save Me",
-          "artist": "Avenged Sevenfold",
-          "creator": "Hareimu",
-          "approved_date": "2023-08-26 20:06:38",
-          "difficulties": [
-            {
-              "beatmap_id": "1931924",
-              "version": "Eulogy",
-              "difficultyrating": "6.66169",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "732090",
-          "title": "Qimranut",
-          "artist": "Feryquitous",
+          "beatmapset_id": "599761",
+          "title": "Lusamine in a Perfect World",
+          "artist": "Kurokotei",
           "creator": "Cielbami",
-          "approved_date": "2025-03-10 15:24:17",
+          "approved_date": "2025-12-26 14:20:52",
           "difficulties": [
             {
-              "beatmap_id": "1544765",
-              "version": "Resonance",
-              "difficultyrating": "5.40996",
+              "beatmap_id": "1267525",
+              "version": "Nihilego",
+              "difficultyrating": "6.93642",
               "mode": "2",
               "isGuestDiff": false
             }
@@ -7241,16 +6769,16 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "2262097",
-          "title": "Airman ga Taosenai (SOUND HOLIC Ver.)",
-          "artist": "SOUND HOLIC",
+          "beatmapset_id": "2389471",
+          "title": "Trail of Dust",
+          "artist": "TRakker",
           "creator": "Cielbami",
-          "approved_date": "2025-03-26 00:27:18",
+          "approved_date": "2025-12-17 23:43:01",
           "difficulties": [
             {
-              "beatmap_id": "4815065",
-              "version": "Holy SHIT! It's... Hanatan?!",
-              "difficultyrating": "6.2428",
+              "beatmap_id": "5171433",
+              "version": "Faint Starlight",
+              "difficultyrating": "6.93634",
               "mode": "2",
               "isGuestDiff": false
             }
@@ -7258,16 +6786,16 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "2341811",
-          "title": "Cosmos (feat. GUMI)",
-          "artist": "otetsu",
+          "beatmapset_id": "2465643",
+          "title": "Shuumatsu no Mythologia",
+          "artist": "Nanahoshi Kangengakudan",
           "creator": "Cielbami",
-          "approved_date": "2025-03-27 15:02:51",
+          "approved_date": "2025-12-10 12:26:08",
           "difficulties": [
             {
-              "beatmap_id": "5032717",
-              "version": "Fascination",
-              "difficultyrating": "6.97439",
+              "beatmap_id": "5418589",
+              "version": "Ignition",
+              "difficultyrating": "7.29291",
               "mode": "2",
               "isGuestDiff": false
             }
@@ -7275,16 +6803,16 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "2047039",
-          "title": "kamina",
-          "artist": "ShotenTaro feat. Megurine Luka",
+          "beatmapset_id": "2457062",
+          "title": "Wahrheit",
+          "artist": "Yousei Teikoku",
           "creator": "Cielbami",
-          "approved_date": "2025-04-30 07:05:11",
+          "approved_date": "2025-11-19 03:05:35",
           "difficulties": [
             {
-              "beatmap_id": "4273337",
-              "version": "Fearsome Purifier",
-              "difficultyrating": "6.218",
+              "beatmap_id": "5371443",
+              "version": "Eine Krone",
+              "difficultyrating": "5.74867",
               "mode": "2",
               "isGuestDiff": false
             }
@@ -7292,68 +6820,175 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "2332788",
-          "title": "Future Holds",
-          "artist": "Laura Brehm & Evoke",
+          "beatmapset_id": "2448468",
+          "title": "Fuwa-Fuwa Time (Game Ver.)",
+          "artist": "Pastel*Palettes",
           "creator": "Cielbami",
-          "approved_date": "2025-04-30 16:06:08",
+          "approved_date": "2025-11-08 00:05:01",
           "difficulties": [
             {
-              "beatmap_id": "5005817",
-              "version": "Ethereal",
-              "difficultyrating": "4.05599",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5006940",
-              "version": "Verti's Platter",
-              "difficultyrating": "2.91788",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1951766",
-          "title": "Fuantei na Kamisama (TV Size)",
-          "artist": "Suara",
-          "creator": "Cielbami",
-          "approved_date": "2025-05-09 20:01:43",
-          "difficulties": [
-            {
-              "beatmap_id": "4041553",
-              "version": "Overdose",
-              "difficultyrating": "4.57721",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "4045932",
-              "version": "Hex's Platter",
-              "difficultyrating": "2.86271",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "4258650",
+              "beatmap_id": "5345557",
               "version": "Cup",
-              "difficultyrating": "1.66636",
+              "difficultyrating": "1.5637",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "4258651",
-              "version": "Lumi's Rain",
-              "difficultyrating": "3.87235",
+              "beatmap_id": "5345558",
+              "version": "Fuwadose",
+              "difficultyrating": "4.72974",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "4258652",
+              "beatmap_id": "5345559",
+              "version": "Platter",
+              "difficultyrating": "2.94672",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5345560",
+              "version": "Rain",
+              "difficultyrating": "4.03991",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5345561",
               "version": "Salad",
-              "difficultyrating": "2.40115",
+              "difficultyrating": "2.25949",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2415070",
+          "title": "Tengaku",
+          "artist": "Wagakki Band",
+          "creator": "Cielbami",
+          "approved_date": "2025-10-18 11:03:28",
+          "difficulties": [
+            {
+              "beatmap_id": "5247911",
+              "version": "Heaven's Tune",
+              "difficultyrating": "7.432",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2359763",
+          "title": "Far east nightbird (Long Ver.)",
+          "artist": "Nekomata Master",
+          "creator": "Cielbami",
+          "approved_date": "2025-09-28 23:43:28",
+          "difficulties": [
+            {
+              "beatmap_id": "5085529",
+              "version": "Oriental Ptilopsis",
+              "difficultyrating": "6.51164",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2367831",
+          "title": "Lucky Me (feat. Courtney Fortune)",
+          "artist": "Brad Breeck",
+          "creator": "Cielbami",
+          "approved_date": "2025-06-13 19:42:19",
+          "difficulties": [
+            {
+              "beatmap_id": "5126448",
+              "version": "Chatie's Cup",
+              "difficultyrating": "1.5822",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5126449",
+              "version": "Greaper's Rain",
+              "difficultyrating": "3.58267",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5126450",
+              "version": "AJamez's Salad",
+              "difficultyrating": "2.1157",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5126451",
+              "version": "Ken's Rain",
+              "difficultyrating": "3.37804",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5126452",
+              "version": "Nelly's Platter",
+              "difficultyrating": "2.87631",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5126453",
+              "version": "Overdose",
+              "difficultyrating": "3.92339",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2363570",
+          "title": "chess (slowed down & cut ver.)",
+          "artist": "joyful",
+          "creator": "Cielbami",
+          "approved_date": "2025-05-28 14:44:09",
+          "difficulties": [
+            {
+              "beatmap_id": "5095600",
+              "version": "cup",
+              "difficultyrating": "1.52843",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5095601",
+              "version": "platter",
+              "difficultyrating": "2.67762",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5095602",
+              "version": "rain",
+              "difficultyrating": "3.83978",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5095603",
+              "version": "rato milton dance",
+              "difficultyrating": "5.07092",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5095604",
+              "version": "salad",
+              "difficultyrating": "2.0875",
               "mode": "2",
               "isGuestDiff": false
             }
@@ -7448,44 +7083,44 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "2363570",
-          "title": "chess (slowed down & cut ver.)",
-          "artist": "joyful",
+          "beatmapset_id": "1951766",
+          "title": "Fuantei na Kamisama (TV Size)",
+          "artist": "Suara",
           "creator": "Cielbami",
-          "approved_date": "2025-05-28 14:44:09",
+          "approved_date": "2025-05-09 20:01:43",
           "difficulties": [
             {
-              "beatmap_id": "5095600",
-              "version": "cup",
-              "difficultyrating": "1.52843",
+              "beatmap_id": "4041553",
+              "version": "Overdose",
+              "difficultyrating": "4.57721",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "5095601",
-              "version": "platter",
-              "difficultyrating": "2.67762",
+              "beatmap_id": "4045932",
+              "version": "Hex's Platter",
+              "difficultyrating": "2.86271",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "5095602",
-              "version": "rain",
-              "difficultyrating": "3.83978",
+              "beatmap_id": "4258650",
+              "version": "Cup",
+              "difficultyrating": "1.66636",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "5095603",
-              "version": "rato milton dance",
-              "difficultyrating": "5.07092",
+              "beatmap_id": "4258651",
+              "version": "Lumi's Rain",
+              "difficultyrating": "3.87235",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "5095604",
-              "version": "salad",
-              "difficultyrating": "2.0875",
+              "beatmap_id": "4258652",
+              "version": "Salad",
+              "difficultyrating": "2.40115",
               "mode": "2",
               "isGuestDiff": false
             }
@@ -7493,535 +7128,864 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "2367831",
-          "title": "Lucky Me (feat. Courtney Fortune)",
-          "artist": "Brad Breeck",
+          "beatmapset_id": "2332788",
+          "title": "Future Holds",
+          "artist": "Laura Brehm & Evoke",
           "creator": "Cielbami",
-          "approved_date": "2025-06-13 19:42:19",
+          "approved_date": "2025-04-30 16:06:08",
           "difficulties": [
             {
-              "beatmap_id": "5126448",
-              "version": "Chatie's Cup",
-              "difficultyrating": "1.5822",
+              "beatmap_id": "5005817",
+              "version": "Ethereal",
+              "difficultyrating": "4.05599",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "5126449",
-              "version": "Greaper's Rain",
-              "difficultyrating": "3.58267",
+              "beatmap_id": "5006940",
+              "version": "Verti's Platter",
+              "difficultyrating": "2.91788",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2047039",
+          "title": "kamina",
+          "artist": "ShotenTaro feat. Megurine Luka",
+          "creator": "Cielbami",
+          "approved_date": "2025-04-30 07:05:11",
+          "difficulties": [
+            {
+              "beatmap_id": "4273337",
+              "version": "Fearsome Purifier",
+              "difficultyrating": "6.218",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2341811",
+          "title": "Cosmos (feat. GUMI)",
+          "artist": "otetsu",
+          "creator": "Cielbami",
+          "approved_date": "2025-03-27 15:02:51",
+          "difficulties": [
+            {
+              "beatmap_id": "5032717",
+              "version": "Fascination",
+              "difficultyrating": "6.97439",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2262097",
+          "title": "Airman ga Taosenai (SOUND HOLIC Ver.)",
+          "artist": "SOUND HOLIC",
+          "creator": "Cielbami",
+          "approved_date": "2025-03-26 00:27:18",
+          "difficulties": [
+            {
+              "beatmap_id": "4815065",
+              "version": "Holy SHIT! It's... Hanatan?!",
+              "difficultyrating": "6.2428",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "732090",
+          "title": "Qimranut",
+          "artist": "Feryquitous",
+          "creator": "Cielbami",
+          "approved_date": "2025-03-10 15:24:17",
+          "difficulties": [
+            {
+              "beatmap_id": "1544765",
+              "version": "Resonance",
+              "difficultyrating": "5.40996",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "924823",
+          "title": "Save Me",
+          "artist": "Avenged Sevenfold",
+          "creator": "Hareimu",
+          "approved_date": "2023-08-26 20:06:38",
+          "difficulties": [
+            {
+              "beatmap_id": "1931924",
+              "version": "Eulogy",
+              "difficultyrating": "6.66169",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1062960",
+          "title": "Neko Atsume no Thema",
+          "artist": "Shintani Ryo",
+          "creator": "Hareimu",
+          "approved_date": "2023-05-09 23:03:19",
+          "difficulties": [
+            {
+              "beatmap_id": "2225824",
+              "version": "Cup",
+              "difficultyrating": "1.24929",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "5126450",
-              "version": "AJamez's Salad",
-              "difficultyrating": "2.1157",
+              "beatmap_id": "2225825",
+              "version": "Platter",
+              "difficultyrating": "2.29295",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "5126451",
-              "version": "Ken's Rain",
-              "difficultyrating": "3.37804",
+              "beatmap_id": "2225826",
+              "version": "Rain",
+              "difficultyrating": "2.90071",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "5126452",
-              "version": "Nelly's Platter",
-              "difficultyrating": "2.87631",
+              "beatmap_id": "2225827",
+              "version": "Salad",
+              "difficultyrating": "1.80617",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "5126453",
+              "beatmap_id": "3999091",
               "version": "Overdose",
-              "difficultyrating": "3.92339",
+              "difficultyrating": "3.7792",
               "mode": "2",
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "13",
-          "playcount": "13610"
+          "isOwnMapset": true
         },
         {
-          "beatmapset_id": "2359763",
-          "title": "Far east nightbird (Long Ver.)",
-          "artist": "Nekomata Master",
-          "creator": "Cielbami",
-          "approved_date": "2025-09-28 23:43:28",
+          "beatmapset_id": "1964393",
+          "title": "Watashi no Tenshi feat. Narumi Sena (CV: Amamiya Sora) (Cut Ver.)",
+          "artist": "HoneyWorks",
+          "creator": "Hareimu",
+          "approved_date": "2023-05-08 21:03:13",
           "difficulties": [
             {
-              "beatmap_id": "5085529",
-              "version": "Oriental Ptilopsis",
-              "difficultyrating": "6.51164",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true,
-          "favourite_count": "15",
-          "playcount": "878"
-        },
-        {
-          "beatmapset_id": "2415070",
-          "title": "Tengaku",
-          "artist": "Wagakki Band",
-          "creator": "Cielbami",
-          "approved_date": "2025-10-18 11:03:28",
-          "difficulties": [
-            {
-              "beatmap_id": "5247911",
-              "version": "Heaven's Tune",
-              "difficultyrating": "7.432",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true,
-          "favourite_count": "10",
-          "playcount": "2413"
-        },
-        {
-          "beatmapset_id": "2448468",
-          "title": "Fuwa-Fuwa Time (Game Ver.)",
-          "artist": "Pastel*Palettes",
-          "creator": "Cielbami",
-          "approved_date": "2025-11-08 00:05:01",
-          "difficulties": [
-            {
-              "beatmap_id": "5345557",
+              "beatmap_id": "4073084",
               "version": "Cup",
-              "difficultyrating": "1.5637",
+              "difficultyrating": "1.64369",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "5345558",
-              "version": "Fuwadose",
-              "difficultyrating": "4.72974",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5345559",
+              "beatmap_id": "4073085",
               "version": "Platter",
-              "difficultyrating": "2.94672",
+              "difficultyrating": "2.96975",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "5345560",
+              "beatmap_id": "4073086",
               "version": "Rain",
-              "difficultyrating": "4.03991",
+              "difficultyrating": "4.30272",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "5345561",
+              "beatmap_id": "4073087",
               "version": "Salad",
-              "difficultyrating": "2.25949",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true,
-          "favourite_count": "25",
-          "playcount": "10447"
-        },
-        {
-          "beatmapset_id": "2457062",
-          "title": "Wahrheit",
-          "artist": "Yousei Teikoku",
-          "creator": "Cielbami",
-          "approved_date": "2025-11-19 03:05:35",
-          "difficulties": [
-            {
-              "beatmap_id": "5371443",
-              "version": "Eine Krone",
-              "difficultyrating": "5.74867",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true,
-          "favourite_count": "8",
-          "playcount": "1315"
-        },
-        {
-          "beatmapset_id": "2465643",
-          "title": "Shuumatsu no Mythologia",
-          "artist": "Nanahoshi Kangengakudan",
-          "creator": "Cielbami",
-          "approved_date": "2025-12-10 12:26:08",
-          "difficulties": [
-            {
-              "beatmap_id": "5418589",
-              "version": "Ignition",
-              "difficultyrating": "7.29291",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true,
-          "favourite_count": "7",
-          "playcount": "2179"
-        },
-        {
-          "beatmapset_id": "2389471",
-          "title": "Trail of Dust",
-          "artist": "TRakker",
-          "creator": "Cielbami",
-          "approved_date": "2025-12-17 23:43:01",
-          "difficulties": [
-            {
-              "beatmap_id": "5171433",
-              "version": "Faint Starlight",
-              "difficultyrating": "6.93634",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true,
-          "favourite_count": "4",
-          "playcount": "716"
-        },
-        {
-          "beatmapset_id": "599761",
-          "title": "Lusamine in a Perfect World",
-          "artist": "Kurokotei",
-          "creator": "Cielbami",
-          "approved_date": "2025-12-26 14:20:52",
-          "difficulties": [
-            {
-              "beatmap_id": "1267525",
-              "version": "Nihilego",
-              "difficultyrating": "6.93642",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true,
-          "favourite_count": "91",
-          "playcount": "1162"
-        },
-        {
-          "beatmapset_id": "2454095",
-          "title": "Hanairo Biyori",
-          "artist": "Natsume Chiaki",
-          "creator": "Cielbami",
-          "approved_date": "2026-01-08 16:23:38",
-          "difficulties": [
-            {
-              "beatmap_id": "5362580",
-              "version": "Oriental",
-              "difficultyrating": "6.75808",
+              "difficultyrating": "2.36152",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "5424813",
-              "version": "Daletto's Cup",
-              "difficultyrating": "1.50977",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5424815",
-              "version": "MILK's Rain",
-              "difficultyrating": "4.52852",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5424817",
-              "version": "Verti's Overdose",
-              "difficultyrating": "6.16137",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5424819",
-              "version": "ZiRoX's Salad",
-              "difficultyrating": "2.34903",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5432947",
-              "version": "Platter",
-              "difficultyrating": "3.2046",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5432948",
-              "version": "Yoshi's Overdose",
-              "difficultyrating": "5.75085",
+              "beatmap_id": "4074062",
+              "version": "Greaper's Overdose",
+              "difficultyrating": "4.62659",
               "mode": "2",
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "17",
-          "playcount": "22165"
+          "isOwnMapset": true
         },
         {
-          "beatmapset_id": "642686",
-          "title": "Sweet Sweet Cendrillon Drug",
-          "artist": "Rena",
-          "creator": "Cielbami",
-          "approved_date": "2026-01-16 20:23:57",
+          "beatmapset_id": "1953850",
+          "title": "Overkill",
+          "artist": "RIOT",
+          "creator": "Hareimu",
+          "approved_date": "2023-04-05 11:21:58",
           "difficulties": [
             {
-              "beatmap_id": "5454657",
-              "version": "Cendrillon",
-              "difficultyrating": "6.58201",
+              "beatmap_id": "4046344",
+              "version": "KILL THEM ALL",
+              "difficultyrating": "7.0111",
               "mode": "2",
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "10",
-          "playcount": "1531"
+          "isOwnMapset": true
         },
         {
-          "beatmapset_id": "2485248",
-          "title": "Moe Ochiru Hokori -Counter raid Another D-",
-          "artist": "Katakiri Rekka",
-          "creator": "Cielbami",
-          "approved_date": "2026-01-26 12:42:42",
+          "beatmapset_id": "810477",
+          "title": "osu!favourites",
+          "artist": "SakiZ",
+          "creator": "Hareimu",
+          "approved_date": "2023-03-07 02:23:37",
           "difficulties": [
             {
-              "beatmap_id": "5454861",
-              "version": "Burning Pride",
-              "difficultyrating": "7.69219",
+              "beatmap_id": "1700476",
+              "version": "Gauntlet",
+              "difficultyrating": "7.29003",
               "mode": "2",
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "5",
-          "playcount": "1594"
+          "isOwnMapset": true
         },
         {
-          "beatmapset_id": "563322",
-          "title": "Painful History",
-          "artist": "NicolArmarfi",
-          "creator": "Cielbami",
-          "approved_date": "2026-03-01 13:25:16",
+          "beatmapset_id": "828941",
+          "title": "TRAUMATIC",
+          "artist": "Utsu-P",
+          "creator": "Hareimu",
+          "approved_date": "2023-02-28 20:04:09",
           "difficulties": [
             {
-              "beatmap_id": "5120012",
-              "version": "Ascendance's Cup",
-              "difficultyrating": "1.49346",
+              "beatmap_id": "1736728",
+              "version": "OVERDOSE",
+              "difficultyrating": "5.4873",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "5120013",
-              "version": "Krfawy's Painful",
-              "difficultyrating": "2.33726",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5120014",
-              "version": "Krfawy's Relaxing",
-              "difficultyrating": "1.75915",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5120015",
-              "version": "Painful Platter",
-              "difficultyrating": "2.40787",
+              "beatmap_id": "1740474",
+              "version": "CUP",
+              "difficultyrating": "1.56827",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "5120016",
-              "version": "Salad",
-              "difficultyrating": "1.98368",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true,
-          "favourite_count": "25",
-          "playcount": "3983"
-        },
-        {
-          "beatmapset_id": "2389491",
-          "title": "Yuki no Elfin Lied -White Eternity- ver.",
-          "artist": "Ceui",
-          "creator": "Cielbami",
-          "approved_date": "2026-03-11 15:02:05",
-          "difficulties": [
-            {
-              "beatmap_id": "5171479",
-              "version": "Eternity",
-              "difficultyrating": "4.65032",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true,
-          "favourite_count": "6",
-          "playcount": "431"
-        },
-        {
-          "beatmapset_id": "2520292",
-          "title": "Wonder Stella",
-          "artist": "fhana",
-          "creator": "Cielbami",
-          "approved_date": "2026-03-21 19:24:51",
-          "difficulties": [
-            {
-              "beatmap_id": "5562376",
-              "version": "Marvelous",
-              "difficultyrating": "6.58439",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true,
-          "favourite_count": "13",
-          "playcount": "1405"
-        },
-        {
-          "beatmapset_id": "2336097",
-          "title": "Itoshigo yo",
-          "artist": "RURUTIA",
-          "creator": "Cielbami",
-          "approved_date": "2026-03-25 20:02:47",
-          "difficulties": [
-            {
-              "beatmap_id": "5014945",
-              "version": "Obsession",
-              "difficultyrating": "3.7384",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true,
-          "favourite_count": "5",
-          "playcount": "264"
-        },
-        {
-          "beatmapset_id": "1016325",
-          "title": "pensamento tipico de esquerda caviar",
-          "artist": "Maffalda",
-          "creator": "Cielbami",
-          "approved_date": "2026-03-26 17:26:06",
-          "difficulties": [
-            {
-              "beatmap_id": "2127078",
-              "version": "Gangsta Overdose",
-              "difficultyrating": "5.2272",
+              "beatmap_id": "1740509",
+              "version": "RAIN",
+              "difficultyrating": "4.02752",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "5552135",
+              "beatmap_id": "1742745",
+              "version": "SANYI'S PLATTER",
+              "difficultyrating": "3.14583",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "3997827",
+              "version": "SALAD",
+              "difficultyrating": "2.18553",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "4008266",
+              "version": "LACRIMA'S OVERDOSE",
+              "difficultyrating": "5.83177",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "730460",
+          "title": "Shocking Party (TV Size)",
+          "artist": "A-RISE",
+          "creator": "Hareimu",
+          "approved_date": "2023-02-22 15:22:17",
+          "difficulties": [
+            {
+              "beatmap_id": "1541592",
               "version": "Rain",
-              "difficultyrating": "4.09261",
+              "difficultyrating": "3.44366",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "5553284",
-              "version": "Collab Salad",
-              "difficultyrating": "2.19056",
+              "beatmap_id": "1545282",
+              "version": "Sanyi's Cup",
+              "difficultyrating": "1.4742",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "5553402",
-              "version": "Platter",
-              "difficultyrating": "3.16479",
+              "beatmap_id": "1558897",
+              "version": "Ascendance's Captivation",
+              "difficultyrating": "4.27723",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "5554301",
-              "version": "Daletto's Cup",
-              "difficultyrating": "1.46506",
+              "beatmap_id": "1595570",
+              "version": "Xetopia's Platter",
+              "difficultyrating": "2.84962",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1595590",
+              "version": "Salad",
+              "difficultyrating": "2.23844",
               "mode": "2",
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "8",
-          "playcount": "6430"
+          "isOwnMapset": true
         },
         {
-          "beatmapset_id": "2526654",
-          "title": "Tsunagaranai Sekai (Game Ver.)",
-          "artist": "Denkishiki Karen Ongaku Shuudan",
-          "creator": "Cielbami",
-          "approved_date": "2026-05-03 11:22:51",
+          "beatmapset_id": "745105",
+          "title": "HYDRA (TV Size)",
+          "artist": "MYTH & ROID",
+          "creator": "Hareimu",
+          "approved_date": "2020-01-04 06:24:40",
           "difficulties": [
             {
-              "beatmap_id": "5581707",
-              "version": "Cry END",
-              "difficultyrating": "4.55748",
+              "beatmap_id": "1570902",
+              "version": "Overdose",
+              "difficultyrating": "5.89372",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "5581708",
+              "beatmap_id": "1578628",
               "version": "Cup",
-              "difficultyrating": "1.41022",
+              "difficultyrating": "1.62606",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "5581709",
-              "version": "Platter",
-              "difficultyrating": "2.60197",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5581710",
+              "beatmap_id": "1608599",
               "version": "Salad",
-              "difficultyrating": "2.07507",
+              "difficultyrating": "2.16195",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "5581711",
-              "version": "Xinnoh's Rain",
-              "difficultyrating": "3.12685",
+              "beatmap_id": "1967076",
+              "version": "Rain",
+              "difficultyrating": "4.22505",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2188338",
+              "version": "Platter",
+              "difficultyrating": "3.20201",
               "mode": "2",
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "6",
-          "playcount": "2181"
+          "isOwnMapset": true
         },
         {
-          "beatmapset_id": "2527173",
-          "title": "Yuuaku no Inori - Anima immortalis est. -",
+          "beatmapset_id": "903500",
+          "title": "I",
+          "artist": "wac",
+          "creator": "Hareimu",
+          "approved_date": "2019-11-26 00:42:46",
+          "difficulties": [
+            {
+              "beatmap_id": "1886118",
+              "version": "end",
+              "difficultyrating": "1.41927",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1886119",
+              "version": "beginning",
+              "difficultyrating": "0.936033",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1886120",
+              "version": "middle",
+              "difficultyrating": "1.19525",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "985106",
+          "title": "Sunflower",
+          "artist": "tieff",
+          "creator": "Hareimu",
+          "approved_date": "2019-11-14 21:21:50",
+          "difficulties": [
+            {
+              "beatmap_id": "2061108",
+              "version": "Rain",
+              "difficultyrating": "3.61803",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2077774",
+              "version": "Hyperion's Platter",
+              "difficultyrating": "2.67239",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2107687",
+              "version": "MBomb's Salad",
+              "difficultyrating": "2.25381",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2107757",
+              "version": "Cup",
+              "difficultyrating": "1.36189",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "748228",
+          "title": "Yuki no Elfin Lied ~Never ending love song~",
+          "artist": "Yamamoto Mineko",
+          "creator": "Hareimu",
+          "approved_date": "2019-05-24 08:00:01",
+          "difficulties": [
+            {
+              "beatmap_id": "1576326",
+              "version": "Niveous Song of Infinite Devotion",
+              "difficultyrating": "2.95818",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1918784",
+              "version": "Cup",
+              "difficultyrating": "1.37095",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2005616",
+              "version": "Lumi's Salad",
+              "difficultyrating": "2.06084",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "623862",
+          "title": "JoJo Sono Chi no Kioku ~end of THE WORLD~ (TV Size)",
+          "artist": "JO*STARS ~TOMMY, Coda, JIN~",
+          "creator": "Hareimu",
+          "approved_date": "2019-05-01 22:20:03",
+          "difficulties": [
+            {
+              "beatmap_id": "1314881",
+              "version": "THE FOOL",
+              "difficultyrating": "6.18841",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1328318",
+              "version": "NELLY'S RAIN",
+              "difficultyrating": "4.06988",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1361692",
+              "version": "SALAD",
+              "difficultyrating": "2.48164",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1426226",
+              "version": "TOYBOT'S OVERDOSE",
+              "difficultyrating": "4.81186",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1428952",
+              "version": "ASCENDANCE'S SILVER CHARIOT",
+              "difficultyrating": "5.6146",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1463030",
+              "version": "SORCERER'S PLATTER",
+              "difficultyrating": "3.23322",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1870725",
+              "version": "IDU5T'S CUP",
+              "difficultyrating": "1.97184",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "711681",
+          "title": "Donor Song",
+          "artist": "cillia",
+          "creator": "Hareimu",
+          "approved_date": "2019-04-14 17:00:02",
+          "difficulties": [
+            {
+              "beatmap_id": "1504686",
+              "version": "Health",
+              "difficultyrating": "4.52176",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1504707",
+              "version": "Salad",
+              "difficultyrating": "2.28804",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1514441",
+              "version": "Sinnoh's Rain",
+              "difficultyrating": "3.63788",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1888930",
+              "version": "Bombeimu's Platter",
+              "difficultyrating": "2.89635",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1976319",
+              "version": "AJamez's Cup",
+              "difficultyrating": "1.7395",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "895287",
+          "title": "World's end - Millefolium",
+          "artist": "Noah",
+          "creator": "Hareimu",
+          "approved_date": "2019-02-11 07:40:02",
+          "difficulties": [
+            {
+              "beatmap_id": "1870715",
+              "version": "Catastrophic Finale",
+              "difficultyrating": "7.70672",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "673244",
+          "title": "Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo.",
           "artist": "Imperial Circus Dead Decadence",
-          "creator": "Cielbami",
-          "approved_date": "2026-05-13 13:22:16",
+          "creator": "Hareimu",
+          "approved_date": "2019-02-03 00:39:48",
           "difficulties": [
             {
-              "beatmap_id": "5583169",
-              "version": "Imber Lucis Immortalis",
-              "difficultyrating": "8.68215",
+              "beatmap_id": "1424870",
+              "version": "The Empire's Torch",
+              "difficultyrating": "7.69271",
               "mode": "2",
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "37",
-          "playcount": "2782"
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "596327",
+          "title": "Marigold (feat. Guriri)",
+          "artist": "M2U",
+          "creator": "Hareimu",
+          "approved_date": "2018-07-30 22:00:07",
+          "difficulties": [
+            {
+              "beatmap_id": "1260986",
+              "version": "Rain",
+              "difficultyrating": "4.00394",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1262194",
+              "version": "Cup",
+              "difficultyrating": "1.55579",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1262956",
+              "version": "Salad",
+              "difficultyrating": "2.16752",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1270304",
+              "version": "Deif's Overdose",
+              "difficultyrating": "4.99662",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1278915",
+              "version": "Platter",
+              "difficultyrating": "3.0397",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "462829",
+          "title": "YUKARI",
+          "artist": "Ocelot",
+          "creator": "Hareimu",
+          "approved_date": "2018-05-13 18:23:32",
+          "difficulties": [
+            {
+              "beatmap_id": "991152",
+              "version": "Reimu's Lilac",
+              "difficultyrating": "7.4092",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "555680",
+          "title": "I Love You",
+          "artist": "DJ OKAWARI ft. Rem (CV: Minase Inori)",
+          "creator": "Hareimu",
+          "approved_date": "2018-04-02 05:39:58",
+          "difficulties": [
+            {
+              "beatmap_id": "1176048",
+              "version": "Unconditional Love for Rem's Hero",
+              "difficultyrating": "6.55053",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "693550",
+          "title": "pi",
+          "artist": "Jinjin",
+          "creator": "Hareimu",
+          "approved_date": "2018-03-27 20:20:08",
+          "difficulties": [
+            {
+              "beatmap_id": "1467475",
+              "version": "Cup",
+              "difficultyrating": "0.822438",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1467476",
+              "version": "Irrational",
+              "difficultyrating": "1.42265",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1467477",
+              "version": "Salad",
+              "difficultyrating": "1.09839",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "675642",
+          "title": "ill intelligence",
+          "artist": "Camellia",
+          "creator": "Hareimu",
+          "approved_date": "2018-03-26 00:20:02",
+          "difficulties": [
+            {
+              "beatmap_id": "1429191",
+              "version": "SYSTEM MALFUNCTION",
+              "difficultyrating": "6.78742",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "685542",
+          "title": "Iscariot no Sakebi",
+          "artist": "*namirin",
+          "creator": "Hareimu",
+          "approved_date": "2018-01-10 19:20:01",
+          "difficulties": [
+            {
+              "beatmap_id": "1451063",
+              "version": "Treason",
+              "difficultyrating": "4.0152",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "629289",
+          "title": "Fairytale,",
+          "artist": "cillia",
+          "creator": "Hareimu",
+          "approved_date": "2017-12-20 20:00:02",
+          "difficulties": [
+            {
+              "beatmap_id": "1328584",
+              "version": "Once Upon a Time",
+              "difficultyrating": "5.55016",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "576041",
+          "title": "- Prelude of IX (Variation V)",
+          "artist": "BITPLANE",
+          "creator": "Hareimu",
+          "approved_date": "2017-03-09 18:40:09",
+          "difficulties": [
+            {
+              "beatmap_id": "1219622",
+              "version": "Cup",
+              "difficultyrating": "1.06995",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1219623",
+              "version": "Puppeteer",
+              "difficultyrating": "1.41621",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "485700",
+          "title": "DARK THUNDER",
+          "artist": "Camellia",
+          "creator": "Hareimu",
+          "approved_date": "2017-01-13 01:40:03",
+          "difficulties": [
+            {
+              "beatmap_id": "1035719",
+              "version": "BLACK TEMPEST",
+              "difficultyrating": "5.65221",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "401604",
+          "title": "Feliz Pascoa pra todos voces apesar de ninguem ter me mandado chocolates",
+          "artist": "Maffalda",
+          "creator": "Hareimu",
+          "approved_date": "2016-04-04 23:00:11",
+          "difficulties": [
+            {
+              "beatmap_id": "873530",
+              "version": "Cup",
+              "difficultyrating": "1.43412",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "873531",
+              "version": "Salad",
+              "difficultyrating": "2.02565",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "877746",
+              "version": "Easter!",
+              "difficultyrating": "3.66935",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "882638",
+              "version": "Hyperion's Platter",
+              "difficultyrating": "2.84557",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "883224",
+              "version": "Piku's Rain",
+              "difficultyrating": "3.50929",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
@@ -8033,7 +7997,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 146
       },
-      "lastUpdated": "2026-07-04T18:42:12.497Z"
+      "lastUpdated": "2026-07-15T04:56:58.500Z"
     },
     {
       "user_id": "6707918",
@@ -9238,6 +9202,219 @@
       ],
       "beatmapsets": [
         {
+          "beatmapset_id": "2526441",
+          "title": "Watercolour",
+          "artist": "Pendulum",
+          "creator": "MaestroSplinter",
+          "approved_date": "2026-05-15 00:25:20",
+          "difficulties": [
+            {
+              "beatmap_id": "5580950",
+              "version": "Marathon",
+              "difficultyrating": "6.62384",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2490599",
+          "title": "MONSO.ON/OFF",
+          "artist": "HYOUKA & Kou! & TBN",
+          "creator": "MaestroSplinter",
+          "approved_date": "2026-04-01 16:44:21",
+          "difficulties": [
+            {
+              "beatmap_id": "5542640",
+              "version": "--><&!**",
+              "difficultyrating": "7.35324",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "876611",
+          "title": "La Ley y La Trampa",
+          "artist": "Chaqueno Palavecino",
+          "creator": "MaestroSplinter",
+          "approved_date": "2025-06-27 22:02:23",
+          "difficulties": [
+            {
+              "beatmap_id": "1832051",
+              "version": "Amargo y Retruco",
+              "difficultyrating": "5.27588",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1238432",
+          "title": "Space Angel",
+          "artist": "False Noise",
+          "creator": "MaestroSplinter",
+          "approved_date": "2020-12-29 01:25:59",
+          "difficulties": [
+            {
+              "beatmap_id": "2577810",
+              "version": "†Cherubim's Extra†",
+              "difficultyrating": "5.38103",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2726656",
+              "version": "†Fallen Angels' Hard†",
+              "difficultyrating": "3.67028",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2732336",
+              "version": "†Thrones' Insane†",
+              "difficultyrating": "4.45741",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2734059",
+              "version": "†Seraphim's Divine Choir†",
+              "difficultyrating": "5.69203",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1280480",
+          "title": "Let Me Hear",
+          "artist": "Zekk",
+          "creator": "MaestroSplinter",
+          "approved_date": "2020-11-03 08:27:09",
+          "difficulties": [
+            {
+              "beatmap_id": "2659858",
+              "version": "Duck N' Hippo",
+              "difficultyrating": "6.33807",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1051249",
+          "title": "Swing It!!",
+          "artist": "Fear, and Loathing in Las Vegas",
+          "creator": "MaestroSplinter",
+          "approved_date": "2020-09-01 22:03:08",
+          "difficulties": [
+            {
+              "beatmap_id": "2196978",
+              "version": "Fly High!!",
+              "difficultyrating": "5.97414",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2198732",
+              "version": "Kowari's Extra!!",
+              "difficultyrating": "5.55234",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2231980",
+              "version": "Nymphe's Insane!!",
+              "difficultyrating": "5.06535",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2280225",
+              "version": "HowRengar's Hard!!",
+              "difficultyrating": "4.04523",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2531947",
+              "version": "Megafan's Muzukashii!!",
+              "difficultyrating": "3.28543",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2533424",
+              "version": "2199's Oni!!",
+              "difficultyrating": "4.42255",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "996706",
+          "title": "Tengaku",
+          "artist": "Wagakki Band",
+          "creator": "MaestroSplinter",
+          "approved_date": "2020-01-13 02:23:57",
+          "difficulties": [
+            {
+              "beatmap_id": "2276210",
+              "version": "The Petals of a Now Fully Bloomed Look of Madness Adorn the World",
+              "difficultyrating": "7.73333",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "897711",
+          "title": "Terekakushi Shishunki",
+          "artist": "sana x HoneyWorks",
+          "creator": "MaestroSplinter",
+          "approved_date": "2019-04-13 05:00:19",
+          "difficulties": [
+            {
+              "beatmap_id": "1875421",
+              "version": "First Love",
+              "difficultyrating": "5.06132",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1912911",
+              "version": "Ayyfayla's Hard",
+              "difficultyrating": "3.47057",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1921244",
+              "version": "Haruki's Normal",
+              "difficultyrating": "2.24289",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1926712",
+              "version": "Lince's Insane",
+              "difficultyrating": "4.42607",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
           "beatmapset_id": "654246",
           "title": "Marolio, le da sabor a tu vida",
           "artist": "Andrea Baez",
@@ -9302,225 +9479,6 @@
             }
           ],
           "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "897711",
-          "title": "Terekakushi Shishunki",
-          "artist": "sana x HoneyWorks",
-          "creator": "MaestroSplinter",
-          "approved_date": "2019-04-13 05:00:19",
-          "difficulties": [
-            {
-              "beatmap_id": "1875421",
-              "version": "First Love",
-              "difficultyrating": "5.06132",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1912911",
-              "version": "Ayyfayla's Hard",
-              "difficultyrating": "3.47057",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1921244",
-              "version": "Haruki's Normal",
-              "difficultyrating": "2.24289",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1926712",
-              "version": "Lince's Insane",
-              "difficultyrating": "4.42607",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "996706",
-          "title": "Tengaku",
-          "artist": "Wagakki Band",
-          "creator": "MaestroSplinter",
-          "approved_date": "2020-01-13 02:23:57",
-          "difficulties": [
-            {
-              "beatmap_id": "2276210",
-              "version": "The Petals of a Now Fully Bloomed Look of Madness Adorn the World",
-              "difficultyrating": "7.73333",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1051249",
-          "title": "Swing It!!",
-          "artist": "Fear, and Loathing in Las Vegas",
-          "creator": "MaestroSplinter",
-          "approved_date": "2020-09-01 22:03:08",
-          "difficulties": [
-            {
-              "beatmap_id": "2196978",
-              "version": "Fly High!!",
-              "difficultyrating": "5.97414",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2198732",
-              "version": "Kowari's Extra!!",
-              "difficultyrating": "5.55234",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2231980",
-              "version": "Nymphe's Insane!!",
-              "difficultyrating": "5.06535",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2280225",
-              "version": "HowRengar's Hard!!",
-              "difficultyrating": "4.04523",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2531947",
-              "version": "Megafan's Muzukashii!!",
-              "difficultyrating": "3.28543",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2533424",
-              "version": "2199's Oni!!",
-              "difficultyrating": "4.42255",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1280480",
-          "title": "Let Me Hear",
-          "artist": "Zekk",
-          "creator": "MaestroSplinter",
-          "approved_date": "2020-11-03 08:27:09",
-          "difficulties": [
-            {
-              "beatmap_id": "2659858",
-              "version": "Duck N' Hippo",
-              "difficultyrating": "6.33807",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1238432",
-          "title": "Space Angel",
-          "artist": "False Noise",
-          "creator": "MaestroSplinter",
-          "approved_date": "2020-12-29 01:25:59",
-          "difficulties": [
-            {
-              "beatmap_id": "2577810",
-              "version": "†Cherubim's Extra†",
-              "difficultyrating": "5.38103",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2726656",
-              "version": "†Fallen Angels' Hard†",
-              "difficultyrating": "3.67028",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2732336",
-              "version": "†Thrones' Insane†",
-              "difficultyrating": "4.45741",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2734059",
-              "version": "†Seraphim's Divine Choir†",
-              "difficultyrating": "5.69203",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "876611",
-          "title": "La Ley y La Trampa",
-          "artist": "Chaqueno Palavecino",
-          "creator": "MaestroSplinter",
-          "approved_date": "2025-06-27 22:02:23",
-          "difficulties": [
-            {
-              "beatmap_id": "1832051",
-              "version": "Amargo y Retruco",
-              "difficultyrating": "5.27588",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true,
-          "favourite_count": "1028",
-          "playcount": "102394"
-        },
-        {
-          "beatmapset_id": "2490599",
-          "title": "MONSO.ON/OFF",
-          "artist": "HYOUKA & Kou! & TBN",
-          "creator": "MaestroSplinter",
-          "approved_date": "2026-04-01 16:44:21",
-          "difficulties": [
-            {
-              "beatmap_id": "5542640",
-              "version": "--><&!**",
-              "difficultyrating": "7.35324",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true,
-          "favourite_count": "43",
-          "playcount": "4726"
-        },
-        {
-          "beatmapset_id": "2526441",
-          "title": "Watercolour",
-          "artist": "Pendulum",
-          "creator": "MaestroSplinter",
-          "approved_date": "2026-05-15 00:25:20",
-          "difficulties": [
-            {
-              "beatmap_id": "5580950",
-              "version": "Marathon",
-              "difficultyrating": "6.62384",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true,
-          "favourite_count": "55",
-          "playcount": "4519"
         }
       ],
       "guestDifficulties": [],
@@ -9532,7 +9490,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 27
       },
-      "lastUpdated": "2026-07-04T18:42:12.497Z"
+      "lastUpdated": "2026-07-15T04:56:58.500Z"
     },
     {
       "user_id": "555",
@@ -9681,16 +9639,16 @@
       ],
       "beatmapsets": [
         {
-          "beatmapset_id": "18",
-          "title": "Scatman",
-          "artist": "Scatman John",
+          "beatmapset_id": "30",
+          "title": "Hey Now Now",
+          "artist": "The Cloud Room",
           "creator": "Extor",
-          "approved_date": "2007-10-07 22:16:55",
+          "approved_date": "2007-10-07 23:12:57",
           "difficulties": [
             {
-              "beatmap_id": "80",
-              "version": "Insane",
-              "difficultyrating": "3.69913",
+              "beatmap_id": "101",
+              "version": "Hard",
+              "difficultyrating": "2.90136",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -9715,16 +9673,16 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "30",
-          "title": "Hey Now Now",
-          "artist": "The Cloud Room",
+          "beatmapset_id": "18",
+          "title": "Scatman",
+          "artist": "Scatman John",
           "creator": "Extor",
-          "approved_date": "2007-10-07 23:12:57",
+          "approved_date": "2007-10-07 22:16:55",
           "difficulties": [
             {
-              "beatmap_id": "101",
-              "version": "Hard",
-              "difficultyrating": "2.90136",
+              "beatmap_id": "80",
+              "version": "Insane",
+              "difficultyrating": "3.69913",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -9741,7 +9699,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-07-11T05:20:36.268Z"
+      "lastUpdated": "2026-07-15T04:56:58.500Z"
     },
     {
       "user_id": "1961",
@@ -9879,7 +9837,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 2
       },
-      "lastUpdated": "2026-07-11T05:20:36.268Z"
+      "lastUpdated": "2026-07-15T04:56:58.500Z"
     },
     {
       "user_id": "41568",
@@ -10017,7 +9975,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 2
       },
-      "lastUpdated": "2026-07-11T05:20:36.268Z"
+      "lastUpdated": "2026-07-15T04:56:58.500Z"
     }
   ]
 }
