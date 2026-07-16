@@ -5,14 +5,14 @@
     "demonym": "Austria",
     "nativeName": "Austria"
   },
-  "lastUpdated": "2026-07-04T18:42:14.356Z",
-  "totalMappers": 1,
-  "totalBeatmaps": 141,
-  "totalBeatmapsets": 52,
-  "totalOwnBeatmapsets": 52,
+  "lastUpdated": "2026-07-16T05:16:45.784Z",
+  "totalMappers": 2,
+  "totalBeatmaps": 158,
+  "totalBeatmapsets": 56,
+  "totalOwnBeatmapsets": 56,
   "totalGuestBeatmapsets": 0,
   "totalGuestDiffs": 0,
-  "totalOwnDifficulties": 141,
+  "totalOwnDifficulties": 158,
   "scanType": "full",
   "mappers": [
     {
@@ -6236,147 +6236,23 @@
       ],
       "beatmapsets": [
         {
-          "beatmapset_id": "828703",
-          "title": "(can you) understand me?",
-          "artist": "Komiya Mao",
-          "creator": "Daletto",
-          "approved_date": "2019-05-08 15:00:04",
-          "difficulties": [
-            {
-              "beatmap_id": "1736235",
-              "version": "Cup?",
-              "difficultyrating": "1.34622",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1736236",
-              "version": "MBomb's Rain?",
-              "difficultyrating": "4.41014",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1777430",
-              "version": "wonchicken's Salad?",
-              "difficultyrating": "2.15207",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1778185",
-              "version": "Jeirletto's Platter?",
-              "difficultyrating": "3.19451",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1794354",
-              "version": "IDu5t's Amnesia?",
-              "difficultyrating": "4.65094",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "968546",
-          "title": "Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo.",
-          "artist": "R3 Music Box",
-          "creator": "Daletto",
-          "approved_date": "2019-07-18 15:00:03",
-          "difficulties": [
-            {
-              "beatmap_id": "2026590",
-              "version": "Cup",
-              "difficultyrating": "1.24526",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2026591",
-              "version": "Hex's Salad",
-              "difficultyrating": "1.75903",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2026869",
-              "version": "Kyouaku",
-              "difficultyrating": "2.67821",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "988577",
-          "title": "Futaba Town (Hiru)",
-          "artist": "Sato Hitomi",
-          "creator": "Daletto",
-          "approved_date": "2019-07-30 02:20:02",
-          "difficulties": [
-            {
-              "beatmap_id": "2067901",
-              "version": "Cup",
-              "difficultyrating": "1.30912",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2067916",
-              "version": "Salad",
-              "difficultyrating": "1.80692",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2068773",
-              "version": "wonjae's Platter",
-              "difficultyrating": "2.30636",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1023806",
-          "title": "Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo.",
+          "beatmapset_id": "2475386",
+          "title": "Yuuaku no Inori - Anima immortalis est. -",
           "artist": "Imperial Circus Dead Decadence",
           "creator": "Daletto",
-          "approved_date": "2020-01-02 22:21:55",
+          "approved_date": "2026-06-10 22:44:50",
           "difficulties": [
             {
-              "beatmap_id": "2141652",
-              "version": "Hoshigata",
-              "difficultyrating": "7.15342",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1088341",
-          "title": "dorime.",
-          "artist": "sigma",
-          "creator": "Daletto",
-          "approved_date": "2020-01-19 19:45:10",
-          "difficulties": [
-            {
-              "beatmap_id": "2275682",
-              "version": "daletto & nipah's cup.",
-              "difficultyrating": "0.940704",
+              "beatmap_id": "5426262",
+              "version": "Fumetsu no Uta",
+              "difficultyrating": "7.77307",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "2275683",
-              "version": "salad.",
-              "difficultyrating": "1.38809",
+              "beatmap_id": "5430156",
+              "version": "Daletto & Hex's Rain",
+              "difficultyrating": "4.17956",
               "mode": "2",
               "isGuestDiff": false
             }
@@ -6384,23 +6260,16 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "1091149",
-          "title": "Yume",
-          "artist": "UNDEAD CORPORATION",
+          "beatmapset_id": "2557046",
+          "title": "Three Magic (DiGiTAL WiNG TRANCE Remix)",
+          "artist": "Halozy",
           "creator": "Daletto",
-          "approved_date": "2020-02-09 21:04:32",
+          "approved_date": "2026-06-06 05:47:47",
           "difficulties": [
             {
-              "beatmap_id": "2281175",
-              "version": "Cup",
-              "difficultyrating": "0.987661",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2281176",
-              "version": "Salad",
-              "difficultyrating": "1.46175",
+              "beatmap_id": "5680430",
+              "version": "Daletto & Hyperion's Love Story",
+              "difficultyrating": "6.02954",
               "mode": "2",
               "isGuestDiff": false
             }
@@ -6408,140 +6277,44 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "999578",
-          "title": "Trust in you (TV Size)",
-          "artist": "sweet ARMS",
-          "creator": "Daletto",
-          "approved_date": "2020-02-11 22:04:21",
-          "difficulties": [
-            {
-              "beatmap_id": "2090712",
-              "version": "Let's begin our date!",
-              "difficultyrating": "5.17664",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2092378",
-              "version": "Lumi's Platter",
-              "difficultyrating": "2.91666",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2097768",
-              "version": "Hex's Rain",
-              "difficultyrating": "4.16257",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2100819",
-              "version": "Jeir's Salad",
-              "difficultyrating": "2.43106",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2107891",
-              "version": "Absolute Zero's Cup",
-              "difficultyrating": "1.65318",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1096713",
-          "title": "Chronostasis",
-          "artist": "Release Hallucination",
-          "creator": "Daletto",
-          "approved_date": "2020-03-15 03:22:01",
-          "difficulties": [
-            {
-              "beatmap_id": "2291740",
-              "version": "Crimson Chronology",
-              "difficultyrating": "5.91192",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1088438",
-          "title": "Jashin no Konrei, Gi wa Ai to Shiru.",
-          "artist": "Imperial Circus Dead Decadence",
-          "creator": "Daletto",
-          "approved_date": "2020-04-17 22:44:45",
-          "difficulties": [
-            {
-              "beatmap_id": "2275872",
-              "version": "Enkiri",
-              "difficultyrating": "6.74571",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1148317",
-          "title": "Apparition",
-          "artist": "Spawn of Possession",
-          "creator": "Daletto",
-          "approved_date": "2020-07-08 07:23:34",
-          "difficulties": [
-            {
-              "beatmap_id": "2397535",
-              "version": "Free from sin you'll come with me...",
-              "difficultyrating": "7.54901",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1018035",
-          "title": "Los! Los! Los!",
+          "beatmapset_id": "2538431",
+          "title": "Blade of Hope (Another Ver.)",
           "artist": "Selphius",
           "creator": "Daletto",
-          "approved_date": "2020-07-10 23:47:23",
+          "approved_date": "2026-05-07 14:23:08",
           "difficulties": [
             {
-              "beatmap_id": "2130532",
-              "version": "Absolute Ausrottung!",
-              "difficultyrating": "6.90331",
+              "beatmap_id": "5617559",
+              "version": "Augenschein",
+              "difficultyrating": "5.71286",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "2131166",
-              "version": "Crowley's Overdose",
-              "difficultyrating": "5.45939",
+              "beatmap_id": "5617560",
+              "version": "Hex & Daletto's Becher",
+              "difficultyrating": "1.51504",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "2135671",
-              "version": "Hex's Rain",
-              "difficultyrating": "4.31142",
+              "beatmap_id": "5617561",
+              "version": "Hex & Daletto's Regen",
+              "difficultyrating": "4.03754",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "2168588",
-              "version": "Sanyi's Deluge",
-              "difficultyrating": "5.89329",
+              "beatmap_id": "5617562",
+              "version": "Hex's Platte",
+              "difficultyrating": "3.09349",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "2192439",
-              "version": "Nely's Platter",
-              "difficultyrating": "3.00682",
+              "beatmap_id": "5617563",
+              "version": "Stardust Prism's Salat",
+              "difficultyrating": "2.05739",
               "mode": "2",
               "isGuestDiff": false
             }
@@ -6549,37 +6322,71 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "1009241",
-          "title": "209 Bandouro (Hiru)",
-          "artist": "Satou Hitomi",
+          "beatmapset_id": "2495507",
+          "title": "D5^2[n-1]14+sqrt(-1)/",
+          "artist": "CS4W",
           "creator": "Daletto",
-          "approved_date": "2020-08-18 12:21:54",
+          "approved_date": "2026-02-17 23:41:26",
           "difficulties": [
             {
-              "beatmap_id": "2112795",
-              "version": "Rain",
-              "difficultyrating": "3.57937",
+              "beatmap_id": "5494893",
+              "version": "Daletto & Spec's Schatten",
+              "difficultyrating": "7.56198",
               "mode": "2",
               "isGuestDiff": false
-            },
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2480662",
+          "title": "Waldschrein",
+          "artist": "Equilibrium",
+          "creator": "Daletto",
+          "approved_date": "2025-12-30 12:44:30",
+          "difficulties": [
             {
-              "beatmap_id": "2115604",
+              "beatmap_id": "5442303",
+              "version": "Daletto & Deif's Freiheit",
+              "difficultyrating": "6.28521",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2461510",
+          "title": "Blazing Heart",
+          "artist": "HOYO-MiX feat. Chrissy Costanza",
+          "creator": "Daletto",
+          "approved_date": "2025-12-22 22:02:11",
+          "difficulties": [
+            {
+              "beatmap_id": "5385018",
               "version": "Cup",
-              "difficultyrating": "1.63834",
+              "difficultyrating": "1.38214",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "2115605",
-              "version": "Rocma's Platter",
-              "difficultyrating": "2.95434",
+              "beatmap_id": "5385019",
+              "version": "Hour of Burning Skies",
+              "difficultyrating": "3.85134",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "2117375",
-              "version": "Sanyi's Salad",
-              "difficultyrating": "2.15576",
+              "beatmap_id": "5409059",
+              "version": "Daletto & Stardust's Salad",
+              "difficultyrating": "2.269",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5417035",
+              "version": "Rew's Platter",
+              "difficultyrating": "2.73249",
               "mode": "2",
               "isGuestDiff": false
             }
@@ -6587,549 +6394,51 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "1179938",
-          "title": "Embraced by the Flame",
-          "artist": "UNDEAD CORPORATION",
-          "creator": "Daletto",
-          "approved_date": "2020-10-05 11:24:07",
-          "difficulties": [
-            {
-              "beatmap_id": "2460430",
-              "version": "Daletto & Du5t's Overdose",
-              "difficultyrating": "6.07371",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2460431",
-              "version": "Daletto & Du5t's Rekindling of Dead Ashes",
-              "difficultyrating": "7.12466",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2460432",
-              "version": "Hex's Platter",
-              "difficultyrating": "3.74327",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2460433",
-              "version": "Rain",
-              "difficultyrating": "4.67655",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1266865",
-          "title": "Kegare Naki Bara Juuji",
-          "artist": "Ariabl'eyeS",
-          "creator": "Daletto",
-          "approved_date": "2020-12-05 09:23:30",
-          "difficulties": [
-            {
-              "beatmap_id": "2632932",
-              "version": "Daletto & Spec's Penance",
-              "difficultyrating": "6.20749",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1338117",
-          "title": "Ring of Fortune (TV Size)",
-          "artist": "Sasaki Eri",
-          "creator": "Daletto",
-          "approved_date": "2021-02-02 17:25:36",
-          "difficulties": [
-            {
-              "beatmap_id": "2771889",
-              "version": "Cup",
-              "difficultyrating": "1.4244",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2771890",
-              "version": "Painful Memories",
-              "difficultyrating": "3.72827",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2771891",
-              "version": "Platter",
-              "difficultyrating": "2.70951",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2788871",
-              "version": "Benita's Salad",
-              "difficultyrating": "2.01239",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1293905",
-          "title": "Everything will freeze",
-          "artist": "UNDEAD CORPORATION",
-          "creator": "NyalettOwO x3",
-          "approved_date": "2021-04-09 00:44:00",
-          "difficulties": [
-            {
-              "beatmap_id": "2685020",
-              "version": "Jack the Ludo Bile",
-              "difficultyrating": "7.40246",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2685021",
-              "version": "Cup",
-              "difficultyrating": "1.51649",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2685022",
-              "version": "HexlettOwO's Platter",
-              "difficultyrating": "3.52238",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2685023",
-              "version": "Rain",
-              "difficultyrating": "4.37126",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2696377",
-              "version": "Rew's Salad",
-              "difficultyrating": "2.52181",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2705951",
-              "version": "Kukkai's Overdose",
-              "difficultyrating": "6.12114",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2829052",
-              "version": "Du5t's Deluge",
-              "difficultyrating": "6.70729",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1416530",
-          "title": "Fusyoku ressentiment, fushiyoku no sarugakuza.",
-          "artist": "Imperial Circus Dead Decadence",
-          "creator": "Daletto",
-          "approved_date": "2021-05-29 05:24:50",
-          "difficulties": [
-            {
-              "beatmap_id": "2919116",
-              "version": "Rites of Termination",
-              "difficultyrating": "7.1608",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1471275",
-          "title": "In Aeternum",
-          "artist": "Fleshgod Apocalypse",
-          "creator": "Daletto",
-          "approved_date": "2021-07-01 16:45:40",
-          "difficulties": [
-            {
-              "beatmap_id": "3020497",
-              "version": "Daletto & Du5t's Giudizio Divino",
-              "difficultyrating": "7.31344",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1292500",
-          "title": "wallah bruder (Gasi Remix)",
-          "artist": "Selphius",
-          "creator": "Daletto",
-          "approved_date": "2021-07-27 04:21:51",
-          "difficulties": [
-            {
-              "beatmap_id": "2682392",
-              "version": "cup",
-              "difficultyrating": "1.37305",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2682393",
-              "version": "wallah",
-              "difficultyrating": "3.24468",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "3115706",
-              "version": "zonda's salad",
-              "difficultyrating": "2.06389",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "3120683",
-              "version": "platter",
-              "difficultyrating": "2.7694",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1507375",
-          "title": "Scars in my Life",
-          "artist": "FATE GEAR",
-          "creator": "Daletto",
-          "approved_date": "2021-08-02 10:03:04",
-          "difficulties": [
-            {
-              "beatmap_id": "3087343",
-              "version": "Reminiscence",
-              "difficultyrating": "5.83579",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "3103383",
-              "version": "Kukkai's Rain",
-              "difficultyrating": "4.0251",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1471166",
-          "title": "The Heretic Prevails",
-          "artist": "Shadow Of Intent",
-          "creator": "Daletto",
-          "approved_date": "2021-08-30 09:01:43",
-          "difficulties": [
-            {
-              "beatmap_id": "3020275",
-              "version": "Daletto & Du5t's Overdose",
-              "difficultyrating": "5.91863",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "3020277",
-              "version": "I shall not bow to thee.",
-              "difficultyrating": "6.66729",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "3020305",
-              "version": "Daletto & Hex's Rain",
-              "difficultyrating": "4.4585",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1254985",
-          "title": "Take a Hint feat. Victoria Justice & Elizabeth Gillies (Sped Up & Cut Ver.)",
-          "artist": "Victorious Cast",
-          "creator": "Daletto",
-          "approved_date": "2021-11-23 23:22:53",
-          "difficulties": [
-            {
-              "beatmap_id": "2608197",
-              "version": "Cup",
-              "difficultyrating": "1.48142",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2608198",
-              "version": "Hey!",
-              "difficultyrating": "4.25395",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2608200",
-              "version": "Platter",
-              "difficultyrating": "2.81573",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2608201",
-              "version": "Rain",
-              "difficultyrating": "3.60831",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2608202",
-              "version": "Rew's Salad",
-              "difficultyrating": "2.04004",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1572969",
-          "title": "Uta",
-          "artist": "Imperial Circus Dead Decadence",
-          "creator": "Daletto",
-          "approved_date": "2022-02-12 03:06:44",
-          "difficulties": [
-            {
-              "beatmap_id": "3211667",
-              "version": "Eucharist",
-              "difficultyrating": "7.28049",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "3211668",
-              "version": "Rain",
-              "difficultyrating": "4.63976",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "3376323",
-              "version": "Capu & Hivie's Inner Oni",
-              "difficultyrating": "6.67491",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1637105",
-          "title": "To the Hellfire",
-          "artist": "Lorna Shore",
-          "creator": "Daletto",
-          "approved_date": "2022-02-16 21:44:44",
-          "difficulties": [
-            {
-              "beatmap_id": "3341088",
-              "version": "Daletto & Du5t's Final Breath",
-              "difficultyrating": "8.10948",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1699234",
-          "title": "Lovers in Abyss",
-          "artist": "Release Hallucination",
-          "creator": "Daletto",
-          "approved_date": "2022-04-17 17:25:01",
-          "difficulties": [
-            {
-              "beatmap_id": "3472020",
-              "version": "Daletto & Jemzuu's Illuminating Salvation",
-              "difficultyrating": "7.16348",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1727167",
-          "title": "Immortal",
-          "artist": "Lorna Shore",
-          "creator": "Daletto",
-          "approved_date": "2022-05-09 06:46:46",
-          "difficulties": [
-            {
-              "beatmap_id": "3529698",
-              "version": "In death, was once beauty...",
-              "difficultyrating": "8.24231",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1794186",
-          "title": "The Return",
-          "artist": "Shadow Of Intent",
-          "creator": "Daletto",
-          "approved_date": "2022-10-30 21:05:28",
-          "difficulties": [
-            {
-              "beatmap_id": "3677168",
-              "version": "A living body so I can embrace and rejoice...",
-              "difficultyrating": "7.61903",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "3689949",
-              "version": "Daletto & Rustyy's Overdose",
-              "difficultyrating": "6.29461",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "3689950",
-              "version": "Daletto & Hex's Rain",
-              "difficultyrating": "4.65858",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "2000801",
-          "title": "Lost My Way",
-          "artist": "FELT",
-          "creator": "Daletto",
-          "approved_date": "2023-06-18 22:02:10",
-          "difficulties": [
-            {
-              "beatmap_id": "4160121",
-              "version": "y'all liars and fake: The Sequel",
-              "difficultyrating": "6.57476",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1960126",
-          "title": "Sun//Eater",
-          "artist": "Lorna Shore",
-          "creator": "Daletto",
-          "approved_date": "2023-07-24 21:04:38",
-          "difficulties": [
-            {
-              "beatmap_id": "4061928",
-              "version": "Kyrie Eleison",
-              "difficultyrating": "8.28884",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "2137241",
-          "title": "Pain Remains III: In a Sea of Fire",
-          "artist": "Lorna Shore",
-          "creator": "Daletto",
-          "approved_date": "2024-03-08 23:05:24",
-          "difficulties": [
-            {
-              "beatmap_id": "4497685",
-              "version": "Crimson Blaze",
-              "difficultyrating": "8.02908",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "2147438",
-          "title": "Losing My Life",
-          "artist": "Falling In Reverse",
-          "creator": "Daletto",
-          "approved_date": "2024-04-24 16:06:07",
-          "difficulties": [
-            {
-              "beatmap_id": "4523389",
-              "version": "Daletto & Hex's Miracle",
-              "difficultyrating": "5.75317",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "2143862",
-          "title": "Monodrama",
+          "beatmapset_id": "2419181",
+          "title": "Valiant Duel",
           "artist": "HOYO-MiX",
           "creator": "Daletto",
-          "approved_date": "2024-06-11 12:25:33",
+          "approved_date": "2025-11-02 11:43:38",
           "difficulties": [
             {
-              "beatmap_id": "4513744",
-              "version": "Narrative Polysemy",
-              "difficultyrating": "5.61621",
+              "beatmap_id": "5261089",
+              "version": "Mascara Luctatori",
+              "difficultyrating": "6.3362",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "4515512",
-              "version": "Cup",
-              "difficultyrating": "1.34279",
+              "beatmap_id": "5283455",
+              "version": "Daletto & Dutchman's Cup",
+              "difficultyrating": "1.57353",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "4515561",
-              "version": "Salad",
-              "difficultyrating": "2.12972",
+              "beatmap_id": "5284736",
+              "version": "Vigne's Salad",
+              "difficultyrating": "2.2474",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "4520371",
-              "version": "Hex's Rain",
-              "difficultyrating": "3.95727",
+              "beatmap_id": "5317795",
+              "version": "Dapu's Overdose",
+              "difficultyrating": "5.44182",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "4561319",
-              "version": "Daletto & Hex's Platter",
-              "difficultyrating": "2.88607",
+              "beatmap_id": "5337237",
+              "version": "Rain",
+              "difficultyrating": "4.55825",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5340568",
+              "version": "Kukkai's Platter",
+              "difficultyrating": "3.18473",
               "mode": "2",
               "isGuestDiff": false
             }
@@ -7137,57 +6446,44 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "2202800",
-          "title": "What I Would Give",
-          "artist": "AngelMaker",
+          "beatmapset_id": "2338848",
+          "title": "Shinbatsu o Tadori Kyoukotsu ni Itaru",
+          "artist": "Imperial Circus Dead Decadence",
           "creator": "Daletto",
-          "approved_date": "2024-07-26 14:02:48",
+          "approved_date": "2025-10-16 19:24:48",
           "difficulties": [
             {
-              "beatmap_id": "4662258",
-              "version": "I long to see you...",
-              "difficultyrating": "7.84117",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "2241735",
-          "title": "Flamewall",
-          "artist": "Camellia",
-          "creator": "Daletto",
-          "approved_date": "2024-10-06 23:22:23",
-          "difficulties": [
-            {
-              "beatmap_id": "4764524",
-              "version": "Daletto & Rustyy's Flowers Resplendent on the Sun-Scorched Sojourn",
-              "difficultyrating": "8.611",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "2191184",
-          "title": "Watch The World Burn",
-          "artist": "Falling In Reverse",
-          "creator": "Daletto",
-          "approved_date": "2024-10-07 14:07:07",
-          "difficulties": [
-            {
-              "beatmap_id": "4634735",
-              "version": "Hypnotizing",
-              "difficultyrating": "6.2209",
+              "beatmap_id": "5022993",
+              "version": "Daletto & Hex's Cup",
+              "difficultyrating": "1.63831",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "4644338",
+              "beatmap_id": "5022994",
               "version": "Daletto & Hex's Rain",
-              "difficultyrating": "4.24504",
+              "difficultyrating": "4.28328",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5022996",
+              "version": "Stardust Prism's Salad",
+              "difficultyrating": "2.34697",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5299790",
+              "version": "Daletto & Mochi's Equinox",
+              "difficultyrating": "7.67464",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5299791",
+              "version": "Daletto & Rustyy's Platter",
+              "difficultyrating": "2.96565",
               "mode": "2",
               "isGuestDiff": false
             }
@@ -7195,16 +6491,16 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "2230774",
-          "title": "Okurina -Inochi o Aoku Mimamori Nemurina-",
-          "artist": "FREEDOM CREATORS",
+          "beatmapset_id": "2402732",
+          "title": "Pain Remains I: Dancing Like Flames",
+          "artist": "Lorna Shore",
           "creator": "Daletto",
-          "approved_date": "2024-10-22 17:05:36",
+          "approved_date": "2025-08-07 22:42:27",
           "difficulties": [
             {
-              "beatmap_id": "4734290",
-              "version": "Shidarezakura",
-              "difficultyrating": "7.60617",
+              "beatmap_id": "5211006",
+              "version": "A world without you isn't meant for me...",
+              "difficultyrating": "8.00359",
               "mode": "2",
               "isGuestDiff": false
             }
@@ -7212,99 +6508,16 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "2257758",
-          "title": "Deadly force",
-          "artist": "Noah",
-          "creator": "Daletto",
-          "approved_date": "2024-11-11 20:44:00",
-          "difficulties": [
-            {
-              "beatmap_id": "4804011",
-              "version": "BASIC",
-              "difficultyrating": "1.35165",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "4804012",
-              "version": "DALETTO & HEX'S ADVANCED",
-              "difficultyrating": "3.09501",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "4804013",
-              "version": "DALETTO & HEX'S EXHAUST",
-              "difficultyrating": "4.45541",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "4804014",
-              "version": "DEIF'S MAXIMUM",
-              "difficultyrating": "5.96611",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "4804015",
-              "version": "KUKKAI'S NOVICE",
-              "difficultyrating": "2.18438",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "4804016",
-              "version": "LAMENT",
-              "difficultyrating": "8.68067",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "4804017",
-              "version": "LUMI'S INFINITE",
-              "difficultyrating": "6.41686",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "4804018",
-              "version": "MOCHI'S GRAVITY",
-              "difficultyrating": "7.80467",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "2239310",
-          "title": "The Empress",
-          "artist": "UNDEAD CORPORATION",
-          "creator": "Daletto",
-          "approved_date": "2024-12-17 18:41:49",
-          "difficulties": [
-            {
-              "beatmap_id": "4758753",
-              "version": "Daletto & Rustyy's Ripples of 495 Years",
-              "difficultyrating": "8.03837",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "2239329",
-          "title": "I, The Devourer",
+          "beatmapset_id": "2347281",
+          "title": "The Poetic Edda (feat. Ben Duerr)",
           "artist": "Synestia, Disembodied Tyrant",
           "creator": "Daletto",
-          "approved_date": "2025-01-19 13:45:12",
+          "approved_date": "2025-05-21 00:41:49",
           "difficulties": [
             {
-              "beatmap_id": "4758813",
-              "version": "Where is your throne, lord?",
-              "difficultyrating": "7.91138",
+              "beatmap_id": "5048608",
+              "version": "Gjallarhorn",
+              "difficultyrating": "8.00765",
               "mode": "2",
               "isGuestDiff": false
             }
@@ -7312,16 +6525,58 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "2307872",
-          "title": "Winter Sun",
-          "artist": "Worm Shepherd",
+          "beatmapset_id": "2278996",
+          "title": "<<Re:miniscence>>",
+          "artist": "Kaneko Chiharu",
           "creator": "Daletto",
-          "approved_date": "2025-02-19 19:03:54",
+          "approved_date": "2025-04-19 00:24:51",
           "difficulties": [
             {
-              "beatmap_id": "4936088",
-              "version": "\"The hand behind the druids; a familiar hand cold and cruel\"",
-              "difficultyrating": "8.2615",
+              "beatmap_id": "4857647",
+              "version": "HEAVENLY",
+              "difficultyrating": "7.56006",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "4857648",
+              "version": "ROCMA'S EXCEED",
+              "difficultyrating": "9.33708",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "4860581",
+              "version": "MAXIMUM",
+              "difficultyrating": "5.54216",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "4862876",
+              "version": "INFINITE",
+              "difficultyrating": "6.49715",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "4869035",
+              "version": "RUSTYY'S VIVID",
+              "difficultyrating": "8.50442",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "4886112",
+              "version": "HEX'S EXHAUST",
+              "difficultyrating": "4.27716",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5037463",
+              "version": "CIEL'S GRAVITY",
+              "difficultyrating": "7.50094",
               "mode": "2",
               "isGuestDiff": false
             }
@@ -7395,58 +6650,16 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "2278996",
-          "title": "<<Re:miniscence>>",
-          "artist": "Kaneko Chiharu",
+          "beatmapset_id": "2307872",
+          "title": "Winter Sun",
+          "artist": "Worm Shepherd",
           "creator": "Daletto",
-          "approved_date": "2025-04-19 00:24:51",
+          "approved_date": "2025-02-19 19:03:54",
           "difficulties": [
             {
-              "beatmap_id": "4857647",
-              "version": "HEAVENLY",
-              "difficultyrating": "7.56006",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "4857648",
-              "version": "ROCMA'S EXCEED",
-              "difficultyrating": "9.33708",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "4860581",
-              "version": "MAXIMUM",
-              "difficultyrating": "5.54216",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "4862876",
-              "version": "INFINITE",
-              "difficultyrating": "6.49715",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "4869035",
-              "version": "RUSTYY'S VIVID",
-              "difficultyrating": "8.50442",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "4886112",
-              "version": "HEX'S EXHAUST",
-              "difficultyrating": "4.27716",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5037463",
-              "version": "CIEL'S GRAVITY",
-              "difficultyrating": "7.50094",
+              "beatmap_id": "4936088",
+              "version": "\"The hand behind the druids; a familiar hand cold and cruel\"",
+              "difficultyrating": "8.2615",
               "mode": "2",
               "isGuestDiff": false
             }
@@ -7454,16 +6667,16 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "2347281",
-          "title": "The Poetic Edda (feat. Ben Duerr)",
+          "beatmapset_id": "2239329",
+          "title": "I, The Devourer",
           "artist": "Synestia, Disembodied Tyrant",
           "creator": "Daletto",
-          "approved_date": "2025-05-21 00:41:49",
+          "approved_date": "2025-01-19 13:45:12",
           "difficulties": [
             {
-              "beatmap_id": "5048608",
-              "version": "Gjallarhorn",
-              "difficultyrating": "8.00765",
+              "beatmap_id": "4758813",
+              "version": "Where is your throne, lord?",
+              "difficultyrating": "7.91138",
               "mode": "2",
               "isGuestDiff": false
             }
@@ -7471,294 +6684,1063 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "2402732",
-          "title": "Pain Remains I: Dancing Like Flames",
-          "artist": "Lorna Shore",
+          "beatmapset_id": "2239310",
+          "title": "The Empress",
+          "artist": "UNDEAD CORPORATION",
           "creator": "Daletto",
-          "approved_date": "2025-08-07 22:42:27",
+          "approved_date": "2024-12-17 18:41:49",
           "difficulties": [
             {
-              "beatmap_id": "5211006",
-              "version": "A world without you isn't meant for me...",
-              "difficultyrating": "8.00359",
+              "beatmap_id": "4758753",
+              "version": "Daletto & Rustyy's Ripples of 495 Years",
+              "difficultyrating": "8.03837",
               "mode": "2",
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "16",
-          "playcount": "5977"
+          "isOwnMapset": true
         },
         {
-          "beatmapset_id": "2338848",
-          "title": "Shinbatsu o Tadori Kyoukotsu ni Itaru",
-          "artist": "Imperial Circus Dead Decadence",
+          "beatmapset_id": "2257758",
+          "title": "Deadly force",
+          "artist": "Noah",
           "creator": "Daletto",
-          "approved_date": "2025-10-16 19:24:48",
+          "approved_date": "2024-11-11 20:44:00",
           "difficulties": [
             {
-              "beatmap_id": "5022993",
-              "version": "Daletto & Hex's Cup",
-              "difficultyrating": "1.63831",
+              "beatmap_id": "4804011",
+              "version": "BASIC",
+              "difficultyrating": "1.35165",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "5022994",
+              "beatmap_id": "4804012",
+              "version": "DALETTO & HEX'S ADVANCED",
+              "difficultyrating": "3.09501",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "4804013",
+              "version": "DALETTO & HEX'S EXHAUST",
+              "difficultyrating": "4.45541",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "4804014",
+              "version": "DEIF'S MAXIMUM",
+              "difficultyrating": "5.96611",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "4804015",
+              "version": "KUKKAI'S NOVICE",
+              "difficultyrating": "2.18438",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "4804016",
+              "version": "LAMENT",
+              "difficultyrating": "8.68067",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "4804017",
+              "version": "LUMI'S INFINITE",
+              "difficultyrating": "6.41686",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "4804018",
+              "version": "MOCHI'S GRAVITY",
+              "difficultyrating": "7.80467",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2230774",
+          "title": "Okurina -Inochi o Aoku Mimamori Nemurina-",
+          "artist": "FREEDOM CREATORS",
+          "creator": "Daletto",
+          "approved_date": "2024-10-22 17:05:36",
+          "difficulties": [
+            {
+              "beatmap_id": "4734290",
+              "version": "Shidarezakura",
+              "difficultyrating": "7.60617",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2191184",
+          "title": "Watch The World Burn",
+          "artist": "Falling In Reverse",
+          "creator": "Daletto",
+          "approved_date": "2024-10-07 14:07:07",
+          "difficulties": [
+            {
+              "beatmap_id": "4634735",
+              "version": "Hypnotizing",
+              "difficultyrating": "6.2209",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "4644338",
               "version": "Daletto & Hex's Rain",
-              "difficultyrating": "4.28328",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5022996",
-              "version": "Stardust Prism's Salad",
-              "difficultyrating": "2.34697",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5299790",
-              "version": "Daletto & Mochi's Equinox",
-              "difficultyrating": "7.67464",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5299791",
-              "version": "Daletto & Rustyy's Platter",
-              "difficultyrating": "2.96565",
+              "difficultyrating": "4.24504",
               "mode": "2",
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "113",
-          "playcount": "20732"
+          "isOwnMapset": true
         },
         {
-          "beatmapset_id": "2419181",
-          "title": "Valiant Duel",
+          "beatmapset_id": "2241735",
+          "title": "Flamewall",
+          "artist": "Camellia",
+          "creator": "Daletto",
+          "approved_date": "2024-10-06 23:22:23",
+          "difficulties": [
+            {
+              "beatmap_id": "4764524",
+              "version": "Daletto & Rustyy's Flowers Resplendent on the Sun-Scorched Sojourn",
+              "difficultyrating": "8.611",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2202800",
+          "title": "What I Would Give",
+          "artist": "AngelMaker",
+          "creator": "Daletto",
+          "approved_date": "2024-07-26 14:02:48",
+          "difficulties": [
+            {
+              "beatmap_id": "4662258",
+              "version": "I long to see you...",
+              "difficultyrating": "7.84117",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2143862",
+          "title": "Monodrama",
           "artist": "HOYO-MiX",
           "creator": "Daletto",
-          "approved_date": "2025-11-02 11:43:38",
+          "approved_date": "2024-06-11 12:25:33",
           "difficulties": [
             {
-              "beatmap_id": "5261089",
-              "version": "Mascara Luctatori",
-              "difficultyrating": "6.3362",
+              "beatmap_id": "4513744",
+              "version": "Narrative Polysemy",
+              "difficultyrating": "5.61621",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "5283455",
-              "version": "Daletto & Dutchman's Cup",
-              "difficultyrating": "1.57353",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5284736",
-              "version": "Vigne's Salad",
-              "difficultyrating": "2.2474",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5317795",
-              "version": "Dapu's Overdose",
-              "difficultyrating": "5.44182",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5337237",
-              "version": "Rain",
-              "difficultyrating": "4.55825",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5340568",
-              "version": "Kukkai's Platter",
-              "difficultyrating": "3.18473",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true,
-          "favourite_count": "58",
-          "playcount": "11224"
-        },
-        {
-          "beatmapset_id": "2461510",
-          "title": "Blazing Heart",
-          "artist": "HOYO-MiX feat. Chrissy Costanza",
-          "creator": "Daletto",
-          "approved_date": "2025-12-22 22:02:11",
-          "difficulties": [
-            {
-              "beatmap_id": "5385018",
+              "beatmap_id": "4515512",
               "version": "Cup",
-              "difficultyrating": "1.38214",
+              "difficultyrating": "1.34279",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "5385019",
-              "version": "Hour of Burning Skies",
-              "difficultyrating": "3.85134",
+              "beatmap_id": "4515561",
+              "version": "Salad",
+              "difficultyrating": "2.12972",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "5409059",
-              "version": "Daletto & Stardust's Salad",
-              "difficultyrating": "2.269",
+              "beatmap_id": "4520371",
+              "version": "Hex's Rain",
+              "difficultyrating": "3.95727",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "5417035",
-              "version": "Rew's Platter",
-              "difficultyrating": "2.73249",
+              "beatmap_id": "4561319",
+              "version": "Daletto & Hex's Platter",
+              "difficultyrating": "2.88607",
               "mode": "2",
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "21",
-          "playcount": "2269"
+          "isOwnMapset": true
         },
         {
-          "beatmapset_id": "2480662",
-          "title": "Waldschrein",
-          "artist": "Equilibrium",
+          "beatmapset_id": "2147438",
+          "title": "Losing My Life",
+          "artist": "Falling In Reverse",
           "creator": "Daletto",
-          "approved_date": "2025-12-30 12:44:30",
+          "approved_date": "2024-04-24 16:06:07",
           "difficulties": [
             {
-              "beatmap_id": "5442303",
-              "version": "Daletto & Deif's Freiheit",
-              "difficultyrating": "6.28521",
+              "beatmap_id": "4523389",
+              "version": "Daletto & Hex's Miracle",
+              "difficultyrating": "5.75317",
               "mode": "2",
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "5",
-          "playcount": "769"
+          "isOwnMapset": true
         },
         {
-          "beatmapset_id": "2495507",
-          "title": "D5^2[n-1]14+sqrt(-1)/",
-          "artist": "CS4W",
+          "beatmapset_id": "2137241",
+          "title": "Pain Remains III: In a Sea of Fire",
+          "artist": "Lorna Shore",
           "creator": "Daletto",
-          "approved_date": "2026-02-17 23:41:26",
+          "approved_date": "2024-03-08 23:05:24",
           "difficulties": [
             {
-              "beatmap_id": "5494893",
-              "version": "Daletto & Spec's Schatten",
-              "difficultyrating": "7.56198",
+              "beatmap_id": "4497685",
+              "version": "Crimson Blaze",
+              "difficultyrating": "8.02908",
               "mode": "2",
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "15",
-          "playcount": "1027"
+          "isOwnMapset": true
         },
         {
-          "beatmapset_id": "2538431",
-          "title": "Blade of Hope (Another Ver.)",
-          "artist": "Selphius",
+          "beatmapset_id": "1960126",
+          "title": "Sun//Eater",
+          "artist": "Lorna Shore",
           "creator": "Daletto",
-          "approved_date": "2026-05-07 14:23:08",
+          "approved_date": "2023-07-24 21:04:38",
           "difficulties": [
             {
-              "beatmap_id": "5617559",
-              "version": "Augenschein",
-              "difficultyrating": "5.71286",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5617560",
-              "version": "Hex & Daletto's Becher",
-              "difficultyrating": "1.51504",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5617561",
-              "version": "Hex & Daletto's Regen",
-              "difficultyrating": "4.03754",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5617562",
-              "version": "Hex's Platte",
-              "difficultyrating": "3.09349",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5617563",
-              "version": "Stardust Prism's Salat",
-              "difficultyrating": "2.05739",
+              "beatmap_id": "4061928",
+              "version": "Kyrie Eleison",
+              "difficultyrating": "8.28884",
               "mode": "2",
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "22",
-          "playcount": "5890"
+          "isOwnMapset": true
         },
         {
-          "beatmapset_id": "2557046",
-          "title": "Three Magic (DiGiTAL WiNG TRANCE Remix)",
-          "artist": "Halozy",
+          "beatmapset_id": "2000801",
+          "title": "Lost My Way",
+          "artist": "FELT",
           "creator": "Daletto",
-          "approved_date": "2026-06-06 05:47:47",
+          "approved_date": "2023-06-18 22:02:10",
           "difficulties": [
             {
-              "beatmap_id": "5680430",
-              "version": "Daletto & Hyperion's Love Story",
-              "difficultyrating": "6.02954",
+              "beatmap_id": "4160121",
+              "version": "y'all liars and fake: The Sequel",
+              "difficultyrating": "6.57476",
               "mode": "2",
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "14",
-          "playcount": "734"
+          "isOwnMapset": true
         },
         {
-          "beatmapset_id": "2475386",
-          "title": "Yuuaku no Inori - Anima immortalis est. -",
+          "beatmapset_id": "1794186",
+          "title": "The Return",
+          "artist": "Shadow Of Intent",
+          "creator": "Daletto",
+          "approved_date": "2022-10-30 21:05:28",
+          "difficulties": [
+            {
+              "beatmap_id": "3677168",
+              "version": "A living body so I can embrace and rejoice...",
+              "difficultyrating": "7.61903",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "3689949",
+              "version": "Daletto & Rustyy's Overdose",
+              "difficultyrating": "6.29461",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "3689950",
+              "version": "Daletto & Hex's Rain",
+              "difficultyrating": "4.65858",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1727167",
+          "title": "Immortal",
+          "artist": "Lorna Shore",
+          "creator": "Daletto",
+          "approved_date": "2022-05-09 06:46:46",
+          "difficulties": [
+            {
+              "beatmap_id": "3529698",
+              "version": "In death, was once beauty...",
+              "difficultyrating": "8.24231",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1699234",
+          "title": "Lovers in Abyss",
+          "artist": "Release Hallucination",
+          "creator": "Daletto",
+          "approved_date": "2022-04-17 17:25:01",
+          "difficulties": [
+            {
+              "beatmap_id": "3472020",
+              "version": "Daletto & Jemzuu's Illuminating Salvation",
+              "difficultyrating": "7.16348",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1637105",
+          "title": "To the Hellfire",
+          "artist": "Lorna Shore",
+          "creator": "Daletto",
+          "approved_date": "2022-02-16 21:44:44",
+          "difficulties": [
+            {
+              "beatmap_id": "3341088",
+              "version": "Daletto & Du5t's Final Breath",
+              "difficultyrating": "8.10948",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1572969",
+          "title": "Uta",
           "artist": "Imperial Circus Dead Decadence",
           "creator": "Daletto",
-          "approved_date": "2026-06-10 22:44:50",
+          "approved_date": "2022-02-12 03:06:44",
           "difficulties": [
             {
-              "beatmap_id": "5426262",
-              "version": "Fumetsu no Uta",
-              "difficultyrating": "7.77307",
+              "beatmap_id": "3211667",
+              "version": "Eucharist",
+              "difficultyrating": "7.28049",
               "mode": "2",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "5430156",
-              "version": "Daletto & Hex's Rain",
-              "difficultyrating": "4.17956",
+              "beatmap_id": "3211668",
+              "version": "Rain",
+              "difficultyrating": "4.63976",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "3376323",
+              "version": "Capu & Hivie's Inner Oni",
+              "difficultyrating": "6.67491",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1254985",
+          "title": "Take a Hint feat. Victoria Justice & Elizabeth Gillies (Sped Up & Cut Ver.)",
+          "artist": "Victorious Cast",
+          "creator": "Daletto",
+          "approved_date": "2021-11-23 23:22:53",
+          "difficulties": [
+            {
+              "beatmap_id": "2608197",
+              "version": "Cup",
+              "difficultyrating": "1.48142",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2608198",
+              "version": "Hey!",
+              "difficultyrating": "4.25395",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2608200",
+              "version": "Platter",
+              "difficultyrating": "2.81573",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2608201",
+              "version": "Rain",
+              "difficultyrating": "3.60831",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2608202",
+              "version": "Rew's Salad",
+              "difficultyrating": "2.04004",
               "mode": "2",
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "51",
-          "playcount": "2549"
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1471166",
+          "title": "The Heretic Prevails",
+          "artist": "Shadow Of Intent",
+          "creator": "Daletto",
+          "approved_date": "2021-08-30 09:01:43",
+          "difficulties": [
+            {
+              "beatmap_id": "3020275",
+              "version": "Daletto & Du5t's Overdose",
+              "difficultyrating": "5.91863",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "3020277",
+              "version": "I shall not bow to thee.",
+              "difficultyrating": "6.66729",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "3020305",
+              "version": "Daletto & Hex's Rain",
+              "difficultyrating": "4.4585",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1507375",
+          "title": "Scars in my Life",
+          "artist": "FATE GEAR",
+          "creator": "Daletto",
+          "approved_date": "2021-08-02 10:03:04",
+          "difficulties": [
+            {
+              "beatmap_id": "3087343",
+              "version": "Reminiscence",
+              "difficultyrating": "5.83579",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "3103383",
+              "version": "Kukkai's Rain",
+              "difficultyrating": "4.0251",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1292500",
+          "title": "wallah bruder (Gasi Remix)",
+          "artist": "Selphius",
+          "creator": "Daletto",
+          "approved_date": "2021-07-27 04:21:51",
+          "difficulties": [
+            {
+              "beatmap_id": "2682392",
+              "version": "cup",
+              "difficultyrating": "1.37305",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2682393",
+              "version": "wallah",
+              "difficultyrating": "3.24468",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "3115706",
+              "version": "zonda's salad",
+              "difficultyrating": "2.06389",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "3120683",
+              "version": "platter",
+              "difficultyrating": "2.7694",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1471275",
+          "title": "In Aeternum",
+          "artist": "Fleshgod Apocalypse",
+          "creator": "Daletto",
+          "approved_date": "2021-07-01 16:45:40",
+          "difficulties": [
+            {
+              "beatmap_id": "3020497",
+              "version": "Daletto & Du5t's Giudizio Divino",
+              "difficultyrating": "7.31344",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1416530",
+          "title": "Fusyoku ressentiment, fushiyoku no sarugakuza.",
+          "artist": "Imperial Circus Dead Decadence",
+          "creator": "Daletto",
+          "approved_date": "2021-05-29 05:24:50",
+          "difficulties": [
+            {
+              "beatmap_id": "2919116",
+              "version": "Rites of Termination",
+              "difficultyrating": "7.1608",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1293905",
+          "title": "Everything will freeze",
+          "artist": "UNDEAD CORPORATION",
+          "creator": "NyalettOwO x3",
+          "approved_date": "2021-04-09 00:44:00",
+          "difficulties": [
+            {
+              "beatmap_id": "2685020",
+              "version": "Jack the Ludo Bile",
+              "difficultyrating": "7.40246",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2685021",
+              "version": "Cup",
+              "difficultyrating": "1.51649",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2685022",
+              "version": "HexlettOwO's Platter",
+              "difficultyrating": "3.52238",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2685023",
+              "version": "Rain",
+              "difficultyrating": "4.37126",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2696377",
+              "version": "Rew's Salad",
+              "difficultyrating": "2.52181",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2705951",
+              "version": "Kukkai's Overdose",
+              "difficultyrating": "6.12114",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2829052",
+              "version": "Du5t's Deluge",
+              "difficultyrating": "6.70729",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1338117",
+          "title": "Ring of Fortune (TV Size)",
+          "artist": "Sasaki Eri",
+          "creator": "Daletto",
+          "approved_date": "2021-02-02 17:25:36",
+          "difficulties": [
+            {
+              "beatmap_id": "2771889",
+              "version": "Cup",
+              "difficultyrating": "1.4244",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2771890",
+              "version": "Painful Memories",
+              "difficultyrating": "3.72827",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2771891",
+              "version": "Platter",
+              "difficultyrating": "2.70951",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2788871",
+              "version": "Benita's Salad",
+              "difficultyrating": "2.01239",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1266865",
+          "title": "Kegare Naki Bara Juuji",
+          "artist": "Ariabl'eyeS",
+          "creator": "Daletto",
+          "approved_date": "2020-12-05 09:23:30",
+          "difficulties": [
+            {
+              "beatmap_id": "2632932",
+              "version": "Daletto & Spec's Penance",
+              "difficultyrating": "6.20749",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1179938",
+          "title": "Embraced by the Flame",
+          "artist": "UNDEAD CORPORATION",
+          "creator": "Daletto",
+          "approved_date": "2020-10-05 11:24:07",
+          "difficulties": [
+            {
+              "beatmap_id": "2460430",
+              "version": "Daletto & Du5t's Overdose",
+              "difficultyrating": "6.07371",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2460431",
+              "version": "Daletto & Du5t's Rekindling of Dead Ashes",
+              "difficultyrating": "7.12466",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2460432",
+              "version": "Hex's Platter",
+              "difficultyrating": "3.74327",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2460433",
+              "version": "Rain",
+              "difficultyrating": "4.67655",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1009241",
+          "title": "209 Bandouro (Hiru)",
+          "artist": "Satou Hitomi",
+          "creator": "Daletto",
+          "approved_date": "2020-08-18 12:21:54",
+          "difficulties": [
+            {
+              "beatmap_id": "2112795",
+              "version": "Rain",
+              "difficultyrating": "3.57937",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2115604",
+              "version": "Cup",
+              "difficultyrating": "1.63834",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2115605",
+              "version": "Rocma's Platter",
+              "difficultyrating": "2.95434",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2117375",
+              "version": "Sanyi's Salad",
+              "difficultyrating": "2.15576",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1018035",
+          "title": "Los! Los! Los!",
+          "artist": "Selphius",
+          "creator": "Daletto",
+          "approved_date": "2020-07-10 23:47:23",
+          "difficulties": [
+            {
+              "beatmap_id": "2130532",
+              "version": "Absolute Ausrottung!",
+              "difficultyrating": "6.90331",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2131166",
+              "version": "Crowley's Overdose",
+              "difficultyrating": "5.45939",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2135671",
+              "version": "Hex's Rain",
+              "difficultyrating": "4.31142",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2168588",
+              "version": "Sanyi's Deluge",
+              "difficultyrating": "5.89329",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2192439",
+              "version": "Nely's Platter",
+              "difficultyrating": "3.00682",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1148317",
+          "title": "Apparition",
+          "artist": "Spawn of Possession",
+          "creator": "Daletto",
+          "approved_date": "2020-07-08 07:23:34",
+          "difficulties": [
+            {
+              "beatmap_id": "2397535",
+              "version": "Free from sin you'll come with me...",
+              "difficultyrating": "7.54901",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1088438",
+          "title": "Jashin no Konrei, Gi wa Ai to Shiru.",
+          "artist": "Imperial Circus Dead Decadence",
+          "creator": "Daletto",
+          "approved_date": "2020-04-17 22:44:45",
+          "difficulties": [
+            {
+              "beatmap_id": "2275872",
+              "version": "Enkiri",
+              "difficultyrating": "6.74571",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1096713",
+          "title": "Chronostasis",
+          "artist": "Release Hallucination",
+          "creator": "Daletto",
+          "approved_date": "2020-03-15 03:22:01",
+          "difficulties": [
+            {
+              "beatmap_id": "2291740",
+              "version": "Crimson Chronology",
+              "difficultyrating": "5.91192",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "999578",
+          "title": "Trust in you (TV Size)",
+          "artist": "sweet ARMS",
+          "creator": "Daletto",
+          "approved_date": "2020-02-11 22:04:21",
+          "difficulties": [
+            {
+              "beatmap_id": "2090712",
+              "version": "Let's begin our date!",
+              "difficultyrating": "5.17664",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2092378",
+              "version": "Lumi's Platter",
+              "difficultyrating": "2.91666",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2097768",
+              "version": "Hex's Rain",
+              "difficultyrating": "4.16257",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2100819",
+              "version": "Jeir's Salad",
+              "difficultyrating": "2.43106",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2107891",
+              "version": "Absolute Zero's Cup",
+              "difficultyrating": "1.65318",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1091149",
+          "title": "Yume",
+          "artist": "UNDEAD CORPORATION",
+          "creator": "Daletto",
+          "approved_date": "2020-02-09 21:04:32",
+          "difficulties": [
+            {
+              "beatmap_id": "2281175",
+              "version": "Cup",
+              "difficultyrating": "0.987661",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2281176",
+              "version": "Salad",
+              "difficultyrating": "1.46175",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1088341",
+          "title": "dorime.",
+          "artist": "sigma",
+          "creator": "Daletto",
+          "approved_date": "2020-01-19 19:45:10",
+          "difficulties": [
+            {
+              "beatmap_id": "2275682",
+              "version": "daletto & nipah's cup.",
+              "difficultyrating": "0.940704",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2275683",
+              "version": "salad.",
+              "difficultyrating": "1.38809",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1023806",
+          "title": "Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo.",
+          "artist": "Imperial Circus Dead Decadence",
+          "creator": "Daletto",
+          "approved_date": "2020-01-02 22:21:55",
+          "difficulties": [
+            {
+              "beatmap_id": "2141652",
+              "version": "Hoshigata",
+              "difficultyrating": "7.15342",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "988577",
+          "title": "Futaba Town (Hiru)",
+          "artist": "Sato Hitomi",
+          "creator": "Daletto",
+          "approved_date": "2019-07-30 02:20:02",
+          "difficulties": [
+            {
+              "beatmap_id": "2067901",
+              "version": "Cup",
+              "difficultyrating": "1.30912",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2067916",
+              "version": "Salad",
+              "difficultyrating": "1.80692",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2068773",
+              "version": "wonjae's Platter",
+              "difficultyrating": "2.30636",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "968546",
+          "title": "Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo.",
+          "artist": "R3 Music Box",
+          "creator": "Daletto",
+          "approved_date": "2019-07-18 15:00:03",
+          "difficulties": [
+            {
+              "beatmap_id": "2026590",
+              "version": "Cup",
+              "difficultyrating": "1.24526",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2026591",
+              "version": "Hex's Salad",
+              "difficultyrating": "1.75903",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2026869",
+              "version": "Kyouaku",
+              "difficultyrating": "2.67821",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "828703",
+          "title": "(can you) understand me?",
+          "artist": "Komiya Mao",
+          "creator": "Daletto",
+          "approved_date": "2019-05-08 15:00:04",
+          "difficulties": [
+            {
+              "beatmap_id": "1736235",
+              "version": "Cup?",
+              "difficultyrating": "1.34622",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1736236",
+              "version": "MBomb's Rain?",
+              "difficultyrating": "4.41014",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1777430",
+              "version": "wonchicken's Salad?",
+              "difficultyrating": "2.15207",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1778185",
+              "version": "Jeirletto's Platter?",
+              "difficultyrating": "3.19451",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1794354",
+              "version": "IDu5t's Amnesia?",
+              "difficultyrating": "4.65094",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
@@ -7770,7 +7752,940 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 141
       },
-      "lastUpdated": "2026-07-04T18:42:14.356Z"
+      "lastUpdated": "2026-07-16T05:16:45.784Z"
+    },
+    {
+      "user_id": "73480",
+      "username": "Hanyuu",
+      "aliases": [],
+      "country": "AT",
+      "rankedBeatmaps": 17,
+      "rankedBeatmapsets": 4,
+      "ownBeatmapsets": 4,
+      "guestBeatmapsets": 0,
+      "totalGuestDiffs": 0,
+      "ownDifficulties": 17,
+      "beatmaps": [
+        {
+          "beatmapset_id": "65847",
+          "beatmap_id": "192492",
+          "approved": "1",
+          "total_length": "148",
+          "hit_length": "143",
+          "version": "7K HD",
+          "file_md5": "fea1e93539e0ee9b7ecceb002b06aa79",
+          "diff_size": "7",
+          "diff_overall": "7",
+          "diff_approach": "7",
+          "diff_drain": "7",
+          "mode": "3",
+          "count_normal": "886",
+          "count_slider": "62",
+          "count_spinner": "0",
+          "submit_date": "2012-11-17 20:50:04",
+          "approved_date": "2013-04-07 10:55:38",
+          "last_update": "2013-04-06 15:14:54",
+          "artist": "nayuta",
+          "artist_unicode": "nayuta",
+          "title": "Toki wo Kizamu Uta",
+          "title_unicode": "時を刻む唄",
+          "creator": "Hanyuu",
+          "creator_id": "73480",
+          "bpm": "139",
+          "source": "Clannad ~After Story~",
+          "tags": "",
+          "genre_id": "3",
+          "language_id": "3",
+          "favourite_count": "419",
+          "rating": "9.20147",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "66424",
+          "passcount": "32200",
+          "packs": "SM1",
+          "max_combo": "1651",
+          "diff_aim": null,
+          "diff_speed": null,
+          "difficultyrating": "3.05424"
+        },
+        {
+          "beatmapset_id": "65847",
+          "beatmap_id": "222257",
+          "approved": "1",
+          "total_length": "148",
+          "hit_length": "143",
+          "version": "4K HD",
+          "file_md5": "af7d1b2812f4c2e296045510d23bea2e",
+          "diff_size": "4",
+          "diff_overall": "8",
+          "diff_approach": "7",
+          "diff_drain": "7",
+          "mode": "3",
+          "count_normal": "598",
+          "count_slider": "20",
+          "count_spinner": "0",
+          "submit_date": "2012-11-17 20:50:04",
+          "approved_date": "2013-04-07 10:55:38",
+          "last_update": "2013-04-06 15:14:54",
+          "artist": "nayuta",
+          "artist_unicode": "nayuta",
+          "title": "Toki wo Kizamu Uta",
+          "title_unicode": "時を刻む唄",
+          "creator": "Hanyuu",
+          "creator_id": "73480",
+          "bpm": "139",
+          "source": "Clannad ~After Story~",
+          "tags": "",
+          "genre_id": "3",
+          "language_id": "3",
+          "favourite_count": "419",
+          "rating": "9.20147",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "178559",
+          "passcount": "77289",
+          "packs": "SM1",
+          "max_combo": "973",
+          "diff_aim": null,
+          "diff_speed": null,
+          "difficultyrating": "1.93722"
+        },
+        {
+          "beatmapset_id": "65847",
+          "beatmap_id": "222258",
+          "approved": "1",
+          "total_length": "148",
+          "hit_length": "143",
+          "version": "7K NM",
+          "file_md5": "cf4c4f8fdd1f64c182ed8d356a5d5ec1",
+          "diff_size": "7",
+          "diff_overall": "7",
+          "diff_approach": "7",
+          "diff_drain": "7",
+          "mode": "3",
+          "count_normal": "496",
+          "count_slider": "40",
+          "count_spinner": "0",
+          "submit_date": "2012-11-17 20:50:04",
+          "approved_date": "2013-04-07 10:55:38",
+          "last_update": "2013-04-06 15:14:54",
+          "artist": "nayuta",
+          "artist_unicode": "nayuta",
+          "title": "Toki wo Kizamu Uta",
+          "title_unicode": "時を刻む唄",
+          "creator": "Hanyuu",
+          "creator_id": "73480",
+          "bpm": "139",
+          "source": "Clannad ~After Story~",
+          "tags": "",
+          "genre_id": "3",
+          "language_id": "3",
+          "favourite_count": "419",
+          "rating": "9.20147",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "57028",
+          "passcount": "20464",
+          "packs": "SM1",
+          "max_combo": "948",
+          "diff_aim": null,
+          "diff_speed": null,
+          "difficultyrating": "1.8402"
+        },
+        {
+          "beatmapset_id": "65847",
+          "beatmap_id": "222330",
+          "approved": "1",
+          "total_length": "148",
+          "hit_length": "143",
+          "version": "4K MX",
+          "file_md5": "aadab38b81ba16e60860e6950a0d975a",
+          "diff_size": "4",
+          "diff_overall": "7",
+          "diff_approach": "7",
+          "diff_drain": "7",
+          "mode": "3",
+          "count_normal": "894",
+          "count_slider": "70",
+          "count_spinner": "0",
+          "submit_date": "2012-11-17 20:50:04",
+          "approved_date": "2013-04-07 10:55:38",
+          "last_update": "2013-04-06 15:14:54",
+          "artist": "nayuta",
+          "artist_unicode": "nayuta",
+          "title": "Toki wo Kizamu Uta",
+          "title_unicode": "時を刻む唄",
+          "creator": "Hanyuu",
+          "creator_id": "73480",
+          "bpm": "139",
+          "source": "Clannad ~After Story~",
+          "tags": "",
+          "genre_id": "3",
+          "language_id": "3",
+          "favourite_count": "419",
+          "rating": "9.20147",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "237682",
+          "passcount": "107972",
+          "packs": "SM1",
+          "max_combo": "2028",
+          "diff_aim": null,
+          "diff_speed": null,
+          "difficultyrating": "3.02513"
+        },
+        {
+          "beatmapset_id": "65847",
+          "beatmap_id": "222331",
+          "approved": "1",
+          "total_length": "148",
+          "hit_length": "143",
+          "version": "7K MX",
+          "file_md5": "2440e49ea778295ece061f4779cdc652",
+          "diff_size": "7",
+          "diff_overall": "7",
+          "diff_approach": "7",
+          "diff_drain": "7",
+          "mode": "3",
+          "count_normal": "1209",
+          "count_slider": "55",
+          "count_spinner": "0",
+          "submit_date": "2012-11-17 20:50:04",
+          "approved_date": "2013-04-07 10:55:38",
+          "last_update": "2013-04-06 15:14:54",
+          "artist": "nayuta",
+          "artist_unicode": "nayuta",
+          "title": "Toki wo Kizamu Uta",
+          "title_unicode": "時を刻む唄",
+          "creator": "Hanyuu",
+          "creator_id": "73480",
+          "bpm": "139",
+          "source": "Clannad ~After Story~",
+          "tags": "",
+          "genre_id": "3",
+          "language_id": "3",
+          "favourite_count": "419",
+          "rating": "9.20147",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "60652",
+          "passcount": "26883",
+          "packs": "SM1",
+          "max_combo": "2147",
+          "diff_aim": null,
+          "diff_speed": null,
+          "difficultyrating": "3.45395"
+        },
+        {
+          "beatmapset_id": "65847",
+          "beatmap_id": "225307",
+          "approved": "1",
+          "total_length": "148",
+          "hit_length": "140",
+          "version": "4K EZ",
+          "file_md5": "6e2063e5bedb63b29f2f44d80a3ae36b",
+          "diff_size": "4",
+          "diff_overall": "7",
+          "diff_approach": "7",
+          "diff_drain": "7",
+          "mode": "3",
+          "count_normal": "269",
+          "count_slider": "1",
+          "count_spinner": "0",
+          "submit_date": "2012-11-17 20:50:04",
+          "approved_date": "2013-04-07 10:55:38",
+          "last_update": "2013-04-06 15:14:54",
+          "artist": "nayuta",
+          "artist_unicode": "nayuta",
+          "title": "Toki wo Kizamu Uta",
+          "title_unicode": "時を刻む唄",
+          "creator": "Hanyuu",
+          "creator_id": "73480",
+          "bpm": "139",
+          "source": "Clannad ~After Story~",
+          "tags": "",
+          "genre_id": "3",
+          "language_id": "3",
+          "favourite_count": "419",
+          "rating": "9.20147",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "64750",
+          "passcount": "37639",
+          "packs": "SM1",
+          "max_combo": "304",
+          "diff_aim": null,
+          "diff_speed": null,
+          "difficultyrating": "1.20817"
+        },
+        {
+          "beatmapset_id": "65847",
+          "beatmap_id": "226023",
+          "approved": "1",
+          "total_length": "148",
+          "hit_length": "140",
+          "version": "4K NM",
+          "file_md5": "25c527905593eeb06b082483bad302d3",
+          "diff_size": "4",
+          "diff_overall": "7",
+          "diff_approach": "7",
+          "diff_drain": "7",
+          "mode": "3",
+          "count_normal": "245",
+          "count_slider": "3",
+          "count_spinner": "0",
+          "submit_date": "2012-11-17 20:50:04",
+          "approved_date": "2013-04-07 10:55:38",
+          "last_update": "2013-04-06 15:14:54",
+          "artist": "nayuta",
+          "artist_unicode": "nayuta",
+          "title": "Toki wo Kizamu Uta",
+          "title_unicode": "時を刻む唄",
+          "creator": "Hanyuu",
+          "creator_id": "73480",
+          "bpm": "139",
+          "source": "Clannad ~After Story~",
+          "tags": "",
+          "genre_id": "3",
+          "language_id": "3",
+          "favourite_count": "419",
+          "rating": "9.20147",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "95937",
+          "passcount": "47835",
+          "packs": "SM1",
+          "max_combo": "307",
+          "diff_aim": null,
+          "diff_speed": null,
+          "difficultyrating": "1.04547"
+        },
+        {
+          "beatmapset_id": "12116",
+          "beatmap_id": "45695",
+          "approved": "1",
+          "total_length": "123",
+          "hit_length": "118",
+          "version": "Hard",
+          "file_md5": "ad29d95c0186ba1db0b18bd4906a11ba",
+          "diff_size": "5",
+          "diff_overall": "8",
+          "diff_approach": "8",
+          "diff_drain": "7",
+          "mode": "0",
+          "count_normal": "405",
+          "count_slider": "95",
+          "count_spinner": "0",
+          "submit_date": "2010-01-11 02:41:16",
+          "approved_date": "2010-01-28 20:49:16",
+          "last_update": "2010-01-14 18:23:57",
+          "artist": "Smiley",
+          "artist_unicode": null,
+          "title": "Delirium",
+          "title_unicode": null,
+          "creator": "Hanyuu",
+          "creator_id": "73480",
+          "bpm": "163",
+          "source": "ITG, In the Groove",
+          "tags": "itg in the groove delirium smiley :)",
+          "genre_id": "2",
+          "language_id": "5",
+          "favourite_count": "32",
+          "rating": "8.83158",
+          "storyboard": "1",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "26653",
+          "passcount": "4391",
+          "packs": "S88",
+          "max_combo": "659",
+          "diff_aim": "2.12291",
+          "diff_speed": "2.2179",
+          "difficultyrating": "4.43403"
+        },
+        {
+          "beatmapset_id": "12116",
+          "beatmap_id": "45720",
+          "approved": "1",
+          "total_length": "123",
+          "hit_length": "103",
+          "version": "Normal",
+          "file_md5": "7a74d3c63971c30171009bc13ebc4326",
+          "diff_size": "4",
+          "diff_overall": "6",
+          "diff_approach": "6",
+          "diff_drain": "4",
+          "mode": "0",
+          "count_normal": "122",
+          "count_slider": "38",
+          "count_spinner": "2",
+          "submit_date": "2010-01-11 02:41:16",
+          "approved_date": "2010-01-28 20:49:16",
+          "last_update": "2010-01-14 18:23:57",
+          "artist": "Smiley",
+          "artist_unicode": null,
+          "title": "Delirium",
+          "title_unicode": null,
+          "creator": "Hanyuu",
+          "creator_id": "73480",
+          "bpm": "163",
+          "source": "ITG, In the Groove",
+          "tags": "itg in the groove delirium smiley :)",
+          "genre_id": "2",
+          "language_id": "5",
+          "favourite_count": "32",
+          "rating": "8.83158",
+          "storyboard": "1",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "10504",
+          "passcount": "4298",
+          "packs": "S88",
+          "max_combo": "267",
+          "diff_aim": "1.24079",
+          "diff_speed": "0.65928",
+          "difficultyrating": "2.11926"
+        },
+        {
+          "beatmapset_id": "7794",
+          "beatmap_id": "36344",
+          "approved": "1",
+          "total_length": "169",
+          "hit_length": "152",
+          "version": "ignore's Hard",
+          "file_md5": "201765cfc3619e72b0e9b3a83810bcb9",
+          "diff_size": "4",
+          "diff_overall": "7",
+          "diff_approach": "7",
+          "diff_drain": "2",
+          "mode": "0",
+          "count_normal": "289",
+          "count_slider": "172",
+          "count_spinner": "4",
+          "submit_date": "2009-06-30 16:19:33",
+          "approved_date": "2010-01-27 18:39:02",
+          "last_update": "2010-01-27 14:21:01",
+          "artist": "SHK",
+          "artist_unicode": null,
+          "title": "Death Moon II",
+          "title_unicode": null,
+          "creator": "Hanyuu",
+          "creator_id": "73480",
+          "bpm": "150",
+          "source": "o2jam",
+          "tags": "fartownik teara ignorethis",
+          "genre_id": "2",
+          "language_id": "5",
+          "favourite_count": "110",
+          "rating": "9.27315",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "88147",
+          "passcount": "29571",
+          "packs": "S88",
+          "max_combo": "774",
+          "diff_aim": "2.05422",
+          "diff_speed": "2.05889",
+          "difficultyrating": "4.22535"
+        },
+        {
+          "beatmapset_id": "7794",
+          "beatmap_id": "39930",
+          "approved": "1",
+          "total_length": "169",
+          "hit_length": "166",
+          "version": "Normal",
+          "file_md5": "71a9c0ebff066553e74a4b016492aa4d",
+          "diff_size": "4",
+          "diff_overall": "5",
+          "diff_approach": "5",
+          "diff_drain": "4",
+          "mode": "0",
+          "count_normal": "140",
+          "count_slider": "128",
+          "count_spinner": "4",
+          "submit_date": "2009-06-30 16:19:33",
+          "approved_date": "2010-01-27 18:39:02",
+          "last_update": "2010-01-27 14:21:01",
+          "artist": "SHK",
+          "artist_unicode": null,
+          "title": "Death Moon II",
+          "title_unicode": null,
+          "creator": "Hanyuu",
+          "creator_id": "73480",
+          "bpm": "150",
+          "source": "o2jam",
+          "tags": "fartownik teara ignorethis",
+          "genre_id": "2",
+          "language_id": "5",
+          "favourite_count": "110",
+          "rating": "9.27315",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "52679",
+          "passcount": "18931",
+          "packs": "S88",
+          "max_combo": "572",
+          "diff_aim": "1.47277",
+          "diff_speed": "0.900358",
+          "difficultyrating": "2.61694"
+        },
+        {
+          "beatmapset_id": "7794",
+          "beatmap_id": "41034",
+          "approved": "1",
+          "total_length": "169",
+          "hit_length": "153",
+          "version": "FARTOWNIK'S STAGE",
+          "file_md5": "777b47f9e38a9b3e536a8a8ef3f2d8ac",
+          "diff_size": "5",
+          "diff_overall": "8",
+          "diff_approach": "8",
+          "diff_drain": "4",
+          "mode": "0",
+          "count_normal": "525",
+          "count_slider": "134",
+          "count_spinner": "6",
+          "submit_date": "2009-06-30 16:19:33",
+          "approved_date": "2010-01-27 18:39:02",
+          "last_update": "2010-01-27 14:21:01",
+          "artist": "SHK",
+          "artist_unicode": null,
+          "title": "Death Moon II",
+          "title_unicode": null,
+          "creator": "Hanyuu",
+          "creator_id": "73480",
+          "bpm": "150",
+          "source": "o2jam",
+          "tags": "fartownik teara ignorethis",
+          "genre_id": "2",
+          "language_id": "5",
+          "favourite_count": "110",
+          "rating": "9.27315",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "132576",
+          "passcount": "23696",
+          "packs": "S88",
+          "max_combo": "858",
+          "diff_aim": "2.69367",
+          "diff_speed": "2.39318",
+          "difficultyrating": "5.29818"
+        },
+        {
+          "beatmapset_id": "7794",
+          "beatmap_id": "44604",
+          "approved": "1",
+          "total_length": "169",
+          "hit_length": "136",
+          "version": "Teara's Easy",
+          "file_md5": "acde9c634689b4b9f22236aabdc04ca0",
+          "diff_size": "3",
+          "diff_overall": "1",
+          "diff_approach": "1",
+          "diff_drain": "3",
+          "mode": "0",
+          "count_normal": "109",
+          "count_slider": "64",
+          "count_spinner": "1",
+          "submit_date": "2009-06-30 16:19:33",
+          "approved_date": "2010-01-27 18:39:02",
+          "last_update": "2010-01-27 14:21:01",
+          "artist": "SHK",
+          "artist_unicode": null,
+          "title": "Death Moon II",
+          "title_unicode": null,
+          "creator": "Hanyuu",
+          "creator_id": "73480",
+          "bpm": "150",
+          "source": "o2jam",
+          "tags": "fartownik teara ignorethis",
+          "genre_id": "2",
+          "language_id": "5",
+          "favourite_count": "110",
+          "rating": "9.27315",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "33666",
+          "passcount": "12030",
+          "packs": "S88",
+          "max_combo": "301",
+          "diff_aim": "0.836027",
+          "diff_speed": "0.603762",
+          "difficultyrating": "1.50969"
+        },
+        {
+          "beatmapset_id": "6581",
+          "beatmap_id": "29694",
+          "approved": "1",
+          "total_length": "166",
+          "hit_length": "142",
+          "version": "Hard",
+          "file_md5": "e5b487cffaecbc4b170cf6d5f54f9cab",
+          "diff_size": "5",
+          "diff_overall": "6",
+          "diff_approach": "6",
+          "diff_drain": "6",
+          "mode": "0",
+          "count_normal": "298",
+          "count_slider": "115",
+          "count_spinner": "5",
+          "submit_date": "2009-04-20 17:48:18",
+          "approved_date": "2009-07-04 19:46:22",
+          "last_update": "2009-06-25 20:10:52",
+          "artist": "Kagamine Rin",
+          "artist_unicode": null,
+          "title": "Hold Me Like A Princess",
+          "title_unicode": null,
+          "creator": "Hanyuu",
+          "creator_id": "73480",
+          "bpm": "171.25",
+          "source": "Vocaloid",
+          "tags": "ignorethis",
+          "genre_id": "5",
+          "language_id": "3",
+          "favourite_count": "65",
+          "rating": "8.76355",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "30050",
+          "passcount": "2620",
+          "packs": "S53",
+          "max_combo": "584",
+          "diff_aim": "2.09662",
+          "diff_speed": "1.73526",
+          "difficultyrating": "4.15377"
+        },
+        {
+          "beatmapset_id": "6581",
+          "beatmap_id": "30464",
+          "approved": "1",
+          "total_length": "90",
+          "hit_length": "70",
+          "version": "Normal",
+          "file_md5": "16d2571ae11237fcccf0ddc1849aaec2",
+          "diff_size": "3",
+          "diff_overall": "4",
+          "diff_approach": "4",
+          "diff_drain": "4",
+          "mode": "0",
+          "count_normal": "97",
+          "count_slider": "46",
+          "count_spinner": "2",
+          "submit_date": "2009-04-20 17:48:18",
+          "approved_date": "2009-07-04 19:46:22",
+          "last_update": "2009-06-25 20:10:52",
+          "artist": "Kagamine Rin",
+          "artist_unicode": null,
+          "title": "Hold Me Like A Princess",
+          "title_unicode": null,
+          "creator": "Hanyuu",
+          "creator_id": "73480",
+          "bpm": "171.25",
+          "source": "Vocaloid",
+          "tags": "ignorethis",
+          "genre_id": "5",
+          "language_id": "3",
+          "favourite_count": "65",
+          "rating": "8.76355",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "30649",
+          "passcount": "9119",
+          "packs": "S53",
+          "max_combo": "234",
+          "diff_aim": "1.46502",
+          "diff_speed": "1.08018",
+          "difficultyrating": "2.78125"
+        },
+        {
+          "beatmapset_id": "6581",
+          "beatmap_id": "30952",
+          "approved": "1",
+          "total_length": "90",
+          "hit_length": "68",
+          "version": "Easy",
+          "file_md5": "df0eecb95073dbf2894ead4d5882b2f6",
+          "diff_size": "3",
+          "diff_overall": "0",
+          "diff_approach": "0",
+          "diff_drain": "0",
+          "mode": "0",
+          "count_normal": "57",
+          "count_slider": "37",
+          "count_spinner": "1",
+          "submit_date": "2009-04-20 17:48:18",
+          "approved_date": "2009-07-04 19:46:22",
+          "last_update": "2009-06-25 20:10:52",
+          "artist": "Kagamine Rin",
+          "artist_unicode": null,
+          "title": "Hold Me Like A Princess",
+          "title_unicode": null,
+          "creator": "Hanyuu",
+          "creator_id": "73480",
+          "bpm": "171.25",
+          "source": "Vocaloid",
+          "tags": "ignorethis",
+          "genre_id": "5",
+          "language_id": "3",
+          "favourite_count": "65",
+          "rating": "8.76355",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "31897",
+          "passcount": "14939",
+          "packs": "S53",
+          "max_combo": "218",
+          "diff_aim": "1.21069",
+          "diff_speed": "0.693962",
+          "difficultyrating": "2.17078"
+        },
+        {
+          "beatmapset_id": "6581",
+          "beatmap_id": "31570",
+          "approved": "1",
+          "total_length": "166",
+          "hit_length": "141",
+          "version": "ignore's Insane",
+          "file_md5": "34747bc3ed83cbeeefb26cb0b1e6e338",
+          "diff_size": "5",
+          "diff_overall": "7",
+          "diff_approach": "7",
+          "diff_drain": "5",
+          "mode": "0",
+          "count_normal": "363",
+          "count_slider": "153",
+          "count_spinner": "3",
+          "submit_date": "2009-04-20 17:48:18",
+          "approved_date": "2009-07-04 19:46:22",
+          "last_update": "2009-06-25 20:10:52",
+          "artist": "Kagamine Rin",
+          "artist_unicode": null,
+          "title": "Hold Me Like A Princess",
+          "title_unicode": null,
+          "creator": "Hanyuu",
+          "creator_id": "73480",
+          "bpm": "171.25",
+          "source": "Vocaloid",
+          "tags": "ignorethis",
+          "genre_id": "5",
+          "language_id": "3",
+          "favourite_count": "65",
+          "rating": "8.76355",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "29748",
+          "passcount": "4212",
+          "packs": "S53",
+          "max_combo": "782",
+          "diff_aim": "2.25664",
+          "diff_speed": "2.00804",
+          "difficultyrating": "4.48737"
+        }
+      ],
+      "beatmapsets": [
+        {
+          "beatmapset_id": "6581",
+          "title": "Hold Me Like A Princess",
+          "artist": "Kagamine Rin",
+          "creator": "Hanyuu",
+          "approved_date": "2009-07-04 19:46:22",
+          "difficulties": [
+            {
+              "beatmap_id": "29694",
+              "version": "Hard",
+              "difficultyrating": "4.15377",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "30464",
+              "version": "Normal",
+              "difficultyrating": "2.78125",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "30952",
+              "version": "Easy",
+              "difficultyrating": "2.17078",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "31570",
+              "version": "ignore's Insane",
+              "difficultyrating": "4.48737",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "7794",
+          "title": "Death Moon II",
+          "artist": "SHK",
+          "creator": "Hanyuu",
+          "approved_date": "2010-01-27 18:39:02",
+          "difficulties": [
+            {
+              "beatmap_id": "36344",
+              "version": "ignore's Hard",
+              "difficultyrating": "4.22535",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "39930",
+              "version": "Normal",
+              "difficultyrating": "2.61694",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "41034",
+              "version": "FARTOWNIK'S STAGE",
+              "difficultyrating": "5.29818",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "44604",
+              "version": "Teara's Easy",
+              "difficultyrating": "1.50969",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "12116",
+          "title": "Delirium",
+          "artist": "Smiley",
+          "creator": "Hanyuu",
+          "approved_date": "2010-01-28 20:49:16",
+          "difficulties": [
+            {
+              "beatmap_id": "45695",
+              "version": "Hard",
+              "difficultyrating": "4.43403",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "45720",
+              "version": "Normal",
+              "difficultyrating": "2.11926",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "65847",
+          "title": "Toki wo Kizamu Uta",
+          "artist": "nayuta",
+          "creator": "Hanyuu",
+          "approved_date": "2013-04-07 10:55:38",
+          "difficulties": [
+            {
+              "beatmap_id": "192492",
+              "version": "7K HD",
+              "difficultyrating": "3.05424",
+              "mode": "3",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "222257",
+              "version": "4K HD",
+              "difficultyrating": "1.93722",
+              "mode": "3",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "222258",
+              "version": "7K NM",
+              "difficultyrating": "1.8402",
+              "mode": "3",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "222330",
+              "version": "4K MX",
+              "difficultyrating": "3.02513",
+              "mode": "3",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "222331",
+              "version": "7K MX",
+              "difficultyrating": "3.45395",
+              "mode": "3",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "225307",
+              "version": "4K EZ",
+              "difficultyrating": "1.20817",
+              "mode": "3",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "226023",
+              "version": "4K NM",
+              "difficultyrating": "1.04547",
+              "mode": "3",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        }
+      ],
+      "guestDifficulties": [],
+      "stats": {
+        "totalBeatmaps": 17,
+        "totalBeatmapsets": 4,
+        "ownBeatmapsets": 4,
+        "guestBeatmapsets": 0,
+        "totalGuestDiffs": 0,
+        "ownDifficulties": 17
+      },
+      "lastUpdated": "2026-07-16T05:16:45.784Z"
     }
   ]
 }
