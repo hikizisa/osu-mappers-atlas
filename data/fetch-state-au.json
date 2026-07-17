@@ -1,13 +1,79 @@
 {
-  "lastChecked": "2026-07-04T18:42:15.087Z",
+  "lastChecked": "2026-07-17T05:19:24.652Z",
   "mapperStates": {
+    "2": {
+      "lastBeatmapCheck": "2026-07-17T05:19:24.652Z"
+    },
+    "59": {
+      "lastBeatmapCheck": "2026-07-17T05:19:24.652Z"
+    },
+    "61": {
+      "lastBeatmapCheck": "2026-07-17T05:19:24.652Z"
+    },
+    "88": {
+      "lastBeatmapCheck": "2026-07-17T05:19:24.652Z"
+    },
+    "94": {
+      "lastBeatmapCheck": "2026-07-17T05:19:24.652Z"
+    },
+    "95": {
+      "lastBeatmapCheck": "2026-07-17T05:19:24.652Z"
+    },
+    "2560": {
+      "lastBeatmapCheck": "2026-07-17T05:19:24.652Z"
+    },
+    "2859": {
+      "lastBeatmapCheck": "2026-07-17T05:19:24.652Z"
+    },
+    "3288": {
+      "lastBeatmapCheck": "2026-07-17T05:19:24.652Z"
+    },
+    "7186": {
+      "lastBeatmapCheck": "2026-07-17T05:19:24.652Z"
+    },
+    "8358": {
+      "lastBeatmapCheck": "2026-07-17T05:19:24.652Z"
+    },
+    "8505": {
+      "lastBeatmapCheck": "2026-07-17T05:19:24.652Z"
+    },
+    "12437": {
+      "lastBeatmapCheck": "2026-07-17T05:19:24.652Z"
+    },
+    "25615": {
+      "lastBeatmapCheck": "2026-07-17T05:19:24.652Z"
+    },
+    "58197": {
+      "lastBeatmapCheck": "2026-07-17T05:19:24.652Z"
+    },
+    "63401": {
+      "lastBeatmapCheck": "2026-07-17T05:19:24.652Z"
+    },
+    "66125": {
+      "lastBeatmapCheck": "2026-07-17T05:19:24.652Z"
+    },
+    "66296": {
+      "lastBeatmapCheck": "2026-07-17T05:19:24.652Z"
+    },
+    "69114": {
+      "lastBeatmapCheck": "2026-07-17T05:19:24.652Z"
+    },
+    "102335": {
+      "lastBeatmapCheck": "2026-07-17T05:19:24.652Z"
+    },
+    "140188": {
+      "lastBeatmapCheck": "2026-07-17T05:19:24.652Z"
+    },
+    "145343": {
+      "lastBeatmapCheck": "2026-07-17T05:19:24.652Z"
+    },
     "10914582": {
-      "lastBeatmapCheck": "2026-07-04T18:42:15.087Z"
+      "lastBeatmapCheck": "2026-07-17T05:19:24.652Z"
     },
     "11787713": {
-      "lastBeatmapCheck": "2026-07-04T18:42:15.087Z"
+      "lastBeatmapCheck": "2026-07-17T05:19:24.652Z"
     }
   },
-  "totalBeatmaps": 160,
-  "lastFullScan": "2026-07-04T18:42:15.087Z"
+  "totalBeatmaps": 709,
+  "lastFullScan": "2026-07-17T05:19:24.652Z"
 }
