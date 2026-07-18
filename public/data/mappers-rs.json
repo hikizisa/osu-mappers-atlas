@@ -5,7 +5,7 @@
     "demonym": "Serbia",
     "nativeName": "Serbia"
   },
-  "lastUpdated": "2026-07-04T18:42:56.552Z",
+  "lastUpdated": "2026-07-18T04:54:04.546Z",
   "totalMappers": 1,
   "totalBeatmaps": 73,
   "totalBeatmapsets": 22,
@@ -3244,30 +3244,23 @@
       ],
       "beatmapsets": [
         {
-          "beatmapset_id": "872046",
-          "title": "Signal (TV Size)",
-          "artist": "TK from Ling tosite sigure",
+          "beatmapset_id": "2209089",
+          "title": "Rinka",
+          "artist": "THE ORAL CIGARETTES",
           "creator": "Fixxis",
-          "approved_date": "2019-03-17 14:40:06",
+          "approved_date": "2024-09-05 19:42:00",
           "difficulties": [
             {
-              "beatmap_id": "1822293",
-              "version": "Insane",
-              "difficultyrating": "4.4408",
+              "beatmap_id": "4678352",
+              "version": "Incandescent",
+              "difficultyrating": "5.44412",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "1911626",
-              "version": "Glaceon's Normal",
-              "difficultyrating": "2.2288",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1913299",
-              "version": "Agatsu's Hard",
-              "difficultyrating": "3.45699",
+              "beatmap_id": "4729680",
+              "version": "amity's Insane",
+              "difficultyrating": "4.79225",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -3275,351 +3268,257 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "928223",
-          "title": "Kiro -KaeriMichi-",
-          "artist": "Otokaze",
+          "beatmapset_id": "1770239",
+          "title": "Sassou to Hashiru Tonegawa-kun",
+          "artist": "Gesu no Kiwami Otome.",
           "creator": "Fixxis",
-          "approved_date": "2019-04-16 19:20:07",
+          "approved_date": "2024-08-21 16:22:59",
           "difficulties": [
             {
-              "beatmap_id": "1938836",
-              "version": "Hard",
-              "difficultyrating": "3.38084",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1938837",
-              "version": "Nostalgia",
-              "difficultyrating": "4.75217",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1944880",
-              "version": "Xenon's Normal",
-              "difficultyrating": "2.28314",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1971774",
-              "version": "Mk's Insane",
-              "difficultyrating": "4.16392",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "890413",
-          "title": "Jigoku Sensei",
-          "artist": "soutaiseiriron",
-          "creator": "Fixxis",
-          "approved_date": "2019-04-28 21:40:03",
-          "difficulties": [
-            {
-              "beatmap_id": "1861435",
-              "version": "Hard",
-              "difficultyrating": "3.40459",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1878383",
-              "version": "lewdski's Normal",
-              "difficultyrating": "2.20408",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1997180",
-              "version": "Loneliness",
-              "difficultyrating": "4.7265",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "850902",
-          "title": "PAPERMOON (TV Size)",
-          "artist": "Tommy heavenly6",
-          "creator": "Fixxis",
-          "approved_date": "2019-06-21 01:00:01",
-          "difficulties": [
-            {
-              "beatmap_id": "2044490",
-              "version": "Mathew's Hard",
-              "difficultyrating": "3.94713",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2044491",
+              "beatmap_id": "3628297",
               "version": "Normal",
-              "difficultyrating": "2.25613",
+              "difficultyrating": "2.60196",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "2044492",
-              "version": "Insane",
-              "difficultyrating": "5.0033",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1004116",
-          "title": "veil (TV Size)",
-          "artist": "Suda Keina",
-          "creator": "Fixxis",
-          "approved_date": "2019-08-08 04:00:02",
-          "difficulties": [
-            {
-              "beatmap_id": "2101557",
-              "version": "Sorrow",
-              "difficultyrating": "5.25173",
+              "beatmap_id": "3651436",
+              "version": "virt's Insane",
+              "difficultyrating": "4.92719",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "2102399",
-              "version": "hypercyte's Insane",
-              "difficultyrating": "4.4192",
+              "beatmap_id": "3659638",
+              "version": "Fsjallink's Hard",
+              "difficultyrating": "3.72751",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "2102445",
-              "version": "Senseabel's Insane",
-              "difficultyrating": "4.75005",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2103139",
-              "version": "tatemae's Insane",
-              "difficultyrating": "4.97877",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2104262",
-              "version": "Xenon's Normal",
-              "difficultyrating": "2.18689",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2108061",
-              "version": "Fixruto's Hard",
-              "difficultyrating": "3.28692",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "962616",
-          "title": "Life Goes On",
-          "artist": "2Pac",
-          "creator": "Fixxis",
-          "approved_date": "2019-08-13 23:00:02",
-          "difficulties": [
-            {
-              "beatmap_id": "2090093",
-              "version": "Goodbye",
-              "difficultyrating": "3.79318",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1020146",
-          "title": "Yume",
-          "artist": "UNDEAD CORPORATION",
-          "creator": "Fixxis",
-          "approved_date": "2019-08-22 19:20:02",
-          "difficulties": [
-            {
-              "beatmap_id": "2134593",
-              "version": "Deep Sleep",
-              "difficultyrating": "2.69347",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2134594",
-              "version": "Drowsy",
-              "difficultyrating": "1.51507",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1055103",
-          "title": "Stay With Me (TV Size)",
-          "artist": "Seven Billion Dots",
-          "creator": "Black Man",
-          "approved_date": "2019-12-07 01:44:16",
-          "difficulties": [
-            {
-              "beatmap_id": "2204639",
-              "version": "Extra",
-              "difficultyrating": "5.41386",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2206586",
-              "version": "Glaceon's Normal",
-              "difficultyrating": "2.29643",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2220850",
-              "version": "Agatsu's Insane",
-              "difficultyrating": "4.69876",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2220851",
-              "version": "Stack's Insane",
-              "difficultyrating": "4.17158",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2224119",
-              "version": "amity's Hard",
-              "difficultyrating": "3.27232",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1067064",
-          "title": "Blue Bird",
-          "artist": "Ikimonogakari",
-          "creator": "Black Man",
-          "approved_date": "2019-12-10 07:06:12",
-          "difficulties": [
-            {
-              "beatmap_id": "2234050",
-              "version": "Insane",
-              "difficultyrating": "4.92712",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2239636",
-              "version": "Xenon's Hard",
-              "difficultyrating": "3.65745",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1073128",
-          "title": "D-TecnoLife (TV Size)",
-          "artist": "UVERworld",
-          "creator": "Black Man",
-          "approved_date": "2020-01-15 03:24:03",
-          "difficulties": [
-            {
-              "beatmap_id": "2245905",
-              "version": "Agatsu's Light Insane",
-              "difficultyrating": "3.82277",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2245906",
-              "version": "diuS' Expert",
-              "difficultyrating": "5.15682",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2245907",
-              "version": "Insane",
-              "difficultyrating": "4.75861",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2245908",
-              "version": "Seto's Hard",
-              "difficultyrating": "3.38637",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2245909",
-              "version": "Shiinoha's Insane",
-              "difficultyrating": "4.61324",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2245910",
-              "version": "Xenon's Normal",
-              "difficultyrating": "2.3389",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1084284",
-          "title": "One Me Two Hearts",
-          "artist": "hitorie",
-          "creator": "Black Man",
-          "approved_date": "2020-02-22 07:27:18",
-          "difficulties": [
-            {
-              "beatmap_id": "2267539",
+              "beatmap_id": "4704550",
               "version": "Expert",
-              "difficultyrating": "5.75863",
+              "difficultyrating": "5.73853",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1674096",
+          "title": "Hadaka no Yuusha (TV Size)",
+          "artist": "Vaundy",
+          "creator": "Fixxis",
+          "approved_date": "2022-01-27 07:22:39",
+          "difficulties": [
+            {
+              "beatmap_id": "3419791",
+              "version": "amity's Hard",
+              "difficultyrating": "3.39857",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "2278355",
-              "version": "Xenon's Hard",
-              "difficultyrating": "3.7758",
+              "beatmap_id": "3419792",
+              "version": "Impure's Insane",
+              "difficultyrating": "4.74729",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "2278423",
-              "version": "Impwari's Insane",
-              "difficultyrating": "5.13064",
+              "beatmap_id": "3419793",
+              "version": "Little Guy",
+              "difficultyrating": "5.07129",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "2279326",
-              "version": "Agatsu's Normal",
-              "difficultyrating": "2.68719",
+              "beatmap_id": "3419794",
+              "version": "Revolver's Normal",
+              "difficultyrating": "2.20385",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1641919",
+          "title": "Hitori no Yoru (TV Size)",
+          "artist": "Porno Graffitti",
+          "creator": "Fixxis",
+          "approved_date": "2021-12-18 18:44:23",
+          "difficulties": [
+            {
+              "beatmap_id": "3351140",
+              "version": "amity's Insane",
+              "difficultyrating": "4.99678",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "3351141",
+              "version": "Bozo",
+              "difficultyrating": "5.20385",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "3351142",
+              "version": "Impure's Normal",
+              "difficultyrating": "2.32598",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "3351143",
+              "version": "Shiinoha's Hard",
+              "difficultyrating": "3.60663",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1508834",
+          "title": "Kokoro Ame",
+          "artist": "indigo la End",
+          "creator": "Fixxis",
+          "approved_date": "2021-07-21 22:26:19",
+          "difficulties": [
+            {
+              "beatmap_id": "3089939",
+              "version": "Insane",
+              "difficultyrating": "4.61037",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1023323",
+          "title": "you feat. Eminem",
+          "artist": "haru",
+          "creator": "Fixxis",
+          "approved_date": "2020-11-12 08:25:30",
+          "difficulties": [
+            {
+              "beatmap_id": "2140762",
+              "version": "Collab Insane",
+              "difficultyrating": "4.1537",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2144330",
+              "version": "Collab Hyper",
+              "difficultyrating": "3.44485",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1188206",
+          "title": "Shin Takarajima",
+          "artist": "sakanaction",
+          "creator": "Fixxis",
+          "approved_date": "2020-07-17 22:03:59",
+          "difficulties": [
+            {
+              "beatmap_id": "2476090",
+              "version": "Insane",
+              "difficultyrating": "4.63687",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1105170",
+          "title": "flow",
+          "artist": "School Food Punishment",
+          "creator": "Fixxis",
+          "approved_date": "2020-07-02 01:44:24",
+          "difficulties": [
+            {
+              "beatmap_id": "2345788",
+              "version": "Insane",
+              "difficultyrating": "5.07888",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2425231",
+              "version": "inundation",
+              "difficultyrating": "5.76834",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "996463",
+          "title": "Gangsta's Paradise (feat. L.V.)",
+          "artist": "Coolio",
+          "creator": "Fixxis",
+          "approved_date": "2020-06-28 18:23:08",
+          "difficulties": [
+            {
+              "beatmap_id": "2084350",
+              "version": "Insane",
+              "difficultyrating": "4.37436",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2084652",
+              "version": "Hard",
+              "difficultyrating": "3.18468",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1170997",
+          "title": "Obedient",
+          "artist": "bladee & ECCO2K",
+          "creator": "Fixxis",
+          "approved_date": "2020-06-25 02:23:59",
+          "difficulties": [
+            {
+              "beatmap_id": "2442744",
+              "version": "Pain",
+              "difficultyrating": "5.00604",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2452731",
+              "version": "Xenon's Normal",
+              "difficultyrating": "2.39479",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2460849",
+              "version": "frostwich's Hard",
+              "difficultyrating": "3.39698",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2466705",
+              "version": "VINXIS' Insane",
+              "difficultyrating": "4.15414",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -3693,257 +3592,37 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "1170997",
-          "title": "Obedient",
-          "artist": "bladee & ECCO2K",
-          "creator": "Fixxis",
-          "approved_date": "2020-06-25 02:23:59",
+          "beatmapset_id": "1084284",
+          "title": "One Me Two Hearts",
+          "artist": "hitorie",
+          "creator": "Black Man",
+          "approved_date": "2020-02-22 07:27:18",
           "difficulties": [
             {
-              "beatmap_id": "2442744",
-              "version": "Pain",
-              "difficultyrating": "5.00604",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2452731",
-              "version": "Xenon's Normal",
-              "difficultyrating": "2.39479",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2460849",
-              "version": "frostwich's Hard",
-              "difficultyrating": "3.39698",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2466705",
-              "version": "VINXIS' Insane",
-              "difficultyrating": "4.15414",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "996463",
-          "title": "Gangsta's Paradise (feat. L.V.)",
-          "artist": "Coolio",
-          "creator": "Fixxis",
-          "approved_date": "2020-06-28 18:23:08",
-          "difficulties": [
-            {
-              "beatmap_id": "2084350",
-              "version": "Insane",
-              "difficultyrating": "4.37436",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2084652",
-              "version": "Hard",
-              "difficultyrating": "3.18468",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1105170",
-          "title": "flow",
-          "artist": "School Food Punishment",
-          "creator": "Fixxis",
-          "approved_date": "2020-07-02 01:44:24",
-          "difficulties": [
-            {
-              "beatmap_id": "2345788",
-              "version": "Insane",
-              "difficultyrating": "5.07888",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2425231",
-              "version": "inundation",
-              "difficultyrating": "5.76834",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1188206",
-          "title": "Shin Takarajima",
-          "artist": "sakanaction",
-          "creator": "Fixxis",
-          "approved_date": "2020-07-17 22:03:59",
-          "difficulties": [
-            {
-              "beatmap_id": "2476090",
-              "version": "Insane",
-              "difficultyrating": "4.63687",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1023323",
-          "title": "you feat. Eminem",
-          "artist": "haru",
-          "creator": "Fixxis",
-          "approved_date": "2020-11-12 08:25:30",
-          "difficulties": [
-            {
-              "beatmap_id": "2140762",
-              "version": "Collab Insane",
-              "difficultyrating": "4.1537",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2144330",
-              "version": "Collab Hyper",
-              "difficultyrating": "3.44485",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1508834",
-          "title": "Kokoro Ame",
-          "artist": "indigo la End",
-          "creator": "Fixxis",
-          "approved_date": "2021-07-21 22:26:19",
-          "difficulties": [
-            {
-              "beatmap_id": "3089939",
-              "version": "Insane",
-              "difficultyrating": "4.61037",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1641919",
-          "title": "Hitori no Yoru (TV Size)",
-          "artist": "Porno Graffitti",
-          "creator": "Fixxis",
-          "approved_date": "2021-12-18 18:44:23",
-          "difficulties": [
-            {
-              "beatmap_id": "3351140",
-              "version": "amity's Insane",
-              "difficultyrating": "4.99678",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "3351141",
-              "version": "Bozo",
-              "difficultyrating": "5.20385",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "3351142",
-              "version": "Impure's Normal",
-              "difficultyrating": "2.32598",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "3351143",
-              "version": "Shiinoha's Hard",
-              "difficultyrating": "3.60663",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1674096",
-          "title": "Hadaka no Yuusha (TV Size)",
-          "artist": "Vaundy",
-          "creator": "Fixxis",
-          "approved_date": "2022-01-27 07:22:39",
-          "difficulties": [
-            {
-              "beatmap_id": "3419791",
-              "version": "amity's Hard",
-              "difficultyrating": "3.39857",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "3419792",
-              "version": "Impure's Insane",
-              "difficultyrating": "4.74729",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "3419793",
-              "version": "Little Guy",
-              "difficultyrating": "5.07129",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "3419794",
-              "version": "Revolver's Normal",
-              "difficultyrating": "2.20385",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1770239",
-          "title": "Sassou to Hashiru Tonegawa-kun",
-          "artist": "Gesu no Kiwami Otome.",
-          "creator": "Fixxis",
-          "approved_date": "2024-08-21 16:22:59",
-          "difficulties": [
-            {
-              "beatmap_id": "3628297",
-              "version": "Normal",
-              "difficultyrating": "2.60196",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "3651436",
-              "version": "virt's Insane",
-              "difficultyrating": "4.92719",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "3659638",
-              "version": "Fsjallink's Hard",
-              "difficultyrating": "3.72751",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "4704550",
+              "beatmap_id": "2267539",
               "version": "Expert",
-              "difficultyrating": "5.73853",
+              "difficultyrating": "5.75863",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2278355",
+              "version": "Xenon's Hard",
+              "difficultyrating": "3.7758",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2278423",
+              "version": "Impwari's Insane",
+              "difficultyrating": "5.13064",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2279326",
+              "version": "Agatsu's Normal",
+              "difficultyrating": "2.68719",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -3951,23 +3630,344 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "2209089",
-          "title": "Rinka",
-          "artist": "THE ORAL CIGARETTES",
-          "creator": "Fixxis",
-          "approved_date": "2024-09-05 19:42:00",
+          "beatmapset_id": "1073128",
+          "title": "D-TecnoLife (TV Size)",
+          "artist": "UVERworld",
+          "creator": "Black Man",
+          "approved_date": "2020-01-15 03:24:03",
           "difficulties": [
             {
-              "beatmap_id": "4678352",
-              "version": "Incandescent",
-              "difficultyrating": "5.44412",
+              "beatmap_id": "2245905",
+              "version": "Agatsu's Light Insane",
+              "difficultyrating": "3.82277",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "4729680",
-              "version": "amity's Insane",
-              "difficultyrating": "4.79225",
+              "beatmap_id": "2245906",
+              "version": "diuS' Expert",
+              "difficultyrating": "5.15682",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2245907",
+              "version": "Insane",
+              "difficultyrating": "4.75861",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2245908",
+              "version": "Seto's Hard",
+              "difficultyrating": "3.38637",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2245909",
+              "version": "Shiinoha's Insane",
+              "difficultyrating": "4.61324",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2245910",
+              "version": "Xenon's Normal",
+              "difficultyrating": "2.3389",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1067064",
+          "title": "Blue Bird",
+          "artist": "Ikimonogakari",
+          "creator": "Black Man",
+          "approved_date": "2019-12-10 07:06:12",
+          "difficulties": [
+            {
+              "beatmap_id": "2234050",
+              "version": "Insane",
+              "difficultyrating": "4.92712",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2239636",
+              "version": "Xenon's Hard",
+              "difficultyrating": "3.65745",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1055103",
+          "title": "Stay With Me (TV Size)",
+          "artist": "Seven Billion Dots",
+          "creator": "Black Man",
+          "approved_date": "2019-12-07 01:44:16",
+          "difficulties": [
+            {
+              "beatmap_id": "2204639",
+              "version": "Extra",
+              "difficultyrating": "5.41386",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2206586",
+              "version": "Glaceon's Normal",
+              "difficultyrating": "2.29643",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2220850",
+              "version": "Agatsu's Insane",
+              "difficultyrating": "4.69876",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2220851",
+              "version": "Stack's Insane",
+              "difficultyrating": "4.17158",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2224119",
+              "version": "amity's Hard",
+              "difficultyrating": "3.27232",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1020146",
+          "title": "Yume",
+          "artist": "UNDEAD CORPORATION",
+          "creator": "Fixxis",
+          "approved_date": "2019-08-22 19:20:02",
+          "difficulties": [
+            {
+              "beatmap_id": "2134593",
+              "version": "Deep Sleep",
+              "difficultyrating": "2.69347",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2134594",
+              "version": "Drowsy",
+              "difficultyrating": "1.51507",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "962616",
+          "title": "Life Goes On",
+          "artist": "2Pac",
+          "creator": "Fixxis",
+          "approved_date": "2019-08-13 23:00:02",
+          "difficulties": [
+            {
+              "beatmap_id": "2090093",
+              "version": "Goodbye",
+              "difficultyrating": "3.79318",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1004116",
+          "title": "veil (TV Size)",
+          "artist": "Suda Keina",
+          "creator": "Fixxis",
+          "approved_date": "2019-08-08 04:00:02",
+          "difficulties": [
+            {
+              "beatmap_id": "2101557",
+              "version": "Sorrow",
+              "difficultyrating": "5.25173",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2102399",
+              "version": "hypercyte's Insane",
+              "difficultyrating": "4.4192",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2102445",
+              "version": "Senseabel's Insane",
+              "difficultyrating": "4.75005",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2103139",
+              "version": "tatemae's Insane",
+              "difficultyrating": "4.97877",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2104262",
+              "version": "Xenon's Normal",
+              "difficultyrating": "2.18689",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2108061",
+              "version": "Fixruto's Hard",
+              "difficultyrating": "3.28692",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "850902",
+          "title": "PAPERMOON (TV Size)",
+          "artist": "Tommy heavenly6",
+          "creator": "Fixxis",
+          "approved_date": "2019-06-21 01:00:01",
+          "difficulties": [
+            {
+              "beatmap_id": "2044490",
+              "version": "Mathew's Hard",
+              "difficultyrating": "3.94713",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2044491",
+              "version": "Normal",
+              "difficultyrating": "2.25613",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2044492",
+              "version": "Insane",
+              "difficultyrating": "5.0033",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "890413",
+          "title": "Jigoku Sensei",
+          "artist": "soutaiseiriron",
+          "creator": "Fixxis",
+          "approved_date": "2019-04-28 21:40:03",
+          "difficulties": [
+            {
+              "beatmap_id": "1861435",
+              "version": "Hard",
+              "difficultyrating": "3.40459",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1878383",
+              "version": "lewdski's Normal",
+              "difficultyrating": "2.20408",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1997180",
+              "version": "Loneliness",
+              "difficultyrating": "4.7265",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "928223",
+          "title": "Kiro -KaeriMichi-",
+          "artist": "Otokaze",
+          "creator": "Fixxis",
+          "approved_date": "2019-04-16 19:20:07",
+          "difficulties": [
+            {
+              "beatmap_id": "1938836",
+              "version": "Hard",
+              "difficultyrating": "3.38084",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1938837",
+              "version": "Nostalgia",
+              "difficultyrating": "4.75217",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1944880",
+              "version": "Xenon's Normal",
+              "difficultyrating": "2.28314",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1971774",
+              "version": "Mk's Insane",
+              "difficultyrating": "4.16392",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "872046",
+          "title": "Signal (TV Size)",
+          "artist": "TK from Ling tosite sigure",
+          "creator": "Fixxis",
+          "approved_date": "2019-03-17 14:40:06",
+          "difficulties": [
+            {
+              "beatmap_id": "1822293",
+              "version": "Insane",
+              "difficultyrating": "4.4408",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1911626",
+              "version": "Glaceon's Normal",
+              "difficultyrating": "2.2288",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1913299",
+              "version": "Agatsu's Hard",
+              "difficultyrating": "3.45699",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -3984,7 +3984,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 73
       },
-      "lastUpdated": "2026-07-04T18:42:56.552Z"
+      "lastUpdated": "2026-07-18T04:54:04.546Z"
     }
   ]
 }

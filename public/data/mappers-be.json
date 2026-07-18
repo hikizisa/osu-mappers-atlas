@@ -5,7 +5,7 @@
     "demonym": "Belgium",
     "nativeName": "Belgium"
   },
-  "lastUpdated": "2026-07-07T06:15:56.657Z",
+  "lastUpdated": "2026-07-18T04:53:59.125Z",
   "totalMappers": 1,
   "totalBeatmaps": 8,
   "totalBeatmapsets": 3,
@@ -382,37 +382,16 @@
       ],
       "beatmapsets": [
         {
-          "beatmapset_id": "5442",
-          "title": "Ghost Gulping",
-          "artist": "Yuka Tujiyoko",
+          "beatmapset_id": "11250",
+          "title": "bag",
+          "artist": "RevenG",
           "creator": "Wojjan",
-          "approved_date": "2009-05-10 17:31:59",
+          "approved_date": "2025-07-30 01:33:48",
           "difficulties": [
             {
-              "beatmap_id": "26718",
-              "version": "Easy",
-              "difficultyrating": "2.07266",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "26719",
+              "beatmap_id": "43146",
               "version": "Hard",
-              "difficultyrating": "2.85674",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "26720",
-              "version": "Invincible",
-              "difficultyrating": "3.82586",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "26721",
-              "version": "Normal",
-              "difficultyrating": "1.88046",
+              "difficultyrating": "4.79266",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -451,23 +430,42 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "11250",
-          "title": "bag",
-          "artist": "RevenG",
+          "beatmapset_id": "5442",
+          "title": "Ghost Gulping",
+          "artist": "Yuka Tujiyoko",
           "creator": "Wojjan",
-          "approved_date": "2025-07-30 01:33:48",
+          "approved_date": "2009-05-10 17:31:59",
           "difficulties": [
             {
-              "beatmap_id": "43146",
+              "beatmap_id": "26718",
+              "version": "Easy",
+              "difficultyrating": "2.07266",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "26719",
               "version": "Hard",
-              "difficultyrating": "4.79266",
+              "difficultyrating": "2.85674",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "26720",
+              "version": "Invincible",
+              "difficultyrating": "3.82586",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "26721",
+              "version": "Normal",
+              "difficultyrating": "1.88046",
               "mode": "0",
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "54",
-          "playcount": "12934"
+          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
@@ -479,7 +477,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 8
       },
-      "lastUpdated": "2026-07-07T06:15:56.657Z"
+      "lastUpdated": "2026-07-18T04:53:59.125Z"
     }
   ]
 }
