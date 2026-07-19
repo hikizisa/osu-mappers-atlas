@@ -19183,7 +19183,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "27640",
+          "playcount": "27775",
           "passcount": "1831",
           "packs": "S1564",
           "max_combo": "2292",
@@ -19359,7 +19359,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "16264",
+          "playcount": "16291",
           "passcount": "1866",
           "packs": "S1564",
           "max_combo": "2080",
@@ -19447,7 +19447,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "12160",
+          "playcount": "12232",
           "passcount": "4094",
           "packs": "S1564",
           "max_combo": "1736",
@@ -22449,7 +22449,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "103",
+          "playcount": "68227"
         }
       ],
       "guestDifficulties": [],

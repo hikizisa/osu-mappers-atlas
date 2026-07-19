@@ -464,7 +464,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1684",
+          "playcount": "1711",
           "passcount": "240",
           "packs": "ST323",
           "max_combo": "3178",
@@ -508,7 +508,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "2512",
+          "playcount": "2521",
           "passcount": "337",
           "packs": "ST292",
           "max_combo": "1562",
@@ -552,7 +552,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1441",
+          "playcount": "1450",
           "passcount": "386",
           "packs": "ST292",
           "max_combo": "1095",
@@ -596,7 +596,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1342",
+          "playcount": "1369",
           "passcount": "339",
           "packs": "ST292",
           "max_combo": "827",
@@ -640,7 +640,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1099",
+          "playcount": "1108",
           "passcount": "196",
           "packs": "ST292",
           "max_combo": "587",
@@ -7145,7 +7145,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "36",
+          "playcount": "6448"
         },
         {
           "beatmapset_id": "2204283",
@@ -7162,7 +7164,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "22",
+          "playcount": "1711"
         },
         {
           "beatmapset_id": "2176545",
@@ -7395,13 +7399,13 @@
           "tags": "mwc 2025 world cup mwc2025 mwc7k2025 gf grandfinals tb tiebreaker featured artist fa mappers' guild mg mpg u1d ruka blocko _underjoy exneko ludicin critical_star km crewk thefunk binarie ricess zeth z419 sakura006 orchestral dubstep tearout hardcore neurofunk osu! original electronic instrumental",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "496",
+          "favourite_count": "495",
           "rating": "9.4507",
           "storyboard": "1",
           "video": "1",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "6733",
+          "playcount": "6895",
           "passcount": "2495",
           "packs": "P276,SM278,T133",
           "max_combo": "23250",
@@ -7445,7 +7449,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "3799",
+          "playcount": "4096",
           "passcount": "1289",
           "packs": "P272,SM276",
           "max_combo": "6497",
@@ -7489,7 +7493,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "8659",
+          "playcount": "8866",
           "passcount": "2620",
           "packs": "P275,SM273",
           "max_combo": "9750",
@@ -7533,7 +7537,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "15958",
+          "playcount": "16030",
           "passcount": "7773",
           "packs": "LR13,P89",
           "max_combo": "1574",
@@ -7577,7 +7581,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "2341",
+          "playcount": "2377",
           "passcount": "1159",
           "packs": "LR13,P89",
           "max_combo": "869",
@@ -7621,7 +7625,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "8560",
+          "playcount": "8605",
           "passcount": "3611",
           "packs": "LR13,P89",
           "max_combo": "1977",
@@ -7665,7 +7669,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "7624",
+          "playcount": "7678",
           "passcount": "1895",
           "packs": "LR13,P89",
           "max_combo": "2412",
@@ -7709,7 +7713,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "6886",
+          "playcount": "6976",
           "passcount": "3808",
           "packs": "LR13,P89",
           "max_combo": "967",
@@ -7753,7 +7757,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "5248",
+          "playcount": "5347",
           "passcount": "2705",
           "packs": "LR13,P89",
           "max_combo": "2060",
@@ -7797,7 +7801,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1936",
+          "playcount": "1963",
           "passcount": "754",
           "packs": "LR13,P89",
           "max_combo": "722",
@@ -7841,7 +7845,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "3151",
+          "playcount": "3205",
           "passcount": "1525",
           "packs": "LR13,P89",
           "max_combo": "2727",
@@ -7885,7 +7889,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1936",
+          "playcount": "1972",
           "passcount": "818",
           "packs": "LR13,P89",
           "max_combo": "3390",
@@ -7929,7 +7933,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "3376",
+          "playcount": "3448",
           "passcount": "1793",
           "packs": "LR13,P89",
           "max_combo": "1104",
@@ -8017,7 +8021,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "11989",
+          "playcount": "12115",
           "passcount": "3603",
           "packs": "LR13,P89",
           "max_combo": "1930",
@@ -11950,7 +11954,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "165",
+          "playcount": "70887"
         },
         {
           "beatmapset_id": "2321296",
@@ -11967,7 +11973,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "49",
+          "playcount": "8866"
         },
         {
           "beatmapset_id": "2310670",
@@ -11984,7 +11992,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "31",
+          "playcount": "4096"
         },
         {
           "beatmapset_id": "2325151",
@@ -12001,7 +12011,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "495",
+          "playcount": "6895"
         },
         {
           "beatmapset_id": "2501772",

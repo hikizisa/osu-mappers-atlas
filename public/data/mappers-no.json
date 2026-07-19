@@ -499,13 +499,13 @@
           "tags": "cametek instrumental hardcore dubstep zirnitra finale xronial xero xroniàl xéro かめるかめりあ japanese j-core piano kamelcamellia 大箭将也 masaya ooya oya pcca-04883 edp pony canyon inc electronic dance production scubdomino scub domino [keqing] anime girl anime_girl jungkyuyoung natsume shiki natsume_shiki 8972308 final iyouka jcore",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "32",
+          "favourite_count": "33",
           "rating": "8.1",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "2971",
+          "playcount": "3016",
           "passcount": "511",
           "packs": "SC113",
           "max_combo": "4732",
@@ -543,13 +543,13 @@
           "tags": "jbhyperion spectator stickypicky japanese rock metal j-rock j-metal jrock jmetal pax vesania",
           "genre_id": "4",
           "language_id": "3",
-          "favourite_count": "56",
+          "favourite_count": "57",
           "rating": "8.625",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "741",
+          "playcount": "743",
           "passcount": "98",
           "packs": "LR2",
           "max_combo": "1552",
@@ -587,13 +587,13 @@
           "tags": "jbhyperion spectator stickypicky japanese rock metal j-rock j-metal jrock jmetal pax vesania",
           "genre_id": "4",
           "language_id": "3",
-          "favourite_count": "56",
+          "favourite_count": "57",
           "rating": "8.625",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1576",
+          "playcount": "1594",
           "passcount": "239",
           "packs": "LR2",
           "max_combo": "1306",
@@ -631,13 +631,13 @@
           "tags": "jbhyperion spectator stickypicky japanese rock metal j-rock j-metal jrock jmetal pax vesania",
           "genre_id": "4",
           "language_id": "3",
-          "favourite_count": "56",
+          "favourite_count": "57",
           "rating": "8.625",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1081",
+          "playcount": "1099",
           "passcount": "136",
           "packs": "LR2",
           "max_combo": "1189",
@@ -675,13 +675,13 @@
           "tags": "jbhyperion spectator stickypicky japanese rock metal j-rock j-metal jrock jmetal pax vesania",
           "genre_id": "4",
           "language_id": "3",
-          "favourite_count": "56",
+          "favourite_count": "57",
           "rating": "8.625",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "2476",
+          "playcount": "2494",
           "passcount": "230",
           "packs": "LR2",
           "max_combo": "1270",
@@ -3954,7 +3954,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "57",
+          "playcount": "5930"
         },
         {
           "beatmapset_id": "2109495",
@@ -3971,7 +3973,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "33",
+          "playcount": "3016"
         },
         {
           "beatmapset_id": "627517",
@@ -8831,13 +8835,13 @@
           "tags": "bmd kazmasa k_a_z_m_a_s_a opening ブレンド・a blend a 桜ノ宮苺香 sakuranomiya maika 和氣あず未 waki azumi 日向夏帆 hinata kaho 鬼頭明里 kitou akari 星川麻冬 hoshikawa mafuyu 春野杏 haruno anzu full version happy hardcore stream marathon anicolloid bonus track electronic anime op japanese pop jpop j-pop",
           "genre_id": "3",
           "language_id": "3",
-          "favourite_count": "421",
+          "favourite_count": "427",
           "rating": "9.69565",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "173305",
+          "playcount": "175942",
           "passcount": "11811",
           "packs": "S1567",
           "max_combo": "3905",
@@ -8881,7 +8885,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "76780",
+          "playcount": "77662",
           "passcount": "8836",
           "packs": "LR4",
           "max_combo": "1544",
@@ -10382,7 +10386,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "375",
+          "playcount": "77662"
         },
         {
           "beatmapset_id": "862297",
@@ -10399,7 +10405,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "427",
+          "playcount": "175942"
         },
         {
           "beatmapset_id": "1065419",
