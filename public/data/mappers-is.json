@@ -5,7 +5,7 @@
     "demonym": "Iceland",
     "nativeName": "Iceland"
   },
-  "lastUpdated": "2026-07-05T06:13:44.844Z",
+  "lastUpdated": "2026-07-20T05:48:28.869Z",
   "totalMappers": 1,
   "totalBeatmaps": 88,
   "totalBeatmapsets": 19,
@@ -3902,196 +3902,44 @@
       ],
       "beatmapsets": [
         {
-          "beatmapset_id": "1141611",
-          "title": "Take You Down",
-          "artist": "Fox Stevenson",
-          "creator": "Rosiie",
-          "approved_date": "2020-04-26 13:42:25",
-          "difficulties": [
-            {
-              "beatmap_id": "2384417",
-              "version": "Futsuu",
-              "difficultyrating": "1.75272",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2386168",
-              "version": "Hivie's Muzukashii",
-              "difficultyrating": "2.619",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1118513",
-          "title": "M.A.D",
-          "artist": "MY FIRST STORY",
-          "creator": "Rosiie",
-          "approved_date": "2020-06-05 23:24:39",
-          "difficulties": [
-            {
-              "beatmap_id": "2336250",
-              "version": "Expert",
-              "difficultyrating": "5.05122",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2336252",
-              "version": "Reform's Fear",
-              "difficultyrating": "5.67129",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2336468",
-              "version": "Kowari's Extra",
-              "difficultyrating": "5.29835",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2341210",
-              "version": "Hard",
-              "difficultyrating": "3.50772",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2352034",
-              "version": "Basen's Normal",
-              "difficultyrating": "2.23432",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2362513",
-              "version": "A r M i N's Insane",
-              "difficultyrating": "4.88235",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1189295",
-          "title": "Airplanes (Feint Drum and Bass Remix)",
-          "artist": "Hayley Williams",
-          "creator": "Rosiie",
-          "approved_date": "2020-07-21 18:42:58",
-          "difficulties": [
-            {
-              "beatmap_id": "2478224",
-              "version": "Hard",
-              "difficultyrating": "3.39678",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2478225",
-              "version": "Insane",
-              "difficultyrating": "3.86931",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2478226",
-              "version": "Normal",
-              "difficultyrating": "2.38332",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2478227",
-              "version": "Nostalgia",
-              "difficultyrating": "4.42501",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1222043",
-          "title": "Sassou Toujou! Neko-san",
-          "artist": "Kuroha Neko (CV: Taneda Risa)",
-          "creator": "Rosiie",
-          "approved_date": "2020-08-12 19:24:53",
-          "difficulties": [
-            {
-              "beatmap_id": "2541868",
-              "version": "Hard",
-              "difficultyrating": "3.21838",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2541869",
-              "version": "Normal",
-              "difficultyrating": "2.27782",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2541870",
-              "version": "Nyaa",
-              "difficultyrating": "4.07658",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1216255",
-          "title": "Ao to Natsu",
+          "beatmapset_id": "1234909",
+          "title": "Ke-Mo Sah-Bee (Cut Ver.)",
           "artist": "Mrs. GREEN APPLE",
           "creator": "Rosiie",
-          "approved_date": "2020-08-30 16:04:03",
+          "approved_date": "2026-03-12 04:41:25",
           "difficulties": [
             {
-              "beatmap_id": "2530752",
-              "version": "Expert",
-              "difficultyrating": "5.15082",
+              "beatmap_id": "2567158",
+              "version": "Autumn",
+              "difficultyrating": "6.04642",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "2530754",
-              "version": "Reform's Insane",
-              "difficultyrating": "4.66074",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2530755",
-              "version": "Reform's Summer",
-              "difficultyrating": "5.84429",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2530756",
-              "version": "Stixy's Normal",
-              "difficultyrating": "2.39702",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2530860",
+              "beatmap_id": "2567750",
               "version": "Hard",
-              "difficultyrating": "3.53456",
+              "difficultyrating": "3.52479",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "2530955",
+              "beatmap_id": "2570555",
               "version": "Haruto's Extra",
-              "difficultyrating": "5.3486",
+              "difficultyrating": "5.51953",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2597881",
+              "version": "Basen's Normal",
+              "difficultyrating": "2.38209",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5365183",
+              "version": "Fuxi's Insane",
+              "difficultyrating": "4.60874",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -4099,37 +3947,51 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "1261801",
-          "title": "Aosugiru Sora (Cut Ver.)",
-          "artist": "the peggies",
+          "beatmapset_id": "2346838",
+          "title": "LOOP (feat. Lil Cherry)",
+          "artist": "Yves",
           "creator": "Rosiie",
-          "approved_date": "2020-10-08 03:21:28",
+          "approved_date": "2025-10-14 00:02:56",
           "difficulties": [
             {
-              "beatmap_id": "2622795",
-              "version": "Guan's Insane",
-              "difficultyrating": "4.66675",
+              "beatmap_id": "5046922",
+              "version": "Starlight",
+              "difficultyrating": "5.88081",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "2622796",
-              "version": "Hard",
-              "difficultyrating": "3.5533",
+              "beatmap_id": "5060066",
+              "version": "Lune's Easy",
+              "difficultyrating": "1.66531",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "2622797",
-              "version": "Blue Sky",
-              "difficultyrating": "5.26861",
+              "beatmap_id": "5110749",
+              "version": "Freezing's Normal",
+              "difficultyrating": "2.12826",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "2622798",
-              "version": "Wanpachi's Normal",
-              "difficultyrating": "2.39222",
+              "beatmap_id": "5169240",
+              "version": "Stixy's Hard",
+              "difficultyrating": "3.16489",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5184450",
+              "version": "chuuwon's insane (feat. Lil Irre)",
+              "difficultyrating": "4.00498",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5184451",
+              "version": "isle's Expert",
+              "difficultyrating": "5.24438",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -4137,51 +3999,355 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "1092466",
-          "title": "Kill This Love",
-          "artist": "BLACKPINK",
+          "beatmapset_id": "2292835",
+          "title": "See that?",
+          "artist": "NMIXX",
           "creator": "Rosiie",
-          "approved_date": "2020-11-15 10:45:32",
+          "approved_date": "2025-06-21 16:02:25",
           "difficulties": [
             {
-              "beatmap_id": "2620720",
-              "version": "Ram & Rosiie's Insane",
-              "difficultyrating": "4.84743",
+              "beatmap_id": "4895783",
+              "version": "Twinkle little, little star",
+              "difficultyrating": "5.45451",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "2686029",
-              "version": "Extra",
-              "difficultyrating": "5.68589",
+              "beatmap_id": "5000967",
+              "version": "Ghouru's Insane",
+              "difficultyrating": "4.68153",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "2686030",
+              "beatmap_id": "5007825",
+              "version": "Stixy's Normal",
+              "difficultyrating": "2.56",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5011747",
+              "version": "chuuwon's Hard",
+              "difficultyrating": "3.59188",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2277034",
+          "title": "Strawberry Rush",
+          "artist": "CHUU",
+          "creator": "Rosiie",
+          "approved_date": "2025-02-24 01:02:27",
+          "difficulties": [
+            {
+              "beatmap_id": "4852664",
+              "version": "Crushin' Ya!",
+              "difficultyrating": "5.30736",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "4853567",
+              "version": "nomi's Normal!",
+              "difficultyrating": "2.15924",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "4854386",
+              "version": "Ghouru's Hard!",
+              "difficultyrating": "3.41388",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "4945811",
+              "version": "Collab Insane!",
+              "difficultyrating": "4.63421",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2078226",
+          "title": "Round and Around",
+          "artist": "Jo Yuri",
+          "creator": "Rosiie",
+          "approved_date": "2024-06-15 23:05:15",
+          "difficulties": [
+            {
+              "beatmap_id": "4351584",
+              "version": "Dizzy",
+              "difficultyrating": "5.23778",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "4352421",
               "version": "Normal",
-              "difficultyrating": "2.1857",
+              "difficultyrating": "2.51158",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "2686031",
-              "version": "Reform's Extreme",
-              "difficultyrating": "6.04306",
+              "beatmap_id": "4365004",
+              "version": "Seolv's Insane",
+              "difficultyrating": "4.21691",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "2686032",
-              "version": "Stixy's Revolution",
-              "difficultyrating": "6.35226",
+              "beatmap_id": "4365048",
+              "version": "Hard",
+              "difficultyrating": "3.44904",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1631603",
+          "title": "Re Ai 105C De Ni",
+          "artist": "A Si",
+          "creator": "Rosiie",
+          "approved_date": "2021-12-09 15:05:00",
+          "difficulties": [
+            {
+              "beatmap_id": "3330566",
+              "version": "Mayu's Insane",
+              "difficultyrating": "4.14813",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "2686033",
-              "version": "Xenon's Hard",
-              "difficultyrating": "3.57056",
+              "beatmap_id": "3330567",
+              "version": "muya-'s Hard",
+              "difficultyrating": "3.1775",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "3330568",
+              "version": "Super Idol",
+              "difficultyrating": "4.81056",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "3341055",
+              "version": "Wanpachi's Normal",
+              "difficultyrating": "2.34794",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1485959",
+          "title": "Matasaburo",
+          "artist": "Yorushika",
+          "creator": "Rosiie",
+          "approved_date": "2021-06-29 01:22:54",
+          "difficulties": [
+            {
+              "beatmap_id": "3047000",
+              "version": "Mayu's Hard",
+              "difficultyrating": "3.61953",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "3047001",
+              "version": "Summer Wind",
+              "difficultyrating": "6.22288",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "3054992",
+              "version": "Mocaotic's Normal",
+              "difficultyrating": "2.66183",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "3058499",
+              "version": "Guanyui's Extra",
+              "difficultyrating": "5.74915",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "3060288",
+              "version": "Star's Insane",
+              "difficultyrating": "5.00848",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1463434",
+          "title": "give it back (TV Size)",
+          "artist": "Co shu Nie",
+          "creator": "Rosiie",
+          "approved_date": "2021-05-31 16:22:39",
+          "difficulties": [
+            {
+              "beatmap_id": "3006043",
+              "version": "alone",
+              "difficultyrating": "5.14969",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "3006044",
+              "version": "wanpachi's hard",
+              "difficultyrating": "3.52357",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "3006549",
+              "version": "xahlt's normal",
+              "difficultyrating": "2.37833",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "3010638",
+              "version": "guan's insane",
+              "difficultyrating": "4.64989",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1370775",
+          "title": "Tsumibito",
+          "artist": "LiSA",
+          "creator": "Rosiie",
+          "approved_date": "2021-04-27 20:26:54",
+          "difficulties": [
+            {
+              "beatmap_id": "2834295",
+              "version": "Desire",
+              "difficultyrating": "6.33092",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2841044",
+              "version": "Guan's Expert",
+              "difficultyrating": "5.71553",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2861767",
+              "version": "Star's Insane",
+              "difficultyrating": "5.14991",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2890961",
+              "version": "Gelidium's Extra",
+              "difficultyrating": "5.83043",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2941771",
+              "version": "Collab Hard",
+              "difficultyrating": "4.06004",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1330065",
+          "title": "mononoke in the fiction (TV Size)",
+          "artist": "Lie and a Chameleon",
+          "creator": "Rosiie",
+          "approved_date": "2021-04-25 23:44:02",
+          "difficulties": [
+            {
+              "beatmap_id": "2755775",
+              "version": "Collab Hard",
+              "difficultyrating": "3.32302",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2756132",
+              "version": "Stratos x Rosiie's Insane",
+              "difficultyrating": "4.98244",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2764404",
+              "version": "Wanpachi's Normal",
+              "difficultyrating": "2.37648",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2764448",
+              "version": "suyuko's Expert",
+              "difficultyrating": "5.87988",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2924687",
+              "version": "Void",
+              "difficultyrating": "6.39751",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1336282",
+          "title": "RIDE ON TIME (REDALiCE's CITY POP SHARK Remix)",
+          "artist": "Gawr Gura",
+          "creator": "Rosiie",
+          "approved_date": "2021-02-08 04:44:14",
+          "difficulties": [
+            {
+              "beatmap_id": "2768329",
+              "version": "Shark",
+              "difficultyrating": "4.26633",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2779075",
+              "version": "Hard",
+              "difficultyrating": "3.34957",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2784228",
+              "version": "Normal",
+              "difficultyrating": "1.85233",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -4255,30 +4421,51 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "1336282",
-          "title": "RIDE ON TIME (REDALiCE's CITY POP SHARK Remix)",
-          "artist": "Gawr Gura",
+          "beatmapset_id": "1092466",
+          "title": "Kill This Love",
+          "artist": "BLACKPINK",
           "creator": "Rosiie",
-          "approved_date": "2021-02-08 04:44:14",
+          "approved_date": "2020-11-15 10:45:32",
           "difficulties": [
             {
-              "beatmap_id": "2768329",
-              "version": "Shark",
-              "difficultyrating": "4.26633",
+              "beatmap_id": "2620720",
+              "version": "Ram & Rosiie's Insane",
+              "difficultyrating": "4.84743",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "2779075",
-              "version": "Hard",
-              "difficultyrating": "3.34957",
+              "beatmap_id": "2686029",
+              "version": "Extra",
+              "difficultyrating": "5.68589",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "2784228",
+              "beatmap_id": "2686030",
               "version": "Normal",
-              "difficultyrating": "1.85233",
+              "difficultyrating": "2.1857",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2686031",
+              "version": "Reform's Extreme",
+              "difficultyrating": "6.04306",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2686032",
+              "version": "Stixy's Revolution",
+              "difficultyrating": "6.35226",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2686033",
+              "version": "Xenon's Hard",
+              "difficultyrating": "3.57056",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -4286,248 +4473,37 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "1330065",
-          "title": "mononoke in the fiction (TV Size)",
-          "artist": "Lie and a Chameleon",
+          "beatmapset_id": "1261801",
+          "title": "Aosugiru Sora (Cut Ver.)",
+          "artist": "the peggies",
           "creator": "Rosiie",
-          "approved_date": "2021-04-25 23:44:02",
+          "approved_date": "2020-10-08 03:21:28",
           "difficulties": [
             {
-              "beatmap_id": "2755775",
-              "version": "Collab Hard",
-              "difficultyrating": "3.32302",
+              "beatmap_id": "2622795",
+              "version": "Guan's Insane",
+              "difficultyrating": "4.66675",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "2756132",
-              "version": "Stratos x Rosiie's Insane",
-              "difficultyrating": "4.98244",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2764404",
-              "version": "Wanpachi's Normal",
-              "difficultyrating": "2.37648",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2764448",
-              "version": "suyuko's Expert",
-              "difficultyrating": "5.87988",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2924687",
-              "version": "Void",
-              "difficultyrating": "6.39751",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1370775",
-          "title": "Tsumibito",
-          "artist": "LiSA",
-          "creator": "Rosiie",
-          "approved_date": "2021-04-27 20:26:54",
-          "difficulties": [
-            {
-              "beatmap_id": "2834295",
-              "version": "Desire",
-              "difficultyrating": "6.33092",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2841044",
-              "version": "Guan's Expert",
-              "difficultyrating": "5.71553",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2861767",
-              "version": "Star's Insane",
-              "difficultyrating": "5.14991",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2890961",
-              "version": "Gelidium's Extra",
-              "difficultyrating": "5.83043",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2941771",
-              "version": "Collab Hard",
-              "difficultyrating": "4.06004",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1463434",
-          "title": "give it back (TV Size)",
-          "artist": "Co shu Nie",
-          "creator": "Rosiie",
-          "approved_date": "2021-05-31 16:22:39",
-          "difficulties": [
-            {
-              "beatmap_id": "3006043",
-              "version": "alone",
-              "difficultyrating": "5.14969",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "3006044",
-              "version": "wanpachi's hard",
-              "difficultyrating": "3.52357",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "3006549",
-              "version": "xahlt's normal",
-              "difficultyrating": "2.37833",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "3010638",
-              "version": "guan's insane",
-              "difficultyrating": "4.64989",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1485959",
-          "title": "Matasaburo",
-          "artist": "Yorushika",
-          "creator": "Rosiie",
-          "approved_date": "2021-06-29 01:22:54",
-          "difficulties": [
-            {
-              "beatmap_id": "3047000",
-              "version": "Mayu's Hard",
-              "difficultyrating": "3.61953",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "3047001",
-              "version": "Summer Wind",
-              "difficultyrating": "6.22288",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "3054992",
-              "version": "Mocaotic's Normal",
-              "difficultyrating": "2.66183",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "3058499",
-              "version": "Guanyui's Extra",
-              "difficultyrating": "5.74915",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "3060288",
-              "version": "Star's Insane",
-              "difficultyrating": "5.00848",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1631603",
-          "title": "Re Ai 105C De Ni",
-          "artist": "A Si",
-          "creator": "Rosiie",
-          "approved_date": "2021-12-09 15:05:00",
-          "difficulties": [
-            {
-              "beatmap_id": "3330566",
-              "version": "Mayu's Insane",
-              "difficultyrating": "4.14813",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "3330567",
-              "version": "muya-'s Hard",
-              "difficultyrating": "3.1775",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "3330568",
-              "version": "Super Idol",
-              "difficultyrating": "4.81056",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "3341055",
-              "version": "Wanpachi's Normal",
-              "difficultyrating": "2.34794",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "2078226",
-          "title": "Round and Around",
-          "artist": "Jo Yuri",
-          "creator": "Rosiie",
-          "approved_date": "2024-06-15 23:05:15",
-          "difficulties": [
-            {
-              "beatmap_id": "4351584",
-              "version": "Dizzy",
-              "difficultyrating": "5.23778",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "4352421",
-              "version": "Normal",
-              "difficultyrating": "2.51158",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "4365004",
-              "version": "Seolv's Insane",
-              "difficultyrating": "4.21691",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "4365048",
+              "beatmap_id": "2622796",
               "version": "Hard",
-              "difficultyrating": "3.44904",
+              "difficultyrating": "3.5533",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2622797",
+              "version": "Blue Sky",
+              "difficultyrating": "5.26861",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2622798",
+              "version": "Wanpachi's Normal",
+              "difficultyrating": "2.39222",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -4535,185 +4511,201 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "2277034",
-          "title": "Strawberry Rush",
-          "artist": "CHUU",
-          "creator": "Rosiie",
-          "approved_date": "2025-02-24 01:02:27",
-          "difficulties": [
-            {
-              "beatmap_id": "4852664",
-              "version": "Crushin' Ya!",
-              "difficultyrating": "5.30736",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "4853567",
-              "version": "nomi's Normal!",
-              "difficultyrating": "2.15924",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "4854386",
-              "version": "Ghouru's Hard!",
-              "difficultyrating": "3.41388",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "4945811",
-              "version": "Collab Insane!",
-              "difficultyrating": "4.63421",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true,
-          "favourite_count": "179",
-          "playcount": "64732"
-        },
-        {
-          "beatmapset_id": "2292835",
-          "title": "See that?",
-          "artist": "NMIXX",
-          "creator": "Rosiie",
-          "approved_date": "2025-06-21 16:02:25",
-          "difficulties": [
-            {
-              "beatmap_id": "4895783",
-              "version": "Twinkle little, little star",
-              "difficultyrating": "5.45451",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5000967",
-              "version": "Ghouru's Insane",
-              "difficultyrating": "4.68153",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5007825",
-              "version": "Stixy's Normal",
-              "difficultyrating": "2.56",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5011747",
-              "version": "chuuwon's Hard",
-              "difficultyrating": "3.59188",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true,
-          "favourite_count": "111",
-          "playcount": "18445"
-        },
-        {
-          "beatmapset_id": "2346838",
-          "title": "LOOP (feat. Lil Cherry)",
-          "artist": "Yves",
-          "creator": "Rosiie",
-          "approved_date": "2025-10-14 00:02:56",
-          "difficulties": [
-            {
-              "beatmap_id": "5046922",
-              "version": "Starlight",
-              "difficultyrating": "5.88081",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5060066",
-              "version": "Lune's Easy",
-              "difficultyrating": "1.66531",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5110749",
-              "version": "Freezing's Normal",
-              "difficultyrating": "2.12826",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5169240",
-              "version": "Stixy's Hard",
-              "difficultyrating": "3.16489",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5184450",
-              "version": "chuuwon's insane (feat. Lil Irre)",
-              "difficultyrating": "4.00498",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5184451",
-              "version": "isle's Expert",
-              "difficultyrating": "5.24438",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true,
-          "favourite_count": "159",
-          "playcount": "30453"
-        },
-        {
-          "beatmapset_id": "1234909",
-          "title": "Ke-Mo Sah-Bee (Cut Ver.)",
+          "beatmapset_id": "1216255",
+          "title": "Ao to Natsu",
           "artist": "Mrs. GREEN APPLE",
           "creator": "Rosiie",
-          "approved_date": "2026-03-12 04:41:25",
+          "approved_date": "2020-08-30 16:04:03",
           "difficulties": [
             {
-              "beatmap_id": "2567158",
-              "version": "Autumn",
-              "difficultyrating": "6.04642",
+              "beatmap_id": "2530752",
+              "version": "Expert",
+              "difficultyrating": "5.15082",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "2567750",
+              "beatmap_id": "2530754",
+              "version": "Reform's Insane",
+              "difficultyrating": "4.66074",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2530755",
+              "version": "Reform's Summer",
+              "difficultyrating": "5.84429",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2530756",
+              "version": "Stixy's Normal",
+              "difficultyrating": "2.39702",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2530860",
               "version": "Hard",
-              "difficultyrating": "3.52479",
+              "difficultyrating": "3.53456",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "2570555",
+              "beatmap_id": "2530955",
               "version": "Haruto's Extra",
-              "difficultyrating": "5.51953",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2597881",
-              "version": "Basen's Normal",
-              "difficultyrating": "2.38209",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5365183",
-              "version": "Fuxi's Insane",
-              "difficultyrating": "4.60874",
+              "difficultyrating": "5.3486",
               "mode": "0",
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "47",
-          "playcount": "31226"
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1222043",
+          "title": "Sassou Toujou! Neko-san",
+          "artist": "Kuroha Neko (CV: Taneda Risa)",
+          "creator": "Rosiie",
+          "approved_date": "2020-08-12 19:24:53",
+          "difficulties": [
+            {
+              "beatmap_id": "2541868",
+              "version": "Hard",
+              "difficultyrating": "3.21838",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2541869",
+              "version": "Normal",
+              "difficultyrating": "2.27782",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2541870",
+              "version": "Nyaa",
+              "difficultyrating": "4.07658",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1189295",
+          "title": "Airplanes (Feint Drum and Bass Remix)",
+          "artist": "Hayley Williams",
+          "creator": "Rosiie",
+          "approved_date": "2020-07-21 18:42:58",
+          "difficulties": [
+            {
+              "beatmap_id": "2478224",
+              "version": "Hard",
+              "difficultyrating": "3.39678",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2478225",
+              "version": "Insane",
+              "difficultyrating": "3.86931",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2478226",
+              "version": "Normal",
+              "difficultyrating": "2.38332",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2478227",
+              "version": "Nostalgia",
+              "difficultyrating": "4.42501",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1118513",
+          "title": "M.A.D",
+          "artist": "MY FIRST STORY",
+          "creator": "Rosiie",
+          "approved_date": "2020-06-05 23:24:39",
+          "difficulties": [
+            {
+              "beatmap_id": "2336250",
+              "version": "Expert",
+              "difficultyrating": "5.05122",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2336252",
+              "version": "Reform's Fear",
+              "difficultyrating": "5.67129",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2336468",
+              "version": "Kowari's Extra",
+              "difficultyrating": "5.29835",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2341210",
+              "version": "Hard",
+              "difficultyrating": "3.50772",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2352034",
+              "version": "Basen's Normal",
+              "difficultyrating": "2.23432",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2362513",
+              "version": "A r M i N's Insane",
+              "difficultyrating": "4.88235",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1141611",
+          "title": "Take You Down",
+          "artist": "Fox Stevenson",
+          "creator": "Rosiie",
+          "approved_date": "2020-04-26 13:42:25",
+          "difficulties": [
+            {
+              "beatmap_id": "2384417",
+              "version": "Futsuu",
+              "difficultyrating": "1.75272",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2386168",
+              "version": "Hivie's Muzukashii",
+              "difficultyrating": "2.619",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
@@ -4725,7 +4717,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 88
       },
-      "lastUpdated": "2026-07-05T06:13:44.844Z"
+      "lastUpdated": "2026-07-20T05:48:28.869Z"
     }
   ]
 }
