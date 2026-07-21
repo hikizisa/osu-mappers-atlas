@@ -5,7 +5,7 @@
     "demonym": "Singapore",
     "nativeName": "Singapore"
   },
-  "lastUpdated": "2026-07-06T06:44:42.228Z",
+  "lastUpdated": "2026-07-21T05:27:01.377Z",
   "totalMappers": 5,
   "totalBeatmaps": 82,
   "totalBeatmapsets": 30,
@@ -13,7 +13,7 @@
   "totalGuestBeatmapsets": 0,
   "totalGuestDiffs": 0,
   "totalOwnDifficulties": 82,
-  "scanType": "incremental",
+  "scanType": "full",
   "mappers": [
     {
       "user_id": "69333",
@@ -1396,23 +1396,37 @@
       ],
       "beatmapsets": [
         {
-          "beatmapset_id": "5888",
-          "title": "Dragoon",
-          "artist": "Hatsune Miku",
-          "creator": "JInxyjem",
-          "approved_date": "2009-06-19 03:59:15",
+          "beatmapset_id": "78400",
+          "title": "Red Like Roses (feat. Casey Lee Williams)",
+          "artist": "Jeff Williams",
+          "creator": "Jinxy",
+          "approved_date": "2013-08-25 06:32:31",
           "difficulties": [
             {
-              "beatmap_id": "28414",
-              "version": "Blue Rain",
-              "difficultyrating": "2.82847",
+              "beatmap_id": "219393",
+              "version": "Red Rose",
+              "difficultyrating": "2.41282",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "28415",
-              "version": "Red Storm",
-              "difficultyrating": "3.2412",
+              "beatmap_id": "219394",
+              "version": "Crescent Rose",
+              "difficultyrating": "4.85715",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "221228",
+              "version": "Crimson Rose",
+              "difficultyrating": "3.20896",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "293224",
+              "version": "Redzero",
+              "difficultyrating": "5.38168",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -1420,123 +1434,75 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "6757",
-          "title": "Last Cross (TV size)",
-          "artist": "Masami Mitsuoka",
+          "beatmapset_id": "34169",
+          "title": "Temple Of Time",
+          "artist": "Wizet, Nexon",
           "creator": "JInxyjem",
-          "approved_date": "2009-07-13 00:25:32",
+          "approved_date": "2012-09-24 08:52:37",
           "difficulties": [
             {
-              "beatmap_id": "32106",
-              "version": "vs. Byakuran",
-              "difficultyrating": "3.14074",
+              "beatmap_id": "111202",
+              "version": "Memory - Remembrance",
+              "difficultyrating": "2.3661",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "32107",
-              "version": "vs. Genkishi",
-              "difficultyrating": "2.67831",
+              "beatmap_id": "111203",
+              "version": "Oblivion - Forgetfulness",
+              "difficultyrating": "1.77886",
               "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "111204",
+              "version": "Regret - Repentance",
+              "difficultyrating": "2.20596",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "161172",
+              "version": "Nyan's Taiko - Lyka",
+              "difficultyrating": "3.5022",
+              "mode": "1",
               "isGuestDiff": false
             }
           ],
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "7737",
-          "title": "Ge Zhong Qiang Shou",
-          "artist": "Show Luo",
+          "beatmapset_id": "22402",
+          "title": "EASY GO (TV Size)",
+          "artist": "Kazuki Katou",
           "creator": "JInxyjem",
-          "approved_date": "2009-08-01 16:07:20",
+          "approved_date": "2011-02-03 17:10:22",
           "difficulties": [
             {
-              "beatmap_id": "32746",
-              "version": "Hard",
-              "difficultyrating": "3.14428",
+              "beatmap_id": "77317",
+              "version": "X Stream",
+              "difficultyrating": "2.45574",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "32747",
-              "version": "Normal",
-              "difficultyrating": "2.22701",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "8838",
-          "title": "Drawing Days (TV Size)",
-          "artist": "SPLAY",
-          "creator": "JInxyjem",
-          "approved_date": "2009-12-11 05:47:37",
-          "difficulties": [
-            {
-              "beatmap_id": "35896",
-              "version": "Normal",
-              "difficultyrating": "2.48761",
+              "beatmap_id": "77371",
+              "version": "Zero Point",
+              "difficultyrating": "1.88056",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "36135",
-              "version": "Easy",
-              "difficultyrating": "1.88212",
+              "beatmap_id": "77558",
+              "version": "X Burner",
+              "difficultyrating": "3.67161",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "36749",
-              "version": "Azure's Drawing Days",
-              "difficultyrating": "4.34741",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "37204",
-              "version": "NachoPiggy's Days",
-              "difficultyrating": "3.55986",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "38643",
-              "version": "Wynd-y Days",
-              "difficultyrating": "4.13072",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "10003",
-          "title": "Funny Sunny Day (TV Size)",
-          "artist": "SxOxU",
-          "creator": "JInxyjem",
-          "approved_date": "2010-01-10 19:12:53",
-          "difficulties": [
-            {
-              "beatmap_id": "39520",
-              "version": "Easy",
-              "difficultyrating": "2.12988",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "45175",
-              "version": "Normal",
-              "difficultyrating": "2.55149",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "45176",
-              "version": "X BURNER",
-              "difficultyrating": "4.22485",
+              "beatmap_id": "78753",
+              "version": "niedz's Alternate Future",
+              "difficultyrating": "3.45972",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -1589,37 +1555,30 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "22402",
-          "title": "EASY GO (TV Size)",
-          "artist": "Kazuki Katou",
+          "beatmapset_id": "10003",
+          "title": "Funny Sunny Day (TV Size)",
+          "artist": "SxOxU",
           "creator": "JInxyjem",
-          "approved_date": "2011-02-03 17:10:22",
+          "approved_date": "2010-01-10 19:12:53",
           "difficulties": [
             {
-              "beatmap_id": "77317",
-              "version": "X Stream",
-              "difficultyrating": "2.45574",
+              "beatmap_id": "39520",
+              "version": "Easy",
+              "difficultyrating": "2.12988",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "77371",
-              "version": "Zero Point",
-              "difficultyrating": "1.88056",
+              "beatmap_id": "45175",
+              "version": "Normal",
+              "difficultyrating": "2.55149",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "77558",
-              "version": "X Burner",
-              "difficultyrating": "3.67161",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "78753",
-              "version": "niedz's Alternate Future",
-              "difficultyrating": "3.45972",
+              "beatmap_id": "45176",
+              "version": "X BURNER",
+              "difficultyrating": "4.22485",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -1627,75 +1586,116 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "34169",
-          "title": "Temple Of Time",
-          "artist": "Wizet, Nexon",
+          "beatmapset_id": "8838",
+          "title": "Drawing Days (TV Size)",
+          "artist": "SPLAY",
           "creator": "JInxyjem",
-          "approved_date": "2012-09-24 08:52:37",
+          "approved_date": "2009-12-11 05:47:37",
           "difficulties": [
             {
-              "beatmap_id": "111202",
-              "version": "Memory - Remembrance",
-              "difficultyrating": "2.3661",
+              "beatmap_id": "35896",
+              "version": "Normal",
+              "difficultyrating": "2.48761",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "111203",
-              "version": "Oblivion - Forgetfulness",
-              "difficultyrating": "1.77886",
+              "beatmap_id": "36135",
+              "version": "Easy",
+              "difficultyrating": "1.88212",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "111204",
-              "version": "Regret - Repentance",
-              "difficultyrating": "2.20596",
+              "beatmap_id": "36749",
+              "version": "Azure's Drawing Days",
+              "difficultyrating": "4.34741",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "161172",
-              "version": "Nyan's Taiko - Lyka",
-              "difficultyrating": "3.5022",
-              "mode": "1",
+              "beatmap_id": "37204",
+              "version": "NachoPiggy's Days",
+              "difficultyrating": "3.55986",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "38643",
+              "version": "Wynd-y Days",
+              "difficultyrating": "4.13072",
+              "mode": "0",
               "isGuestDiff": false
             }
           ],
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "78400",
-          "title": "Red Like Roses (feat. Casey Lee Williams)",
-          "artist": "Jeff Williams",
-          "creator": "Jinxy",
-          "approved_date": "2013-08-25 06:32:31",
+          "beatmapset_id": "7737",
+          "title": "Ge Zhong Qiang Shou",
+          "artist": "Show Luo",
+          "creator": "JInxyjem",
+          "approved_date": "2009-08-01 16:07:20",
           "difficulties": [
             {
-              "beatmap_id": "219393",
-              "version": "Red Rose",
-              "difficultyrating": "2.41282",
+              "beatmap_id": "32746",
+              "version": "Hard",
+              "difficultyrating": "3.14428",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "219394",
-              "version": "Crescent Rose",
-              "difficultyrating": "4.85715",
+              "beatmap_id": "32747",
+              "version": "Normal",
+              "difficultyrating": "2.22701",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "6757",
+          "title": "Last Cross (TV size)",
+          "artist": "Masami Mitsuoka",
+          "creator": "JInxyjem",
+          "approved_date": "2009-07-13 00:25:32",
+          "difficulties": [
+            {
+              "beatmap_id": "32106",
+              "version": "vs. Byakuran",
+              "difficultyrating": "3.14074",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "221228",
-              "version": "Crimson Rose",
-              "difficultyrating": "3.20896",
+              "beatmap_id": "32107",
+              "version": "vs. Genkishi",
+              "difficultyrating": "2.67831",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "5888",
+          "title": "Dragoon",
+          "artist": "Hatsune Miku",
+          "creator": "JInxyjem",
+          "approved_date": "2009-06-19 03:59:15",
+          "difficulties": [
+            {
+              "beatmap_id": "28414",
+              "version": "Blue Rain",
+              "difficultyrating": "2.82847",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "293224",
-              "version": "Redzero",
-              "difficultyrating": "5.38168",
+              "beatmap_id": "28415",
+              "version": "Red Storm",
+              "difficultyrating": "3.2412",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -1712,7 +1712,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 31
       },
-      "lastUpdated": "2026-07-06T06:44:42.228Z"
+      "lastUpdated": "2026-07-21T05:27:01.377Z"
     },
     {
       "user_id": "43345",
@@ -2785,147 +2785,61 @@
       ],
       "beatmapsets": [
         {
-          "beatmapset_id": "3463",
-          "title": "Ya! Party!",
-          "artist": "Forte Escape",
+          "beatmapset_id": "13197",
+          "title": "One Day (Funky Short Mix)",
+          "artist": "Adam Szabo",
           "creator": "Pasonia",
-          "approved_date": "2008-10-19 10:31:47",
+          "approved_date": "2010-06-06 17:34:10",
           "difficulties": [
             {
-              "beatmap_id": "21877",
-              "version": "Cashier...",
-              "difficultyrating": "2.38149",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "21878",
-              "version": "Waiter!!!",
-              "difficultyrating": "3.19461",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "3664",
-          "title": "Memory Of Beach",
-          "artist": "M2U",
-          "creator": "Pasonia",
-          "approved_date": "2008-11-19 15:14:09",
-          "difficulties": [
-            {
-              "beatmap_id": "22295",
-              "version": "Surfin' n' Splashin'",
-              "difficultyrating": "2.94674",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "22337",
-              "version": "Tsunami, tsunami <3",
-              "difficultyrating": "4.22475",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "4113",
-          "title": "Let's Go Baby",
-          "artist": "3rd Coast",
-          "creator": "Pasonia",
-          "approved_date": "2008-12-12 19:06:00",
-          "difficulties": [
-            {
-              "beatmap_id": "23352",
-              "version": "Normal",
-              "difficultyrating": "2.31763",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "23377",
-              "version": "Infatuation",
-              "difficultyrating": "3.62883",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "23404",
-              "version": "Easy",
-              "difficultyrating": "1.69998",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "23405",
+              "beatmap_id": "48956",
               "version": "Hard",
-              "difficultyrating": "2.95202",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "4297",
-          "title": "Bye Bye Love",
-          "artist": "3rd Coast",
-          "creator": "Pasonia",
-          "approved_date": "2009-01-11 16:08:32",
-          "difficulties": [
-            {
-              "beatmap_id": "23796",
-              "version": "BYE BYE HARD!",
-              "difficultyrating": "3.39299",
+              "difficultyrating": "3.42839",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "23797",
-              "version": "Bye Bye Normal",
-              "difficultyrating": "2.34509",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "23798",
-              "version": "BYE! BYE! INSANE!!!",
-              "difficultyrating": "3.75817",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "4039",
-          "title": "BlythE",
-          "artist": "M2U",
-          "creator": "Pasonia",
-          "approved_date": "2009-01-28 20:36:56",
-          "difficulties": [
-            {
-              "beatmap_id": "23195",
+              "beatmap_id": "48957",
               "version": "Normal",
-              "difficultyrating": "2.68951",
+              "difficultyrating": "2.57955",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "23262",
+              "beatmap_id": "49413",
+              "version": "Insane",
+              "difficultyrating": "4.64301",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "5321",
+          "title": "Drop The Bomb",
+          "artist": "Scotty D",
+          "creator": "Pasonia",
+          "approved_date": "2009-03-11 11:30:46",
+          "difficulties": [
+            {
+              "beatmap_id": "26381",
               "version": "Hard",
-              "difficultyrating": "4.28868",
+              "difficultyrating": "4.15359",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "23412",
-              "version": "m980's Alternate Hard",
-              "difficultyrating": "4.06802",
+              "beatmap_id": "26640",
+              "version": "Larto",
+              "difficultyrating": "4.03445",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "27122",
+              "version": "Normal",
+              "difficultyrating": "2.50519",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -2971,30 +2885,30 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "5321",
-          "title": "Drop The Bomb",
-          "artist": "Scotty D",
+          "beatmapset_id": "4039",
+          "title": "BlythE",
+          "artist": "M2U",
           "creator": "Pasonia",
-          "approved_date": "2009-03-11 11:30:46",
+          "approved_date": "2009-01-28 20:36:56",
           "difficulties": [
             {
-              "beatmap_id": "26381",
-              "version": "Hard",
-              "difficultyrating": "4.15359",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "26640",
-              "version": "Larto",
-              "difficultyrating": "4.03445",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "27122",
+              "beatmap_id": "23195",
               "version": "Normal",
-              "difficultyrating": "2.50519",
+              "difficultyrating": "2.68951",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "23262",
+              "version": "Hard",
+              "difficultyrating": "4.28868",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "23412",
+              "version": "m980's Alternate Hard",
+              "difficultyrating": "4.06802",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -3002,30 +2916,116 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "13197",
-          "title": "One Day (Funky Short Mix)",
-          "artist": "Adam Szabo",
+          "beatmapset_id": "4297",
+          "title": "Bye Bye Love",
+          "artist": "3rd Coast",
           "creator": "Pasonia",
-          "approved_date": "2010-06-06 17:34:10",
+          "approved_date": "2009-01-11 16:08:32",
           "difficulties": [
             {
-              "beatmap_id": "48956",
-              "version": "Hard",
-              "difficultyrating": "3.42839",
+              "beatmap_id": "23796",
+              "version": "BYE BYE HARD!",
+              "difficultyrating": "3.39299",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "48957",
+              "beatmap_id": "23797",
+              "version": "Bye Bye Normal",
+              "difficultyrating": "2.34509",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "23798",
+              "version": "BYE! BYE! INSANE!!!",
+              "difficultyrating": "3.75817",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "4113",
+          "title": "Let's Go Baby",
+          "artist": "3rd Coast",
+          "creator": "Pasonia",
+          "approved_date": "2008-12-12 19:06:00",
+          "difficulties": [
+            {
+              "beatmap_id": "23352",
               "version": "Normal",
-              "difficultyrating": "2.57955",
+              "difficultyrating": "2.31763",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "49413",
-              "version": "Insane",
-              "difficultyrating": "4.64301",
+              "beatmap_id": "23377",
+              "version": "Infatuation",
+              "difficultyrating": "3.62883",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "23404",
+              "version": "Easy",
+              "difficultyrating": "1.69998",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "23405",
+              "version": "Hard",
+              "difficultyrating": "2.95202",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "3664",
+          "title": "Memory Of Beach",
+          "artist": "M2U",
+          "creator": "Pasonia",
+          "approved_date": "2008-11-19 15:14:09",
+          "difficulties": [
+            {
+              "beatmap_id": "22295",
+              "version": "Surfin' n' Splashin'",
+              "difficultyrating": "2.94674",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "22337",
+              "version": "Tsunami, tsunami <3",
+              "difficultyrating": "4.22475",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "3463",
+          "title": "Ya! Party!",
+          "artist": "Forte Escape",
+          "creator": "Pasonia",
+          "approved_date": "2008-10-19 10:31:47",
+          "difficulties": [
+            {
+              "beatmap_id": "21877",
+              "version": "Cashier...",
+              "difficultyrating": "2.38149",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "21878",
+              "version": "Waiter!!!",
+              "difficultyrating": "3.19461",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -3042,7 +3042,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 24
       },
-      "lastUpdated": "2026-07-06T06:44:42.228Z"
+      "lastUpdated": "2026-07-21T05:27:01.377Z"
     },
     {
       "user_id": "7199159",
@@ -3939,102 +3939,23 @@
       ],
       "beatmapsets": [
         {
-          "beatmapset_id": "375607",
-          "title": "Toaru Shounen no Ichinichi",
-          "artist": "Cyoucyo-P",
+          "beatmapset_id": "2384874",
+          "title": "TIAN TIAN",
+          "artist": "Mili",
           "creator": "ByeForNow",
-          "approved_date": "2016-12-18 09:40:15",
+          "approved_date": "2026-03-02 18:25:03",
           "difficulties": [
             {
-              "beatmap_id": "822568",
-              "version": "NOVICE",
-              "difficultyrating": "1.88718",
-              "mode": "3",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "823358",
-              "version": "ADVANCED",
-              "difficultyrating": "2.5685",
-              "mode": "3",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "823729",
-              "version": "EXHAUST",
-              "difficultyrating": "3.47021",
-              "mode": "3",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "968400",
-              "version": "BASIC",
-              "difficultyrating": "1.19418",
-              "mode": "3",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "877895",
-          "title": "Altros",
-          "artist": "ARForest",
-          "creator": "ByeForNow",
-          "approved_date": "2020-01-17 00:03:57",
-          "difficulties": [
-            {
-              "beatmap_id": "2058534",
-              "version": "Another",
-              "difficultyrating": "3.68816",
-              "mode": "3",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2060686",
-              "version": "Hyper",
-              "difficultyrating": "2.6049",
-              "mode": "3",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2060687",
-              "version": "Normal",
-              "difficultyrating": "1.97251",
-              "mode": "3",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1744376",
-          "title": "THE MUZZLE FACING (Long muzzled version)",
-          "artist": "Camellia",
-          "creator": "ByeForNow",
-          "approved_date": "2023-02-26 18:04:22",
-          "difficulties": [
-            {
-              "beatmap_id": "3981363",
-              "version": "Spectre",
-              "difficultyrating": "4.67908",
-              "mode": "3",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1942597",
-          "title": "escape (the looking-glass, and what alice found there)",
-          "artist": "Kurokotei feat. Sennzai",
-          "creator": "ByeForNow",
-          "approved_date": "2023-09-08 08:41:48",
-          "difficulties": [
-            {
-              "beatmap_id": "4018338",
+              "beatmap_id": "5156942",
               "version": "Gospel",
-              "difficultyrating": "5.22829",
+              "difficultyrating": "2.96184",
+              "mode": "3",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5503366",
+              "version": "Hard",
+              "difficultyrating": "2.1818",
               "mode": "3",
               "isGuestDiff": false
             }
@@ -4042,30 +3963,23 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "1130778",
-          "title": "disco KAWAii",
-          "artist": "uno feat. Chiyoko (IOSYS)",
+          "beatmapset_id": "2474711",
+          "title": "Raised in a Field of Poppy",
+          "artist": "Captain Nikko",
           "creator": "ByeForNow",
-          "approved_date": "2023-10-22 14:42:44",
+          "approved_date": "2026-01-19 17:42:00",
           "difficulties": [
             {
-              "beatmap_id": "2362045",
-              "version": "EXHAUST",
-              "difficultyrating": "3.3099",
+              "beatmap_id": "5454048",
+              "version": "Spectre",
+              "difficultyrating": "2.76701",
               "mode": "3",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "3968476",
-              "version": "ADVANCED",
-              "difficultyrating": "2.64539",
-              "mode": "3",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "3968477",
-              "version": "NOVICE",
-              "difficultyrating": "1.33214",
+              "beatmap_id": "5464413",
+              "version": "Hard",
+              "difficultyrating": "2.03144",
               "mode": "3",
               "isGuestDiff": false
             }
@@ -4111,56 +4025,138 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "2474711",
-          "title": "Raised in a Field of Poppy",
-          "artist": "Captain Nikko",
+          "beatmapset_id": "1130778",
+          "title": "disco KAWAii",
+          "artist": "uno feat. Chiyoko (IOSYS)",
           "creator": "ByeForNow",
-          "approved_date": "2026-01-19 17:42:00",
+          "approved_date": "2023-10-22 14:42:44",
           "difficulties": [
             {
-              "beatmap_id": "5454048",
-              "version": "Spectre",
-              "difficultyrating": "2.76701",
+              "beatmap_id": "2362045",
+              "version": "EXHAUST",
+              "difficultyrating": "3.3099",
               "mode": "3",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "5464413",
-              "version": "Hard",
-              "difficultyrating": "2.03144",
+              "beatmap_id": "3968476",
+              "version": "ADVANCED",
+              "difficultyrating": "2.64539",
+              "mode": "3",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "3968477",
+              "version": "NOVICE",
+              "difficultyrating": "1.33214",
               "mode": "3",
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "27",
-          "playcount": "2900"
+          "isOwnMapset": true
         },
         {
-          "beatmapset_id": "2384874",
-          "title": "TIAN TIAN",
-          "artist": "Mili",
+          "beatmapset_id": "1942597",
+          "title": "escape (the looking-glass, and what alice found there)",
+          "artist": "Kurokotei feat. Sennzai",
           "creator": "ByeForNow",
-          "approved_date": "2026-03-02 18:25:03",
+          "approved_date": "2023-09-08 08:41:48",
           "difficulties": [
             {
-              "beatmap_id": "5156942",
+              "beatmap_id": "4018338",
               "version": "Gospel",
-              "difficultyrating": "2.96184",
-              "mode": "3",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5503366",
-              "version": "Hard",
-              "difficultyrating": "2.1818",
+              "difficultyrating": "5.22829",
               "mode": "3",
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "54",
-          "playcount": "562"
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1744376",
+          "title": "THE MUZZLE FACING (Long muzzled version)",
+          "artist": "Camellia",
+          "creator": "ByeForNow",
+          "approved_date": "2023-02-26 18:04:22",
+          "difficulties": [
+            {
+              "beatmap_id": "3981363",
+              "version": "Spectre",
+              "difficultyrating": "4.67908",
+              "mode": "3",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "877895",
+          "title": "Altros",
+          "artist": "ARForest",
+          "creator": "ByeForNow",
+          "approved_date": "2020-01-17 00:03:57",
+          "difficulties": [
+            {
+              "beatmap_id": "2058534",
+              "version": "Another",
+              "difficultyrating": "3.68816",
+              "mode": "3",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2060686",
+              "version": "Hyper",
+              "difficultyrating": "2.6049",
+              "mode": "3",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2060687",
+              "version": "Normal",
+              "difficultyrating": "1.97251",
+              "mode": "3",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "375607",
+          "title": "Toaru Shounen no Ichinichi",
+          "artist": "Cyoucyo-P",
+          "creator": "ByeForNow",
+          "approved_date": "2016-12-18 09:40:15",
+          "difficulties": [
+            {
+              "beatmap_id": "822568",
+              "version": "NOVICE",
+              "difficultyrating": "1.88718",
+              "mode": "3",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "823358",
+              "version": "ADVANCED",
+              "difficultyrating": "2.5685",
+              "mode": "3",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "823729",
+              "version": "EXHAUST",
+              "difficultyrating": "3.47021",
+              "mode": "3",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "968400",
+              "version": "BASIC",
+              "difficultyrating": "1.19418",
+              "mode": "3",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
@@ -4172,7 +4168,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 20
       },
-      "lastUpdated": "2026-07-04T18:42:59.156Z"
+      "lastUpdated": "2026-07-21T05:27:01.377Z"
     },
     {
       "user_id": "677",
@@ -4365,33 +4361,16 @@
       ],
       "beatmapsets": [
         {
-          "beatmapset_id": "16",
-          "title": "Love Fighter",
-          "artist": "Brandy",
-          "creator": "FFFanatic",
-          "approved_date": "2007-10-07 13:19:10",
-          "difficulties": [
-            {
-              "beatmap_id": "119",
-              "version": "Normal",
-              "difficultyrating": "3.46533",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "74",
-          "title": "Bride in Dream",
+          "beatmapset_id": "90",
+          "title": "Feel The O2Jam!",
           "artist": "Beautiful Day",
           "creator": "FFFanatic",
-          "approved_date": "2007-10-11 01:08:04",
+          "approved_date": "2007-10-16 23:10:28",
           "difficulties": [
             {
-              "beatmap_id": "171",
+              "beatmap_id": "203",
               "version": "Hard",
-              "difficultyrating": "3.03713",
+              "difficultyrating": "3.39438",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -4416,16 +4395,33 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "90",
-          "title": "Feel The O2Jam!",
+          "beatmapset_id": "74",
+          "title": "Bride in Dream",
           "artist": "Beautiful Day",
           "creator": "FFFanatic",
-          "approved_date": "2007-10-16 23:10:28",
+          "approved_date": "2007-10-11 01:08:04",
           "difficulties": [
             {
-              "beatmap_id": "203",
+              "beatmap_id": "171",
               "version": "Hard",
-              "difficultyrating": "3.39438",
+              "difficultyrating": "3.03713",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "16",
+          "title": "Love Fighter",
+          "artist": "Brandy",
+          "creator": "FFFanatic",
+          "approved_date": "2007-10-07 13:19:10",
+          "difficulties": [
+            {
+              "beatmap_id": "119",
+              "version": "Normal",
+              "difficultyrating": "3.46533",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -4442,7 +4438,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 4
       },
-      "lastUpdated": "2026-07-06T06:44:42.228Z"
+      "lastUpdated": "2026-07-21T05:27:01.377Z"
     },
     {
       "user_id": "12213",
@@ -4631,7 +4627,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-07-06T06:44:42.228Z"
+      "lastUpdated": "2026-07-21T05:27:01.377Z"
     }
   ]
 }
