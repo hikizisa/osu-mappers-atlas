@@ -5,7 +5,7 @@
     "demonym": "Türkiye",
     "nativeName": "Türkiye"
   },
-  "lastUpdated": "2026-07-04T18:43:02.748Z",
+  "lastUpdated": "2026-07-23T05:33:22.516Z",
   "totalMappers": 1,
   "totalBeatmaps": 65,
   "totalBeatmapsets": 31,
@@ -2890,16 +2890,191 @@
       ],
       "beatmapsets": [
         {
-          "beatmapset_id": "558955",
-          "title": "Operation Ground and Pound",
+          "beatmapset_id": "1756364",
+          "title": "Tendinitis",
+          "artist": "Jason Richardson & Luke Holland",
+          "creator": "frukoyurdakul",
+          "approved_date": "2023-12-16 22:04:57",
+          "difficulties": [
+            {
+              "beatmap_id": "3594255",
+              "version": "Rupture",
+              "difficultyrating": "6.99829",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1628329",
+          "title": "Solaris",
+          "artist": "Obscura",
+          "creator": "frukoyurdakul",
+          "approved_date": "2022-03-28 19:23:57",
+          "difficulties": [
+            {
+              "beatmap_id": "3324295",
+              "version": "Redeem",
+              "difficultyrating": "7.40024",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "3336648",
+              "version": "Inner Oni",
+              "difficultyrating": "5.86631",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "3366445",
+              "version": "Oni",
+              "difficultyrating": "5.59722",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "3366550",
+              "version": "Muzukashii",
+              "difficultyrating": "3.66445",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1518274",
+          "title": "In The Court Of The Dragon",
+          "artist": "Trivium",
+          "creator": "frukoyurdakul",
+          "approved_date": "2021-09-01 11:41:44",
+          "difficulties": [
+            {
+              "beatmap_id": "3107990",
+              "version": "In A Land Of Myth",
+              "difficultyrating": "6.58806",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1327059",
+          "title": "Shield Wall",
+          "artist": "Amon Amarth",
+          "creator": "frukoyurdakul",
+          "approved_date": "2021-01-10 19:02:47",
+          "difficulties": [
+            {
+              "beatmap_id": "2749321",
+              "version": "Berserker",
+              "difficultyrating": "5.39928",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2749979",
+              "version": "Oni",
+              "difficultyrating": "3.93138",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2750895",
+              "version": "Muzukashii",
+              "difficultyrating": "2.91412",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2751015",
+              "version": "Futsuu",
+              "difficultyrating": "1.89367",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1211080",
+          "title": "Death Is Real",
+          "artist": "Rivers of Nihil",
+          "creator": "frukoyurdakul",
+          "approved_date": "2020-08-15 11:43:51",
+          "difficulties": [
+            {
+              "beatmap_id": "2521125",
+              "version": "Fighting the Inevitable",
+              "difficultyrating": "7.62481",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1189876",
+          "title": "Stop Saying We Sound Like Dragonforce",
+          "artist": "FRASER EDWARDS",
+          "creator": "frukoyurdakul",
+          "approved_date": "2020-07-16 19:24:49",
+          "difficulties": [
+            {
+              "beatmap_id": "2479288",
+              "version": "Through the Soldier's Eternity",
+              "difficultyrating": "7.74173",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2480799",
+              "version": "Inner Oni",
+              "difficultyrating": "6.04872",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2480909",
+              "version": "Oni",
+              "difficultyrating": "5.25828",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1160390",
+          "title": "Hear Me",
+          "artist": "Devin Townsend",
+          "creator": "frukoyurdakul",
+          "approved_date": "2020-05-19 21:23:24",
+          "difficulties": [
+            {
+              "beatmap_id": "2421064",
+              "version": "Good Mourning",
+              "difficultyrating": "6.96829",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1022571",
+          "title": "Highway to Oblivion",
           "artist": "DragonForce",
           "creator": "frukoyurdakul",
-          "approved_date": "2017-06-22 22:40:05",
+          "approved_date": "2020-04-24 16:02:35",
           "difficulties": [
             {
-              "beatmap_id": "1182240",
+              "beatmap_id": "2139326",
               "version": "Tatsujin",
-              "difficultyrating": "6.80375",
+              "difficultyrating": "7.90257",
               "mode": "1",
               "isGuestDiff": false
             }
@@ -2907,16 +3082,16 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "630190",
-          "title": "Coming Home",
-          "artist": "Avenged Sevenfold",
+          "beatmapset_id": "1133393",
+          "title": "I Speak Astronomy",
+          "artist": "JINJER",
           "creator": "frukoyurdakul",
-          "approved_date": "2017-08-07 11:00:07",
+          "approved_date": "2020-04-11 16:43:31",
           "difficulties": [
             {
-              "beatmap_id": "1330403",
-              "version": "Return",
-              "difficultyrating": "5.78988",
+              "beatmap_id": "2367086",
+              "version": "Hypernova",
+              "difficultyrating": "6.6722",
               "mode": "1",
               "isGuestDiff": false
             }
@@ -2924,16 +3099,16 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "610152",
-          "title": "Acid Reign",
-          "artist": "Angel Vivaldi",
+          "beatmapset_id": "1042815",
+          "title": "The Sun, The Moon, The Star",
+          "artist": "Aether Realm",
           "creator": "frukoyurdakul",
-          "approved_date": "2017-08-27 15:00:12",
+          "approved_date": "2020-01-28 06:22:47",
           "difficulties": [
             {
-              "beatmap_id": "1288323",
-              "version": "Corroded",
-              "difficultyrating": "6.31181",
+              "beatmap_id": "2179670",
+              "version": "Echoes From The Past",
+              "difficultyrating": "7.44734",
               "mode": "1",
               "isGuestDiff": false
             }
@@ -2941,16 +3116,16 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "650927",
-          "title": "The World Is Yours",
-          "artist": "Arch Enemy",
+          "beatmapset_id": "1072484",
+          "title": "Skyless (feat. Jeff Loomis)",
+          "artist": "Andy Gillion",
           "creator": "frukoyurdakul",
-          "approved_date": "2017-09-20 05:20:02",
+          "approved_date": "2020-01-06 20:05:31",
           "difficulties": [
             {
-              "beatmap_id": "1379202",
-              "version": "Death",
-              "difficultyrating": "6.75149",
+              "beatmap_id": "2244710",
+              "version": "Mist",
+              "difficultyrating": "6.98591",
               "mode": "1",
               "isGuestDiff": false
             }
@@ -2958,243 +3133,157 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "617257",
-          "title": "A Voice in the Dark",
-          "artist": "Blind Guardian",
-          "creator": "frukoyurdakul",
-          "approved_date": "2017-10-02 02:40:02",
-          "difficulties": [
-            {
-              "beatmap_id": "1301568",
-              "version": "Hell Oni",
-              "difficultyrating": "6.46585",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "567468",
-          "title": "The Promethean Kings",
-          "artist": "Inferi",
-          "creator": "frukoyurdakul",
-          "approved_date": "2017-10-27 20:40:01",
-          "difficulties": [
-            {
-              "beatmap_id": "1202226",
-              "version": "Merciless Oni",
-              "difficultyrating": "7.76005",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "672972",
-          "title": "WAVE OF SYNERGY",
-          "artist": "Andy James & Angel Vivaldi",
-          "creator": "frukoyurdakul",
-          "approved_date": "2017-11-29 02:20:02",
-          "difficulties": [
-            {
-              "beatmap_id": "1423622",
-              "version": "SYNC",
-              "difficultyrating": "6.5496",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "690344",
-          "title": "Elemental Creation -GITADO ROCK ver.-",
-          "artist": "dj TAKA meets DJ YOSHITAKA ft.guit.good-cool",
-          "creator": "frukoyurdakul",
-          "approved_date": "2017-12-07 04:20:03",
-          "difficulties": [
-            {
-              "beatmap_id": "1461118",
-              "version": "Inner Oni",
-              "difficultyrating": "6.3646",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1461210",
-              "version": "Oni",
-              "difficultyrating": "4.92261",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1461228",
-              "version": "Muzukashii",
-              "difficultyrating": "3.71835",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1461269",
-              "version": "Futsuu",
-              "difficultyrating": "2.24798",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1474954",
-              "version": "_DUSK_'s Kantan",
-              "difficultyrating": "1.48548",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "697750",
-          "title": "Nightfall",
-          "artist": "Xandria",
-          "creator": "frukoyurdakul",
-          "approved_date": "2018-02-04 09:20:15",
-          "difficulties": [
-            {
-              "beatmap_id": "1477955",
-              "version": "Inner Oni",
-              "difficultyrating": "5.81099",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1478252",
-              "version": "Oni",
-              "difficultyrating": "4.38057",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1478279",
-              "version": "Muzukashii",
-              "difficultyrating": "3.39791",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1478309",
-              "version": "Futsuu",
-              "difficultyrating": "2.16274",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1478337",
-              "version": "Kantan",
-              "difficultyrating": "1.2569",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "685075",
-          "title": "Vicarious",
-          "artist": "Tool",
-          "creator": "frukoyurdakul",
-          "approved_date": "2018-03-04 09:21:15",
-          "difficulties": [
-            {
-              "beatmap_id": "1449764",
-              "version": "Tragedy",
-              "difficultyrating": "5.05701",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "744596",
-          "title": "Cleanse The Bloodlines",
-          "artist": "Unleash The Archers",
-          "creator": "frukoyurdakul",
-          "approved_date": "2018-03-24 21:20:02",
-          "difficulties": [
-            {
-              "beatmap_id": "1569911",
-              "version": "Elixir of Life",
-              "difficultyrating": "5.68177",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "713086",
-          "title": "Strike!",
-          "artist": "Whispered",
-          "creator": "frukoyurdakul",
-          "approved_date": "2018-04-13 08:20:11",
-          "difficulties": [
-            {
-              "beatmap_id": "1507092",
-              "version": "K.O.",
-              "difficultyrating": "6.75175",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1508457",
-              "version": "20x",
-              "difficultyrating": "5.27727",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1508509",
-              "version": "15x",
-              "difficultyrating": "4.09185",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1508589",
-              "version": "10x",
-              "difficultyrating": "2.80779",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1508674",
-              "version": "5x",
-              "difficultyrating": "1.74082",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1509250",
-              "version": "1x",
-              "difficultyrating": "1.24783",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "723091",
-          "title": "The macrocosm",
+          "beatmapset_id": "1034088",
+          "title": "The Husk",
           "artist": "Rings of Saturn",
           "creator": "frukoyurdakul",
-          "approved_date": "2018-05-09 11:00:03",
+          "approved_date": "2019-10-25 09:26:53",
           "difficulties": [
             {
-              "beatmap_id": "1526399",
-              "version": "Cosmos",
-              "difficultyrating": "6.1392",
+              "beatmap_id": "2162102",
+              "version": "Merciless Oni",
+              "difficultyrating": "7.96263",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "927043",
+          "title": "My Own Grave",
+          "artist": "As I Lay Dying",
+          "creator": "frukoyurdakul",
+          "approved_date": "2019-09-25 15:44:04",
+          "difficulties": [
+            {
+              "beatmap_id": "1936245",
+              "version": "Aftermath",
+              "difficultyrating": "6.6303",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1936716",
+              "version": "Oni",
+              "difficultyrating": "4.95077",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1937800",
+              "version": "Muzukashii",
+              "difficultyrating": "3.33387",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "959186",
+          "title": "Ben Her Gun Artik Sen",
+          "artist": "Murder King",
+          "creator": "frukoyurdakul",
+          "approved_date": "2019-05-19 12:40:02",
+          "difficulties": [
+            {
+              "beatmap_id": "2008180",
+              "version": "Suistimal",
+              "difficultyrating": "5.90462",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2016545",
+              "version": "zigizigiefe's Oni",
+              "difficultyrating": "4.45923",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2017273",
+              "version": "Muzukashii",
+              "difficultyrating": "3.60633",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "912443",
+          "title": "Voyage Of The Fallen",
+          "artist": "Xandria",
+          "creator": "frukoyurdakul",
+          "approved_date": "2019-02-04 20:20:03",
+          "difficulties": [
+            {
+              "beatmap_id": "1906079",
+              "version": "Inner Oni",
+              "difficultyrating": "5.74216",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1907856",
+              "version": "Oni",
+              "difficultyrating": "4.65742",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "678365",
+          "title": "Laid to Rest",
+          "artist": "Lamb of God",
+          "creator": "frukoyurdakul",
+          "approved_date": "2018-10-30 22:20:02",
+          "difficulties": [
+            {
+              "beatmap_id": "1434384",
+              "version": "Inner Oni",
+              "difficultyrating": "5.61208",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1434593",
+              "version": "Muzukashii",
+              "difficultyrating": "3.42329",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1448878",
+              "version": "zigizigiefe's Oni",
+              "difficultyrating": "4.77654",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "824119",
+          "title": "A Mercurian Summer",
+          "artist": "Angel Vivaldi",
+          "creator": "frukoyurdakul",
+          "approved_date": "2018-09-10 08:40:02",
+          "difficulties": [
+            {
+              "beatmap_id": "1726850",
+              "version": "Hot",
+              "difficultyrating": "6.59025",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1735290",
+              "version": "Warm",
+              "difficultyrating": "3.83749",
               "mode": "1",
               "isGuestDiff": false
             }
@@ -3254,157 +3343,226 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "824119",
-          "title": "A Mercurian Summer",
-          "artist": "Angel Vivaldi",
-          "creator": "frukoyurdakul",
-          "approved_date": "2018-09-10 08:40:02",
-          "difficulties": [
-            {
-              "beatmap_id": "1726850",
-              "version": "Hot",
-              "difficultyrating": "6.59025",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1735290",
-              "version": "Warm",
-              "difficultyrating": "3.83749",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "678365",
-          "title": "Laid to Rest",
-          "artist": "Lamb of God",
-          "creator": "frukoyurdakul",
-          "approved_date": "2018-10-30 22:20:02",
-          "difficulties": [
-            {
-              "beatmap_id": "1434384",
-              "version": "Inner Oni",
-              "difficultyrating": "5.61208",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1434593",
-              "version": "Muzukashii",
-              "difficultyrating": "3.42329",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1448878",
-              "version": "zigizigiefe's Oni",
-              "difficultyrating": "4.77654",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "912443",
-          "title": "Voyage Of The Fallen",
-          "artist": "Xandria",
-          "creator": "frukoyurdakul",
-          "approved_date": "2019-02-04 20:20:03",
-          "difficulties": [
-            {
-              "beatmap_id": "1906079",
-              "version": "Inner Oni",
-              "difficultyrating": "5.74216",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1907856",
-              "version": "Oni",
-              "difficultyrating": "4.65742",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "959186",
-          "title": "Ben Her Gun Artik Sen",
-          "artist": "Murder King",
-          "creator": "frukoyurdakul",
-          "approved_date": "2019-05-19 12:40:02",
-          "difficulties": [
-            {
-              "beatmap_id": "2008180",
-              "version": "Suistimal",
-              "difficultyrating": "5.90462",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2016545",
-              "version": "zigizigiefe's Oni",
-              "difficultyrating": "4.45923",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2017273",
-              "version": "Muzukashii",
-              "difficultyrating": "3.60633",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "927043",
-          "title": "My Own Grave",
-          "artist": "As I Lay Dying",
-          "creator": "frukoyurdakul",
-          "approved_date": "2019-09-25 15:44:04",
-          "difficulties": [
-            {
-              "beatmap_id": "1936245",
-              "version": "Aftermath",
-              "difficultyrating": "6.6303",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1936716",
-              "version": "Oni",
-              "difficultyrating": "4.95077",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1937800",
-              "version": "Muzukashii",
-              "difficultyrating": "3.33387",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1034088",
-          "title": "The Husk",
+          "beatmapset_id": "723091",
+          "title": "The macrocosm",
           "artist": "Rings of Saturn",
           "creator": "frukoyurdakul",
-          "approved_date": "2019-10-25 09:26:53",
+          "approved_date": "2018-05-09 11:00:03",
           "difficulties": [
             {
-              "beatmap_id": "2162102",
+              "beatmap_id": "1526399",
+              "version": "Cosmos",
+              "difficultyrating": "6.1392",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "713086",
+          "title": "Strike!",
+          "artist": "Whispered",
+          "creator": "frukoyurdakul",
+          "approved_date": "2018-04-13 08:20:11",
+          "difficulties": [
+            {
+              "beatmap_id": "1507092",
+              "version": "K.O.",
+              "difficultyrating": "6.75175",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1508457",
+              "version": "20x",
+              "difficultyrating": "5.27727",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1508509",
+              "version": "15x",
+              "difficultyrating": "4.09185",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1508589",
+              "version": "10x",
+              "difficultyrating": "2.80779",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1508674",
+              "version": "5x",
+              "difficultyrating": "1.74082",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1509250",
+              "version": "1x",
+              "difficultyrating": "1.24783",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "744596",
+          "title": "Cleanse The Bloodlines",
+          "artist": "Unleash The Archers",
+          "creator": "frukoyurdakul",
+          "approved_date": "2018-03-24 21:20:02",
+          "difficulties": [
+            {
+              "beatmap_id": "1569911",
+              "version": "Elixir of Life",
+              "difficultyrating": "5.68177",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "685075",
+          "title": "Vicarious",
+          "artist": "Tool",
+          "creator": "frukoyurdakul",
+          "approved_date": "2018-03-04 09:21:15",
+          "difficulties": [
+            {
+              "beatmap_id": "1449764",
+              "version": "Tragedy",
+              "difficultyrating": "5.05701",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "697750",
+          "title": "Nightfall",
+          "artist": "Xandria",
+          "creator": "frukoyurdakul",
+          "approved_date": "2018-02-04 09:20:15",
+          "difficulties": [
+            {
+              "beatmap_id": "1477955",
+              "version": "Inner Oni",
+              "difficultyrating": "5.81099",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1478252",
+              "version": "Oni",
+              "difficultyrating": "4.38057",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1478279",
+              "version": "Muzukashii",
+              "difficultyrating": "3.39791",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1478309",
+              "version": "Futsuu",
+              "difficultyrating": "2.16274",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1478337",
+              "version": "Kantan",
+              "difficultyrating": "1.2569",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "690344",
+          "title": "Elemental Creation -GITADO ROCK ver.-",
+          "artist": "dj TAKA meets DJ YOSHITAKA ft.guit.good-cool",
+          "creator": "frukoyurdakul",
+          "approved_date": "2017-12-07 04:20:03",
+          "difficulties": [
+            {
+              "beatmap_id": "1461118",
+              "version": "Inner Oni",
+              "difficultyrating": "6.3646",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1461210",
+              "version": "Oni",
+              "difficultyrating": "4.92261",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1461228",
+              "version": "Muzukashii",
+              "difficultyrating": "3.71835",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1461269",
+              "version": "Futsuu",
+              "difficultyrating": "2.24798",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1474954",
+              "version": "_DUSK_'s Kantan",
+              "difficultyrating": "1.48548",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "672972",
+          "title": "WAVE OF SYNERGY",
+          "artist": "Andy James & Angel Vivaldi",
+          "creator": "frukoyurdakul",
+          "approved_date": "2017-11-29 02:20:02",
+          "difficulties": [
+            {
+              "beatmap_id": "1423622",
+              "version": "SYNC",
+              "difficultyrating": "6.5496",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "567468",
+          "title": "The Promethean Kings",
+          "artist": "Inferi",
+          "creator": "frukoyurdakul",
+          "approved_date": "2017-10-27 20:40:01",
+          "difficulties": [
+            {
+              "beatmap_id": "1202226",
               "version": "Merciless Oni",
-              "difficultyrating": "7.96263",
+              "difficultyrating": "7.76005",
               "mode": "1",
               "isGuestDiff": false
             }
@@ -3412,16 +3570,16 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "1072484",
-          "title": "Skyless (feat. Jeff Loomis)",
-          "artist": "Andy Gillion",
+          "beatmapset_id": "617257",
+          "title": "A Voice in the Dark",
+          "artist": "Blind Guardian",
           "creator": "frukoyurdakul",
-          "approved_date": "2020-01-06 20:05:31",
+          "approved_date": "2017-10-02 02:40:02",
           "difficulties": [
             {
-              "beatmap_id": "2244710",
-              "version": "Mist",
-              "difficultyrating": "6.98591",
+              "beatmap_id": "1301568",
+              "version": "Hell Oni",
+              "difficultyrating": "6.46585",
               "mode": "1",
               "isGuestDiff": false
             }
@@ -3429,16 +3587,16 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "1042815",
-          "title": "The Sun, The Moon, The Star",
-          "artist": "Aether Realm",
+          "beatmapset_id": "650927",
+          "title": "The World Is Yours",
+          "artist": "Arch Enemy",
           "creator": "frukoyurdakul",
-          "approved_date": "2020-01-28 06:22:47",
+          "approved_date": "2017-09-20 05:20:02",
           "difficulties": [
             {
-              "beatmap_id": "2179670",
-              "version": "Echoes From The Past",
-              "difficultyrating": "7.44734",
+              "beatmap_id": "1379202",
+              "version": "Death",
+              "difficultyrating": "6.75149",
               "mode": "1",
               "isGuestDiff": false
             }
@@ -3446,16 +3604,16 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "1133393",
-          "title": "I Speak Astronomy",
-          "artist": "JINJER",
+          "beatmapset_id": "610152",
+          "title": "Acid Reign",
+          "artist": "Angel Vivaldi",
           "creator": "frukoyurdakul",
-          "approved_date": "2020-04-11 16:43:31",
+          "approved_date": "2017-08-27 15:00:12",
           "difficulties": [
             {
-              "beatmap_id": "2367086",
-              "version": "Hypernova",
-              "difficultyrating": "6.6722",
+              "beatmap_id": "1288323",
+              "version": "Corroded",
+              "difficultyrating": "6.31181",
               "mode": "1",
               "isGuestDiff": false
             }
@@ -3463,191 +3621,33 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "1022571",
-          "title": "Highway to Oblivion",
+          "beatmapset_id": "630190",
+          "title": "Coming Home",
+          "artist": "Avenged Sevenfold",
+          "creator": "frukoyurdakul",
+          "approved_date": "2017-08-07 11:00:07",
+          "difficulties": [
+            {
+              "beatmap_id": "1330403",
+              "version": "Return",
+              "difficultyrating": "5.78988",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "558955",
+          "title": "Operation Ground and Pound",
           "artist": "DragonForce",
           "creator": "frukoyurdakul",
-          "approved_date": "2020-04-24 16:02:35",
+          "approved_date": "2017-06-22 22:40:05",
           "difficulties": [
             {
-              "beatmap_id": "2139326",
+              "beatmap_id": "1182240",
               "version": "Tatsujin",
-              "difficultyrating": "7.90257",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1160390",
-          "title": "Hear Me",
-          "artist": "Devin Townsend",
-          "creator": "frukoyurdakul",
-          "approved_date": "2020-05-19 21:23:24",
-          "difficulties": [
-            {
-              "beatmap_id": "2421064",
-              "version": "Good Mourning",
-              "difficultyrating": "6.96829",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1189876",
-          "title": "Stop Saying We Sound Like Dragonforce",
-          "artist": "FRASER EDWARDS",
-          "creator": "frukoyurdakul",
-          "approved_date": "2020-07-16 19:24:49",
-          "difficulties": [
-            {
-              "beatmap_id": "2479288",
-              "version": "Through the Soldier's Eternity",
-              "difficultyrating": "7.74173",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2480799",
-              "version": "Inner Oni",
-              "difficultyrating": "6.04872",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2480909",
-              "version": "Oni",
-              "difficultyrating": "5.25828",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1211080",
-          "title": "Death Is Real",
-          "artist": "Rivers of Nihil",
-          "creator": "frukoyurdakul",
-          "approved_date": "2020-08-15 11:43:51",
-          "difficulties": [
-            {
-              "beatmap_id": "2521125",
-              "version": "Fighting the Inevitable",
-              "difficultyrating": "7.62481",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1327059",
-          "title": "Shield Wall",
-          "artist": "Amon Amarth",
-          "creator": "frukoyurdakul",
-          "approved_date": "2021-01-10 19:02:47",
-          "difficulties": [
-            {
-              "beatmap_id": "2749321",
-              "version": "Berserker",
-              "difficultyrating": "5.39928",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2749979",
-              "version": "Oni",
-              "difficultyrating": "3.93138",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2750895",
-              "version": "Muzukashii",
-              "difficultyrating": "2.91412",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2751015",
-              "version": "Futsuu",
-              "difficultyrating": "1.89367",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1518274",
-          "title": "In The Court Of The Dragon",
-          "artist": "Trivium",
-          "creator": "frukoyurdakul",
-          "approved_date": "2021-09-01 11:41:44",
-          "difficulties": [
-            {
-              "beatmap_id": "3107990",
-              "version": "In A Land Of Myth",
-              "difficultyrating": "6.58806",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1628329",
-          "title": "Solaris",
-          "artist": "Obscura",
-          "creator": "frukoyurdakul",
-          "approved_date": "2022-03-28 19:23:57",
-          "difficulties": [
-            {
-              "beatmap_id": "3324295",
-              "version": "Redeem",
-              "difficultyrating": "7.40024",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "3336648",
-              "version": "Inner Oni",
-              "difficultyrating": "5.86631",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "3366445",
-              "version": "Oni",
-              "difficultyrating": "5.59722",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "3366550",
-              "version": "Muzukashii",
-              "difficultyrating": "3.66445",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1756364",
-          "title": "Tendinitis",
-          "artist": "Jason Richardson & Luke Holland",
-          "creator": "frukoyurdakul",
-          "approved_date": "2023-12-16 22:04:57",
-          "difficulties": [
-            {
-              "beatmap_id": "3594255",
-              "version": "Rupture",
-              "difficultyrating": "6.99829",
+              "difficultyrating": "6.80375",
               "mode": "1",
               "isGuestDiff": false
             }
@@ -3664,7 +3664,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 65
       },
-      "lastUpdated": "2026-07-04T18:43:02.748Z"
+      "lastUpdated": "2026-07-23T05:33:22.516Z"
     }
   ]
 }

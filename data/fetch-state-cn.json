@@ -1,28 +1,181 @@
 {
-  "lastChecked": "2026-07-04T18:42:27.439Z",
+  "lastChecked": "2026-07-23T05:31:21.058Z",
   "mapperStates": {
+    "5726": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "13103": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "16989": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "17470": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "19173": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "27343": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "34044": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "44776": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "44867": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "45360": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "47060": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "47458": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "60294": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "74937": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "77221": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "77537": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "78227": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "79249": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "87381": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "88346": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "92300": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "93319": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "94258": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "102682": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "102976": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "104401": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "104700": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "106767": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "107426": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "122231": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "128799": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "131612": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "132438": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "133302": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "135567": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "145557": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "150296": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "150768": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "151679": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "159431": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "177116": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "179133": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "179520": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "183201": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "196614": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "200498": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "223168": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "226171": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "226433": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "253969": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
+    "262824": {
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
+    },
     "1244312": {
-      "lastBeatmapCheck": "2026-07-04T18:42:27.439Z"
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
     },
     "2345298": {
-      "lastBeatmapCheck": "2026-07-04T18:42:27.439Z"
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
     },
     "2849992": {
-      "lastBeatmapCheck": "2026-07-04T18:42:27.439Z"
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
     },
     "4298072": {
-      "lastBeatmapCheck": "2026-07-04T18:42:27.439Z"
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
     },
     "5645691": {
-      "lastBeatmapCheck": "2026-07-04T18:42:27.439Z"
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
     },
     "7777875": {
-      "lastBeatmapCheck": "2026-07-04T18:42:27.439Z"
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
     },
     "9590557": {
-      "lastBeatmapCheck": "2026-07-04T18:42:27.439Z"
+      "lastBeatmapCheck": "2026-07-23T05:31:21.058Z"
     }
   },
-  "totalBeatmaps": 1553,
-  "lastFullScan": "2026-07-04T18:42:27.439Z"
+  "totalBeatmaps": 3719,
+  "lastFullScan": "2026-07-23T05:31:21.058Z"
 }
