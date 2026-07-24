@@ -1,0 +1,2104 @@
+{
+  "defaultCountry": "KR",
+  "generatedAt": "2026-07-24T05:26:23.769Z",
+  "source": "https://osu.ppy.sh/rankings/osu/country",
+  "countries": [
+    {
+      "code": "AF",
+      "name": "Afghanistan",
+      "demonym": "Afghanistan",
+      "nativeName": "Afghanistan",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:12.382Z"
+    },
+    {
+      "code": "AX",
+      "name": "Aland Islands",
+      "demonym": "Aland Islands",
+      "nativeName": "Aland Islands",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:16.559Z"
+    },
+    {
+      "code": "AL",
+      "name": "Albania",
+      "demonym": "Albania",
+      "nativeName": "Albania",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:12.383Z"
+    },
+    {
+      "code": "DZ",
+      "name": "Algeria",
+      "demonym": "Algeria",
+      "nativeName": "Algeria",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:35.155Z"
+    },
+    {
+      "code": "AS",
+      "name": "American Samoa",
+      "demonym": "American Samoa",
+      "nativeName": "American Samoa",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:14.245Z"
+    },
+    {
+      "code": "AD",
+      "name": "Andorra",
+      "demonym": "Andorra",
+      "nativeName": "Andorra",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:39:26.933Z"
+    },
+    {
+      "code": "AO",
+      "name": "Angola",
+      "demonym": "Angola",
+      "nativeName": "Angola",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:12.384Z"
+    },
+    {
+      "code": "AI",
+      "name": "Anguilla",
+      "demonym": "Anguilla",
+      "nativeName": "Anguilla",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:12.383Z"
+    },
+    {
+      "code": "AQ",
+      "name": "Antarctica",
+      "demonym": "Antarctica",
+      "nativeName": "Antarctica",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:12.385Z"
+    },
+    {
+      "code": "AG",
+      "name": "Antigua and Barbuda",
+      "demonym": "Antigua and Barbuda",
+      "nativeName": "Antigua and Barbuda",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:12.382Z"
+    },
+    {
+      "code": "AR",
+      "name": "Argentina",
+      "demonym": "Argentina",
+      "nativeName": "Argentina",
+      "hasData": true,
+      "mapperCount": 5,
+      "lastUpdated": "2026-07-15T04:56:58.500Z"
+    },
+    {
+      "code": "AM",
+      "name": "Armenia",
+      "demonym": "Armenia",
+      "nativeName": "Armenia",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:12.384Z"
+    },
+    {
+      "code": "AW",
+      "name": "Aruba",
+      "demonym": "Aruba",
+      "nativeName": "Aruba",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:16.558Z"
+    },
+    {
+      "code": "AP",
+      "name": "Asia/Pacific Region",
+      "demonym": "Asia/Pacific Region",
+      "nativeName": "Asia/Pacific Region",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:12.385Z"
+    },
+    {
+      "code": "AU",
+      "name": "Australia",
+      "demonym": "Australia",
+      "nativeName": "Australia",
+      "hasData": true,
+      "mapperCount": 24,
+      "lastUpdated": "2026-07-17T05:19:24.652Z"
+    },
+    {
+      "code": "AT",
+      "name": "Austria",
+      "demonym": "Austria",
+      "nativeName": "Austria",
+      "hasData": true,
+      "mapperCount": 2,
+      "lastUpdated": "2026-07-16T05:16:45.784Z"
+    },
+    {
+      "code": "AZ",
+      "name": "Azerbaijan",
+      "demonym": "Azerbaijan",
+      "nativeName": "Azerbaijan",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:16.559Z"
+    },
+    {
+      "code": "BS",
+      "name": "Bahamas",
+      "demonym": "Bahamas",
+      "nativeName": "Bahamas",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:19.544Z"
+    },
+    {
+      "code": "BH",
+      "name": "Bahrain",
+      "demonym": "Bahrain",
+      "nativeName": "Bahrain",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:16.562Z"
+    },
+    {
+      "code": "BD",
+      "name": "Bangladesh",
+      "demonym": "Bangladesh",
+      "nativeName": "Bangladesh",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:16.560Z"
+    },
+    {
+      "code": "BB",
+      "name": "Barbados",
+      "demonym": "Barbados",
+      "nativeName": "Barbados",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:16.560Z"
+    },
+    {
+      "code": "BY",
+      "name": "Belarus",
+      "demonym": "Belarus",
+      "nativeName": "Belarus",
+      "hasData": true,
+      "mapperCount": 1,
+      "lastUpdated": "2026-07-20T05:48:28.275Z"
+    },
+    {
+      "code": "BE",
+      "name": "Belgium",
+      "demonym": "Belgium",
+      "nativeName": "Belgium",
+      "hasData": true,
+      "mapperCount": 1,
+      "lastUpdated": "2026-07-18T04:53:59.125Z"
+    },
+    {
+      "code": "BZ",
+      "name": "Belize",
+      "demonym": "Belize",
+      "nativeName": "Belize",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:20.482Z"
+    },
+    {
+      "code": "BJ",
+      "name": "Benin",
+      "demonym": "Benin",
+      "nativeName": "Benin",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:16.562Z"
+    },
+    {
+      "code": "BM",
+      "name": "Bermuda",
+      "demonym": "Bermuda",
+      "nativeName": "Bermuda",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:16.563Z"
+    },
+    {
+      "code": "BT",
+      "name": "Bhutan",
+      "demonym": "Bhutan",
+      "nativeName": "Bhutan",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:19.544Z"
+    },
+    {
+      "code": "BO",
+      "name": "Bolivia",
+      "demonym": "Bolivia",
+      "nativeName": "Bolivia",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:16.564Z"
+    },
+    {
+      "code": "BA",
+      "name": "Bosnia and Herzegovina",
+      "demonym": "Bosnia and Herzegovina",
+      "nativeName": "Bosnia and Herzegovina",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:16.560Z"
+    },
+    {
+      "code": "BW",
+      "name": "Botswana",
+      "demonym": "Botswana",
+      "nativeName": "Botswana",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:19.545Z"
+    },
+    {
+      "code": "BR",
+      "name": "Brazil",
+      "demonym": "Brazil",
+      "nativeName": "Brazil",
+      "hasData": true,
+      "mapperCount": 15,
+      "lastUpdated": "2026-07-19T05:31:20.104Z"
+    },
+    {
+      "code": "BN",
+      "name": "Brunei",
+      "demonym": "Brunei",
+      "nativeName": "Brunei",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:16.564Z"
+    },
+    {
+      "code": "BG",
+      "name": "Bulgaria",
+      "demonym": "Bulgaria",
+      "nativeName": "Bulgaria",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:16.562Z"
+    },
+    {
+      "code": "BF",
+      "name": "Burkina Faso",
+      "demonym": "Burkina Faso",
+      "nativeName": "Burkina Faso",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:16.561Z"
+    },
+    {
+      "code": "BI",
+      "name": "Burundi",
+      "demonym": "Burundi",
+      "nativeName": "Burundi",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:39:26.934Z"
+    },
+    {
+      "code": "CV",
+      "name": "Cabo Verde",
+      "demonym": "Cabo Verde",
+      "nativeName": "Cabo Verde",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:31.841Z"
+    },
+    {
+      "code": "KH",
+      "name": "Cambodia",
+      "demonym": "Cambodia",
+      "nativeName": "Cambodia",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.427Z"
+    },
+    {
+      "code": "CM",
+      "name": "Cameroon",
+      "demonym": "Cameroon",
+      "nativeName": "Cameroon",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:27.330Z"
+    },
+    {
+      "code": "CA",
+      "name": "Canada",
+      "demonym": "Canada",
+      "nativeName": "Canada",
+      "hasData": true,
+      "mapperCount": 36,
+      "lastUpdated": "2026-07-21T05:26:44.521Z"
+    },
+    {
+      "code": "BQ",
+      "name": "Caribbean Netherlands",
+      "demonym": "Caribbean Netherlands",
+      "nativeName": "Caribbean Netherlands",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:16.565Z"
+    },
+    {
+      "code": "KY",
+      "name": "Cayman Islands",
+      "demonym": "Cayman Islands",
+      "nativeName": "Cayman Islands",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.429Z"
+    },
+    {
+      "code": "TD",
+      "name": "Chad",
+      "demonym": "Chad",
+      "nativeName": "Chad",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:59.855Z"
+    },
+    {
+      "code": "CL",
+      "name": "Chile",
+      "demonym": "Chile",
+      "nativeName": "Chile",
+      "hasData": true,
+      "mapperCount": 10,
+      "lastUpdated": "2026-07-22T05:25:35.591Z"
+    },
+    {
+      "code": "CN",
+      "name": "China",
+      "demonym": "China",
+      "nativeName": "China",
+      "hasData": true,
+      "mapperCount": 58,
+      "lastUpdated": "2026-07-23T05:31:21.058Z"
+    },
+    {
+      "code": "CX",
+      "name": "Christmas Island",
+      "demonym": "Christmas Island",
+      "nativeName": "Christmas Island",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:31.841Z"
+    },
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "demonym": "Colombia",
+      "nativeName": "Colombia",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:31.839Z"
+    },
+    {
+      "code": "KM",
+      "name": "Comoros",
+      "demonym": "Comoros",
+      "nativeName": "Comoros",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.428Z"
+    },
+    {
+      "code": "CG",
+      "name": "Congo",
+      "demonym": "Congo",
+      "nativeName": "Congo",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:24.611Z"
+    },
+    {
+      "code": "CK",
+      "name": "Cook Islands",
+      "demonym": "Cook Islands",
+      "nativeName": "Cook Islands",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:24.612Z"
+    },
+    {
+      "code": "CR",
+      "name": "Costa Rica",
+      "demonym": "Costa Rica",
+      "nativeName": "Costa Rica",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:31.840Z"
+    },
+    {
+      "code": "CI",
+      "name": "Cote D'Ivoire",
+      "demonym": "Cote D'Ivoire",
+      "nativeName": "Cote D'Ivoire",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:24.612Z"
+    },
+    {
+      "code": "HR",
+      "name": "Croatia",
+      "demonym": "Croatia",
+      "nativeName": "Croatia",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:41.479Z"
+    },
+    {
+      "code": "CU",
+      "name": "Cuba",
+      "demonym": "Cuba",
+      "nativeName": "Cuba",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:39:26.935Z"
+    },
+    {
+      "code": "CW",
+      "name": "Curaçao",
+      "demonym": "Curaçao",
+      "nativeName": "Curaçao",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:31.841Z"
+    },
+    {
+      "code": "CY",
+      "name": "Cyprus",
+      "demonym": "Cyprus",
+      "nativeName": "Cyprus",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:31.842Z"
+    },
+    {
+      "code": "CZ",
+      "name": "Czechia",
+      "demonym": "Czechia",
+      "nativeName": "Czechia",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:31.842Z"
+    },
+    {
+      "code": "DK",
+      "name": "Denmark",
+      "demonym": "Denmark",
+      "nativeName": "Denmark",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:35.154Z"
+    },
+    {
+      "code": "DJ",
+      "name": "Djibouti",
+      "demonym": "Djibouti",
+      "nativeName": "Djibouti",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:35.153Z"
+    },
+    {
+      "code": "DM",
+      "name": "Dominica",
+      "demonym": "Dominica",
+      "nativeName": "Dominica",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:35.154Z"
+    },
+    {
+      "code": "DO",
+      "name": "Dominican Republic",
+      "demonym": "Dominican Republic",
+      "nativeName": "Dominican Republic",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:35.154Z"
+    },
+    {
+      "code": "EC",
+      "name": "Ecuador",
+      "demonym": "Ecuador",
+      "nativeName": "Ecuador",
+      "hasData": true,
+      "mapperCount": 2,
+      "lastUpdated": "2026-07-05T06:13:33.437Z"
+    },
+    {
+      "code": "EG",
+      "name": "Egypt",
+      "demonym": "Egypt",
+      "nativeName": "Egypt",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:35.156Z"
+    },
+    {
+      "code": "SV",
+      "name": "El Salvador",
+      "demonym": "El Salvador",
+      "nativeName": "El Salvador",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:59.854Z"
+    },
+    {
+      "code": "GQ",
+      "name": "Equatorial Guinea",
+      "demonym": "Equatorial Guinea",
+      "nativeName": "Equatorial Guinea",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:38.282Z"
+    },
+    {
+      "code": "ER",
+      "name": "Eritrea",
+      "demonym": "Eritrea",
+      "nativeName": "Eritrea",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:35.157Z"
+    },
+    {
+      "code": "EE",
+      "name": "Estonia",
+      "demonym": "Estonia",
+      "nativeName": "Estonia",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:35.156Z"
+    },
+    {
+      "code": "SZ",
+      "name": "Eswatini",
+      "demonym": "Eswatini",
+      "nativeName": "Eswatini",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:59.855Z"
+    },
+    {
+      "code": "ET",
+      "name": "Ethiopia",
+      "demonym": "Ethiopia",
+      "nativeName": "Ethiopia",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:36.699Z"
+    },
+    {
+      "code": "EU",
+      "name": "Europe",
+      "demonym": "Europe",
+      "nativeName": "Europe",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:36.700Z"
+    },
+    {
+      "code": "FO",
+      "name": "Faroe Islands",
+      "demonym": "Faroe Islands",
+      "nativeName": "Faroe Islands",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:36.702Z"
+    },
+    {
+      "code": "FM",
+      "name": "Federated States of Micronesia",
+      "demonym": "Federated States of Micronesia",
+      "nativeName": "Federated States of Micronesia",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:36.701Z"
+    },
+    {
+      "code": "FJ",
+      "name": "Fiji",
+      "demonym": "Fiji",
+      "nativeName": "Fiji",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:36.701Z"
+    },
+    {
+      "code": "FI",
+      "name": "Finland",
+      "demonym": "Finland",
+      "nativeName": "Finland",
+      "hasData": true,
+      "mapperCount": 6,
+      "lastUpdated": "2026-07-13T05:44:45.041Z"
+    },
+    {
+      "code": "FR",
+      "name": "France",
+      "demonym": "France",
+      "nativeName": "France",
+      "hasData": true,
+      "mapperCount": 11,
+      "lastUpdated": "2026-07-14T04:56:59.467Z"
+    },
+    {
+      "code": "GF",
+      "name": "French Guiana",
+      "demonym": "French Guiana",
+      "nativeName": "French Guiana",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:38.279Z"
+    },
+    {
+      "code": "PF",
+      "name": "French Polynesia",
+      "demonym": "French Polynesia",
+      "nativeName": "French Polynesia",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:49.636Z"
+    },
+    {
+      "code": "GA",
+      "name": "Gabon",
+      "demonym": "Gabon",
+      "nativeName": "Gabon",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:36.702Z"
+    },
+    {
+      "code": "GM",
+      "name": "Gambia",
+      "demonym": "Gambia",
+      "nativeName": "Gambia",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:38.281Z"
+    },
+    {
+      "code": "GE",
+      "name": "Georgia",
+      "demonym": "Georgia",
+      "nativeName": "Georgia",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:38.279Z"
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "demonym": "Germany",
+      "nativeName": "Germany",
+      "hasData": true,
+      "mapperCount": 18,
+      "lastUpdated": "2026-07-24T05:26:07.271Z"
+    },
+    {
+      "code": "GH",
+      "name": "Ghana",
+      "demonym": "Ghana",
+      "nativeName": "Ghana",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:38.280Z"
+    },
+    {
+      "code": "GI",
+      "name": "Gibraltar",
+      "demonym": "Gibraltar",
+      "nativeName": "Gibraltar",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:38.281Z"
+    },
+    {
+      "code": "GR",
+      "name": "Greece",
+      "demonym": "Greece",
+      "nativeName": "Greece",
+      "hasData": true,
+      "mapperCount": 2,
+      "lastUpdated": "2026-07-16T05:16:46.573Z"
+    },
+    {
+      "code": "GL",
+      "name": "Greenland",
+      "demonym": "Greenland",
+      "nativeName": "Greenland",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:38.281Z"
+    },
+    {
+      "code": "GD",
+      "name": "Grenada",
+      "demonym": "Grenada",
+      "nativeName": "Grenada",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:38.278Z"
+    },
+    {
+      "code": "GP",
+      "name": "Guadeloupe",
+      "demonym": "Guadeloupe",
+      "nativeName": "Guadeloupe",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:38.282Z"
+    },
+    {
+      "code": "GU",
+      "name": "Guam",
+      "demonym": "Guam",
+      "nativeName": "Guam",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:39.307Z"
+    },
+    {
+      "code": "GT",
+      "name": "Guatemala",
+      "demonym": "Guatemala",
+      "nativeName": "Guatemala",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:39.306Z"
+    },
+    {
+      "code": "GG",
+      "name": "Guernsey",
+      "demonym": "Guernsey",
+      "nativeName": "Guernsey",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:38.280Z"
+    },
+    {
+      "code": "GN",
+      "name": "Guinea",
+      "demonym": "Guinea",
+      "nativeName": "Guinea",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:38.282Z"
+    },
+    {
+      "code": "GY",
+      "name": "Guyana",
+      "demonym": "Guyana",
+      "nativeName": "Guyana",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:39.307Z"
+    },
+    {
+      "code": "HT",
+      "name": "Haiti",
+      "demonym": "Haiti",
+      "nativeName": "Haiti",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:41.480Z"
+    },
+    {
+      "code": "VA",
+      "name": "Holy See (Vatican City State)",
+      "demonym": "Holy See (Vatican City State)",
+      "nativeName": "Holy See (Vatican City State)",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:43:16.114Z"
+    },
+    {
+      "code": "HN",
+      "name": "Honduras",
+      "demonym": "Honduras",
+      "nativeName": "Honduras",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:41.479Z"
+    },
+    {
+      "code": "HK",
+      "name": "Hong Kong",
+      "demonym": "Hong Kong",
+      "nativeName": "Hong Kong",
+      "hasData": true,
+      "mapperCount": 20,
+      "lastUpdated": "2026-07-17T05:19:31.753Z"
+    },
+    {
+      "code": "HU",
+      "name": "Hungary",
+      "demonym": "Hungary",
+      "nativeName": "Hungary",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:41.480Z"
+    },
+    {
+      "code": "IS",
+      "name": "Iceland",
+      "demonym": "Iceland",
+      "nativeName": "Iceland",
+      "hasData": true,
+      "mapperCount": 1,
+      "lastUpdated": "2026-07-20T05:48:28.869Z"
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "demonym": "India",
+      "nativeName": "India",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:45.851Z"
+    },
+    {
+      "code": "ID",
+      "name": "Indonesia",
+      "demonym": "Indonesia",
+      "nativeName": "Indonesia",
+      "hasData": true,
+      "mapperCount": 14,
+      "lastUpdated": "2026-07-18T04:53:59.568Z"
+    },
+    {
+      "code": "IQ",
+      "name": "Iraq",
+      "demonym": "Iraq",
+      "nativeName": "Iraq",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:45.852Z"
+    },
+    {
+      "code": "IE",
+      "name": "Ireland",
+      "demonym": "Ireland",
+      "nativeName": "Ireland",
+      "hasData": true,
+      "mapperCount": 1,
+      "lastUpdated": "2026-07-19T05:31:25.449Z"
+    },
+    {
+      "code": "IR",
+      "name": "Islamic Republic of Iran",
+      "demonym": "Islamic Republic of Iran",
+      "nativeName": "Islamic Republic of Iran",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:45.852Z"
+    },
+    {
+      "code": "IM",
+      "name": "Isle of Man",
+      "demonym": "Isle of Man",
+      "nativeName": "Isle of Man",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:45.851Z"
+    },
+    {
+      "code": "IL",
+      "name": "Israel",
+      "demonym": "Israel",
+      "nativeName": "Israel",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:45.850Z"
+    },
+    {
+      "code": "IT",
+      "name": "Italy",
+      "demonym": "Italy",
+      "nativeName": "Italy",
+      "hasData": true,
+      "mapperCount": 19,
+      "lastUpdated": "2026-07-21T05:26:55.525Z"
+    },
+    {
+      "code": "JM",
+      "name": "Jamaica",
+      "demonym": "Jamaica",
+      "nativeName": "Jamaica",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.425Z"
+    },
+    {
+      "code": "JP",
+      "name": "Japan",
+      "demonym": "Japan",
+      "nativeName": "Japan",
+      "hasData": true,
+      "mapperCount": 14,
+      "lastUpdated": "2026-07-22T05:25:39.512Z"
+    },
+    {
+      "code": "JE",
+      "name": "Jersey",
+      "demonym": "Jersey",
+      "nativeName": "Jersey",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.424Z"
+    },
+    {
+      "code": "JO",
+      "name": "Jordan",
+      "demonym": "Jordan",
+      "nativeName": "Jordan",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.425Z"
+    },
+    {
+      "code": "KZ",
+      "name": "Kazakhstan",
+      "demonym": "Kazakhstan",
+      "nativeName": "Kazakhstan",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.430Z"
+    },
+    {
+      "code": "KE",
+      "name": "Kenya",
+      "demonym": "Kenya",
+      "nativeName": "Kenya",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.426Z"
+    },
+    {
+      "code": "KI",
+      "name": "Kiribati",
+      "demonym": "Kiribati",
+      "nativeName": "Kiribati",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.427Z"
+    },
+    {
+      "code": "XK",
+      "name": "Kosovo",
+      "demonym": "Kosovo",
+      "nativeName": "Kosovo",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:43:17.702Z"
+    },
+    {
+      "code": "KW",
+      "name": "Kuwait",
+      "demonym": "Kuwait",
+      "nativeName": "Kuwait",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.429Z"
+    },
+    {
+      "code": "KG",
+      "name": "Kyrgyzstan",
+      "demonym": "Kyrgyzstan",
+      "nativeName": "Kyrgyzstan",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.426Z"
+    },
+    {
+      "code": "LA",
+      "name": "Lao People's Democratic Republic",
+      "demonym": "Lao People's Democratic Republic",
+      "nativeName": "Lao People's Democratic Republic",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.430Z"
+    },
+    {
+      "code": "LV",
+      "name": "Latvia",
+      "demonym": "Latvia",
+      "nativeName": "Latvia",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.433Z"
+    },
+    {
+      "code": "LB",
+      "name": "Lebanon",
+      "demonym": "Lebanon",
+      "nativeName": "Lebanon",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.431Z"
+    },
+    {
+      "code": "LS",
+      "name": "Lesotho",
+      "demonym": "Lesotho",
+      "nativeName": "Lesotho",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.432Z"
+    },
+    {
+      "code": "LY",
+      "name": "Libya",
+      "demonym": "Libya",
+      "nativeName": "Libya",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.434Z"
+    },
+    {
+      "code": "LI",
+      "name": "Liechtenstein",
+      "demonym": "Liechtenstein",
+      "nativeName": "Liechtenstein",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.431Z"
+    },
+    {
+      "code": "LT",
+      "name": "Lithuania",
+      "demonym": "Lithuania",
+      "nativeName": "Lithuania",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.432Z"
+    },
+    {
+      "code": "LU",
+      "name": "Luxembourg",
+      "demonym": "Luxembourg",
+      "nativeName": "Luxembourg",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.433Z"
+    },
+    {
+      "code": "MO",
+      "name": "Macau",
+      "demonym": "Macau",
+      "nativeName": "Macau",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.438Z"
+    },
+    {
+      "code": "MG",
+      "name": "Madagascar",
+      "demonym": "Madagascar",
+      "nativeName": "Madagascar",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.436Z"
+    },
+    {
+      "code": "MW",
+      "name": "Malawi",
+      "demonym": "Malawi",
+      "nativeName": "Malawi",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.441Z"
+    },
+    {
+      "code": "MY",
+      "name": "Malaysia",
+      "demonym": "Malaysia",
+      "nativeName": "Malaysia",
+      "hasData": true,
+      "mapperCount": 2,
+      "lastUpdated": "2026-07-04T18:42:48.449Z"
+    },
+    {
+      "code": "MV",
+      "name": "Maldives",
+      "demonym": "Maldives",
+      "nativeName": "Maldives",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.441Z"
+    },
+    {
+      "code": "ML",
+      "name": "Mali",
+      "demonym": "Mali",
+      "nativeName": "Mali",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.437Z"
+    },
+    {
+      "code": "MT",
+      "name": "Malta",
+      "demonym": "Malta",
+      "nativeName": "Malta",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.440Z"
+    },
+    {
+      "code": "MH",
+      "name": "Marshall Islands",
+      "demonym": "Marshall Islands",
+      "nativeName": "Marshall Islands",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.436Z"
+    },
+    {
+      "code": "MQ",
+      "name": "Martinique",
+      "demonym": "Martinique",
+      "nativeName": "Martinique",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.439Z"
+    },
+    {
+      "code": "MR",
+      "name": "Mauritania",
+      "demonym": "Mauritania",
+      "nativeName": "Mauritania",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.439Z"
+    },
+    {
+      "code": "MU",
+      "name": "Mauritius",
+      "demonym": "Mauritius",
+      "nativeName": "Mauritius",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.440Z"
+    },
+    {
+      "code": "YT",
+      "name": "Mayotte",
+      "demonym": "Mayotte",
+      "nativeName": "Mayotte",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:43:17.703Z"
+    },
+    {
+      "code": "MX",
+      "name": "Mexico",
+      "demonym": "Mexico",
+      "nativeName": "Mexico",
+      "hasData": true,
+      "mapperCount": 4,
+      "lastUpdated": "2026-07-24T05:26:13.820Z"
+    },
+    {
+      "code": "MD",
+      "name": "Moldova",
+      "demonym": "Moldova",
+      "nativeName": "Moldova",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.435Z"
+    },
+    {
+      "code": "MC",
+      "name": "Monaco",
+      "demonym": "Monaco",
+      "nativeName": "Monaco",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.434Z"
+    },
+    {
+      "code": "MN",
+      "name": "Mongolia",
+      "demonym": "Mongolia",
+      "nativeName": "Mongolia",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.438Z"
+    },
+    {
+      "code": "ME",
+      "name": "Montenegro",
+      "demonym": "Montenegro",
+      "nativeName": "Montenegro",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.435Z"
+    },
+    {
+      "code": "MS",
+      "name": "Montserrat",
+      "demonym": "Montserrat",
+      "nativeName": "Montserrat",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.440Z"
+    },
+    {
+      "code": "MA",
+      "name": "Morocco",
+      "demonym": "Morocco",
+      "nativeName": "Morocco",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.434Z"
+    },
+    {
+      "code": "MZ",
+      "name": "Mozambique",
+      "demonym": "Mozambique",
+      "nativeName": "Mozambique",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:49.630Z"
+    },
+    {
+      "code": "MM",
+      "name": "Myanmar",
+      "demonym": "Myanmar",
+      "nativeName": "Myanmar",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.437Z"
+    },
+    {
+      "code": "NA",
+      "name": "Namibia",
+      "demonym": "Namibia",
+      "nativeName": "Namibia",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:49.631Z"
+    },
+    {
+      "code": "NP",
+      "name": "Nepal",
+      "demonym": "Nepal",
+      "nativeName": "Nepal",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:49.634Z"
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands",
+      "demonym": "Netherlands",
+      "nativeName": "Netherlands",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:49.633Z"
+    },
+    {
+      "code": "NC",
+      "name": "New Caledonia",
+      "demonym": "New Caledonia",
+      "nativeName": "New Caledonia",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:49.631Z"
+    },
+    {
+      "code": "NZ",
+      "name": "New Zealand",
+      "demonym": "New Zealand",
+      "nativeName": "New Zealand",
+      "hasData": true,
+      "mapperCount": 2,
+      "lastUpdated": "2026-07-13T05:44:47.106Z"
+    },
+    {
+      "code": "NI",
+      "name": "Nicaragua",
+      "demonym": "Nicaragua",
+      "nativeName": "Nicaragua",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:49.633Z"
+    },
+    {
+      "code": "NE",
+      "name": "Niger",
+      "demonym": "Niger",
+      "nativeName": "Niger",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:49.632Z"
+    },
+    {
+      "code": "NG",
+      "name": "Nigeria",
+      "demonym": "Nigeria",
+      "nativeName": "Nigeria",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:49.632Z"
+    },
+    {
+      "code": "NU",
+      "name": "Niue",
+      "demonym": "Niue",
+      "nativeName": "Niue",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:49.634Z"
+    },
+    {
+      "code": "MK",
+      "name": "North Macedonia",
+      "demonym": "North Macedonia",
+      "nativeName": "North Macedonia",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.437Z"
+    },
+    {
+      "code": "MP",
+      "name": "Northern Mariana Islands",
+      "demonym": "Northern Mariana Islands",
+      "nativeName": "Northern Mariana Islands",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.439Z"
+    },
+    {
+      "code": "NO",
+      "name": "Norway",
+      "demonym": "Norway",
+      "nativeName": "Norway",
+      "hasData": true,
+      "mapperCount": 4,
+      "lastUpdated": "2026-07-05T06:13:45.235Z"
+    },
+    {
+      "code": "OM",
+      "name": "Oman",
+      "demonym": "Oman",
+      "nativeName": "Oman",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:49.635Z"
+    },
+    {
+      "code": "PK",
+      "name": "Pakistan",
+      "demonym": "Pakistan",
+      "nativeName": "Pakistan",
+      "hasData": true,
+      "mapperCount": 1,
+      "lastUpdated": "2026-07-15T04:57:12.559Z"
+    },
+    {
+      "code": "PW",
+      "name": "Palau",
+      "demonym": "Palau",
+      "nativeName": "Palau",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:56.440Z"
+    },
+    {
+      "code": "PA",
+      "name": "Panama",
+      "demonym": "Panama",
+      "nativeName": "Panama",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:49.635Z"
+    },
+    {
+      "code": "PG",
+      "name": "Papua New Guinea",
+      "demonym": "Papua New Guinea",
+      "nativeName": "Papua New Guinea",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:49.637Z"
+    },
+    {
+      "code": "PY",
+      "name": "Paraguay",
+      "demonym": "Paraguay",
+      "nativeName": "Paraguay",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:56.441Z"
+    },
+    {
+      "code": "PE",
+      "name": "Peru",
+      "demonym": "Peru",
+      "nativeName": "Peru",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:49.636Z"
+    },
+    {
+      "code": "PH",
+      "name": "Philippines",
+      "demonym": "Philippines",
+      "nativeName": "Philippines",
+      "hasData": true,
+      "mapperCount": 14,
+      "lastUpdated": "2026-07-14T04:57:03.244Z"
+    },
+    {
+      "code": "PL",
+      "name": "Poland",
+      "demonym": "Poland",
+      "nativeName": "Poland",
+      "hasData": true,
+      "mapperCount": 17,
+      "lastUpdated": "2026-07-16T05:16:47.478Z"
+    },
+    {
+      "code": "PT",
+      "name": "Portugal",
+      "demonym": "Portugal",
+      "nativeName": "Portugal",
+      "hasData": true,
+      "mapperCount": 2,
+      "lastUpdated": "2026-07-17T05:19:37.861Z"
+    },
+    {
+      "code": "PR",
+      "name": "Puerto Rico",
+      "demonym": "Puerto Rico",
+      "nativeName": "Puerto Rico",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:56.439Z"
+    },
+    {
+      "code": "QA",
+      "name": "Qatar",
+      "demonym": "Qatar",
+      "nativeName": "Qatar",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:56.441Z"
+    },
+    {
+      "code": "RE",
+      "name": "Reunion",
+      "demonym": "Reunion",
+      "nativeName": "Reunion",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:56.442Z"
+    },
+    {
+      "code": "RO",
+      "name": "Romania",
+      "demonym": "Romania",
+      "nativeName": "Romania",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:56.442Z"
+    },
+    {
+      "code": "RU",
+      "name": "Russian Federation",
+      "demonym": "Russian Federation",
+      "nativeName": "Russian Federation",
+      "hasData": true,
+      "mapperCount": 15,
+      "lastUpdated": "2026-07-19T05:31:25.869Z"
+    },
+    {
+      "code": "RW",
+      "name": "Rwanda",
+      "demonym": "Rwanda",
+      "nativeName": "Rwanda",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:59.010Z"
+    },
+    {
+      "code": "BL",
+      "name": "Saint Barthelemy",
+      "demonym": "Saint Barthelemy",
+      "nativeName": "Saint Barthelemy",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:16.563Z"
+    },
+    {
+      "code": "KN",
+      "name": "Saint Kitts and Nevis",
+      "demonym": "Saint Kitts and Nevis",
+      "nativeName": "Saint Kitts and Nevis",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.428Z"
+    },
+    {
+      "code": "LC",
+      "name": "Saint Lucia",
+      "demonym": "Saint Lucia",
+      "nativeName": "Saint Lucia",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.431Z"
+    },
+    {
+      "code": "MF",
+      "name": "Saint Martin",
+      "demonym": "Saint Martin",
+      "nativeName": "Saint Martin",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.436Z"
+    },
+    {
+      "code": "PM",
+      "name": "Saint Pierre and Miquelon",
+      "demonym": "Saint Pierre and Miquelon",
+      "nativeName": "Saint Pierre and Miquelon",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:56.438Z"
+    },
+    {
+      "code": "VC",
+      "name": "Saint Vincent and the Grenadines",
+      "demonym": "Saint Vincent and the Grenadines",
+      "nativeName": "Saint Vincent and the Grenadines",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:43:16.114Z"
+    },
+    {
+      "code": "WS",
+      "name": "Samoa",
+      "demonym": "Samoa",
+      "nativeName": "Samoa",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:43:17.702Z"
+    },
+    {
+      "code": "SM",
+      "name": "San Marino",
+      "demonym": "San Marino",
+      "nativeName": "San Marino",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:59.851Z"
+    },
+    {
+      "code": "ST",
+      "name": "Sao Tome and Principe",
+      "demonym": "Sao Tome and Principe",
+      "nativeName": "Sao Tome and Principe",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:59.853Z"
+    },
+    {
+      "code": "SA",
+      "name": "Saudi Arabia",
+      "demonym": "Saudi Arabia",
+      "nativeName": "Saudi Arabia",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:59.011Z"
+    },
+    {
+      "code": "SN",
+      "name": "Senegal",
+      "demonym": "Senegal",
+      "nativeName": "Senegal",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:59.851Z"
+    },
+    {
+      "code": "RS",
+      "name": "Serbia",
+      "demonym": "Serbia",
+      "nativeName": "Serbia",
+      "hasData": true,
+      "mapperCount": 1,
+      "lastUpdated": "2026-07-18T04:54:04.546Z"
+    },
+    {
+      "code": "SC",
+      "name": "Seychelles",
+      "demonym": "Seychelles",
+      "nativeName": "Seychelles",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:59.012Z"
+    },
+    {
+      "code": "SL",
+      "name": "Sierra Leone",
+      "demonym": "Sierra Leone",
+      "nativeName": "Sierra Leone",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:59.851Z"
+    },
+    {
+      "code": "SG",
+      "name": "Singapore",
+      "demonym": "Singapore",
+      "nativeName": "Singapore",
+      "hasData": true,
+      "mapperCount": 5,
+      "lastUpdated": "2026-07-21T05:27:01.377Z"
+    },
+    {
+      "code": "SX",
+      "name": "Sint Maarten",
+      "demonym": "Sint Maarten",
+      "nativeName": "Sint Maarten",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:59.854Z"
+    },
+    {
+      "code": "SK",
+      "name": "Slovakia",
+      "demonym": "Slovakia",
+      "nativeName": "Slovakia",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:59.850Z"
+    },
+    {
+      "code": "SI",
+      "name": "Slovenia",
+      "demonym": "Slovenia",
+      "nativeName": "Slovenia",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:59.849Z"
+    },
+    {
+      "code": "SB",
+      "name": "Solomon Islands",
+      "demonym": "Solomon Islands",
+      "nativeName": "Solomon Islands",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:59.011Z"
+    },
+    {
+      "code": "SO",
+      "name": "Somalia",
+      "demonym": "Somalia",
+      "nativeName": "Somalia",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:59.852Z"
+    },
+    {
+      "code": "ZA",
+      "name": "South Africa",
+      "demonym": "South Africa",
+      "nativeName": "South Africa",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:43:17.703Z"
+    },
+    {
+      "code": "KR",
+      "name": "South Korea",
+      "demonym": "South Korea",
+      "nativeName": "South Korea",
+      "hasData": true,
+      "mapperCount": 286,
+      "lastUpdated": "2026-07-23T05:31:41.515Z"
+    },
+    {
+      "code": "SS",
+      "name": "South Sudan",
+      "demonym": "South Sudan",
+      "nativeName": "South Sudan",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:59.853Z"
+    },
+    {
+      "code": "ES",
+      "name": "Spain",
+      "demonym": "Spain",
+      "nativeName": "Spain",
+      "hasData": true,
+      "mapperCount": 7,
+      "lastUpdated": "2026-07-10T06:12:14.851Z"
+    },
+    {
+      "code": "LK",
+      "name": "Sri Lanka",
+      "demonym": "Sri Lanka",
+      "nativeName": "Sri Lanka",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:47.432Z"
+    },
+    {
+      "code": "PS",
+      "name": "State of Palestine",
+      "demonym": "State of Palestine",
+      "nativeName": "State of Palestine",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:56.440Z"
+    },
+    {
+      "code": "SD",
+      "name": "Sudan",
+      "demonym": "Sudan",
+      "nativeName": "Sudan",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:59.012Z"
+    },
+    {
+      "code": "SR",
+      "name": "Suriname",
+      "demonym": "Suriname",
+      "nativeName": "Suriname",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:59.852Z"
+    },
+    {
+      "code": "SE",
+      "name": "Sweden",
+      "demonym": "Sweden",
+      "nativeName": "Sweden",
+      "hasData": true,
+      "mapperCount": 16,
+      "lastUpdated": "2026-07-20T05:48:29.342Z"
+    },
+    {
+      "code": "CH",
+      "name": "Switzerland",
+      "demonym": "Switzerland",
+      "nativeName": "Switzerland",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:24.611Z"
+    },
+    {
+      "code": "SY",
+      "name": "Syrian Arab Republic",
+      "demonym": "Syrian Arab Republic",
+      "nativeName": "Syrian Arab Republic",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:59.854Z"
+    },
+    {
+      "code": "TW",
+      "name": "Taiwan",
+      "demonym": "Taiwan",
+      "nativeName": "Taiwan",
+      "hasData": true,
+      "mapperCount": 20,
+      "lastUpdated": "2026-07-24T05:26:15.454Z"
+    },
+    {
+      "code": "TJ",
+      "name": "Tajikistan",
+      "demonym": "Tajikistan",
+      "nativeName": "Tajikistan",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:43:02.636Z"
+    },
+    {
+      "code": "TH",
+      "name": "Thailand",
+      "demonym": "Thailand",
+      "nativeName": "Thailand",
+      "hasData": true,
+      "mapperCount": 12,
+      "lastUpdated": "2026-07-22T05:25:44.254Z"
+    },
+    {
+      "code": "CD",
+      "name": "The Democratic Republic of the Congo",
+      "demonym": "The Democratic Republic of the Congo",
+      "nativeName": "The Democratic Republic of the Congo",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:24.610Z"
+    },
+    {
+      "code": "TL",
+      "name": "Timor-Leste",
+      "demonym": "Timor-Leste",
+      "nativeName": "Timor-Leste",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:43:02.637Z"
+    },
+    {
+      "code": "TG",
+      "name": "Togo",
+      "demonym": "Togo",
+      "nativeName": "Togo",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:59.856Z"
+    },
+    {
+      "code": "TO",
+      "name": "Tonga",
+      "demonym": "Tonga",
+      "nativeName": "Tonga",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:43:02.638Z"
+    },
+    {
+      "code": "TT",
+      "name": "Trinidad and Tobago",
+      "demonym": "Trinidad and Tobago",
+      "nativeName": "Trinidad and Tobago",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:43:03.446Z"
+    },
+    {
+      "code": "TN",
+      "name": "Tunisia",
+      "demonym": "Tunisia",
+      "nativeName": "Tunisia",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:43:02.638Z"
+    },
+    {
+      "code": "TR",
+      "name": "Türkiye",
+      "demonym": "Türkiye",
+      "nativeName": "Türkiye",
+      "hasData": true,
+      "mapperCount": 1,
+      "lastUpdated": "2026-07-23T05:33:22.516Z"
+    },
+    {
+      "code": "TM",
+      "name": "Turkmenistan",
+      "demonym": "Turkmenistan",
+      "nativeName": "Turkmenistan",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:43:02.637Z"
+    },
+    {
+      "code": "TC",
+      "name": "Turks and Caicos Islands",
+      "demonym": "Turks and Caicos Islands",
+      "nativeName": "Turks and Caicos Islands",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:59.855Z"
+    },
+    {
+      "code": "TV",
+      "name": "Tuvalu",
+      "demonym": "Tuvalu",
+      "nativeName": "Tuvalu",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:43:03.446Z"
+    },
+    {
+      "code": "UG",
+      "name": "Uganda",
+      "demonym": "Uganda",
+      "nativeName": "Uganda",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:43:04.455Z"
+    },
+    {
+      "code": "UA",
+      "name": "Ukraine",
+      "demonym": "Ukraine",
+      "nativeName": "Ukraine",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:43:04.455Z"
+    },
+    {
+      "code": "AE",
+      "name": "United Arab Emirates",
+      "demonym": "United Arab Emirates",
+      "nativeName": "United Arab Emirates",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:12.381Z"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom",
+      "demonym": "United Kingdom",
+      "nativeName": "United Kingdom",
+      "hasData": true,
+      "mapperCount": 44,
+      "lastUpdated": "2026-07-15T04:56:59.879Z"
+    },
+    {
+      "code": "TZ",
+      "name": "United Republic of Tanzania",
+      "demonym": "United Republic of Tanzania",
+      "nativeName": "United Republic of Tanzania",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:43:04.454Z"
+    },
+    {
+      "code": "US",
+      "name": "United States",
+      "demonym": "United States",
+      "nativeName": "United States",
+      "hasData": true,
+      "mapperCount": 139,
+      "lastUpdated": "2026-07-10T06:12:21.551Z"
+    },
+    {
+      "code": "UY",
+      "name": "Uruguay",
+      "demonym": "Uruguay",
+      "nativeName": "Uruguay",
+      "hasData": true,
+      "mapperCount": 1,
+      "lastUpdated": "2026-07-04T18:43:15.517Z"
+    },
+    {
+      "code": "UZ",
+      "name": "Uzbekistan",
+      "demonym": "Uzbekistan",
+      "nativeName": "Uzbekistan",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:43:16.113Z"
+    },
+    {
+      "code": "VU",
+      "name": "Vanuatu",
+      "demonym": "Vanuatu",
+      "nativeName": "Vanuatu",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:43:17.701Z"
+    },
+    {
+      "code": "VE",
+      "name": "Venezuela",
+      "demonym": "Venezuela",
+      "nativeName": "Venezuela",
+      "hasData": true,
+      "mapperCount": 3,
+      "lastUpdated": "2026-07-13T05:44:47.836Z"
+    },
+    {
+      "code": "VN",
+      "name": "Vietnam",
+      "demonym": "Vietnam",
+      "nativeName": "Vietnam",
+      "hasData": true,
+      "mapperCount": 1,
+      "lastUpdated": "2026-07-14T04:57:08.045Z"
+    },
+    {
+      "code": "VG",
+      "name": "Virgin Islands, British",
+      "demonym": "Virgin Islands, British",
+      "nativeName": "Virgin Islands, British",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:43:16.886Z"
+    },
+    {
+      "code": "VI",
+      "name": "Virgin Islands, U.S.",
+      "demonym": "Virgin Islands, U.S.",
+      "nativeName": "Virgin Islands, U.S.",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:43:16.887Z"
+    },
+    {
+      "code": "WF",
+      "name": "Wallis and Futuna",
+      "demonym": "Wallis and Futuna",
+      "nativeName": "Wallis and Futuna",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:43:17.701Z"
+    },
+    {
+      "code": "YE",
+      "name": "Yemen",
+      "demonym": "Yemen",
+      "nativeName": "Yemen",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:43:17.703Z"
+    },
+    {
+      "code": "ZM",
+      "name": "Zambia",
+      "demonym": "Zambia",
+      "nativeName": "Zambia",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:43:17.704Z"
+    },
+    {
+      "code": "ZW",
+      "name": "Zimbabwe",
+      "demonym": "Zimbabwe",
+      "nativeName": "Zimbabwe",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:43:17.704Z"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "country": {
+    "code": "IE",
+    "name": "Ireland",
+    "demonym": "Ireland",
+    "nativeName": "Ireland"
+  },
+  "lastUpdated": "2026-07-19T05:31:25.449Z",
+  "totalMappers": 1,
+  "totalBeatmaps": 1,
+  "totalBeatmapsets": 1,
+  "totalOwnBeatmapsets": 1,
+  "totalGuestBeatmapsets": 0,
+  "totalGuestDiffs": 0,
+  "totalOwnDifficulties": 1,
+  "scanType": "incremental",
+  "mappers": [
+    {
+      "user_id": "407",
+      "username": "Level-Up!",
+      "aliases": [
+        "Level-Up"
+      ],
+      "country": "IE",
+      "rankedBeatmaps": 1,
+      "rankedBeatmapsets": 1,
+      "ownBeatmapsets": 1,
+      "guestBeatmapsets": 0,
+      "totalGuestDiffs": 0,
+      "ownDifficulties": 1,
+      "beatmaps": [
+        {
+          "beatmapset_id": "52",
+          "beatmap_id": "137",
+          "approved": "1",
+          "total_length": "152",
+          "hit_length": "139",
+          "version": "Normal",
+          "file_md5": "ba0074806a2c930fb018e5d825f828b3",
+          "diff_size": "5",
+          "diff_overall": "5",
+          "diff_approach": "5",
+          "diff_drain": "5",
+          "mode": "0",
+          "count_normal": "142",
+          "count_slider": "10",
+          "count_spinner": "2",
+          "submit_date": "2007-10-08 18:36:35",
+          "approved_date": "2007-10-08 18:36:35",
+          "last_update": "2007-10-08 18:36:35",
+          "artist": "Marta",
+          "artist_unicode": null,
+          "title": "The SMRPG Song",
+          "title_unicode": null,
+          "creator": "Level-Up",
+          "creator_id": "407",
+          "bpm": "160",
+          "source": "",
+          "tags": "",
+          "genre_id": "2",
+          "language_id": "2",
+          "favourite_count": "84",
+          "rating": "7.74889",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "91002",
+          "passcount": "26220",
+          "packs": "S2",
+          "max_combo": "206",
+          "diff_aim": "1.33195",
+          "diff_speed": "0.789683",
+          "difficultyrating": "2.31604"
+        }
+      ],
+      "beatmapsets": [
+        {
+          "beatmapset_id": "52",
+          "title": "The SMRPG Song",
+          "artist": "Marta",
+          "creator": "Level-Up",
+          "approved_date": "2007-10-08 18:36:35",
+          "difficulties": [
+            {
+              "beatmap_id": "137",
+              "version": "Normal",
+              "difficultyrating": "2.31604",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        }
+      ],
+      "guestDifficulties": [],
+      "stats": {
+        "totalBeatmaps": 1,
+        "totalBeatmapsets": 1,
+        "ownBeatmapsets": 1,
+        "guestBeatmapsets": 0,
+        "totalGuestDiffs": 0,
+        "ownDifficulties": 1
+      },
+      "lastUpdated": "2026-07-19T05:31:25.449Z"
+    }
+  ]
+}
