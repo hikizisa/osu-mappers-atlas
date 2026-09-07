@@ -5,7 +5,7 @@
     "demonym": "New Zealand",
     "nativeName": "New Zealand"
   },
-  "lastUpdated": "2026-08-24T03:09:45.295Z",
+  "lastUpdated": "2026-09-07T07:12:58.609Z",
   "totalMappers": 7,
   "totalBeatmaps": 366,
   "totalBeatmapsets": 91,
@@ -5704,9 +5704,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "312",
-          "playcount": "53294"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1597784",
@@ -6819,7 +6817,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 128
       },
-      "lastUpdated": "2026-08-24T03:09:45.295Z"
+      "lastUpdated": "2026-09-07T07:12:58.609Z"
     },
     {
       "user_id": "3056732",
@@ -11373,7 +11371,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 85
       },
-      "lastUpdated": "2026-08-24T03:09:45.295Z"
+      "lastUpdated": "2026-09-07T07:12:58.609Z"
     },
     {
       "user_id": "231111",
@@ -14120,7 +14118,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 51
       },
-      "lastUpdated": "2026-08-24T03:09:45.295Z"
+      "lastUpdated": "2026-09-07T07:12:58.609Z"
     },
     {
       "user_id": "431",
@@ -16631,7 +16629,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 45
       },
-      "lastUpdated": "2026-08-24T03:09:45.295Z"
+      "lastUpdated": "2026-09-07T07:12:58.609Z"
     },
     {
       "user_id": "867259",
@@ -18807,7 +18805,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 40
       },
-      "lastUpdated": "2026-08-24T03:09:45.295Z"
+      "lastUpdated": "2026-09-07T07:12:58.609Z"
     },
     {
       "user_id": "128370",
@@ -19536,7 +19534,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 13
       },
-      "lastUpdated": "2026-08-24T03:09:45.295Z"
+      "lastUpdated": "2026-09-07T07:12:58.609Z"
     },
     {
       "user_id": "3518735",
@@ -19776,7 +19774,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 4
       },
-      "lastUpdated": "2026-08-24T03:09:45.295Z"
+      "lastUpdated": "2026-09-07T07:12:58.609Z"
     }
   ]
 }
