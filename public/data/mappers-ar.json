@@ -5,11 +5,11 @@
     "demonym": "Argentina",
     "nativeName": "Argentina"
   },
-  "lastUpdated": "2026-08-26T03:11:15.352Z",
+  "lastUpdated": "2026-09-09T07:15:51.114Z",
   "totalMappers": 5,
-  "totalBeatmaps": 191,
-  "totalBeatmapsets": 67,
-  "totalOwnBeatmapsets": 67,
+  "totalBeatmaps": 192,
+  "totalBeatmapsets": 68,
+  "totalOwnBeatmapsets": 68,
   "totalGuestBeatmapsets": 0,
   "totalGuestDiffs": 0,
   "totalOwnDifficulties": 180,
@@ -22,13 +22,57 @@
         "Hareimu"
       ],
       "country": "AR",
-      "rankedBeatmaps": 150,
-      "rankedBeatmapsets": 52,
-      "ownBeatmapsets": 52,
+      "rankedBeatmaps": 151,
+      "rankedBeatmapsets": 53,
+      "ownBeatmapsets": 53,
       "guestBeatmapsets": 0,
       "totalGuestDiffs": 0,
       "ownDifficulties": 146,
       "beatmaps": [
+        {
+          "beatmapset_id": "2600647",
+          "beatmap_id": "5813748",
+          "approved": "1",
+          "total_length": "393",
+          "hit_length": "340",
+          "version": "canaria",
+          "file_md5": "a89274b03056b34018cb3cd7fca608f4",
+          "diff_size": "4",
+          "diff_overall": "9.7",
+          "diff_approach": "9.7",
+          "diff_drain": "4",
+          "mode": "2",
+          "count_normal": "1395",
+          "count_slider": "971",
+          "count_spinner": "5",
+          "submit_date": "2026-08-10 03:16:25",
+          "approved_date": "2026-08-30 12:26:59",
+          "last_update": "2026-08-23 18:52:26",
+          "artist": "Null Specification",
+          "artist_unicode": "Null Specification",
+          "title": "#1208",
+          "title_unicode": "#1208",
+          "creator": "Cielbami",
+          "creator_id": "4138746",
+          "bpm": "210",
+          "source": "ハッピーシュガーライフ",
+          "tags": "overdose deluge marathon japanese electronic vocals vocalist jaycore jcore j-core frenchcore hardcore remix bootleg anime happy sugar life ナナヲアカリ nanawo akari ワンルームシュガーライフ one room reona カナリア canaria 松坂 さとう matsuzaka satō satou 花澤 香菜 hanazawa kana 神戸 しお kōbe shio 久野 美咲 kuno misaki ciel hareimu reimu",
+          "genre_id": "10",
+          "language_id": "3",
+          "favourite_count": "19",
+          "rating": "0",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "593",
+          "passcount": "55",
+          "packs": "SC168",
+          "max_combo": "3456",
+          "diff_aim": "7.59574",
+          "diff_speed": null,
+          "difficultyrating": "7.59574"
+        },
         {
           "beatmapset_id": "558507",
           "beatmap_id": "5556226",
@@ -8200,18 +8244,35 @@
             }
           ],
           "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2600647",
+          "title": "#1208",
+          "artist": "Null Specification",
+          "creator": "Cielbami",
+          "approved_date": "2026-08-30 12:26:59",
+          "difficulties": [
+            {
+              "beatmap_id": "5813748",
+              "version": "canaria",
+              "difficultyrating": "7.59574",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
       "stats": {
-        "totalBeatmaps": 150,
-        "totalBeatmapsets": 52,
-        "ownBeatmapsets": 52,
+        "totalBeatmaps": 151,
+        "totalBeatmapsets": 53,
+        "ownBeatmapsets": 53,
         "guestBeatmapsets": 0,
         "totalGuestDiffs": 0,
-        "ownDifficulties": 150
+        "ownDifficulties": 151
       },
-      "lastUpdated": "2026-08-26T03:11:15.352Z"
+      "lastUpdated": "2026-09-09T07:15:51.114Z"
     },
     {
       "user_id": "6707918",
@@ -10071,7 +10132,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 34
       },
-      "lastUpdated": "2026-08-26T03:11:15.352Z"
+      "lastUpdated": "2026-09-09T07:15:51.114Z"
     },
     {
       "user_id": "555",
@@ -10280,7 +10341,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-08-26T03:11:15.352Z"
+      "lastUpdated": "2026-09-09T07:15:51.114Z"
     },
     {
       "user_id": "1961",
@@ -10418,7 +10479,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 2
       },
-      "lastUpdated": "2026-08-26T03:11:15.352Z"
+      "lastUpdated": "2026-09-09T07:15:51.114Z"
     },
     {
       "user_id": "41568",
@@ -10556,7 +10617,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 2
       },
-      "lastUpdated": "2026-08-26T03:11:15.352Z"
+      "lastUpdated": "2026-09-09T07:15:51.114Z"
     }
   ]
 }
