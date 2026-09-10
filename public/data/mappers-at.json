@@ -5,7 +5,7 @@
     "demonym": "Austria",
     "nativeName": "Austria"
   },
-  "lastUpdated": "2026-08-27T12:40:31.491Z",
+  "lastUpdated": "2026-09-10T07:12:08.012Z",
   "totalMappers": 2,
   "totalBeatmaps": 160,
   "totalBeatmapsets": 58,
@@ -6338,9 +6338,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "20",
-          "playcount": "1045"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2558447",
@@ -6357,9 +6355,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "13",
-          "playcount": "733"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2475386",
@@ -6965,9 +6961,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "19",
-          "playcount": "12034"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2143862",
@@ -7012,9 +7006,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "128",
-          "playcount": "25880"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2147438",
@@ -7031,9 +7023,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "19",
-          "playcount": "2503"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2137241",
@@ -7050,9 +7040,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "21",
-          "playcount": "10162"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1960126",
@@ -7886,7 +7874,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 143
       },
-      "lastUpdated": "2026-08-27T12:40:31.491Z"
+      "lastUpdated": "2026-09-10T07:12:08.012Z"
     },
     {
       "user_id": "73480",
@@ -8819,7 +8807,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 17
       },
-      "lastUpdated": "2026-08-27T12:40:31.491Z"
+      "lastUpdated": "2026-09-10T07:12:08.012Z"
     }
   ]
 }

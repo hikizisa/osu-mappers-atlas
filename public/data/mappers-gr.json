@@ -5,7 +5,7 @@
     "demonym": "Greece",
     "nativeName": "Greece"
   },
-  "lastUpdated": "2026-09-01T08:27:27.396Z",
+  "lastUpdated": "2026-09-10T07:12:08.923Z",
   "totalMappers": 5,
   "totalBeatmaps": 389,
   "totalBeatmapsets": 107,
@@ -17677,7 +17677,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 328
       },
-      "lastUpdated": "2026-09-01T08:27:27.396Z"
+      "lastUpdated": "2026-09-10T07:12:08.923Z"
     },
     {
       "user_id": "5530",
@@ -19506,7 +19506,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 33
       },
-      "lastUpdated": "2026-09-01T08:27:27.396Z"
+      "lastUpdated": "2026-09-10T07:12:08.923Z"
     },
     {
       "user_id": "4625954",
@@ -20095,58 +20095,6 @@
       ],
       "beatmapsets": [
         {
-          "beatmapset_id": "350290",
-          "title": "Deadliner",
-          "artist": "P*Light",
-          "creator": "xDarxen",
-          "approved_date": "2016-03-06 05:15:42",
-          "difficulties": [
-            {
-              "beatmap_id": "772286",
-              "version": "Extremity",
-              "difficultyrating": "5.78175",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "772734",
-              "version": "Easy",
-              "difficultyrating": "1.67545",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "774786",
-              "version": "FCL's Insane",
-              "difficultyrating": "4.89284",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "774787",
-              "version": "Normal",
-              "difficultyrating": "2.21359",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "778908",
-              "version": "Lumael's Hard",
-              "difficultyrating": "3.37563",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "822643",
-              "version": "eze's Extra",
-              "difficultyrating": "5.67626",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
           "beatmapset_id": "482317",
           "title": "Surrender The Throne",
           "artist": "Krewella",
@@ -20204,6 +20152,58 @@
             }
           ],
           "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "350290",
+          "title": "Deadliner",
+          "artist": "P*Light",
+          "creator": "xDarxen",
+          "approved_date": "2016-03-06 05:15:42",
+          "difficulties": [
+            {
+              "beatmap_id": "772286",
+              "version": "Extremity",
+              "difficultyrating": "5.78175",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "772734",
+              "version": "Easy",
+              "difficultyrating": "1.67545",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "774786",
+              "version": "FCL's Insane",
+              "difficultyrating": "4.89284",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "774787",
+              "version": "Normal",
+              "difficultyrating": "2.21359",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "778908",
+              "version": "Lumael's Hard",
+              "difficultyrating": "3.37563",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "822643",
+              "version": "eze's Extra",
+              "difficultyrating": "5.67626",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
@@ -20215,7 +20215,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 13
       },
-      "lastUpdated": "2026-09-01T08:27:27.396Z"
+      "lastUpdated": "2026-09-10T07:12:08.923Z"
     },
     {
       "user_id": "5572371",
@@ -20659,7 +20659,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 8
       },
-      "lastUpdated": "2026-09-01T08:27:27.396Z"
+      "lastUpdated": "2026-09-10T07:12:08.923Z"
     },
     {
       "user_id": "1990890",
@@ -21052,7 +21052,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 7
       },
-      "lastUpdated": "2026-09-01T08:27:27.396Z"
+      "lastUpdated": "2026-09-10T07:12:08.923Z"
     }
   ]
 }
