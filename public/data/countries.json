@@ -1,6 +1,6 @@
 {
   "defaultCountry": "KR",
-  "generatedAt": "2026-09-10T07:12:18.514Z",
+  "generatedAt": "2026-09-11T07:11:34.605Z",
   "source": "https://osu.ppy.sh/rankings/osu/country",
   "countries": [
     {
@@ -136,7 +136,7 @@
       "nativeName": "Australia",
       "hasData": true,
       "mapperCount": 47,
-      "lastUpdated": "2026-08-28T14:13:59.893Z"
+      "lastUpdated": "2026-09-11T07:11:14.613Z"
     },
     {
       "code": "AT",
@@ -856,7 +856,7 @@
       "nativeName": "Hong Kong",
       "hasData": true,
       "mapperCount": 20,
-      "lastUpdated": "2026-08-28T14:14:11.458Z"
+      "lastUpdated": "2026-09-11T07:11:27.060Z"
     },
     {
       "code": "HU",
@@ -1495,7 +1495,7 @@
       "nativeName": "Portugal",
       "hasData": true,
       "mapperCount": 2,
-      "lastUpdated": "2026-08-28T14:14:16.575Z"
+      "lastUpdated": "2026-09-11T07:11:32.457Z"
     },
     {
       "code": "PR",
@@ -1802,6 +1802,15 @@
       "hasData": true,
       "mapperCount": 0,
       "lastUpdated": "2026-07-04T18:42:59.852Z"
+    },
+    {
+      "code": "SJ",
+      "name": "Svalbard and Jan Mayen",
+      "demonym": "Svalbard and Jan Mayen",
+      "nativeName": "Svalbard and Jan Mayen",
+      "hasData": true,
+      "mapperCount": 0,
+      "lastUpdated": "2026-07-04T18:42:59.850Z"
     },
     {
       "code": "SE",
