@@ -1,6 +1,6 @@
 {
   "defaultCountry": "KR",
-  "generatedAt": "2026-09-11T07:11:34.605Z",
+  "generatedAt": "2026-09-12T07:03:08.743Z",
   "source": "https://osu.ppy.sh/rankings/osu/country",
   "countries": [
     {
@@ -208,7 +208,7 @@
       "nativeName": "Belgium",
       "hasData": true,
       "mapperCount": 4,
-      "lastUpdated": "2026-09-01T08:27:05.245Z"
+      "lastUpdated": "2026-09-12T07:02:59.404Z"
     },
     {
       "code": "BZ",
@@ -625,6 +625,15 @@
       "lastUpdated": "2026-07-04T18:42:36.700Z"
     },
     {
+      "code": "FK",
+      "name": "Falkland Islands (Malvinas)",
+      "demonym": "Falkland Islands (Malvinas)",
+      "nativeName": "Falkland Islands (Malvinas)",
+      "hasData": false,
+      "mapperCount": 0,
+      "lastUpdated": null
+    },
+    {
       "code": "FO",
       "name": "Faroe Islands",
       "demonym": "Faroe Islands",
@@ -892,7 +901,7 @@
       "nativeName": "Indonesia",
       "hasData": true,
       "mapperCount": 14,
-      "lastUpdated": "2026-08-29T08:51:52.500Z"
+      "lastUpdated": "2026-09-12T07:03:00.981Z"
     },
     {
       "code": "IQ",
@@ -1657,7 +1666,7 @@
       "nativeName": "Serbia",
       "hasData": true,
       "mapperCount": 1,
-      "lastUpdated": "2026-08-29T08:51:57.198Z"
+      "lastUpdated": "2026-09-12T07:03:06.540Z"
     },
     {
       "code": "SC",

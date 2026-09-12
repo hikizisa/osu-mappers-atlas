@@ -5,7 +5,7 @@
     "demonym": "Belgium",
     "nativeName": "Belgium"
   },
-  "lastUpdated": "2026-09-01T08:27:05.245Z",
+  "lastUpdated": "2026-09-12T07:02:59.404Z",
   "totalMappers": 4,
   "totalBeatmaps": 97,
   "totalBeatmapsets": 43,
@@ -2054,218 +2054,142 @@
       ],
       "beatmapsets": [
         {
-          "beatmapset_id": "33741",
-          "title": "see-saw!! (Short Ver.)",
-          "artist": "Chata",
+          "beatmapset_id": "56994",
+          "title": "Pure Love, True Love (Short Ver.)",
+          "artist": "Nakae Mitsuki",
           "creator": "merchat7",
-          "approved_date": "2011-10-02 05:50:12",
+          "approved_date": "2012-12-22 16:42:03",
           "difficulties": [
             {
-              "beatmap_id": "109885",
+              "beatmap_id": "172070",
               "version": "Insane",
-              "difficultyrating": "4.03863",
+              "difficultyrating": "3.6515",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "111480",
-              "version": "Hinacle",
-              "difficultyrating": "3.47354",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "111558",
-              "version": "hoLysoup's Normal",
-              "difficultyrating": "1.92838",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "111591",
-              "version": "Easy",
-              "difficultyrating": "1.66058",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "37422",
-          "title": "Jouzu ni Dekiru Renai Jouju (Short Ver.)",
-          "artist": "Shindou Mayumi",
-          "creator": "merchat7",
-          "approved_date": "2011-12-20 08:41:02",
-          "difficulties": [
-            {
-              "beatmap_id": "120318",
-              "version": "Insane",
-              "difficultyrating": "4.40118",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "120594",
-              "version": "Easy",
-              "difficultyrating": "1.77934",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "120761",
-              "version": "Normal",
-              "difficultyrating": "2.14025",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "121167",
-              "version": "Hard",
-              "difficultyrating": "3.0379",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "122705",
-              "version": "KS's Taiko",
-              "difficultyrating": "4.2477",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "37423",
-          "title": "Love MOTTO (Short Ver.)",
-          "artist": "Moe Niji Taisen",
-          "creator": "merchat7",
-          "approved_date": "2011-12-28 09:10:06",
-          "difficulties": [
-            {
-              "beatmap_id": "120319",
-              "version": "Insane",
-              "difficultyrating": "4.26224",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "123759",
+              "beatmap_id": "172575",
               "version": "PainSinger's Easy",
-              "difficultyrating": "1.96598",
+              "difficultyrating": "1.52366",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "123955",
-              "version": "Ar3sgice's Normal",
-              "difficultyrating": "2.00536",
+              "beatmap_id": "174594",
+              "version": "Normal",
+              "difficultyrating": "1.81811",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "124814",
-              "version": "Hard",
-              "difficultyrating": "3.19357",
+              "beatmap_id": "176970",
+              "version": "alacat's Hard",
+              "difficultyrating": "2.90827",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "127110",
+              "beatmap_id": "177172",
+              "version": "KS's Taiko Muzukashii",
+              "difficultyrating": "2.29127",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "184347",
+              "version": "KS's Taiko Oni",
+              "difficultyrating": "3.46882",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "50112",
+          "title": "Asgardh (Short Ver.)",
+          "artist": "Aoba Ringo",
+          "creator": "merchat7",
+          "approved_date": "2012-11-11 23:09:03",
+          "difficulties": [
+            {
+              "beatmap_id": "154181",
+              "version": "Insane",
+              "difficultyrating": "3.63145",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "154803",
+              "version": "Miya's Hard",
+              "difficultyrating": "3.42578",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "154829",
+              "version": "Sekai's Easy",
+              "difficultyrating": "1.64098",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "154960",
               "version": "i_k's Taiko",
-              "difficultyrating": "4.31428",
+              "difficultyrating": "3.48886",
               "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "156459",
+              "version": "Normal",
+              "difficultyrating": "2.06395",
+              "mode": "0",
               "isGuestDiff": false
             }
           ],
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "41610",
-          "title": "Love Comp! (Short Ver.)",
-          "artist": "Sakakibara Yui",
+          "beatmapset_id": "47654",
+          "title": "Kimi wo Aogi Otome wa Hime ni (Short Ver.)",
+          "artist": "Ne;on",
           "creator": "merchat7",
-          "approved_date": "2012-03-27 22:43:16",
+          "approved_date": "2012-08-15 17:27:39",
           "difficulties": [
             {
-              "beatmap_id": "131369",
+              "beatmap_id": "147763",
               "version": "Insane",
-              "difficultyrating": "4.39404",
+              "difficultyrating": "4.43416",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "132481",
-              "version": "-Gamu-'s Hard",
-              "difficultyrating": "3.18742",
+              "beatmap_id": "148212",
+              "version": "Yasora's Hard",
+              "difficultyrating": "2.98045",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "135356",
-              "version": "Yasora's Normal",
-              "difficultyrating": "1.94682",
+              "beatmap_id": "149667",
+              "version": "Normal",
+              "difficultyrating": "2.37454",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "135425",
-              "version": "Easy",
-              "difficultyrating": "1.64589",
+              "beatmap_id": "150030",
+              "version": "5150's Easy",
+              "difficultyrating": "1.64923",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "136189",
-              "version": "KS's Taiko",
-              "difficultyrating": "3.94241",
+              "beatmap_id": "151321",
+              "version": "i_k's Taiko",
+              "difficultyrating": "4.12333",
               "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "42084",
-          "title": "swee-chu -Kiss Shite Onii-chan- (Short Ver.)",
-          "artist": "ALT",
-          "creator": "merchat7",
-          "approved_date": "2012-04-29 16:43:14",
-          "difficulties": [
-            {
-              "beatmap_id": "132523",
-              "version": "Insane",
-              "difficultyrating": "4.61604",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "133355",
-              "version": "Taiko DS",
-              "difficultyrating": "4.89773",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "133538",
-              "version": "Easy",
-              "difficultyrating": "1.89318",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "135079",
-              "version": "Loli's Normal",
-              "difficultyrating": "2.47224",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "136885",
-              "version": "regenz's Hard",
-              "difficultyrating": "3.79823",
-              "mode": "0",
               "isGuestDiff": false
             }
           ],
@@ -2324,89 +2248,44 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "47654",
-          "title": "Kimi wo Aogi Otome wa Hime ni (Short Ver.)",
-          "artist": "Ne;on",
+          "beatmapset_id": "42084",
+          "title": "swee-chu -Kiss Shite Onii-chan- (Short Ver.)",
+          "artist": "ALT",
           "creator": "merchat7",
-          "approved_date": "2012-08-15 17:27:39",
+          "approved_date": "2012-04-29 16:43:14",
           "difficulties": [
             {
-              "beatmap_id": "147763",
+              "beatmap_id": "132523",
               "version": "Insane",
-              "difficultyrating": "4.43416",
+              "difficultyrating": "4.61604",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "148212",
-              "version": "Yasora's Hard",
-              "difficultyrating": "2.98045",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "149667",
-              "version": "Normal",
-              "difficultyrating": "2.37454",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "150030",
-              "version": "5150's Easy",
-              "difficultyrating": "1.64923",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "151321",
-              "version": "i_k's Taiko",
-              "difficultyrating": "4.12333",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "50112",
-          "title": "Asgardh (Short Ver.)",
-          "artist": "Aoba Ringo",
-          "creator": "merchat7",
-          "approved_date": "2012-11-11 23:09:03",
-          "difficulties": [
-            {
-              "beatmap_id": "154181",
-              "version": "Insane",
-              "difficultyrating": "3.63145",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "154803",
-              "version": "Miya's Hard",
-              "difficultyrating": "3.42578",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "154829",
-              "version": "Sekai's Easy",
-              "difficultyrating": "1.64098",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "154960",
-              "version": "i_k's Taiko",
-              "difficultyrating": "3.48886",
+              "beatmap_id": "133355",
+              "version": "Taiko DS",
+              "difficultyrating": "4.89773",
               "mode": "1",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "156459",
-              "version": "Normal",
-              "difficultyrating": "2.06395",
+              "beatmap_id": "133538",
+              "version": "Easy",
+              "difficultyrating": "1.89318",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "135079",
+              "version": "Loli's Normal",
+              "difficultyrating": "2.47224",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "136885",
+              "version": "regenz's Hard",
+              "difficultyrating": "3.79823",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -2414,52 +2293,173 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "56994",
-          "title": "Pure Love, True Love (Short Ver.)",
-          "artist": "Nakae Mitsuki",
+          "beatmapset_id": "41610",
+          "title": "Love Comp! (Short Ver.)",
+          "artist": "Sakakibara Yui",
           "creator": "merchat7",
-          "approved_date": "2012-12-22 16:42:03",
+          "approved_date": "2012-03-27 22:43:16",
           "difficulties": [
             {
-              "beatmap_id": "172070",
+              "beatmap_id": "131369",
               "version": "Insane",
-              "difficultyrating": "3.6515",
+              "difficultyrating": "4.39404",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "172575",
+              "beatmap_id": "132481",
+              "version": "-Gamu-'s Hard",
+              "difficultyrating": "3.18742",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "135356",
+              "version": "Yasora's Normal",
+              "difficultyrating": "1.94682",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "135425",
+              "version": "Easy",
+              "difficultyrating": "1.64589",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "136189",
+              "version": "KS's Taiko",
+              "difficultyrating": "3.94241",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "37423",
+          "title": "Love MOTTO (Short Ver.)",
+          "artist": "Moe Niji Taisen",
+          "creator": "merchat7",
+          "approved_date": "2011-12-28 09:10:06",
+          "difficulties": [
+            {
+              "beatmap_id": "120319",
+              "version": "Insane",
+              "difficultyrating": "4.26224",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "123759",
               "version": "PainSinger's Easy",
-              "difficultyrating": "1.52366",
+              "difficultyrating": "1.96598",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "174594",
+              "beatmap_id": "123955",
+              "version": "Ar3sgice's Normal",
+              "difficultyrating": "2.00536",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "124814",
+              "version": "Hard",
+              "difficultyrating": "3.19357",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "127110",
+              "version": "i_k's Taiko",
+              "difficultyrating": "4.31428",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "37422",
+          "title": "Jouzu ni Dekiru Renai Jouju (Short Ver.)",
+          "artist": "Shindou Mayumi",
+          "creator": "merchat7",
+          "approved_date": "2011-12-20 08:41:02",
+          "difficulties": [
+            {
+              "beatmap_id": "120318",
+              "version": "Insane",
+              "difficultyrating": "4.40118",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "120594",
+              "version": "Easy",
+              "difficultyrating": "1.77934",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "120761",
               "version": "Normal",
-              "difficultyrating": "1.81811",
+              "difficultyrating": "2.14025",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "176970",
-              "version": "alacat's Hard",
-              "difficultyrating": "2.90827",
+              "beatmap_id": "121167",
+              "version": "Hard",
+              "difficultyrating": "3.0379",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "177172",
-              "version": "KS's Taiko Muzukashii",
-              "difficultyrating": "2.29127",
+              "beatmap_id": "122705",
+              "version": "KS's Taiko",
+              "difficultyrating": "4.2477",
               "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "33741",
+          "title": "see-saw!! (Short Ver.)",
+          "artist": "Chata",
+          "creator": "merchat7",
+          "approved_date": "2011-10-02 05:50:12",
+          "difficulties": [
+            {
+              "beatmap_id": "109885",
+              "version": "Insane",
+              "difficultyrating": "4.03863",
+              "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "184347",
-              "version": "KS's Taiko Oni",
-              "difficultyrating": "3.46882",
-              "mode": "1",
+              "beatmap_id": "111480",
+              "version": "Hinacle",
+              "difficultyrating": "3.47354",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "111558",
+              "version": "hoLysoup's Normal",
+              "difficultyrating": "1.92838",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "111591",
+              "version": "Easy",
+              "difficultyrating": "1.66058",
+              "mode": "0",
               "isGuestDiff": false
             }
           ],
@@ -2475,7 +2475,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 46
       },
-      "lastUpdated": "2026-09-01T08:27:05.245Z"
+      "lastUpdated": "2026-09-12T07:02:59.404Z"
     },
     {
       "user_id": "1612624",
@@ -3944,16 +3944,16 @@
       ],
       "beatmapsets": [
         {
-          "beatmapset_id": "133693",
-          "title": "Kanjou no Matenrou ~ World's End",
+          "beatmapset_id": "2386166",
+          "title": "Peaceful Romancer ~ It's Better To Burn Out Than To Fade Away",
           "artist": "Demetori",
           "creator": "GoldenWolf",
-          "approved_date": "2014-07-22 04:02:15",
+          "approved_date": "2025-08-17 22:24:03",
           "difficulties": [
             {
-              "beatmap_id": "335628",
-              "version": "Extra Stage",
-              "difficultyrating": "6.06625",
+              "beatmap_id": "5161342",
+              "version": "Artful Sacrifice",
+              "difficultyrating": "7.10207",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -3961,217 +3961,16 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "178777",
-          "title": "Higan Kikou ~ View of The River Styx",
+          "beatmapset_id": "1676228",
+          "title": "Yuuga ni Sakase, Sumizome no Sakura ~ The Harm of Coming into Existence",
           "artist": "Demetori",
           "creator": "GoldenWolf",
-          "approved_date": "2015-04-23 22:00:14",
+          "approved_date": "2022-04-18 14:47:21",
           "difficulties": [
             {
-              "beatmap_id": "429989",
-              "version": "Extra Stage",
-              "difficultyrating": "6.51159",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "320299",
-          "title": "Heartfelt Fancy",
-          "artist": "Demetori",
-          "creator": "GoldenWolf",
-          "approved_date": "2015-07-05 16:40:14",
-          "difficulties": [
-            {
-              "beatmap_id": "712742",
-              "version": "Stage 4",
-              "difficultyrating": "4.9058",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "192900",
-          "title": "Rigid Paradise ~ Dawn of the Dead",
-          "artist": "Demetori",
-          "creator": "GoldenWolf",
-          "approved_date": "2015-08-17 05:00:14",
-          "difficulties": [
-            {
-              "beatmap_id": "506357",
-              "version": "Extra Stage",
-              "difficultyrating": "6.39255",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "347021",
-          "title": "Kagayaku Hari no Kobito-zoku ~ Counter-Attack of the Weak",
-          "artist": "Demetori",
-          "creator": "GoldenWolf",
-          "approved_date": "2016-01-23 20:40:11",
-          "difficulties": [
-            {
-              "beatmap_id": "765873",
-              "version": "Extra Stage",
-              "difficultyrating": "6.81543",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "407484",
-          "title": "Gensou, Yume no Owari",
-          "artist": "Demetori",
-          "creator": "GoldenWolf",
-          "approved_date": "2016-05-18 09:00:04",
-          "difficulties": [
-            {
-              "beatmap_id": "885200",
-              "version": "Genjitsu no Hajimari",
-              "difficultyrating": "4.37173",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "192896",
-          "title": "Plastic Mind ~ Alice in Underground",
-          "artist": "Demetori",
-          "creator": "GoldenWolf",
-          "approved_date": "2017-01-19 12:20:08",
-          "difficulties": [
-            {
-              "beatmap_id": "458582",
-              "version": "Extra Stage",
-              "difficultyrating": "6.78598",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "574853",
-          "title": "Fall of Fall ~ The Door Into Summer",
-          "artist": "Demetori",
-          "creator": "GoldenWolf",
-          "approved_date": "2017-03-14 20:40:08",
-          "difficulties": [
-            {
-              "beatmap_id": "1217462",
-              "version": "Waterfall of Nine Heavens",
-              "difficultyrating": "6.57675",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "596079",
-          "title": "Youkai no Yama ~ Mysterious Mountain",
-          "artist": "Demetori",
-          "creator": "GoldenWolf",
-          "approved_date": "2017-06-20 22:00:12",
-          "difficulties": [
-            {
-              "beatmap_id": "1260538",
-              "version": "Extra Stage",
-              "difficultyrating": "6.82936",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "353650",
-          "title": "Kuuchuu ni Shizumu Kishinjou ~ Counter-Clock World",
-          "artist": "Demetori",
-          "creator": "GoldenWolf",
-          "approved_date": "2017-06-29 18:00:11",
-          "difficulties": [
-            {
-              "beatmap_id": "779179",
-              "version": "Extra Stage",
-              "difficultyrating": "6.92781",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "348939",
-          "title": "Mukau no Sato ~ Grief of Ressentiment",
-          "artist": "Demetori",
-          "creator": "GoldenWolf",
-          "approved_date": "2017-08-13 20:20:15",
-          "difficulties": [
-            {
-              "beatmap_id": "769594",
-              "version": "Stage 1",
-              "difficultyrating": "5.40045",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "461184",
-          "title": "Ec Tisia",
-          "artist": "Shikata Akiko",
-          "creator": "GoldenWolf",
-          "approved_date": "2017-11-06 22:20:02",
-          "difficulties": [
-            {
-              "beatmap_id": "987764",
-              "version": "Trio of Elemia",
-              "difficultyrating": "4.66541",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "691058",
-          "title": "Fires of Hokkai ~ Flame for Puja",
-          "artist": "Demetori",
-          "creator": "GoldenWolf",
-          "approved_date": "2017-11-28 14:00:07",
-          "difficulties": [
-            {
-              "beatmap_id": "1462462",
-              "version": "Ayyri's Oni",
-              "difficultyrating": "2.07847",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1462463",
-              "version": "Muzukashii",
-              "difficultyrating": "1.44848",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1462464",
-              "version": "Real's Futsuu",
-              "difficultyrating": "1.22997",
+              "beatmap_id": "3424460",
+              "version": "Perfect Ink-Black Cherry Blossom",
+              "difficultyrating": "6.96123",
               "mode": "1",
               "isGuestDiff": false
             }
@@ -4179,67 +3978,152 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "430959",
-          "title": "Furuki Yuanxian",
-          "artist": "Demetori",
-          "creator": "GoldenWolf",
-          "approved_date": "2018-01-28 03:40:03",
-          "difficulties": [
-            {
-              "beatmap_id": "929660",
-              "version": "Extra Stage",
-              "difficultyrating": "7.30183",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "325421",
-          "title": "MEGALOMANIA",
-          "artist": "UNDEAD CORPORATION",
-          "creator": "GoldenWolf",
-          "approved_date": "2018-01-29 15:37:07",
-          "difficulties": [
-            {
-              "beatmap_id": "722844",
-              "version": "woof",
-              "difficultyrating": "9.47789",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "724902",
-          "title": "Kamisabita Kosenjou ~ Suwa Foughten Field",
-          "artist": "Demetori",
-          "creator": "GoldenWolf",
-          "approved_date": "2018-02-19 12:20:02",
-          "difficulties": [
-            {
-              "beatmap_id": "1530713",
-              "version": "Inner Oni",
-              "difficultyrating": "6.57249",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "700870",
-          "title": "Consciousness (pt. 1 & 2)",
+          "beatmapset_id": "1706638",
+          "title": "Consciousness (Pt.3)",
           "artist": "Persefone",
           "creator": "GoldenWolf",
-          "approved_date": "2018-04-30 16:00:08",
+          "approved_date": "2022-04-04 19:41:44",
           "difficulties": [
             {
-              "beatmap_id": "1483603",
-              "version": "Enlightenment",
-              "difficultyrating": "6.81618",
+              "beatmap_id": "3487236",
+              "version": "Eunoia",
+              "difficultyrating": "7.03694",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1342688",
+          "title": "The Grimoire of Alice ~ Fushigi no Kuni no Alice",
+          "artist": "Demetori",
+          "creator": "GoldenWolf",
+          "approved_date": "2022-01-12 17:23:47",
+          "difficulties": [
+            {
+              "beatmap_id": "2781251",
+              "version": "Thousand Spear Dolls",
+              "difficultyrating": "6.0905",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "987536",
+          "title": "And The Vulture Beholds",
+          "artist": "Fleshgod Apocalypse",
+          "creator": "GoldenWolf",
+          "approved_date": "2020-02-16 12:47:00",
+          "difficulties": [
+            {
+              "beatmap_id": "2065817",
+              "version": "Regal Kismet",
+              "difficultyrating": "8.09949",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1025036",
+          "title": "Yuuga ni Sakase, Sumizome no Sakura ~ The Harm of Coming into Existence",
+          "artist": "Demetori",
+          "creator": "GoldenWolf",
+          "approved_date": "2019-10-09 16:05:06",
+          "difficulties": [
+            {
+              "beatmap_id": "2143996",
+              "version": "Parinirvana",
+              "difficultyrating": "8.39474",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "935589",
+          "title": "Spiritual Migration",
+          "artist": "Persefone",
+          "creator": "GoldenWolf",
+          "approved_date": "2019-06-22 00:00:31",
+          "difficulties": [
+            {
+              "beatmap_id": "1977010",
+              "version": "Ascending to the Source",
+              "difficultyrating": "6.16815",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "739899",
+          "title": "Seven",
+          "artist": "Symphony X",
+          "creator": "GoldenWolf",
+          "approved_date": "2019-04-18 10:00:01",
+          "difficulties": [
+            {
+              "beatmap_id": "1561085",
+              "version": "Perfidy",
+              "difficultyrating": "5.45889",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "884526",
+          "title": "Pisces (Live Session)",
+          "artist": "Jinjer",
+          "creator": "GoldenWolf",
+          "approved_date": "2019-02-12 07:40:02",
+          "difficulties": [
+            {
+              "beatmap_id": "1848830",
+              "version": "Dyad",
+              "difficultyrating": "5.93298",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "825377",
+          "title": "Koyoi wa Hyouitsu na Egoist ~ Ego, Schizoid, Beat.",
+          "artist": "Demetori",
+          "creator": "GoldenWolf",
+          "approved_date": "2018-09-02 10:40:07",
+          "difficulties": [
+            {
+              "beatmap_id": "1729489",
+              "version": "The Most Despicable and Disastrous God of Destitution and Misery.",
+              "difficultyrating": "7.16707",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "666235",
+          "title": "Haruiro Komichi ~ Rest In Peace, Saith The Lord.",
+          "artist": "Demetori",
+          "creator": "GoldenWolf",
+          "approved_date": "2018-06-21 04:20:03",
+          "difficulties": [
+            {
+              "beatmap_id": "1410076",
+              "version": "Lunatic",
+              "difficultyrating": "5.9721",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -4278,101 +4162,16 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "666235",
-          "title": "Haruiro Komichi ~ Rest In Peace, Saith The Lord.",
-          "artist": "Demetori",
-          "creator": "GoldenWolf",
-          "approved_date": "2018-06-21 04:20:03",
-          "difficulties": [
-            {
-              "beatmap_id": "1410076",
-              "version": "Lunatic",
-              "difficultyrating": "5.9721",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "825377",
-          "title": "Koyoi wa Hyouitsu na Egoist ~ Ego, Schizoid, Beat.",
-          "artist": "Demetori",
-          "creator": "GoldenWolf",
-          "approved_date": "2018-09-02 10:40:07",
-          "difficulties": [
-            {
-              "beatmap_id": "1729489",
-              "version": "The Most Despicable and Disastrous God of Destitution and Misery.",
-              "difficultyrating": "7.16707",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "884526",
-          "title": "Pisces (Live Session)",
-          "artist": "Jinjer",
-          "creator": "GoldenWolf",
-          "approved_date": "2019-02-12 07:40:02",
-          "difficulties": [
-            {
-              "beatmap_id": "1848830",
-              "version": "Dyad",
-              "difficultyrating": "5.93298",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "739899",
-          "title": "Seven",
-          "artist": "Symphony X",
-          "creator": "GoldenWolf",
-          "approved_date": "2019-04-18 10:00:01",
-          "difficulties": [
-            {
-              "beatmap_id": "1561085",
-              "version": "Perfidy",
-              "difficultyrating": "5.45889",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "935589",
-          "title": "Spiritual Migration",
+          "beatmapset_id": "700870",
+          "title": "Consciousness (pt. 1 & 2)",
           "artist": "Persefone",
           "creator": "GoldenWolf",
-          "approved_date": "2019-06-22 00:00:31",
+          "approved_date": "2018-04-30 16:00:08",
           "difficulties": [
             {
-              "beatmap_id": "1977010",
-              "version": "Ascending to the Source",
-              "difficultyrating": "6.16815",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1025036",
-          "title": "Yuuga ni Sakase, Sumizome no Sakura ~ The Harm of Coming into Existence",
-          "artist": "Demetori",
-          "creator": "GoldenWolf",
-          "approved_date": "2019-10-09 16:05:06",
-          "difficulties": [
-            {
-              "beatmap_id": "2143996",
-              "version": "Parinirvana",
-              "difficultyrating": "8.39474",
+              "beatmap_id": "1483603",
+              "version": "Enlightenment",
+              "difficultyrating": "6.81618",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -4380,33 +4179,16 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "987536",
-          "title": "And The Vulture Beholds",
-          "artist": "Fleshgod Apocalypse",
-          "creator": "GoldenWolf",
-          "approved_date": "2020-02-16 12:47:00",
-          "difficulties": [
-            {
-              "beatmap_id": "2065817",
-              "version": "Regal Kismet",
-              "difficultyrating": "8.09949",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1342688",
-          "title": "The Grimoire of Alice ~ Fushigi no Kuni no Alice",
+          "beatmapset_id": "724902",
+          "title": "Kamisabita Kosenjou ~ Suwa Foughten Field",
           "artist": "Demetori",
           "creator": "GoldenWolf",
-          "approved_date": "2022-01-12 17:23:47",
+          "approved_date": "2018-02-19 12:20:02",
           "difficulties": [
             {
-              "beatmap_id": "2781251",
-              "version": "Thousand Spear Dolls",
-              "difficultyrating": "6.0905",
+              "beatmap_id": "1530713",
+              "version": "Inner Oni",
+              "difficultyrating": "6.57249",
               "mode": "1",
               "isGuestDiff": false
             }
@@ -4414,16 +4196,16 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "1706638",
-          "title": "Consciousness (Pt.3)",
-          "artist": "Persefone",
+          "beatmapset_id": "325421",
+          "title": "MEGALOMANIA",
+          "artist": "UNDEAD CORPORATION",
           "creator": "GoldenWolf",
-          "approved_date": "2022-04-04 19:41:44",
+          "approved_date": "2018-01-29 15:37:07",
           "difficulties": [
             {
-              "beatmap_id": "3487236",
-              "version": "Eunoia",
-              "difficultyrating": "7.03694",
+              "beatmap_id": "722844",
+              "version": "woof",
+              "difficultyrating": "9.47789",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -4431,16 +4213,47 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "1676228",
-          "title": "Yuuga ni Sakase, Sumizome no Sakura ~ The Harm of Coming into Existence",
+          "beatmapset_id": "430959",
+          "title": "Furuki Yuanxian",
           "artist": "Demetori",
           "creator": "GoldenWolf",
-          "approved_date": "2022-04-18 14:47:21",
+          "approved_date": "2018-01-28 03:40:03",
           "difficulties": [
             {
-              "beatmap_id": "3424460",
-              "version": "Perfect Ink-Black Cherry Blossom",
-              "difficultyrating": "6.96123",
+              "beatmap_id": "929660",
+              "version": "Extra Stage",
+              "difficultyrating": "7.30183",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "691058",
+          "title": "Fires of Hokkai ~ Flame for Puja",
+          "artist": "Demetori",
+          "creator": "GoldenWolf",
+          "approved_date": "2017-11-28 14:00:07",
+          "difficulties": [
+            {
+              "beatmap_id": "1462462",
+              "version": "Ayyri's Oni",
+              "difficultyrating": "2.07847",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1462463",
+              "version": "Muzukashii",
+              "difficultyrating": "1.44848",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1462464",
+              "version": "Real's Futsuu",
+              "difficultyrating": "1.22997",
               "mode": "1",
               "isGuestDiff": false
             }
@@ -4448,23 +4261,208 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "2386166",
-          "title": "Peaceful Romancer ~ It's Better To Burn Out Than To Fade Away",
-          "artist": "Demetori",
+          "beatmapset_id": "461184",
+          "title": "Ec Tisia",
+          "artist": "Shikata Akiko",
           "creator": "GoldenWolf",
-          "approved_date": "2025-08-17 22:24:03",
+          "approved_date": "2017-11-06 22:20:02",
           "difficulties": [
             {
-              "beatmap_id": "5161342",
-              "version": "Artful Sacrifice",
-              "difficultyrating": "7.10207",
+              "beatmap_id": "987764",
+              "version": "Trio of Elemia",
+              "difficultyrating": "4.66541",
               "mode": "0",
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "77",
-          "playcount": "6454"
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "348939",
+          "title": "Mukau no Sato ~ Grief of Ressentiment",
+          "artist": "Demetori",
+          "creator": "GoldenWolf",
+          "approved_date": "2017-08-13 20:20:15",
+          "difficulties": [
+            {
+              "beatmap_id": "769594",
+              "version": "Stage 1",
+              "difficultyrating": "5.40045",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "353650",
+          "title": "Kuuchuu ni Shizumu Kishinjou ~ Counter-Clock World",
+          "artist": "Demetori",
+          "creator": "GoldenWolf",
+          "approved_date": "2017-06-29 18:00:11",
+          "difficulties": [
+            {
+              "beatmap_id": "779179",
+              "version": "Extra Stage",
+              "difficultyrating": "6.92781",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "596079",
+          "title": "Youkai no Yama ~ Mysterious Mountain",
+          "artist": "Demetori",
+          "creator": "GoldenWolf",
+          "approved_date": "2017-06-20 22:00:12",
+          "difficulties": [
+            {
+              "beatmap_id": "1260538",
+              "version": "Extra Stage",
+              "difficultyrating": "6.82936",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "574853",
+          "title": "Fall of Fall ~ The Door Into Summer",
+          "artist": "Demetori",
+          "creator": "GoldenWolf",
+          "approved_date": "2017-03-14 20:40:08",
+          "difficulties": [
+            {
+              "beatmap_id": "1217462",
+              "version": "Waterfall of Nine Heavens",
+              "difficultyrating": "6.57675",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "192896",
+          "title": "Plastic Mind ~ Alice in Underground",
+          "artist": "Demetori",
+          "creator": "GoldenWolf",
+          "approved_date": "2017-01-19 12:20:08",
+          "difficulties": [
+            {
+              "beatmap_id": "458582",
+              "version": "Extra Stage",
+              "difficultyrating": "6.78598",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "407484",
+          "title": "Gensou, Yume no Owari",
+          "artist": "Demetori",
+          "creator": "GoldenWolf",
+          "approved_date": "2016-05-18 09:00:04",
+          "difficulties": [
+            {
+              "beatmap_id": "885200",
+              "version": "Genjitsu no Hajimari",
+              "difficultyrating": "4.37173",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "347021",
+          "title": "Kagayaku Hari no Kobito-zoku ~ Counter-Attack of the Weak",
+          "artist": "Demetori",
+          "creator": "GoldenWolf",
+          "approved_date": "2016-01-23 20:40:11",
+          "difficulties": [
+            {
+              "beatmap_id": "765873",
+              "version": "Extra Stage",
+              "difficultyrating": "6.81543",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "192900",
+          "title": "Rigid Paradise ~ Dawn of the Dead",
+          "artist": "Demetori",
+          "creator": "GoldenWolf",
+          "approved_date": "2015-08-17 05:00:14",
+          "difficulties": [
+            {
+              "beatmap_id": "506357",
+              "version": "Extra Stage",
+              "difficultyrating": "6.39255",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "320299",
+          "title": "Heartfelt Fancy",
+          "artist": "Demetori",
+          "creator": "GoldenWolf",
+          "approved_date": "2015-07-05 16:40:14",
+          "difficulties": [
+            {
+              "beatmap_id": "712742",
+              "version": "Stage 4",
+              "difficultyrating": "4.9058",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "178777",
+          "title": "Higan Kikou ~ View of The River Styx",
+          "artist": "Demetori",
+          "creator": "GoldenWolf",
+          "approved_date": "2015-04-23 22:00:14",
+          "difficulties": [
+            {
+              "beatmap_id": "429989",
+              "version": "Extra Stage",
+              "difficultyrating": "6.51159",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "133693",
+          "title": "Kanjou no Matenrou ~ World's End",
+          "artist": "Demetori",
+          "creator": "GoldenWolf",
+          "approved_date": "2014-07-22 04:02:15",
+          "difficulties": [
+            {
+              "beatmap_id": "335628",
+              "version": "Extra Stage",
+              "difficultyrating": "6.06625",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
@@ -4476,7 +4474,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 33
       },
-      "lastUpdated": "2026-09-01T08:27:05.245Z"
+      "lastUpdated": "2026-09-12T07:02:59.404Z"
     },
     {
       "user_id": "2558570",
@@ -4933,44 +4931,6 @@
       ],
       "beatmapsets": [
         {
-          "beatmapset_id": "304979",
-          "title": "Hana wa Odore ya Irohaniho",
-          "artist": "Team \"Hanayamata\"",
-          "creator": "A Mystery",
-          "approved_date": "2015-07-10 01:20:14",
-          "difficulties": [
-            {
-              "beatmap_id": "683152",
-              "version": "Bluestar",
-              "difficultyrating": "5.06468",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "688880",
-              "version": "Normal",
-              "difficultyrating": "1.89797",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "695394",
-              "version": "Setz's Hard",
-              "difficultyrating": "3.76855",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "711326",
-              "version": "kakifly's Advanced",
-              "difficultyrating": "2.44599",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
           "beatmapset_id": "288656",
           "title": "Shoujo Satori ~ Innumerable Eyes",
           "artist": "Demetori",
@@ -5021,6 +4981,44 @@
             }
           ],
           "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "304979",
+          "title": "Hana wa Odore ya Irohaniho",
+          "artist": "Team \"Hanayamata\"",
+          "creator": "A Mystery",
+          "approved_date": "2015-07-10 01:20:14",
+          "difficulties": [
+            {
+              "beatmap_id": "683152",
+              "version": "Bluestar",
+              "difficultyrating": "5.06468",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "688880",
+              "version": "Normal",
+              "difficultyrating": "1.89797",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "695394",
+              "version": "Setz's Hard",
+              "difficultyrating": "3.76855",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "711326",
+              "version": "kakifly's Advanced",
+              "difficultyrating": "2.44599",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
@@ -5032,7 +5030,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 10
       },
-      "lastUpdated": "2026-09-01T08:27:05.245Z"
+      "lastUpdated": "2026-09-12T07:02:59.404Z"
     },
     {
       "user_id": "32856",
@@ -5496,7 +5494,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 8
       },
-      "lastUpdated": "2026-09-01T08:27:05.245Z"
+      "lastUpdated": "2026-09-12T07:02:59.404Z"
     }
   ]
 }
