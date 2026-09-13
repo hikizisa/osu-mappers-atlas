@@ -5,11 +5,11 @@
     "demonym": "Brazil",
     "nativeName": "Brazil"
   },
-  "lastUpdated": "2026-08-30T08:09:24.622Z",
+  "lastUpdated": "2026-09-13T07:21:59.668Z",
   "totalMappers": 15,
-  "totalBeatmaps": 811,
-  "totalBeatmapsets": 200,
-  "totalOwnBeatmapsets": 200,
+  "totalBeatmaps": 817,
+  "totalBeatmapsets": 201,
+  "totalOwnBeatmapsets": 201,
   "totalGuestBeatmapsets": 0,
   "totalGuestDiffs": 0,
   "totalOwnDifficulties": 804,
@@ -22,13 +22,189 @@
         "Net0"
       ],
       "country": "BR",
-      "rankedBeatmaps": 297,
-      "rankedBeatmapsets": 64,
-      "ownBeatmapsets": 64,
+      "rankedBeatmaps": 303,
+      "rankedBeatmapsets": 65,
+      "ownBeatmapsets": 65,
       "guestBeatmapsets": 0,
       "totalGuestDiffs": 0,
       "ownDifficulties": 297,
       "beatmaps": [
+        {
+          "beatmapset_id": "2371965",
+          "beatmap_id": "5119879",
+          "approved": "1",
+          "total_length": "186",
+          "hit_length": "185",
+          "version": "Baile da Marine",
+          "file_md5": "6bf96f9ec801674e81677d722b56cf6a",
+          "diff_size": "4",
+          "diff_overall": "9",
+          "diff_approach": "9.3",
+          "diff_drain": "5",
+          "mode": "0",
+          "count_normal": "321",
+          "count_slider": "513",
+          "count_spinner": "3",
+          "submit_date": "2025-05-16 21:07:25",
+          "approved_date": "2025-05-27 16:23:16",
+          "last_update": "2025-05-20 01:24:45",
+          "artist": "Houshou Marine",
+          "artist_unicode": "宝鐘マリン",
+          "title": "A Horny Money World ~legendary night~",
+          "title_unicode": "A Horny Money World 〜伝説の夜〜",
+          "creator": "Neto",
+          "creator_id": "5099768",
+          "bpm": "145",
+          "source": "",
+          "tags": "jpop j-pop pop funk latin japanese -smine- danilmaz1 lartie tarrasky net0 vtuber v-tuber hololive iosys ホロライブプロダクション holojp oneesan onee-san pirates pirate ahoy kimitachi 君たち old lady",
+          "genre_id": "5",
+          "language_id": "3",
+          "favourite_count": "413",
+          "rating": "9.17293",
+          "storyboard": "0",
+          "video": "1",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "46360",
+          "passcount": "9209",
+          "packs": "S1637",
+          "max_combo": "1384",
+          "diff_aim": "3.59438",
+          "diff_speed": "2.42782",
+          "difficultyrating": "6.41463"
+        },
+        {
+          "beatmapset_id": "2371965",
+          "beatmap_id": "5121275",
+          "approved": "1",
+          "total_length": "185",
+          "hit_length": "185",
+          "version": "Smine's Normal",
+          "file_md5": "e56b61207a717d0fdf03071223a21f6f",
+          "diff_size": "3",
+          "diff_overall": "4.5",
+          "diff_approach": "5",
+          "diff_drain": "3",
+          "mode": "0",
+          "count_normal": "167",
+          "count_slider": "202",
+          "count_spinner": "3",
+          "submit_date": "2025-05-16 21:07:25",
+          "approved_date": "2025-05-27 16:23:16",
+          "last_update": "2025-05-20 01:24:45",
+          "artist": "Houshou Marine",
+          "artist_unicode": "宝鐘マリン",
+          "title": "A Horny Money World ~legendary night~",
+          "title_unicode": "A Horny Money World 〜伝説の夜〜",
+          "creator": "Neto",
+          "creator_id": "5099768",
+          "bpm": "145",
+          "source": "",
+          "tags": "jpop j-pop pop funk latin japanese -smine- danilmaz1 lartie tarrasky net0 vtuber v-tuber hololive iosys ホロライブプロダクション holojp oneesan onee-san pirates pirate ahoy kimitachi 君たち old lady",
+          "genre_id": "5",
+          "language_id": "3",
+          "favourite_count": "413",
+          "rating": "9.17293",
+          "storyboard": "0",
+          "video": "1",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "19009",
+          "passcount": "8762",
+          "packs": "S1637",
+          "max_combo": "603",
+          "diff_aim": "1.08554",
+          "diff_speed": "0.872867",
+          "difficultyrating": "2.07176"
+        },
+        {
+          "beatmapset_id": "2371965",
+          "beatmap_id": "5122209",
+          "approved": "1",
+          "total_length": "185",
+          "hit_length": "185",
+          "version": "Tarrasky's Insane",
+          "file_md5": "87d828fa8ca8662b00fc19cbf4e6a733",
+          "diff_size": "4",
+          "diff_overall": "8",
+          "diff_approach": "9",
+          "diff_drain": "5",
+          "mode": "0",
+          "count_normal": "388",
+          "count_slider": "309",
+          "count_spinner": "2",
+          "submit_date": "2025-05-16 21:07:25",
+          "approved_date": "2025-05-27 16:23:16",
+          "last_update": "2025-05-20 01:24:45",
+          "artist": "Houshou Marine",
+          "artist_unicode": "宝鐘マリン",
+          "title": "A Horny Money World ~legendary night~",
+          "title_unicode": "A Horny Money World 〜伝説の夜〜",
+          "creator": "Neto",
+          "creator_id": "5099768",
+          "bpm": "145",
+          "source": "",
+          "tags": "jpop j-pop pop funk latin japanese -smine- danilmaz1 lartie tarrasky net0 vtuber v-tuber hololive iosys ホロライブプロダクション holojp oneesan onee-san pirates pirate ahoy kimitachi 君たち old lady",
+          "genre_id": "5",
+          "language_id": "3",
+          "favourite_count": "413",
+          "rating": "9.17293",
+          "storyboard": "0",
+          "video": "1",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "50851",
+          "passcount": "14072",
+          "packs": "S1637",
+          "max_combo": "1034",
+          "diff_aim": "2.75999",
+          "diff_speed": "1.93191",
+          "difficultyrating": "4.94136"
+        },
+        {
+          "beatmapset_id": "2371965",
+          "beatmap_id": "5124215",
+          "approved": "1",
+          "total_length": "188",
+          "hit_length": "188",
+          "version": "Collab Hard",
+          "file_md5": "7120352451a38e08c67d84a8463ec8bd",
+          "diff_size": "3.8",
+          "diff_overall": "6.5",
+          "diff_approach": "7.5",
+          "diff_drain": "4",
+          "mode": "0",
+          "count_normal": "316",
+          "count_slider": "239",
+          "count_spinner": "2",
+          "submit_date": "2025-05-16 21:07:25",
+          "approved_date": "2025-05-27 16:23:16",
+          "last_update": "2025-05-20 01:24:45",
+          "artist": "Houshou Marine",
+          "artist_unicode": "宝鐘マリン",
+          "title": "A Horny Money World ~legendary night~",
+          "title_unicode": "A Horny Money World 〜伝説の夜〜",
+          "creator": "Neto",
+          "creator_id": "5099768",
+          "bpm": "145",
+          "source": "",
+          "tags": "jpop j-pop pop funk latin japanese -smine- danilmaz1 lartie tarrasky net0 vtuber v-tuber hololive iosys ホロライブプロダクション holojp oneesan onee-san pirates pirate ahoy kimitachi 君たち old lady",
+          "genre_id": "5",
+          "language_id": "3",
+          "favourite_count": "413",
+          "rating": "9.17293",
+          "storyboard": "0",
+          "video": "1",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "35893",
+          "passcount": "13978",
+          "packs": "S1637",
+          "max_combo": "871",
+          "diff_aim": "1.73299",
+          "diff_speed": "1.59473",
+          "difficultyrating": "3.40246"
+        },
         {
           "beatmapset_id": "1033380",
           "beatmap_id": "2160554",
@@ -380,6 +556,94 @@
           "diff_aim": "2.75454",
           "diff_speed": "2.09979",
           "difficultyrating": "5.08113"
+        },
+        {
+          "beatmapset_id": "1033380",
+          "beatmap_id": "4145067",
+          "approved": "1",
+          "total_length": "212",
+          "hit_length": "192",
+          "version": "Vitas' Extra",
+          "file_md5": "2798b86f7ffcc1eb3ab1cba3b218df03",
+          "diff_size": "5",
+          "diff_overall": "8",
+          "diff_approach": "9",
+          "diff_drain": "6",
+          "mode": "0",
+          "count_normal": "192",
+          "count_slider": "338",
+          "count_spinner": "1",
+          "submit_date": "2019-09-06 13:03:44",
+          "approved_date": "2025-05-21 18:46:55",
+          "last_update": "2025-05-14 17:27:31",
+          "artist": "Starset",
+          "artist_unicode": "Starset",
+          "title": "My Demons (Cut Ver.)",
+          "title_unicode": "My Demons (Cut Ver.)",
+          "creator": "Neto",
+          "creator_id": "5099768",
+          "bpm": "173",
+          "source": "",
+          "tags": "net0 time freeze azumiw -ex- _ex_ shiyun renamon maot kagiura vitas2222 howrengar kalindraz zutomayo fanboy zutomayo_fanboy 2010's 2013 aoi ogata english jump conceptual simple rock hardrock alternative eletronic progressive transmissions",
+          "genre_id": "4",
+          "language_id": "2",
+          "favourite_count": "289",
+          "rating": "8.5597",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "4447",
+          "passcount": "942",
+          "packs": "S1632",
+          "max_combo": "952",
+          "diff_aim": "3.20233",
+          "diff_speed": "1.63987",
+          "difficultyrating": "5.47196"
+        },
+        {
+          "beatmapset_id": "1033380",
+          "beatmap_id": "4963622",
+          "approved": "1",
+          "total_length": "212",
+          "hit_length": "182",
+          "version": "Azumi's Normal",
+          "file_md5": "fcd9b2be715ecd9e9bac482298378ff4",
+          "diff_size": "3",
+          "diff_overall": "4",
+          "diff_approach": "6",
+          "diff_drain": "4",
+          "mode": "0",
+          "count_normal": "112",
+          "count_slider": "279",
+          "count_spinner": "0",
+          "submit_date": "2019-09-06 13:03:44",
+          "approved_date": "2025-05-21 18:46:55",
+          "last_update": "2025-05-14 17:27:31",
+          "artist": "Starset",
+          "artist_unicode": "Starset",
+          "title": "My Demons (Cut Ver.)",
+          "title_unicode": "My Demons (Cut Ver.)",
+          "creator": "Neto",
+          "creator_id": "5099768",
+          "bpm": "173",
+          "source": "",
+          "tags": "net0 time freeze azumiw -ex- _ex_ shiyun renamon maot kagiura vitas2222 howrengar kalindraz zutomayo fanboy zutomayo_fanboy 2010's 2013 aoi ogata english jump conceptual simple rock hardrock alternative eletronic progressive transmissions",
+          "genre_id": "4",
+          "language_id": "2",
+          "favourite_count": "289",
+          "rating": "8.5597",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "9424",
+          "passcount": "3459",
+          "packs": "S1632",
+          "max_combo": "683",
+          "diff_aim": "1.19369",
+          "diff_speed": "0.894632",
+          "difficultyrating": "2.18596"
         },
         {
           "beatmapset_id": "1292749",
@@ -13161,6 +13425,20 @@
               "difficultyrating": "5.08113",
               "mode": "0",
               "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "4145067",
+              "version": "Vitas' Extra",
+              "difficultyrating": "5.47196",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "4963622",
+              "version": "Azumi's Normal",
+              "difficultyrating": "2.18596",
+              "mode": "0",
+              "isGuestDiff": false
             }
           ],
           "isOwnMapset": true
@@ -13817,9 +14095,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "171",
-          "playcount": "94398"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1026200",
@@ -13857,9 +14133,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "380",
-          "playcount": "166864"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1010158",
@@ -13925,9 +14199,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "58",
-          "playcount": "79667"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1304499",
@@ -13944,9 +14216,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "151",
-          "playcount": "19855"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1574589",
@@ -13991,9 +14261,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "112",
-          "playcount": "56552"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1967877",
@@ -14031,9 +14299,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "126",
-          "playcount": "57199"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1481197",
@@ -14064,9 +14330,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "125",
-          "playcount": "51753"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1897554",
@@ -14090,9 +14354,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "41",
-          "playcount": "30872"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1876182",
@@ -14137,9 +14399,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "322",
-          "playcount": "177953"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2088553",
@@ -14163,9 +14423,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "58",
-          "playcount": "41015"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1889079",
@@ -15837,18 +16095,56 @@
             }
           ],
           "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2371965",
+          "title": "A Horny Money World ~legendary night~",
+          "artist": "Houshou Marine",
+          "creator": "Neto",
+          "approved_date": "2025-05-27 16:23:16",
+          "difficulties": [
+            {
+              "beatmap_id": "5119879",
+              "version": "Baile da Marine",
+              "difficultyrating": "6.41463",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5121275",
+              "version": "Smine's Normal",
+              "difficultyrating": "2.07176",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5122209",
+              "version": "Tarrasky's Insane",
+              "difficultyrating": "4.94136",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5124215",
+              "version": "Collab Hard",
+              "difficultyrating": "3.40246",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
       "stats": {
-        "totalBeatmaps": 297,
-        "totalBeatmapsets": 64,
-        "ownBeatmapsets": 64,
+        "totalBeatmaps": 303,
+        "totalBeatmapsets": 65,
+        "ownBeatmapsets": 65,
         "guestBeatmapsets": 0,
         "totalGuestDiffs": 0,
-        "ownDifficulties": 297
+        "ownDifficulties": 303
       },
-      "lastUpdated": "2026-08-30T08:09:24.622Z"
+      "lastUpdated": "2026-09-13T07:21:59.668Z"
     },
     {
       "user_id": "2857314",
@@ -24545,9 +24841,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "192",
-          "playcount": "39139"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1898721",
@@ -26352,7 +26646,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 196
       },
-      "lastUpdated": "2026-08-30T08:09:24.622Z"
+      "lastUpdated": "2026-09-13T07:21:59.668Z"
     },
     {
       "user_id": "4098393",
@@ -30241,7 +30535,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 73
       },
-      "lastUpdated": "2026-08-30T08:09:24.622Z"
+      "lastUpdated": "2026-09-13T07:21:59.668Z"
     },
     {
       "user_id": "19048",
@@ -33690,7 +33984,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 63
       },
-      "lastUpdated": "2026-08-30T08:09:24.622Z"
+      "lastUpdated": "2026-09-13T07:21:59.668Z"
     },
     {
       "user_id": "93813",
@@ -36145,7 +36439,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 45
       },
-      "lastUpdated": "2026-08-30T08:09:24.622Z"
+      "lastUpdated": "2026-09-13T07:21:59.668Z"
     },
     {
       "user_id": "122623",
@@ -38252,7 +38546,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 39
       },
-      "lastUpdated": "2026-08-30T08:09:24.622Z"
+      "lastUpdated": "2026-09-13T07:21:59.668Z"
     },
     {
       "user_id": "4475985",
@@ -39236,7 +39530,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 18
       },
-      "lastUpdated": "2026-08-30T08:09:24.622Z"
+      "lastUpdated": "2026-09-13T07:21:59.668Z"
     },
     {
       "user_id": "40981",
@@ -40242,7 +40536,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 18
       },
-      "lastUpdated": "2026-08-30T08:09:24.622Z"
+      "lastUpdated": "2026-09-13T07:21:59.668Z"
     },
     {
       "user_id": "150978",
@@ -41258,7 +41552,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 18
       },
-      "lastUpdated": "2026-08-30T08:09:24.622Z"
+      "lastUpdated": "2026-09-13T07:21:59.668Z"
     },
     {
       "user_id": "15064",
@@ -41885,7 +42179,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 11
       },
-      "lastUpdated": "2026-08-30T08:09:24.622Z"
+      "lastUpdated": "2026-09-13T07:21:59.668Z"
     },
     {
       "user_id": "195335",
@@ -42400,7 +42694,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 9
       },
-      "lastUpdated": "2026-08-30T08:09:24.622Z"
+      "lastUpdated": "2026-09-13T07:21:59.668Z"
     },
     {
       "user_id": "76262",
@@ -42854,7 +43148,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 8
       },
-      "lastUpdated": "2026-08-30T08:09:24.622Z"
+      "lastUpdated": "2026-09-13T07:21:59.668Z"
     },
     {
       "user_id": "5287",
@@ -43257,7 +43551,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 7
       },
-      "lastUpdated": "2026-08-30T08:09:24.622Z"
+      "lastUpdated": "2026-09-13T07:21:59.668Z"
     },
     {
       "user_id": "74017",
@@ -43660,7 +43954,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 7
       },
-      "lastUpdated": "2026-08-30T08:09:24.622Z"
+      "lastUpdated": "2026-09-13T07:21:59.668Z"
     },
     {
       "user_id": "9314703",
@@ -43798,7 +44092,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 2
       },
-      "lastUpdated": "2026-08-30T08:09:24.622Z"
+      "lastUpdated": "2026-09-13T07:21:59.668Z"
     }
   ]
 }
