@@ -5,7 +5,7 @@
     "demonym": "Sweden",
     "nativeName": "Sweden"
   },
-  "lastUpdated": "2026-09-01T08:28:15.502Z",
+  "lastUpdated": "2026-09-14T07:46:51.798Z",
   "totalMappers": 25,
   "totalBeatmaps": 784,
   "totalBeatmapsets": 228,
@@ -6440,7 +6440,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 119
       },
-      "lastUpdated": "2026-09-01T08:28:15.502Z"
+      "lastUpdated": "2026-09-14T07:46:51.798Z"
     },
     {
       "user_id": "444506",
@@ -10727,759 +10727,21 @@
       ],
       "beatmapsets": [
         {
-          "beatmapset_id": "21838",
-          "title": "Pinch Daisuki!",
-          "artist": "Hyakkoku Hajime",
-          "creator": "Saten-san",
-          "approved_date": "2011-03-03 01:30:57",
-          "difficulties": [
-            {
-              "beatmap_id": "81393",
-              "version": "Pinch",
-              "difficultyrating": "3.62427",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "85625",
-              "version": "Jameskong1's Insane",
-              "difficultyrating": "3.2694",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "85627",
-              "version": "Wmf's Taiko",
-              "difficultyrating": "3.89898",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "85628",
-              "version": "YGOkid8's Easy",
-              "difficultyrating": "1.6129",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "88469",
-              "version": "Daisuki",
-              "difficultyrating": "2.32665",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "89734",
-              "version": "Normal",
-              "difficultyrating": "1.88174",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "22252",
-          "title": "Koromo of the Sprite Tribe",
-          "artist": "Nico Nico Douga",
-          "creator": "Saten-san",
-          "approved_date": "2011-08-24 17:15:47",
-          "difficulties": [
-            {
-              "beatmap_id": "110771",
-              "version": "Chamle's Riichi",
-              "difficultyrating": "4.13397",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "110845",
-              "version": "Kodomo",
-              "difficultyrating": "1.96859",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "110846",
-              "version": "Koromo",
-              "difficultyrating": "3.46842",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "110847",
-              "version": "Ozzy's Taikomo",
-              "difficultyrating": "3.92356",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "110848",
-              "version": "Teta's Amae",
-              "difficultyrating": "1.49567",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "110849",
-              "version": "Weezy's Etopen",
-              "difficultyrating": "2.03453",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "28705",
-          "title": "Kokou no Sousei",
-          "artist": "Yousei Teikoku",
-          "creator": "Saten-san",
-          "approved_date": "2012-02-10 09:56:12",
-          "difficulties": [
-            {
-              "beatmap_id": "95583",
-              "version": "Collab",
-              "difficultyrating": "5.9961",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "96763",
-              "version": "Insane",
-              "difficultyrating": "4.77297",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "98229",
-              "version": "Hard",
-              "difficultyrating": "3.17623",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "98825",
-              "version": "Medi's Demonic Oni",
-              "difficultyrating": "5.81779",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "101732",
-              "version": "Ono's Taiko Inner Oni",
-              "difficultyrating": "5.80394",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "118068",
-              "version": "Chaos",
-              "difficultyrating": "6.87874",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "37563",
-          "title": "Usatei 2011",
-          "artist": "IOSYS",
-          "creator": "Saten",
-          "approved_date": "2012-06-14 00:14:38",
-          "difficulties": [
-            {
-              "beatmap_id": "120716",
-              "version": "Tewi",
-              "difficultyrating": "5.06762",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "120729",
-              "version": "Ono's Taiko Inner Oni",
-              "difficultyrating": "4.75423",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "120730",
-              "version": "Ono's Taiko Oni",
-              "difficultyrating": "4.50343",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "126807",
-              "version": "Kumatei",
-              "difficultyrating": "4.0079",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "126808",
-              "version": "Pyon",
-              "difficultyrating": "2.49348",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "130500",
-              "version": "Ozzy's Extra",
-              "difficultyrating": "5.96357",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "143029",
-              "version": "Usagi",
-              "difficultyrating": "2.16262",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "143033",
-              "version": "Usamimi",
-              "difficultyrating": "3.63693",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "53923",
-          "title": "Wahrheit",
-          "artist": "Yousei Teikoku",
-          "creator": "Saten",
-          "approved_date": "2012-09-23 12:56:40",
-          "difficulties": [
-            {
-              "beatmap_id": "164183",
-              "version": "Saten",
-              "difficultyrating": "5.47572",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "176838",
-              "version": "Koka's Taiko Oni",
-              "difficultyrating": "4.46151",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "27104",
-          "title": "Senketsu no Chikai",
-          "artist": "Yousei Teikoku",
-          "creator": "Saten",
-          "approved_date": "2013-06-29 06:02:49",
-          "difficulties": [
-            {
-              "beatmap_id": "94101",
-              "version": "Mafia",
-              "difficultyrating": "3.59017",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "97489",
-              "version": "Nekoo's Normal",
-              "difficultyrating": "2.33863",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "112817",
-              "version": "Insane",
-              "difficultyrating": "4.27135",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "142954",
-              "version": "Insanity",
-              "difficultyrating": "6.49089",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "163152",
-              "version": "Loctav's Taiko",
-              "difficultyrating": "4.88288",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "163153",
-              "version": "Weez's Easy",
-              "difficultyrating": "1.69417",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "59025",
-          "title": "Kyouki Chinden (TV Size)",
-          "artist": "Yousei Teikoku",
-          "creator": "Saten",
-          "approved_date": "2013-11-20 04:21:22",
-          "difficulties": [
-            {
-              "beatmap_id": "177162",
-              "version": "Madness Precipitation",
-              "difficultyrating": "6.04597",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "178505",
-              "version": "Insanity",
-              "difficultyrating": "4.98866",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "178506",
-              "version": "Lunaticy",
-              "difficultyrating": "5.5531",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "179223",
-              "version": "Hard",
-              "difficultyrating": "2.96785",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "179224",
-              "version": "Insane",
-              "difficultyrating": "4.39973",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "179225",
-              "version": "Normal",
-              "difficultyrating": "1.86608",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "187015",
-              "version": "Taikosaki",
-              "difficultyrating": "6.23216",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "322578",
-              "version": "Ono's Taiko Oni",
-              "difficultyrating": "4.73737",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "40671",
-          "title": "Sacrifice",
-          "artist": "Yousei Teikoku",
-          "creator": "Saten",
-          "approved_date": "2016-11-14 04:21:57",
-          "difficulties": [
-            {
-              "beatmap_id": "128935",
-              "version": "Death",
-              "difficultyrating": "7.34771",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "130799",
-              "version": "Fiya's Fear",
-              "difficultyrating": "4.05773",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "130800",
-              "version": "Pain",
-              "difficultyrating": "5.51537",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "132568",
-              "version": "Ono's Taiko Oni",
-              "difficultyrating": "5.4087",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "161686",
-              "version": "rickyboi",
-              "difficultyrating": "6.35206",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "168593",
-              "version": "Taikosaki",
-              "difficultyrating": "6.58838",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "180079",
-              "version": "Near-Death-Experience",
-              "difficultyrating": "6.2704",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "64631",
-          "title": "Kuraki Sekai no Doukoku",
-          "artist": "Yousei Teikoku",
-          "creator": "Saten",
-          "approved_date": "2017-01-11 13:14:01",
-          "difficulties": [
-            {
-              "beatmap_id": "454023",
-              "version": "Insanity",
-              "difficultyrating": "4.10829",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "454024",
-              "version": "The Dark World's Lament",
-              "difficultyrating": "7.36347",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "86009",
-          "title": "Zetsubou plantation",
-          "artist": "Yousei Teikoku",
-          "creator": "Saten",
-          "approved_date": "2017-01-20 12:42:32",
-          "difficulties": [
-            {
-              "beatmap_id": "235879",
-              "version": "Insane",
-              "difficultyrating": "5.38267",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "235880",
-              "version": "Zetsubou!",
-              "difficultyrating": "6.75444",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "292368",
-              "version": "Ami's Hard",
-              "difficultyrating": "4.06877",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "359357",
-              "version": "S.Boat's Normal",
-              "difficultyrating": "2.48803",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "374421",
-              "version": "Ono's Taiko Muzukashii",
-              "difficultyrating": "3.85334",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "374422",
-              "version": "Ono's Taiko Oni",
-              "difficultyrating": "5.82756",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "469471",
-              "version": "S.Boat's Easy",
-              "difficultyrating": "1.5621",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "572051",
-              "version": "Shiro's Extreme",
-              "difficultyrating": "7.03302",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "688942",
-              "version": "Extra",
-              "difficultyrating": "5.89134",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "903292",
-              "version": "Ono's Taiko Futsuu",
-              "difficultyrating": "2.26265",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "52499",
-          "title": "Assailant in the Night",
-          "artist": "e-ZUKA",
-          "creator": "Saten",
-          "approved_date": "2018-03-22 13:17:07",
-          "difficulties": [
-            {
-              "beatmap_id": "160486",
-              "version": "Speed",
-              "difficultyrating": "7.26266",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "160490",
-              "version": "Fragrance",
-              "difficultyrating": "6.54169",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "160491",
-              "version": "Power",
-              "difficultyrating": "4.73719",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "453724",
-              "version": "Hard",
-              "difficultyrating": "2.89388",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "124323",
-          "title": "Oroka na Ketsumatsu",
-          "artist": "Yousei Teikoku",
-          "creator": "Saten",
-          "approved_date": "2018-05-18 18:00:19",
-          "difficulties": [
-            {
-              "beatmap_id": "316995",
-              "version": "Invasion",
-              "difficultyrating": "6.53257",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "129520",
-          "title": "Kyouki Chinden",
-          "artist": "Yousei Teikoku",
-          "creator": "Saten",
-          "approved_date": "2018-06-25 02:05:26",
-          "difficulties": [
-            {
-              "beatmap_id": "327226",
-              "version": "Hard^2",
-              "difficultyrating": "3.60184",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "327227",
-              "version": "Insane^2",
-              "difficultyrating": "4.138",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "327229",
-              "version": "Lunaticy^2",
-              "difficultyrating": "5.99962",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "327230",
-              "version": "Madness Precipitation^2",
-              "difficultyrating": "6.55356",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "327231",
-              "version": "Normal^2",
-              "difficultyrating": "1.92431",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "327232",
-              "version": "Taikosaki^2",
-              "difficultyrating": "7.35112",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "173302",
-          "title": "Super Nuko World",
-          "artist": "yuikonnu & ayaponzu*",
-          "creator": "Saten",
-          "approved_date": "2018-07-24 09:21:02",
-          "difficulties": [
-            {
-              "beatmap_id": "418761",
-              "version": "Extra",
-              "difficultyrating": "5.85469",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "418762",
-              "version": "Super Nyaten World",
-              "difficultyrating": "6.61417",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "526292",
-              "version": "Insane",
-              "difficultyrating": "5.27884",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "563814",
-              "version": "Hard",
-              "difficultyrating": "3.97521",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "654567",
-              "version": "Hyper",
-              "difficultyrating": "4.31986",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "846907",
-              "version": "Normal",
-              "difficultyrating": "1.63807",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "154798",
-          "title": "F-zero ~ Big Blue",
-          "artist": "S.S.H.",
-          "creator": "Saten",
-          "approved_date": "2018-11-13 20:03:52",
-          "difficulties": [
-            {
-              "beatmap_id": "379973",
-              "version": "Big Blue",
-              "difficultyrating": "6.73093",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1620583",
-              "version": "Extra",
-              "difficultyrating": "6.52146",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "614286",
-          "title": "ending note",
-          "artist": "Yousei Teikoku",
-          "creator": "Saten",
-          "approved_date": "2025-01-24 09:02:44",
-          "difficulties": [
-            {
-              "beatmap_id": "1295906",
-              "version": "Paradox",
-              "difficultyrating": "7.97865",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "3466641",
-              "version": "Taikosaki",
-              "difficultyrating": "7.37812",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true,
-          "favourite_count": "151",
-          "playcount": "19537"
-        },
-        {
-          "beatmapset_id": "2344232",
-          "title": "Monochrome Solitude",
+          "beatmapset_id": "2425370",
+          "title": "Kegarenaki Bara Juuji",
           "artist": "Ariabl'eyeS",
           "creator": "Saten",
-          "approved_date": "2025-04-26 07:04:19",
+          "approved_date": "2026-03-29 09:02:51",
           "difficulties": [
             {
-              "beatmap_id": "5039434",
+              "beatmap_id": "5279473",
               "version": "Nyaten",
-              "difficultyrating": "7.82096",
+              "difficultyrating": "7.84451",
               "mode": "0",
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "83",
-          "playcount": "20800"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "190700",
@@ -11580,28 +10842,758 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "112",
-          "playcount": "67655"
+          "isOwnMapset": true
         },
         {
-          "beatmapset_id": "2425370",
-          "title": "Kegarenaki Bara Juuji",
+          "beatmapset_id": "2344232",
+          "title": "Monochrome Solitude",
           "artist": "Ariabl'eyeS",
           "creator": "Saten",
-          "approved_date": "2026-03-29 09:02:51",
+          "approved_date": "2025-04-26 07:04:19",
           "difficulties": [
             {
-              "beatmap_id": "5279473",
+              "beatmap_id": "5039434",
               "version": "Nyaten",
-              "difficultyrating": "7.84451",
+              "difficultyrating": "7.82096",
               "mode": "0",
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "162",
-          "playcount": "16417"
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "614286",
+          "title": "ending note",
+          "artist": "Yousei Teikoku",
+          "creator": "Saten",
+          "approved_date": "2025-01-24 09:02:44",
+          "difficulties": [
+            {
+              "beatmap_id": "1295906",
+              "version": "Paradox",
+              "difficultyrating": "7.97865",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "3466641",
+              "version": "Taikosaki",
+              "difficultyrating": "7.37812",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "154798",
+          "title": "F-zero ~ Big Blue",
+          "artist": "S.S.H.",
+          "creator": "Saten",
+          "approved_date": "2018-11-13 20:03:52",
+          "difficulties": [
+            {
+              "beatmap_id": "379973",
+              "version": "Big Blue",
+              "difficultyrating": "6.73093",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1620583",
+              "version": "Extra",
+              "difficultyrating": "6.52146",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "173302",
+          "title": "Super Nuko World",
+          "artist": "yuikonnu & ayaponzu*",
+          "creator": "Saten",
+          "approved_date": "2018-07-24 09:21:02",
+          "difficulties": [
+            {
+              "beatmap_id": "418761",
+              "version": "Extra",
+              "difficultyrating": "5.85469",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "418762",
+              "version": "Super Nyaten World",
+              "difficultyrating": "6.61417",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "526292",
+              "version": "Insane",
+              "difficultyrating": "5.27884",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "563814",
+              "version": "Hard",
+              "difficultyrating": "3.97521",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "654567",
+              "version": "Hyper",
+              "difficultyrating": "4.31986",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "846907",
+              "version": "Normal",
+              "difficultyrating": "1.63807",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "129520",
+          "title": "Kyouki Chinden",
+          "artist": "Yousei Teikoku",
+          "creator": "Saten",
+          "approved_date": "2018-06-25 02:05:26",
+          "difficulties": [
+            {
+              "beatmap_id": "327226",
+              "version": "Hard^2",
+              "difficultyrating": "3.60184",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "327227",
+              "version": "Insane^2",
+              "difficultyrating": "4.138",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "327229",
+              "version": "Lunaticy^2",
+              "difficultyrating": "5.99962",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "327230",
+              "version": "Madness Precipitation^2",
+              "difficultyrating": "6.55356",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "327231",
+              "version": "Normal^2",
+              "difficultyrating": "1.92431",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "327232",
+              "version": "Taikosaki^2",
+              "difficultyrating": "7.35112",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "124323",
+          "title": "Oroka na Ketsumatsu",
+          "artist": "Yousei Teikoku",
+          "creator": "Saten",
+          "approved_date": "2018-05-18 18:00:19",
+          "difficulties": [
+            {
+              "beatmap_id": "316995",
+              "version": "Invasion",
+              "difficultyrating": "6.53257",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "52499",
+          "title": "Assailant in the Night",
+          "artist": "e-ZUKA",
+          "creator": "Saten",
+          "approved_date": "2018-03-22 13:17:07",
+          "difficulties": [
+            {
+              "beatmap_id": "160486",
+              "version": "Speed",
+              "difficultyrating": "7.26266",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "160490",
+              "version": "Fragrance",
+              "difficultyrating": "6.54169",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "160491",
+              "version": "Power",
+              "difficultyrating": "4.73719",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "453724",
+              "version": "Hard",
+              "difficultyrating": "2.89388",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "86009",
+          "title": "Zetsubou plantation",
+          "artist": "Yousei Teikoku",
+          "creator": "Saten",
+          "approved_date": "2017-01-20 12:42:32",
+          "difficulties": [
+            {
+              "beatmap_id": "235879",
+              "version": "Insane",
+              "difficultyrating": "5.38267",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "235880",
+              "version": "Zetsubou!",
+              "difficultyrating": "6.75444",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "292368",
+              "version": "Ami's Hard",
+              "difficultyrating": "4.06877",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "359357",
+              "version": "S.Boat's Normal",
+              "difficultyrating": "2.48803",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "374421",
+              "version": "Ono's Taiko Muzukashii",
+              "difficultyrating": "3.85334",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "374422",
+              "version": "Ono's Taiko Oni",
+              "difficultyrating": "5.82756",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "469471",
+              "version": "S.Boat's Easy",
+              "difficultyrating": "1.5621",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "572051",
+              "version": "Shiro's Extreme",
+              "difficultyrating": "7.03302",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "688942",
+              "version": "Extra",
+              "difficultyrating": "5.89134",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "903292",
+              "version": "Ono's Taiko Futsuu",
+              "difficultyrating": "2.26265",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "64631",
+          "title": "Kuraki Sekai no Doukoku",
+          "artist": "Yousei Teikoku",
+          "creator": "Saten",
+          "approved_date": "2017-01-11 13:14:01",
+          "difficulties": [
+            {
+              "beatmap_id": "454023",
+              "version": "Insanity",
+              "difficultyrating": "4.10829",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "454024",
+              "version": "The Dark World's Lament",
+              "difficultyrating": "7.36347",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "40671",
+          "title": "Sacrifice",
+          "artist": "Yousei Teikoku",
+          "creator": "Saten",
+          "approved_date": "2016-11-14 04:21:57",
+          "difficulties": [
+            {
+              "beatmap_id": "128935",
+              "version": "Death",
+              "difficultyrating": "7.34771",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "130799",
+              "version": "Fiya's Fear",
+              "difficultyrating": "4.05773",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "130800",
+              "version": "Pain",
+              "difficultyrating": "5.51537",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "132568",
+              "version": "Ono's Taiko Oni",
+              "difficultyrating": "5.4087",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "161686",
+              "version": "rickyboi",
+              "difficultyrating": "6.35206",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "168593",
+              "version": "Taikosaki",
+              "difficultyrating": "6.58838",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "180079",
+              "version": "Near-Death-Experience",
+              "difficultyrating": "6.2704",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "59025",
+          "title": "Kyouki Chinden (TV Size)",
+          "artist": "Yousei Teikoku",
+          "creator": "Saten",
+          "approved_date": "2013-11-20 04:21:22",
+          "difficulties": [
+            {
+              "beatmap_id": "177162",
+              "version": "Madness Precipitation",
+              "difficultyrating": "6.04597",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "178505",
+              "version": "Insanity",
+              "difficultyrating": "4.98866",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "178506",
+              "version": "Lunaticy",
+              "difficultyrating": "5.5531",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "179223",
+              "version": "Hard",
+              "difficultyrating": "2.96785",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "179224",
+              "version": "Insane",
+              "difficultyrating": "4.39973",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "179225",
+              "version": "Normal",
+              "difficultyrating": "1.86608",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "187015",
+              "version": "Taikosaki",
+              "difficultyrating": "6.23216",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "322578",
+              "version": "Ono's Taiko Oni",
+              "difficultyrating": "4.73737",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "27104",
+          "title": "Senketsu no Chikai",
+          "artist": "Yousei Teikoku",
+          "creator": "Saten",
+          "approved_date": "2013-06-29 06:02:49",
+          "difficulties": [
+            {
+              "beatmap_id": "94101",
+              "version": "Mafia",
+              "difficultyrating": "3.59017",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "97489",
+              "version": "Nekoo's Normal",
+              "difficultyrating": "2.33863",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "112817",
+              "version": "Insane",
+              "difficultyrating": "4.27135",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "142954",
+              "version": "Insanity",
+              "difficultyrating": "6.49089",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "163152",
+              "version": "Loctav's Taiko",
+              "difficultyrating": "4.88288",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "163153",
+              "version": "Weez's Easy",
+              "difficultyrating": "1.69417",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "53923",
+          "title": "Wahrheit",
+          "artist": "Yousei Teikoku",
+          "creator": "Saten",
+          "approved_date": "2012-09-23 12:56:40",
+          "difficulties": [
+            {
+              "beatmap_id": "164183",
+              "version": "Saten",
+              "difficultyrating": "5.47572",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "176838",
+              "version": "Koka's Taiko Oni",
+              "difficultyrating": "4.46151",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "37563",
+          "title": "Usatei 2011",
+          "artist": "IOSYS",
+          "creator": "Saten",
+          "approved_date": "2012-06-14 00:14:38",
+          "difficulties": [
+            {
+              "beatmap_id": "120716",
+              "version": "Tewi",
+              "difficultyrating": "5.06762",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "120729",
+              "version": "Ono's Taiko Inner Oni",
+              "difficultyrating": "4.75423",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "120730",
+              "version": "Ono's Taiko Oni",
+              "difficultyrating": "4.50343",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "126807",
+              "version": "Kumatei",
+              "difficultyrating": "4.0079",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "126808",
+              "version": "Pyon",
+              "difficultyrating": "2.49348",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "130500",
+              "version": "Ozzy's Extra",
+              "difficultyrating": "5.96357",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "143029",
+              "version": "Usagi",
+              "difficultyrating": "2.16262",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "143033",
+              "version": "Usamimi",
+              "difficultyrating": "3.63693",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "28705",
+          "title": "Kokou no Sousei",
+          "artist": "Yousei Teikoku",
+          "creator": "Saten-san",
+          "approved_date": "2012-02-10 09:56:12",
+          "difficulties": [
+            {
+              "beatmap_id": "95583",
+              "version": "Collab",
+              "difficultyrating": "5.9961",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "96763",
+              "version": "Insane",
+              "difficultyrating": "4.77297",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "98229",
+              "version": "Hard",
+              "difficultyrating": "3.17623",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "98825",
+              "version": "Medi's Demonic Oni",
+              "difficultyrating": "5.81779",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "101732",
+              "version": "Ono's Taiko Inner Oni",
+              "difficultyrating": "5.80394",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "118068",
+              "version": "Chaos",
+              "difficultyrating": "6.87874",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "22252",
+          "title": "Koromo of the Sprite Tribe",
+          "artist": "Nico Nico Douga",
+          "creator": "Saten-san",
+          "approved_date": "2011-08-24 17:15:47",
+          "difficulties": [
+            {
+              "beatmap_id": "110771",
+              "version": "Chamle's Riichi",
+              "difficultyrating": "4.13397",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "110845",
+              "version": "Kodomo",
+              "difficultyrating": "1.96859",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "110846",
+              "version": "Koromo",
+              "difficultyrating": "3.46842",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "110847",
+              "version": "Ozzy's Taikomo",
+              "difficultyrating": "3.92356",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "110848",
+              "version": "Teta's Amae",
+              "difficultyrating": "1.49567",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "110849",
+              "version": "Weezy's Etopen",
+              "difficultyrating": "2.03453",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "21838",
+          "title": "Pinch Daisuki!",
+          "artist": "Hyakkoku Hajime",
+          "creator": "Saten-san",
+          "approved_date": "2011-03-03 01:30:57",
+          "difficulties": [
+            {
+              "beatmap_id": "81393",
+              "version": "Pinch",
+              "difficultyrating": "3.62427",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "85625",
+              "version": "Jameskong1's Insane",
+              "difficultyrating": "3.2694",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "85627",
+              "version": "Wmf's Taiko",
+              "difficultyrating": "3.89898",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "85628",
+              "version": "YGOkid8's Easy",
+              "difficultyrating": "1.6129",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "88469",
+              "version": "Daisuki",
+              "difficultyrating": "2.32665",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "89734",
+              "version": "Normal",
+              "difficultyrating": "1.88174",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
@@ -11613,7 +11605,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 97
       },
-      "lastUpdated": "2026-09-01T08:28:15.502Z"
+      "lastUpdated": "2026-09-14T07:46:51.798Z"
     },
     {
       "user_id": "98661",
@@ -16061,7 +16053,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 82
       },
-      "lastUpdated": "2026-09-01T08:28:15.502Z"
+      "lastUpdated": "2026-09-14T07:46:51.798Z"
     },
     {
       "user_id": "4260033",
@@ -20070,7 +20062,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 73
       },
-      "lastUpdated": "2026-09-01T08:28:15.502Z"
+      "lastUpdated": "2026-09-14T07:46:51.798Z"
     },
     {
       "user_id": "57057",
@@ -23978,7 +23970,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 72
       },
-      "lastUpdated": "2026-09-01T08:28:15.502Z"
+      "lastUpdated": "2026-09-14T07:46:51.798Z"
     },
     {
       "user_id": "40998",
@@ -27458,7 +27450,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 64
       },
-      "lastUpdated": "2026-09-01T08:28:15.502Z"
+      "lastUpdated": "2026-09-14T07:46:51.798Z"
     },
     {
       "user_id": "4287454",
@@ -29972,7 +29964,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 46
       },
-      "lastUpdated": "2026-09-01T08:28:15.502Z"
+      "lastUpdated": "2026-09-14T07:46:51.798Z"
     },
     {
       "user_id": "12091109",
@@ -31875,7 +31867,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 35
       },
-      "lastUpdated": "2026-09-01T08:28:15.502Z"
+      "lastUpdated": "2026-09-14T07:46:51.798Z"
     },
     {
       "user_id": "2686293",
@@ -33344,37 +33336,58 @@
       ],
       "beatmapsets": [
         {
-          "beatmapset_id": "394567",
-          "title": "Lovely Day",
-          "artist": "Park Shin Hye",
+          "beatmapset_id": "497497",
+          "title": "Terekakushi Shishunki",
+          "artist": "sana x HoneyWorks",
           "creator": "WORSTPOLACKEU",
-          "approved_date": "2016-02-20 23:20:11",
+          "approved_date": "2025-06-04 20:45:55",
           "difficulties": [
             {
-              "beatmap_id": "858703",
-              "version": "Saranghae, Jagiya!",
-              "difficultyrating": "3.52719",
+              "beatmap_id": "1058941",
+              "version": "Adolescence",
+              "difficultyrating": "5.489",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "860894",
-              "version": "Kyshiro's Normal",
-              "difficultyrating": "2.20075",
+              "beatmap_id": "1061962",
+              "version": "Extra",
+              "difficultyrating": "4.97117",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "862900",
-              "version": "Hard",
-              "difficultyrating": "2.72828",
+              "beatmap_id": "1082305",
+              "version": "Pentori's Insane",
+              "difficultyrating": "4.35294",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "879432",
-              "version": "Aia's Easy",
-              "difficultyrating": "1.49753",
+              "beatmap_id": "1109447",
+              "version": "Akitoshi's Normal",
+              "difficultyrating": "2.16154",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1119218",
+              "version": "Kyshiro's Hard",
+              "difficultyrating": "3.12869",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1138740",
+              "version": "Emilia's Light Insane",
+              "difficultyrating": "4.14072",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1217430",
+              "version": "Arf's Easy",
+              "difficultyrating": "1.73492",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -33382,127 +33395,16 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "429435",
-          "title": "JOAH",
-          "artist": "Jay Park",
+          "beatmapset_id": "882839",
+          "title": "Necro Fantasia",
+          "artist": "MISATO",
           "creator": "WORSTPOLACKEU",
-          "approved_date": "2016-09-04 05:20:12",
+          "approved_date": "2021-05-25 18:25:16",
           "difficulties": [
             {
-              "beatmap_id": "926582",
-              "version": "Irreversible's Easy",
-              "difficultyrating": "1.45244",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "926583",
-              "version": "Joah..",
-              "difficultyrating": "3.79844",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "962260",
-              "version": "WORSTversible's Normal",
-              "difficultyrating": "2.18476",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1040716",
-              "version": "Nely's Hard",
-              "difficultyrating": "2.88722",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "607613",
-          "title": "CROOKED",
-          "artist": "G-DRAGON",
-          "creator": "WORSTPOLACKEU",
-          "approved_date": "2018-02-24 08:40:15",
-          "difficulties": [
-            {
-              "beatmap_id": "1284025",
-              "version": "Warped",
-              "difficultyrating": "4.64157",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1325066",
-              "version": "Firetruck's Normal",
-              "difficultyrating": "1.77915",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1358555",
-              "version": "Advanced",
-              "difficultyrating": "2.93567",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1373012",
-              "version": "Natsu's Challenging",
-              "difficultyrating": "3.6654",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "715663",
-          "title": "Miraizu feat.Aida Miou (CV: Toyosaki Aki)",
-          "artist": "HoneyWorks",
-          "creator": "WORSTPOLACKEU",
-          "approved_date": "2018-04-26 11:41:23",
-          "difficulties": [
-            {
-              "beatmap_id": "1512820",
-              "version": "Subsequent",
-              "difficultyrating": "5.72443",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1514919",
-              "version": "Normal",
-              "difficultyrating": "2.38276",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1516704",
-              "version": "Hard",
-              "difficultyrating": "3.8231",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1516896",
-              "version": "Insane",
-              "difficultyrating": "4.72164",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1521579",
-              "version": "Chalwa's Easy",
-              "difficultyrating": "1.7832",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1529839",
-              "version": "Venix's Extra",
-              "difficultyrating": "5.39729",
+              "beatmap_id": "2813781",
+              "version": "Lunatic",
+              "difficultyrating": "5.85407",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -33569,16 +33471,51 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "882839",
-          "title": "Necro Fantasia",
-          "artist": "MISATO",
+          "beatmapset_id": "715663",
+          "title": "Miraizu feat.Aida Miou (CV: Toyosaki Aki)",
+          "artist": "HoneyWorks",
           "creator": "WORSTPOLACKEU",
-          "approved_date": "2021-05-25 18:25:16",
+          "approved_date": "2018-04-26 11:41:23",
           "difficulties": [
             {
-              "beatmap_id": "2813781",
-              "version": "Lunatic",
-              "difficultyrating": "5.85407",
+              "beatmap_id": "1512820",
+              "version": "Subsequent",
+              "difficultyrating": "5.72443",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1514919",
+              "version": "Normal",
+              "difficultyrating": "2.38276",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1516704",
+              "version": "Hard",
+              "difficultyrating": "3.8231",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1516896",
+              "version": "Insane",
+              "difficultyrating": "4.72164",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1521579",
+              "version": "Chalwa's Easy",
+              "difficultyrating": "1.7832",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1529839",
+              "version": "Venix's Extra",
+              "difficultyrating": "5.39729",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -33586,65 +33523,118 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "497497",
-          "title": "Terekakushi Shishunki",
-          "artist": "sana x HoneyWorks",
+          "beatmapset_id": "607613",
+          "title": "CROOKED",
+          "artist": "G-DRAGON",
           "creator": "WORSTPOLACKEU",
-          "approved_date": "2025-06-04 20:45:55",
+          "approved_date": "2018-02-24 08:40:15",
           "difficulties": [
             {
-              "beatmap_id": "1058941",
-              "version": "Adolescence",
-              "difficultyrating": "5.489",
+              "beatmap_id": "1284025",
+              "version": "Warped",
+              "difficultyrating": "4.64157",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "1061962",
-              "version": "Extra",
-              "difficultyrating": "4.97117",
+              "beatmap_id": "1325066",
+              "version": "Firetruck's Normal",
+              "difficultyrating": "1.77915",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "1082305",
-              "version": "Pentori's Insane",
-              "difficultyrating": "4.35294",
+              "beatmap_id": "1358555",
+              "version": "Advanced",
+              "difficultyrating": "2.93567",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "1109447",
-              "version": "Akitoshi's Normal",
-              "difficultyrating": "2.16154",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1119218",
-              "version": "Kyshiro's Hard",
-              "difficultyrating": "3.12869",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1138740",
-              "version": "Emilia's Light Insane",
-              "difficultyrating": "4.14072",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1217430",
-              "version": "Arf's Easy",
-              "difficultyrating": "1.73492",
+              "beatmap_id": "1373012",
+              "version": "Natsu's Challenging",
+              "difficultyrating": "3.6654",
               "mode": "0",
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "52",
-          "playcount": "28213"
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "429435",
+          "title": "JOAH",
+          "artist": "Jay Park",
+          "creator": "WORSTPOLACKEU",
+          "approved_date": "2016-09-04 05:20:12",
+          "difficulties": [
+            {
+              "beatmap_id": "926582",
+              "version": "Irreversible's Easy",
+              "difficultyrating": "1.45244",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "926583",
+              "version": "Joah..",
+              "difficultyrating": "3.79844",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "962260",
+              "version": "WORSTversible's Normal",
+              "difficultyrating": "2.18476",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1040716",
+              "version": "Nely's Hard",
+              "difficultyrating": "2.88722",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "394567",
+          "title": "Lovely Day",
+          "artist": "Park Shin Hye",
+          "creator": "WORSTPOLACKEU",
+          "approved_date": "2016-02-20 23:20:11",
+          "difficulties": [
+            {
+              "beatmap_id": "858703",
+              "version": "Saranghae, Jagiya!",
+              "difficultyrating": "3.52719",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "860894",
+              "version": "Kyshiro's Normal",
+              "difficultyrating": "2.20075",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "862900",
+              "version": "Hard",
+              "difficultyrating": "2.72828",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "879432",
+              "version": "Aia's Easy",
+              "difficultyrating": "1.49753",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
@@ -33656,7 +33646,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 33
       },
-      "lastUpdated": "2026-09-01T08:28:15.502Z"
+      "lastUpdated": "2026-09-14T07:46:51.798Z"
     },
     {
       "user_id": "4999669",
@@ -35261,7 +35251,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 29
       },
-      "lastUpdated": "2026-09-01T08:28:15.502Z"
+      "lastUpdated": "2026-09-14T07:46:51.798Z"
     },
     {
       "user_id": "8009626",
@@ -36825,7 +36815,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 28
       },
-      "lastUpdated": "2026-09-01T08:28:15.502Z"
+      "lastUpdated": "2026-09-14T07:46:51.798Z"
     },
     {
       "user_id": "1280641",
@@ -38033,6 +38023,178 @@
       ],
       "beatmapsets": [
         {
+          "beatmapset_id": "1101254",
+          "title": "NIGHT SWIMMING",
+          "artist": "HARU NEMURI",
+          "creator": "Liiraye",
+          "approved_date": "2020-12-18 04:21:34",
+          "difficulties": [
+            {
+              "beatmap_id": "2300641",
+              "version": "WONDER WONDER",
+              "difficultyrating": "5.09118",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2306631",
+              "version": "STRIDER'S INSANE",
+              "difficultyrating": "4.67873",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2340936",
+              "version": "PIROSHKI'S HARD",
+              "difficultyrating": "3.43777",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2373553",
+              "version": "HOS' NORMAL",
+              "difficultyrating": "2.38642",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2534154",
+              "version": "OKO'S EASY",
+              "difficultyrating": "2.28236",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "327481",
+          "title": "miss you (DJ SEVEN PnB Refix)",
+          "artist": "m-flo Loves melody. & Yamamoto Ryohei",
+          "creator": "natari",
+          "approved_date": "2019-07-27 03:00:02",
+          "difficulties": [
+            {
+              "beatmap_id": "726817",
+              "version": "Louder",
+              "difficultyrating": "5.86767",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "124905",
+          "title": "heiju-do",
+          "artist": "y0c1e",
+          "creator": "Liiraye",
+          "approved_date": "2018-04-30 23:19:05",
+          "difficulties": [
+            {
+              "beatmap_id": "390929",
+              "version": "Ichi",
+              "difficultyrating": "1.91332",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "904742",
+              "version": "Hey Jude",
+              "difficultyrating": "6.10963",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "905761",
+              "version": "San",
+              "difficultyrating": "4.67123",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1595969",
+              "version": "Ni",
+              "difficultyrating": "3.36834",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "384859",
+          "title": "Monochrome and Vivid",
+          "artist": "penoreri",
+          "creator": "Nube",
+          "approved_date": "2016-01-16 20:00:17",
+          "difficulties": [
+            {
+              "beatmap_id": "840864",
+              "version": "Awake",
+              "difficultyrating": "6.19926",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "172300",
+          "title": "Sora no Kanata",
+          "artist": "wa.",
+          "creator": "Liiraye",
+          "approved_date": "2014-06-21 01:42:11",
+          "difficulties": [
+            {
+              "beatmap_id": "416506",
+              "version": "Affinity",
+              "difficultyrating": "5.0743",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "428991",
+              "version": "Asphyxia's Hard",
+              "difficultyrating": "3.7167",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "438333",
+              "version": "Trust's Normal",
+              "difficultyrating": "1.80478",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "129676",
+          "title": "Happy End of the World",
+          "artist": "xi",
+          "creator": "Liiraye",
+          "approved_date": "2014-01-05 22:58:23",
+          "difficulties": [
+            {
+              "beatmap_id": "327525",
+              "version": "Donphin Oni",
+              "difficultyrating": "5.38312",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "327526",
+              "version": "Happy End",
+              "difficultyrating": "6.15721",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
           "beatmapset_id": "104151",
           "title": "STILL SPLODIN' THO (Interlude)",
           "artist": "Anamanaguchi",
@@ -38118,178 +38280,6 @@
             }
           ],
           "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "129676",
-          "title": "Happy End of the World",
-          "artist": "xi",
-          "creator": "Liiraye",
-          "approved_date": "2014-01-05 22:58:23",
-          "difficulties": [
-            {
-              "beatmap_id": "327525",
-              "version": "Donphin Oni",
-              "difficultyrating": "5.38312",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "327526",
-              "version": "Happy End",
-              "difficultyrating": "6.15721",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "172300",
-          "title": "Sora no Kanata",
-          "artist": "wa.",
-          "creator": "Liiraye",
-          "approved_date": "2014-06-21 01:42:11",
-          "difficulties": [
-            {
-              "beatmap_id": "416506",
-              "version": "Affinity",
-              "difficultyrating": "5.0743",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "428991",
-              "version": "Asphyxia's Hard",
-              "difficultyrating": "3.7167",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "438333",
-              "version": "Trust's Normal",
-              "difficultyrating": "1.80478",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "384859",
-          "title": "Monochrome and Vivid",
-          "artist": "penoreri",
-          "creator": "Nube",
-          "approved_date": "2016-01-16 20:00:17",
-          "difficulties": [
-            {
-              "beatmap_id": "840864",
-              "version": "Awake",
-              "difficultyrating": "6.19926",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "124905",
-          "title": "heiju-do",
-          "artist": "y0c1e",
-          "creator": "Liiraye",
-          "approved_date": "2018-04-30 23:19:05",
-          "difficulties": [
-            {
-              "beatmap_id": "390929",
-              "version": "Ichi",
-              "difficultyrating": "1.91332",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "904742",
-              "version": "Hey Jude",
-              "difficultyrating": "6.10963",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "905761",
-              "version": "San",
-              "difficultyrating": "4.67123",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1595969",
-              "version": "Ni",
-              "difficultyrating": "3.36834",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "327481",
-          "title": "miss you (DJ SEVEN PnB Refix)",
-          "artist": "m-flo Loves melody. & Yamamoto Ryohei",
-          "creator": "natari",
-          "approved_date": "2019-07-27 03:00:02",
-          "difficulties": [
-            {
-              "beatmap_id": "726817",
-              "version": "Louder",
-              "difficultyrating": "5.86767",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1101254",
-          "title": "NIGHT SWIMMING",
-          "artist": "HARU NEMURI",
-          "creator": "Liiraye",
-          "approved_date": "2020-12-18 04:21:34",
-          "difficulties": [
-            {
-              "beatmap_id": "2300641",
-              "version": "WONDER WONDER",
-              "difficultyrating": "5.09118",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2306631",
-              "version": "STRIDER'S INSANE",
-              "difficultyrating": "4.67873",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2340936",
-              "version": "PIROSHKI'S HARD",
-              "difficultyrating": "3.43777",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2373553",
-              "version": "HOS' NORMAL",
-              "difficultyrating": "2.38642",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2534154",
-              "version": "OKO'S EASY",
-              "difficultyrating": "2.28236",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
@@ -38301,7 +38291,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 27
       },
-      "lastUpdated": "2026-09-01T08:28:15.502Z"
+      "lastUpdated": "2026-09-14T07:46:51.798Z"
     },
     {
       "user_id": "10047413",
@@ -39223,7 +39213,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 16
       },
-      "lastUpdated": "2026-09-01T08:28:15.502Z"
+      "lastUpdated": "2026-09-14T07:46:51.798Z"
     },
     {
       "user_id": "60604",
@@ -39768,58 +39758,6 @@
       ],
       "beatmapsets": [
         {
-          "beatmapset_id": "31419",
-          "title": "Nyanyanyanyanyanyanya!",
-          "artist": "daniwellP",
-          "creator": "theowest",
-          "approved_date": "2012-01-16 17:19:14",
-          "difficulties": [
-            {
-              "beatmap_id": "103281",
-              "version": "Collab",
-              "difficultyrating": "5.10386",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "103282",
-              "version": "Taiko Collab",
-              "difficultyrating": "4.65922",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "105037",
-              "version": "Normal",
-              "difficultyrating": "1.71211",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "107409",
-              "version": "Easy",
-              "difficultyrating": "1.46858",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "107410",
-              "version": "Insane",
-              "difficultyrating": "5.40687",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "112700",
-              "version": "BD's Hard",
-              "difficultyrating": "3.23627",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
           "beatmapset_id": "23412",
           "title": "Coward Killing Time",
           "artist": "The Quick Brown Fox",
@@ -39870,6 +39808,58 @@
             }
           ],
           "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "31419",
+          "title": "Nyanyanyanyanyanyanya!",
+          "artist": "daniwellP",
+          "creator": "theowest",
+          "approved_date": "2012-01-16 17:19:14",
+          "difficulties": [
+            {
+              "beatmap_id": "103281",
+              "version": "Collab",
+              "difficultyrating": "5.10386",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "103282",
+              "version": "Taiko Collab",
+              "difficultyrating": "4.65922",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "105037",
+              "version": "Normal",
+              "difficultyrating": "1.71211",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "107409",
+              "version": "Easy",
+              "difficultyrating": "1.46858",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "107410",
+              "version": "Insane",
+              "difficultyrating": "5.40687",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "112700",
+              "version": "BD's Hard",
+              "difficultyrating": "3.23627",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
@@ -39881,7 +39871,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 12
       },
-      "lastUpdated": "2026-09-01T08:28:15.502Z"
+      "lastUpdated": "2026-09-14T07:46:51.798Z"
     },
     {
       "user_id": "9287016",
@@ -40398,7 +40388,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 9
       },
-      "lastUpdated": "2026-09-01T08:28:15.502Z"
+      "lastUpdated": "2026-09-14T07:46:51.798Z"
     },
     {
       "user_id": "819",
@@ -40760,7 +40750,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 6
       },
-      "lastUpdated": "2026-09-01T08:28:15.502Z"
+      "lastUpdated": "2026-09-14T07:46:51.798Z"
     },
     {
       "user_id": "31343",
@@ -41112,7 +41102,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 6
       },
-      "lastUpdated": "2026-09-01T08:28:15.502Z"
+      "lastUpdated": "2026-09-14T07:46:51.798Z"
     },
     {
       "user_id": "52832",
@@ -41464,7 +41454,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 6
       },
-      "lastUpdated": "2026-09-01T08:28:15.502Z"
+      "lastUpdated": "2026-09-14T07:46:51.798Z"
     },
     {
       "user_id": "154772",
@@ -41757,7 +41747,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 5
       },
-      "lastUpdated": "2026-09-01T08:28:15.502Z"
+      "lastUpdated": "2026-09-14T07:46:51.798Z"
     },
     {
       "user_id": "2001716",
@@ -42048,7 +42038,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 5
       },
-      "lastUpdated": "2026-09-01T08:28:15.502Z"
+      "lastUpdated": "2026-09-14T07:46:51.798Z"
     },
     {
       "user_id": "370548",
@@ -42288,7 +42278,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 4
       },
-      "lastUpdated": "2026-09-01T08:28:15.502Z"
+      "lastUpdated": "2026-09-14T07:46:51.798Z"
     },
     {
       "user_id": "37224",
@@ -42477,7 +42467,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-09-01T08:28:15.502Z"
+      "lastUpdated": "2026-09-14T07:46:51.798Z"
     },
     {
       "user_id": "3610934",
@@ -42668,7 +42658,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-09-01T08:28:15.502Z"
+      "lastUpdated": "2026-09-14T07:46:51.798Z"
     },
     {
       "user_id": "4150829",
@@ -42816,7 +42806,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 2
       },
-      "lastUpdated": "2026-09-01T08:28:15.502Z"
+      "lastUpdated": "2026-09-14T07:46:51.798Z"
     },
     {
       "user_id": "817211",
@@ -42954,7 +42944,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 2
       },
-      "lastUpdated": "2026-09-01T08:28:15.502Z"
+      "lastUpdated": "2026-09-14T07:46:51.798Z"
     }
   ]
 }
