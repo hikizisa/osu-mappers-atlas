@@ -1,6 +1,6 @@
 {
   "defaultCountry": "KR",
-  "generatedAt": "2026-09-14T07:47:01.510Z",
+  "generatedAt": "2026-09-15T07:31:36.606Z",
   "source": "https://osu.ppy.sh/rankings/osu/country",
   "countries": [
     {
@@ -352,7 +352,7 @@
       "nativeName": "Canada",
       "hasData": true,
       "mapperCount": 36,
-      "lastUpdated": "2026-09-01T07:36:41.393Z"
+      "lastUpdated": "2026-09-15T07:31:06.146Z"
     },
     {
       "code": "BQ",
@@ -955,7 +955,7 @@
       "nativeName": "Italy",
       "hasData": true,
       "mapperCount": 39,
-      "lastUpdated": "2026-09-01T07:36:53.587Z"
+      "lastUpdated": "2026-09-15T07:31:19.850Z"
     },
     {
       "code": "JM",
@@ -1693,7 +1693,7 @@
       "nativeName": "Singapore",
       "hasData": true,
       "mapperCount": 5,
-      "lastUpdated": "2026-09-01T07:37:07.065Z"
+      "lastUpdated": "2026-09-15T07:31:33.242Z"
     },
     {
       "code": "SX",
