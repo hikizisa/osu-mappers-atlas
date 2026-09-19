@@ -5,7 +5,7 @@
     "demonym": "Malaysia",
     "nativeName": "Malaysia"
   },
-  "lastUpdated": "2026-09-05T06:51:25.854Z",
+  "lastUpdated": "2026-09-19T07:13:29.862Z",
   "totalMappers": 7,
   "totalBeatmaps": 336,
   "totalBeatmapsets": 100,
@@ -5931,6 +5931,23 @@
       ],
       "beatmapsets": [
         {
+          "beatmapset_id": "2505954",
+          "title": "Remember",
+          "artist": "yuigot feat. Yachiyo Runami (CV: Saori Hayami)",
+          "creator": "Zeth",
+          "approved_date": "2026-09-02 09:03:01",
+          "difficulties": [
+            {
+              "beatmap_id": "5517590",
+              "version": "Precious Melody",
+              "difficultyrating": "4.23994",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
           "beatmapset_id": "2244840",
           "title": "Beast (Vorso Remix)",
           "artist": "Culprate",
@@ -7290,25 +7307,6 @@
             }
           ],
           "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "2505954",
-          "title": "Remember",
-          "artist": "yuigot feat. Yachiyo Runami (CV: Saori Hayami)",
-          "creator": "Zeth",
-          "approved_date": "2026-09-02 09:03:01",
-          "difficulties": [
-            {
-              "beatmap_id": "5517590",
-              "version": "Precious Melody",
-              "difficultyrating": "4.23994",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true,
-          "favourite_count": "6",
-          "playcount": "85"
         }
       ],
       "guestDifficulties": [],
@@ -7320,7 +7318,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 134
       },
-      "lastUpdated": "2026-09-05T06:51:25.854Z"
+      "lastUpdated": "2026-09-19T07:13:29.862Z"
     },
     {
       "user_id": "6209713",
@@ -12106,7 +12104,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 88
       },
-      "lastUpdated": "2026-09-05T06:51:25.854Z"
+      "lastUpdated": "2026-09-19T07:13:29.862Z"
     },
     {
       "user_id": "95480",
@@ -14863,7 +14861,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 51
       },
-      "lastUpdated": "2026-09-05T06:51:25.854Z"
+      "lastUpdated": "2026-09-19T07:13:29.862Z"
     },
     {
       "user_id": "6537",
@@ -17243,7 +17241,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 44
       },
-      "lastUpdated": "2026-09-05T06:51:25.854Z"
+      "lastUpdated": "2026-09-19T07:13:29.862Z"
     },
     {
       "user_id": "333959",
@@ -17750,7 +17748,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 9
       },
-      "lastUpdated": "2026-09-05T06:51:25.854Z"
+      "lastUpdated": "2026-09-19T07:13:29.862Z"
     },
     {
       "user_id": "118446",
@@ -18153,7 +18151,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 7
       },
-      "lastUpdated": "2026-09-05T06:51:25.854Z"
+      "lastUpdated": "2026-09-19T07:13:29.862Z"
     },
     {
       "user_id": "91320",
@@ -18344,7 +18342,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-09-05T06:51:25.854Z"
+      "lastUpdated": "2026-09-19T07:13:29.862Z"
     }
   ]
 }
