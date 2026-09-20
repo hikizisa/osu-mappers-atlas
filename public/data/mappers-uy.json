@@ -5,7 +5,7 @@
     "demonym": "Uruguay",
     "nativeName": "Uruguay"
   },
-  "lastUpdated": "2026-09-06T07:01:49.295Z",
+  "lastUpdated": "2026-09-20T07:38:37.060Z",
   "totalMappers": 6,
   "totalBeatmaps": 328,
   "totalBeatmapsets": 86,
@@ -13,7 +13,7 @@
   "totalGuestBeatmapsets": 0,
   "totalGuestDiffs": 0,
   "totalOwnDifficulties": 328,
-  "scanType": "incremental",
+  "scanType": "full",
   "mappers": [
     {
       "user_id": "521568",
@@ -8550,7 +8550,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 159
       },
-      "lastUpdated": "2026-09-06T07:01:49.295Z"
+      "lastUpdated": "2026-09-20T07:38:37.060Z"
     },
     {
       "user_id": "287468",
@@ -12937,7 +12937,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 81
       },
-      "lastUpdated": "2026-09-06T07:01:49.295Z"
+      "lastUpdated": "2026-09-20T07:38:37.060Z"
     },
     {
       "user_id": "408088",
@@ -15523,7 +15523,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 48
       },
-      "lastUpdated": "2026-09-06T07:01:49.295Z"
+      "lastUpdated": "2026-09-20T07:38:37.060Z"
     },
     {
       "user_id": "346677",
@@ -16894,7 +16894,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 25
       },
-      "lastUpdated": "2026-09-06T07:01:49.295Z"
+      "lastUpdated": "2026-09-20T07:38:37.060Z"
     },
     {
       "user_id": "45513",
@@ -17625,7 +17625,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 13
       },
-      "lastUpdated": "2026-09-06T07:01:49.295Z"
+      "lastUpdated": "2026-09-20T07:38:37.060Z"
     },
     {
       "user_id": "58710",
@@ -17763,7 +17763,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 2
       },
-      "lastUpdated": "2026-09-06T07:01:49.295Z"
+      "lastUpdated": "2026-09-20T07:38:37.060Z"
     }
   ]
 }
