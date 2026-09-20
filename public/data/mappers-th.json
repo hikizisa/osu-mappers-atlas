@@ -56765,7 +56765,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "282",
+          "playcount": "330",
           "passcount": "48",
           "packs": "ST399",
           "max_combo": "1473",
@@ -56809,7 +56809,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "220",
+          "playcount": "235",
           "passcount": "41",
           "packs": "ST399",
           "max_combo": "1127",
@@ -56853,7 +56853,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "201",
+          "playcount": "218",
           "passcount": "93",
           "packs": "ST393",
           "max_combo": "169",
@@ -56897,7 +56897,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "310",
+          "playcount": "350",
           "passcount": "70",
           "packs": "ST393",
           "max_combo": "423",
@@ -56941,7 +56941,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "181",
+          "playcount": "207",
           "passcount": "85",
           "packs": "ST393",
           "max_combo": "99",
@@ -56985,7 +56985,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "195",
+          "playcount": "204",
           "passcount": "84",
           "packs": "ST393",
           "max_combo": "263",
@@ -57029,7 +57029,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "193",
+          "playcount": "209",
           "passcount": "75",
           "packs": "ST393",
           "max_combo": "340",
@@ -59349,7 +59349,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "16",
+          "playcount": "565"
         },
         {
           "beatmapset_id": "2515272",
@@ -59394,7 +59396,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "7",
+          "playcount": "1188"
         },
         {
           "beatmapset_id": "1831804",
