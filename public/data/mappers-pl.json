@@ -5,11 +5,11 @@
     "demonym": "Poland",
     "nativeName": "Poland"
   },
-  "lastUpdated": "2026-09-10T07:12:10.793Z",
+  "lastUpdated": "2026-09-24T07:29:16.707Z",
   "totalMappers": 17,
-  "totalBeatmaps": 575,
-  "totalBeatmapsets": 164,
-  "totalOwnBeatmapsets": 164,
+  "totalBeatmaps": 576,
+  "totalBeatmapsets": 165,
+  "totalOwnBeatmapsets": 165,
   "totalGuestBeatmapsets": 0,
   "totalGuestDiffs": 0,
   "totalOwnDifficulties": 575,
@@ -22,13 +22,57 @@
         "ChaoticRed"
       ],
       "country": "PL",
-      "rankedBeatmaps": 140,
-      "rankedBeatmapsets": 42,
-      "ownBeatmapsets": 42,
+      "rankedBeatmaps": 141,
+      "rankedBeatmapsets": 43,
+      "ownBeatmapsets": 43,
       "guestBeatmapsets": 0,
       "totalGuestDiffs": 0,
       "ownDifficulties": 140,
       "beatmaps": [
+        {
+          "beatmapset_id": "2601907",
+          "beatmap_id": "5817980",
+          "approved": "1",
+          "total_length": "368",
+          "hit_length": "355",
+          "version": "break of millenium",
+          "file_md5": "bc1c2ad50451fdd0cda20068a3a4b610",
+          "diff_size": "4.1",
+          "diff_overall": "7",
+          "diff_approach": "8",
+          "diff_drain": "5",
+          "mode": "0",
+          "count_normal": "420",
+          "count_slider": "591",
+          "count_spinner": "1",
+          "submit_date": "2026-08-12 05:35:27",
+          "approved_date": "2026-09-13 21:02:33",
+          "last_update": "2026-09-06 19:51:36",
+          "artist": "Naoki Urasawa",
+          "artist_unicode": "浦沢直樹",
+          "title": "Bob Lennon (Kenji no Uta)",
+          "title_unicode": "Bob Lennon (ケンヂの歌)",
+          "creator": "Yudragen",
+          "creator_id": "8406396",
+          "bpm": "71",
+          "source": "20世紀少年",
+          "tags": "20 seiki shounen nijuu seiki shounen nijuusseiki shounen 20thcb 20th century boys manga rock japanese 半世紀の男 ボブレノン",
+          "genre_id": "4",
+          "language_id": "3",
+          "favourite_count": "33",
+          "rating": "7.33333",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "693",
+          "passcount": "94",
+          "packs": "S1869",
+          "max_combo": "1652",
+          "diff_aim": "2.82432",
+          "diff_speed": "1.85989",
+          "difficultyrating": "5.11348"
+        },
         {
           "beatmapset_id": "2566463",
           "beatmap_id": "5708961",
@@ -6223,9 +6267,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "102",
-          "playcount": "14878"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2380292",
@@ -6242,9 +6284,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "102",
-          "playcount": "15796"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2354545",
@@ -7594,18 +7634,35 @@
             }
           ],
           "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2601907",
+          "title": "Bob Lennon (Kenji no Uta)",
+          "artist": "Naoki Urasawa",
+          "creator": "Yudragen",
+          "approved_date": "2026-09-13 21:02:33",
+          "difficulties": [
+            {
+              "beatmap_id": "5817980",
+              "version": "break of millenium",
+              "difficultyrating": "5.11348",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
       "stats": {
-        "totalBeatmaps": 140,
-        "totalBeatmapsets": 42,
-        "ownBeatmapsets": 42,
+        "totalBeatmaps": 141,
+        "totalBeatmapsets": 43,
+        "ownBeatmapsets": 43,
         "guestBeatmapsets": 0,
         "totalGuestDiffs": 0,
-        "ownDifficulties": 140
+        "ownDifficulties": 141
       },
-      "lastUpdated": "2026-09-10T07:12:10.793Z"
+      "lastUpdated": "2026-09-24T07:29:16.707Z"
     },
     {
       "user_id": "9908108",
@@ -12768,9 +12825,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "134",
-          "playcount": "58145"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1297671",
@@ -12808,9 +12863,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "102",
-          "playcount": "29812"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1940975",
@@ -12862,9 +12915,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "37",
-          "playcount": "29985"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2360265",
@@ -12902,9 +12953,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "97",
-          "playcount": "58216"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1952603",
@@ -12942,9 +12991,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "60",
-          "playcount": "39766"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2032998",
@@ -13827,7 +13874,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 116
       },
-      "lastUpdated": "2026-09-10T07:12:10.793Z"
+      "lastUpdated": "2026-09-24T07:29:16.707Z"
     },
     {
       "user_id": "63829",
@@ -17382,7 +17429,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 66
       },
-      "lastUpdated": "2026-09-10T07:12:10.793Z"
+      "lastUpdated": "2026-09-24T07:29:16.707Z"
     },
     {
       "user_id": "5377178",
@@ -20784,7 +20831,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 64
       },
-      "lastUpdated": "2026-09-10T07:12:10.793Z"
+      "lastUpdated": "2026-09-24T07:29:16.707Z"
     },
     {
       "user_id": "56917",
@@ -23846,7 +23893,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 56
       },
-      "lastUpdated": "2026-09-10T07:12:10.793Z"
+      "lastUpdated": "2026-09-24T07:29:16.707Z"
     },
     {
       "user_id": "3827077",
@@ -24759,9 +24806,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "86",
-          "playcount": "3790"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2295329",
@@ -25026,7 +25071,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 20
       },
-      "lastUpdated": "2026-09-10T07:12:10.793Z"
+      "lastUpdated": "2026-09-24T07:29:16.707Z"
     },
     {
       "user_id": "83268",
@@ -26142,7 +26187,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 20
       },
-      "lastUpdated": "2026-09-10T07:12:10.793Z"
+      "lastUpdated": "2026-09-24T07:29:16.707Z"
     },
     {
       "user_id": "42585",
@@ -27054,7 +27099,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 16
       },
-      "lastUpdated": "2026-09-10T07:12:10.793Z"
+      "lastUpdated": "2026-09-24T07:29:16.707Z"
     },
     {
       "user_id": "62856",
@@ -27885,7 +27930,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 15
       },
-      "lastUpdated": "2026-09-10T07:12:10.793Z"
+      "lastUpdated": "2026-09-24T07:29:16.707Z"
     },
     {
       "user_id": "29144",
@@ -28667,7 +28712,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 14
       },
-      "lastUpdated": "2026-09-10T07:12:10.793Z"
+      "lastUpdated": "2026-09-24T07:29:16.707Z"
     },
     {
       "user_id": "39129",
@@ -29345,7 +29390,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 12
       },
-      "lastUpdated": "2026-09-10T07:12:10.793Z"
+      "lastUpdated": "2026-09-24T07:29:16.707Z"
     },
     {
       "user_id": "110904",
@@ -29862,7 +29907,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 9
       },
-      "lastUpdated": "2026-09-10T07:12:10.793Z"
+      "lastUpdated": "2026-09-24T07:29:16.707Z"
     },
     {
       "user_id": "54716",
@@ -30326,7 +30371,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 8
       },
-      "lastUpdated": "2026-09-10T07:12:10.793Z"
+      "lastUpdated": "2026-09-24T07:29:16.707Z"
     },
     {
       "user_id": "44826",
@@ -30731,7 +30776,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 7
       },
-      "lastUpdated": "2026-09-10T07:12:10.793Z"
+      "lastUpdated": "2026-09-24T07:29:16.707Z"
     },
     {
       "user_id": "6825",
@@ -31022,7 +31067,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 5
       },
-      "lastUpdated": "2026-09-10T07:12:10.793Z"
+      "lastUpdated": "2026-09-24T07:29:16.707Z"
     },
     {
       "user_id": "112265",
@@ -31262,7 +31307,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 4
       },
-      "lastUpdated": "2026-09-10T07:12:10.793Z"
+      "lastUpdated": "2026-09-24T07:29:16.707Z"
     },
     {
       "user_id": "42579",
@@ -31451,7 +31496,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-09-10T07:12:10.793Z"
+      "lastUpdated": "2026-09-24T07:29:16.707Z"
     }
   ]
 }
