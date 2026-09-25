@@ -1,6 +1,6 @@
 {
   "defaultCountry": "KR",
-  "generatedAt": "2026-09-24T07:29:23.809Z",
+  "generatedAt": "2026-09-25T07:29:44.807Z",
   "source": "https://osu.ppy.sh/rankings/osu/country",
   "countries": [
     {
@@ -136,7 +136,7 @@
       "nativeName": "Australia",
       "hasData": true,
       "mapperCount": 47,
-      "lastUpdated": "2026-09-11T07:11:14.613Z"
+      "lastUpdated": "2026-09-25T07:29:20.672Z"
     },
     {
       "code": "AT",
@@ -865,7 +865,7 @@
       "nativeName": "Hong Kong",
       "hasData": true,
       "mapperCount": 20,
-      "lastUpdated": "2026-09-11T07:11:27.060Z"
+      "lastUpdated": "2026-09-25T07:29:35.888Z"
     },
     {
       "code": "HU",
@@ -1504,7 +1504,7 @@
       "nativeName": "Portugal",
       "hasData": true,
       "mapperCount": 2,
-      "lastUpdated": "2026-09-11T07:11:32.457Z"
+      "lastUpdated": "2026-09-25T07:29:42.527Z"
     },
     {
       "code": "PR",
