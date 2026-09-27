@@ -5,7 +5,7 @@
     "demonym": "Brazil",
     "nativeName": "Brazil"
   },
-  "lastUpdated": "2026-09-13T07:21:59.668Z",
+  "lastUpdated": "2026-09-27T07:55:24.530Z",
   "totalMappers": 15,
   "totalBeatmaps": 817,
   "totalBeatmapsets": 201,
@@ -13364,6 +13364,44 @@
       ],
       "beatmapsets": [
         {
+          "beatmapset_id": "2371965",
+          "title": "A Horny Money World ~legendary night~",
+          "artist": "Houshou Marine",
+          "creator": "Neto",
+          "approved_date": "2025-05-27 16:23:16",
+          "difficulties": [
+            {
+              "beatmap_id": "5119879",
+              "version": "Baile da Marine",
+              "difficultyrating": "6.41463",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5121275",
+              "version": "Smine's Normal",
+              "difficultyrating": "2.07176",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5122209",
+              "version": "Tarrasky's Insane",
+              "difficultyrating": "4.94136",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5124215",
+              "version": "Collab Hard",
+              "difficultyrating": "3.40246",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
           "beatmapset_id": "1033380",
           "title": "My Demons (Cut Ver.)",
           "artist": "Starset",
@@ -16095,44 +16133,6 @@
             }
           ],
           "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "2371965",
-          "title": "A Horny Money World ~legendary night~",
-          "artist": "Houshou Marine",
-          "creator": "Neto",
-          "approved_date": "2025-05-27 16:23:16",
-          "difficulties": [
-            {
-              "beatmap_id": "5119879",
-              "version": "Baile da Marine",
-              "difficultyrating": "6.41463",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5121275",
-              "version": "Smine's Normal",
-              "difficultyrating": "2.07176",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5122209",
-              "version": "Tarrasky's Insane",
-              "difficultyrating": "4.94136",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5124215",
-              "version": "Collab Hard",
-              "difficultyrating": "3.40246",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
@@ -16144,7 +16144,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 303
       },
-      "lastUpdated": "2026-09-13T07:21:59.668Z"
+      "lastUpdated": "2026-09-27T07:55:24.530Z"
     },
     {
       "user_id": "2857314",
@@ -26646,7 +26646,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 196
       },
-      "lastUpdated": "2026-09-13T07:21:59.668Z"
+      "lastUpdated": "2026-09-27T07:55:24.530Z"
     },
     {
       "user_id": "4098393",
@@ -29924,9 +29924,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "1770",
-          "playcount": "932379"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1109770",
@@ -30537,7 +30535,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 73
       },
-      "lastUpdated": "2026-09-13T07:21:59.668Z"
+      "lastUpdated": "2026-09-27T07:55:24.530Z"
     },
     {
       "user_id": "19048",
@@ -33986,7 +33984,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 63
       },
-      "lastUpdated": "2026-09-13T07:21:59.668Z"
+      "lastUpdated": "2026-09-27T07:55:24.530Z"
     },
     {
       "user_id": "93813",
@@ -36441,7 +36439,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 45
       },
-      "lastUpdated": "2026-09-13T07:21:59.668Z"
+      "lastUpdated": "2026-09-27T07:55:24.530Z"
     },
     {
       "user_id": "122623",
@@ -38548,7 +38546,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 39
       },
-      "lastUpdated": "2026-09-13T07:21:59.668Z"
+      "lastUpdated": "2026-09-27T07:55:24.530Z"
     },
     {
       "user_id": "4475985",
@@ -39532,7 +39530,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 18
       },
-      "lastUpdated": "2026-09-13T07:21:59.668Z"
+      "lastUpdated": "2026-09-27T07:55:24.530Z"
     },
     {
       "user_id": "40981",
@@ -40538,7 +40536,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 18
       },
-      "lastUpdated": "2026-09-13T07:21:59.668Z"
+      "lastUpdated": "2026-09-27T07:55:24.530Z"
     },
     {
       "user_id": "150978",
@@ -41554,7 +41552,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 18
       },
-      "lastUpdated": "2026-09-13T07:21:59.668Z"
+      "lastUpdated": "2026-09-27T07:55:24.530Z"
     },
     {
       "user_id": "15064",
@@ -42181,7 +42179,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 11
       },
-      "lastUpdated": "2026-09-13T07:21:59.668Z"
+      "lastUpdated": "2026-09-27T07:55:24.530Z"
     },
     {
       "user_id": "195335",
@@ -42696,7 +42694,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 9
       },
-      "lastUpdated": "2026-09-13T07:21:59.668Z"
+      "lastUpdated": "2026-09-27T07:55:24.530Z"
     },
     {
       "user_id": "76262",
@@ -43150,7 +43148,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 8
       },
-      "lastUpdated": "2026-09-13T07:21:59.668Z"
+      "lastUpdated": "2026-09-27T07:55:24.530Z"
     },
     {
       "user_id": "5287",
@@ -43553,7 +43551,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 7
       },
-      "lastUpdated": "2026-09-13T07:21:59.668Z"
+      "lastUpdated": "2026-09-27T07:55:24.530Z"
     },
     {
       "user_id": "74017",
@@ -43956,7 +43954,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 7
       },
-      "lastUpdated": "2026-09-13T07:21:59.668Z"
+      "lastUpdated": "2026-09-27T07:55:24.530Z"
     },
     {
       "user_id": "9314703",
@@ -44094,7 +44092,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 2
       },
-      "lastUpdated": "2026-09-13T07:21:59.668Z"
+      "lastUpdated": "2026-09-27T07:55:24.530Z"
     }
   ]
 }
