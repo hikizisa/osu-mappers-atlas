@@ -5203,7 +5203,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "537",
+          "playcount": "697",
           "passcount": "27",
           "packs": null,
           "max_combo": "1593",
@@ -5769,13 +5769,13 @@
           "tags": "cametek instrumental hardcore dubstep zirnitra finale xronial xero xroniàl xéro かめるかめりあ japanese j-core piano kamelcamellia 大箭将也 masaya ooya oya pcca-04883 edp pony canyon inc electronic dance production scubdomino scub domino [keqing] anime girl anime_girl jungkyuyoung natsume shiki natsume_shiki 8972308 final iyouka jcore",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "31",
+          "favourite_count": "32",
           "rating": "8.1",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "3115",
+          "playcount": "3205",
           "passcount": "511",
           "packs": "SC113",
           "max_combo": "4732",
@@ -8518,7 +8518,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "6",
+          "playcount": "697"
         },
         {
           "beatmapset_id": "2129116",
@@ -8677,7 +8679,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "32",
+          "playcount": "3205"
         },
         {
           "beatmapset_id": "609845",
@@ -14176,13 +14180,13 @@
           "tags": "bmd kazmasa k_a_z_m_a_s_a opening ブレンド・a blend a 桜ノ宮苺香 sakuranomiya maika 和氣あず未 waki azumi 日向夏帆 hinata kaho 鬼頭明里 kitou akari 星川麻冬 hoshikawa mafuyu 春野杏 haruno anzu full version happy hardcore stream marathon anicolloid bonus track electronic anime op japanese pop jpop j-pop",
           "genre_id": "3",
           "language_id": "3",
-          "favourite_count": "437",
+          "favourite_count": "451",
           "rating": "9.69565",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "182908",
+          "playcount": "190450",
           "passcount": "11811",
           "packs": "S1567",
           "max_combo": "3905",
@@ -15414,7 +15418,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "451",
+          "playcount": "190450"
         },
         {
           "beatmapset_id": "739053",
