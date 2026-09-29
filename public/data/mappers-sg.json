@@ -5,7 +5,7 @@
     "demonym": "Singapore",
     "nativeName": "Singapore"
   },
-  "lastUpdated": "2026-09-15T07:31:33.242Z",
+  "lastUpdated": "2026-09-29T08:14:51.467Z",
   "totalMappers": 5,
   "totalBeatmaps": 82,
   "totalBeatmapsets": 30,
@@ -1712,7 +1712,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 31
       },
-      "lastUpdated": "2026-09-15T07:31:33.242Z"
+      "lastUpdated": "2026-09-29T08:14:51.467Z"
     },
     {
       "user_id": "43345",
@@ -3042,7 +3042,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 24
       },
-      "lastUpdated": "2026-09-15T07:31:33.242Z"
+      "lastUpdated": "2026-09-29T08:14:51.467Z"
     },
     {
       "user_id": "7199159",
@@ -3960,9 +3960,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "62",
-          "playcount": "701"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2474711",
@@ -3986,9 +3984,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "26",
-          "playcount": "3188"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1993035",
@@ -4172,7 +4168,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 20
       },
-      "lastUpdated": "2026-09-15T07:31:33.242Z"
+      "lastUpdated": "2026-09-29T08:14:51.467Z"
     },
     {
       "user_id": "677",
@@ -4442,7 +4438,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 4
       },
-      "lastUpdated": "2026-09-15T07:31:33.242Z"
+      "lastUpdated": "2026-09-29T08:14:51.467Z"
     },
     {
       "user_id": "12213",
@@ -4631,7 +4627,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-09-15T07:31:33.242Z"
+      "lastUpdated": "2026-09-29T08:14:51.467Z"
     }
   ]
 }
