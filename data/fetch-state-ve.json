@@ -1,16 +1,28 @@
 {
-  "lastChecked": "2026-09-21T07:50:49.806Z",
+  "lastChecked": "2026-10-01T09:57:39.436Z",
   "mapperStates": {
     "45683": {
-      "lastBeatmapCheck": "2026-09-21T07:50:49.806Z"
+      "lastBeatmapCheck": "2026-10-01T09:57:39.436Z"
     },
     "131918": {
-      "lastBeatmapCheck": "2026-09-21T07:50:49.806Z"
+      "lastBeatmapCheck": "2026-10-01T09:57:39.436Z"
+    },
+    "547882": {
+      "lastBeatmapCheck": "2026-10-01T09:57:39.436Z"
+    },
+    "2140739": {
+      "lastBeatmapCheck": "2026-10-01T09:57:39.436Z"
+    },
+    "2675027": {
+      "lastBeatmapCheck": "2026-10-01T09:57:39.436Z"
+    },
+    "3859048": {
+      "lastBeatmapCheck": "2026-10-01T09:57:39.436Z"
     },
     "9048124": {
-      "lastBeatmapCheck": "2026-09-21T07:50:49.806Z"
+      "lastBeatmapCheck": "2026-10-01T09:57:39.436Z"
     }
   },
-  "totalBeatmaps": 166,
-  "lastFullScan": "2026-09-21T07:50:49.806Z"
+  "totalBeatmaps": 250,
+  "lastFullScan": "2026-10-01T09:57:39.436Z"
 }

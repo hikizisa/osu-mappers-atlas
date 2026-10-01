@@ -5,7 +5,7 @@
     "demonym": "Pakistan",
     "nativeName": "Pakistan"
   },
-  "lastUpdated": "2026-09-23T07:37:33.239Z",
+  "lastUpdated": "2026-10-01T09:57:33.533Z",
   "totalMappers": 1,
   "totalBeatmaps": 262,
   "totalBeatmapsets": 62,
@@ -11586,9 +11586,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "125",
-          "playcount": "83514"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2240527",
@@ -11626,9 +11624,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "269",
-          "playcount": "49153"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2202658",
@@ -11666,9 +11662,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "179",
-          "playcount": "97456"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2205447",
@@ -11685,9 +11679,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "245",
-          "playcount": "93034"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1178020",
@@ -11746,9 +11738,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "62",
-          "playcount": "58048"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2078575",
@@ -14031,7 +14021,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 262
       },
-      "lastUpdated": "2026-09-23T07:37:33.239Z"
+      "lastUpdated": "2026-10-01T09:57:33.533Z"
     }
   ]
 }

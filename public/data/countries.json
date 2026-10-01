@@ -1,6 +1,6 @@
 {
   "defaultCountry": "KR",
-  "generatedAt": "2026-10-01T08:41:30.472Z",
+  "generatedAt": "2026-10-01T09:57:43.652Z",
   "source": "https://osu.ppy.sh/rankings/osu/country",
   "countries": [
     {
@@ -279,8 +279,8 @@
       "demonym": "Brazil",
       "nativeName": "Brazil",
       "hasData": true,
-      "mapperCount": 15,
-      "lastUpdated": "2026-09-27T07:55:24.530Z"
+      "mapperCount": 36,
+      "lastUpdated": "2026-10-01T09:55:14.834Z"
     },
     {
       "code": "BN",
@@ -549,8 +549,8 @@
       "demonym": "Ecuador",
       "nativeName": "Ecuador",
       "hasData": true,
-      "mapperCount": 4,
-      "lastUpdated": "2026-09-19T07:13:28.377Z"
+      "mapperCount": 5,
+      "lastUpdated": "2026-10-01T09:55:27.727Z"
     },
     {
       "code": "EG",
@@ -864,8 +864,8 @@
       "demonym": "Hong Kong",
       "nativeName": "Hong Kong",
       "hasData": true,
-      "mapperCount": 20,
-      "lastUpdated": "2026-09-25T07:29:35.888Z"
+      "mapperCount": 58,
+      "lastUpdated": "2026-10-01T09:55:29.722Z"
     },
     {
       "code": "HU",
@@ -1432,7 +1432,7 @@
       "nativeName": "Pakistan",
       "hasData": true,
       "mapperCount": 1,
-      "lastUpdated": "2026-09-23T07:37:33.239Z"
+      "lastUpdated": "2026-10-01T09:57:33.533Z"
     },
     {
       "code": "PW",
@@ -1692,8 +1692,8 @@
       "demonym": "Singapore",
       "nativeName": "Singapore",
       "hasData": true,
-      "mapperCount": 5,
-      "lastUpdated": "2026-09-29T08:14:51.467Z"
+      "mapperCount": 15,
+      "lastUpdated": "2026-10-01T09:57:34.058Z"
     },
     {
       "code": "SX",
@@ -1755,8 +1755,8 @@
       "demonym": "South Korea",
       "nativeName": "South Korea",
       "hasData": true,
-      "mapperCount": 286,
-      "lastUpdated": "2026-10-01T08:40:03.797Z"
+      "mapperCount": 291,
+      "lastUpdated": "2026-10-01T09:55:49.329Z"
     },
     {
       "code": "SS",
@@ -2052,8 +2052,8 @@
       "demonym": "Venezuela",
       "nativeName": "Venezuela",
       "hasData": true,
-      "mapperCount": 3,
-      "lastUpdated": "2026-09-21T07:50:49.806Z"
+      "mapperCount": 7,
+      "lastUpdated": "2026-10-01T09:57:39.436Z"
     },
     {
       "code": "VN",

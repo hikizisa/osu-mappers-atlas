@@ -1,52 +1,115 @@
 {
-  "lastChecked": "2026-09-27T07:55:24.530Z",
+  "lastChecked": "2026-10-01T09:55:14.834Z",
   "mapperStates": {
     "5287": {
-      "lastBeatmapCheck": "2026-09-27T07:55:24.530Z"
+      "lastBeatmapCheck": "2026-10-01T09:55:14.834Z"
     },
     "15064": {
-      "lastBeatmapCheck": "2026-09-27T07:55:24.530Z"
+      "lastBeatmapCheck": "2026-10-01T09:55:14.834Z"
     },
     "19048": {
-      "lastBeatmapCheck": "2026-09-27T07:55:24.530Z"
+      "lastBeatmapCheck": "2026-10-01T09:55:14.834Z"
     },
     "40981": {
-      "lastBeatmapCheck": "2026-09-27T07:55:24.530Z"
+      "lastBeatmapCheck": "2026-10-01T09:55:14.834Z"
     },
     "74017": {
-      "lastBeatmapCheck": "2026-09-27T07:55:24.530Z"
+      "lastBeatmapCheck": "2026-10-01T09:55:14.834Z"
     },
     "76262": {
-      "lastBeatmapCheck": "2026-09-27T07:55:24.530Z"
+      "lastBeatmapCheck": "2026-10-01T09:55:14.834Z"
     },
     "93813": {
-      "lastBeatmapCheck": "2026-09-27T07:55:24.530Z"
+      "lastBeatmapCheck": "2026-10-01T09:55:14.834Z"
     },
     "122623": {
-      "lastBeatmapCheck": "2026-09-27T07:55:24.530Z"
+      "lastBeatmapCheck": "2026-10-01T09:55:14.834Z"
+    },
+    "126927": {
+      "lastBeatmapCheck": "2026-10-01T09:55:14.834Z"
     },
     "150978": {
-      "lastBeatmapCheck": "2026-09-27T07:55:24.530Z"
+      "lastBeatmapCheck": "2026-10-01T09:55:14.834Z"
     },
     "195335": {
-      "lastBeatmapCheck": "2026-09-27T07:55:24.530Z"
+      "lastBeatmapCheck": "2026-10-01T09:55:14.834Z"
+    },
+    "209664": {
+      "lastBeatmapCheck": "2026-10-01T09:55:14.834Z"
+    },
+    "227881": {
+      "lastBeatmapCheck": "2026-10-01T09:55:14.834Z"
+    },
+    "317177": {
+      "lastBeatmapCheck": "2026-10-01T09:55:14.834Z"
+    },
+    "328615": {
+      "lastBeatmapCheck": "2026-10-01T09:55:14.834Z"
+    },
+    "362851": {
+      "lastBeatmapCheck": "2026-10-01T09:55:14.834Z"
+    },
+    "555855": {
+      "lastBeatmapCheck": "2026-10-01T09:55:14.834Z"
+    },
+    "701726": {
+      "lastBeatmapCheck": "2026-10-01T09:55:14.834Z"
+    },
+    "802909": {
+      "lastBeatmapCheck": "2026-10-01T09:55:14.834Z"
+    },
+    "1078989": {
+      "lastBeatmapCheck": "2026-10-01T09:55:14.834Z"
+    },
+    "1360278": {
+      "lastBeatmapCheck": "2026-10-01T09:55:14.834Z"
+    },
+    "1558603": {
+      "lastBeatmapCheck": "2026-10-01T09:55:14.834Z"
+    },
+    "1572385": {
+      "lastBeatmapCheck": "2026-10-01T09:55:14.834Z"
+    },
+    "1948827": {
+      "lastBeatmapCheck": "2026-10-01T09:55:14.834Z"
+    },
+    "2594229": {
+      "lastBeatmapCheck": "2026-10-01T09:55:14.834Z"
     },
     "2857314": {
-      "lastBeatmapCheck": "2026-09-27T07:55:24.530Z"
+      "lastBeatmapCheck": "2026-10-01T09:55:14.834Z"
+    },
+    "3813800": {
+      "lastBeatmapCheck": "2026-10-01T09:55:14.834Z"
+    },
+    "3860376": {
+      "lastBeatmapCheck": "2026-10-01T09:55:14.834Z"
     },
     "4098393": {
-      "lastBeatmapCheck": "2026-09-27T07:55:24.530Z"
+      "lastBeatmapCheck": "2026-10-01T09:55:14.834Z"
     },
     "4475985": {
-      "lastBeatmapCheck": "2026-09-27T07:55:24.530Z"
+      "lastBeatmapCheck": "2026-10-01T09:55:14.834Z"
+    },
+    "4956938": {
+      "lastBeatmapCheck": "2026-10-01T09:55:14.834Z"
+    },
+    "5018747": {
+      "lastBeatmapCheck": "2026-10-01T09:55:14.834Z"
     },
     "5099768": {
-      "lastBeatmapCheck": "2026-09-27T07:55:24.530Z"
+      "lastBeatmapCheck": "2026-10-01T09:55:14.834Z"
+    },
+    "5139042": {
+      "lastBeatmapCheck": "2026-10-01T09:55:14.834Z"
+    },
+    "5400261": {
+      "lastBeatmapCheck": "2026-10-01T09:55:14.834Z"
     },
     "9314703": {
-      "lastBeatmapCheck": "2026-09-27T07:55:24.530Z"
+      "lastBeatmapCheck": "2026-10-01T09:55:14.834Z"
     }
   },
-  "totalBeatmaps": 817,
-  "lastFullScan": "2026-09-27T07:55:24.530Z"
+  "totalBeatmaps": 1247,
+  "lastFullScan": "2026-10-01T09:55:14.834Z"
 }
