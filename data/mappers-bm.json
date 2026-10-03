@@ -1,0 +1,18 @@
+{
+  "country": {
+    "code": "BM",
+    "name": "Bermuda",
+    "demonym": "Bermuda",
+    "nativeName": "Bermuda"
+  },
+  "lastUpdated": "2026-07-04T18:42:16.563Z",
+  "totalMappers": 0,
+  "totalBeatmaps": 0,
+  "totalBeatmapsets": 0,
+  "totalOwnBeatmapsets": 0,
+  "totalGuestBeatmapsets": 0,
+  "totalGuestDiffs": 0,
+  "totalOwnDifficulties": 0,
+  "scanType": "shared-discovery-empty",
+  "mappers": []
+}
