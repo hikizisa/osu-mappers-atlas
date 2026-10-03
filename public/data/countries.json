@@ -1,6 +1,6 @@
 {
   "defaultCountry": "KR",
-  "generatedAt": "2026-10-02T08:17:02.104Z",
+  "generatedAt": "2026-10-03T07:54:39.602Z",
   "source": "https://osu.ppy.sh/rankings/osu/country",
   "countries": [
     {
@@ -550,7 +550,7 @@
       "nativeName": "Ecuador",
       "hasData": true,
       "mapperCount": 5,
-      "lastUpdated": "2026-10-01T09:55:27.727Z"
+      "lastUpdated": "2026-10-03T07:53:27.539Z"
     },
     {
       "code": "EG",
@@ -1153,7 +1153,7 @@
       "nativeName": "Malaysia",
       "hasData": true,
       "mapperCount": 7,
-      "lastUpdated": "2026-09-19T07:13:29.862Z"
+      "lastUpdated": "2026-10-03T07:53:28.884Z"
     },
     {
       "code": "MV",
@@ -2017,7 +2017,7 @@
       "nativeName": "United States",
       "hasData": true,
       "mapperCount": 240,
-      "lastUpdated": "2026-09-19T07:13:32.435Z"
+      "lastUpdated": "2026-10-03T07:53:30.773Z"
     },
     {
       "code": "UY",

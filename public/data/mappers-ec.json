@@ -5,7 +5,7 @@
     "demonym": "Ecuador",
     "nativeName": "Ecuador"
   },
-  "lastUpdated": "2026-10-01T09:55:27.727Z",
+  "lastUpdated": "2026-10-03T07:53:27.539Z",
   "totalMappers": 5,
   "totalBeatmaps": 177,
   "totalBeatmapsets": 50,
@@ -13,7 +13,7 @@
   "totalGuestBeatmapsets": 0,
   "totalGuestDiffs": 0,
   "totalOwnDifficulties": 177,
-  "scanType": "full",
+  "scanType": "incremental",
   "mappers": [
     {
       "user_id": "9856910",
@@ -6397,7 +6397,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 118
       },
-      "lastUpdated": "2026-10-01T09:55:27.727Z"
+      "lastUpdated": "2026-10-03T07:53:27.539Z"
     },
     {
       "user_id": "39872",
@@ -7992,7 +7992,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 29
       },
-      "lastUpdated": "2026-10-01T09:55:27.727Z"
+      "lastUpdated": "2026-10-03T07:53:27.539Z"
     },
     {
       "user_id": "3442319",
@@ -9139,7 +9139,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 21
       },
-      "lastUpdated": "2026-10-01T09:55:27.727Z"
+      "lastUpdated": "2026-10-03T07:53:27.539Z"
     },
     {
       "user_id": "2317431",
@@ -9481,7 +9481,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 6
       },
-      "lastUpdated": "2026-10-01T09:55:27.727Z"
+      "lastUpdated": "2026-10-03T07:53:27.539Z"
     },
     {
       "user_id": "61466",
@@ -9670,7 +9670,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-10-01T09:55:27.727Z"
+      "lastUpdated": "2026-10-03T07:53:27.539Z"
     }
   ]
 }
