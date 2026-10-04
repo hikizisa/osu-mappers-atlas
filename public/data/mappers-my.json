@@ -552,7 +552,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "2557",
+          "playcount": "2593",
           "passcount": "337",
           "packs": "ST292",
           "max_combo": "1562",
@@ -596,7 +596,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1468",
+          "playcount": "1495",
           "passcount": "386",
           "packs": "ST292",
           "max_combo": "1095",
@@ -640,7 +640,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1405",
+          "playcount": "1441",
           "passcount": "339",
           "packs": "ST292",
           "max_combo": "827",
@@ -684,7 +684,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1117",
+          "playcount": "1126",
           "passcount": "196",
           "packs": "ST292",
           "max_combo": "587",
@@ -772,7 +772,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1765",
+          "playcount": "1774",
           "passcount": "311",
           "packs": "ST279",
           "max_combo": "2551",
@@ -6083,7 +6083,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "37",
+          "playcount": "6655"
         },
         {
           "beatmapset_id": "2166350",
@@ -6114,7 +6116,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "14",
+          "playcount": "4566"
         },
         {
           "beatmapset_id": "2075217",

@@ -59,13 +59,13 @@
           "tags": "sherunosāju ushinawareta hoshi e sasagu uta ciel nosurge gust genometric concert vol.1 契絆ノ詩 pact songs surge concerto nay nayaflask emotional song pact reon-4213 conlang folk fantasy japanese hymn yooh",
           "genre_id": "13",
           "language_id": "3",
-          "favourite_count": "17",
+          "favourite_count": "26",
           "rating": "10",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "643",
+          "playcount": "1000",
           "passcount": "210",
           "packs": null,
           "max_combo": "1056",
@@ -6489,7 +6489,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "26",
+          "playcount": "1000"
         }
       ],
       "guestDifficulties": [],
@@ -16290,13 +16292,13 @@
           "tags": "dnb drum & and n bass electronic english freudeman freude female vocals",
           "genre_id": "10",
           "language_id": "2",
-          "favourite_count": "69",
+          "favourite_count": "71",
           "rating": "9.44231",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "20818",
+          "playcount": "21124",
           "passcount": "3646",
           "packs": "S1474",
           "max_combo": "1686",
@@ -16334,13 +16336,13 @@
           "tags": "dnb drum & and n bass electronic english freudeman freude female vocals",
           "genre_id": "10",
           "language_id": "2",
-          "favourite_count": "69",
+          "favourite_count": "71",
           "rating": "9.44231",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "18874",
+          "playcount": "19261",
           "passcount": "4733",
           "packs": "S1474",
           "max_combo": "1535",
@@ -16378,13 +16380,13 @@
           "tags": "edm dnb d&b drum and n & bass electronic english liquicity featured artist fa dance",
           "genre_id": "10",
           "language_id": "2",
-          "favourite_count": "41",
+          "favourite_count": "42",
           "rating": "9.47059",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "12259",
+          "playcount": "12466",
           "passcount": "2372",
           "packs": "S1431",
           "max_combo": "1782",
@@ -19395,7 +19397,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "71",
+          "playcount": "40385"
         },
         {
           "beatmapset_id": "1950373",
@@ -19412,7 +19416,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "42",
+          "playcount": "12466"
         },
         {
           "beatmapset_id": "1890007",
@@ -30077,7 +30083,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "20692",
+          "playcount": "21295",
           "passcount": "3548",
           "packs": "S1457",
           "max_combo": "1486",
@@ -30121,7 +30127,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "2953",
+          "playcount": "2971",
           "passcount": "953",
           "packs": "S1457",
           "max_combo": "801",
@@ -30165,7 +30171,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1882",
+          "playcount": "1891",
           "passcount": "822",
           "packs": "S1457",
           "max_combo": "627",
@@ -30209,7 +30215,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "5662",
+          "playcount": "5779",
           "passcount": "991",
           "packs": "S1457",
           "max_combo": "1334",
@@ -30253,7 +30259,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "3043",
+          "playcount": "3142",
           "passcount": "240",
           "packs": "S1457",
           "max_combo": "1149",
@@ -30297,7 +30303,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "6211",
+          "playcount": "6364",
           "passcount": "990",
           "packs": "S1457",
           "max_combo": "1456",
@@ -30341,7 +30347,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "9424",
+          "playcount": "9532",
           "passcount": "2708",
           "packs": "S1457",
           "max_combo": "1462",
@@ -30385,7 +30391,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "6940",
+          "playcount": "7021",
           "passcount": "1085",
           "packs": "S1457",
           "max_combo": "1123",
@@ -30429,7 +30435,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "3187",
+          "playcount": "3196",
           "passcount": "1023",
           "packs": "S1457",
           "max_combo": "937",
@@ -30467,13 +30473,13 @@
           "tags": "sheltered and abandoned japanese pop jpop axaptice pandahero",
           "genre_id": "5",
           "language_id": "3",
-          "favourite_count": "27",
+          "favourite_count": "26",
           "rating": "8.86364",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "3736",
+          "playcount": "3808",
           "passcount": "910",
           "packs": "S1454",
           "max_combo": "1255",
@@ -30511,13 +30517,13 @@
           "tags": "sheltered and abandoned japanese pop jpop axaptice pandahero",
           "genre_id": "5",
           "language_id": "3",
-          "favourite_count": "27",
+          "favourite_count": "26",
           "rating": "8.86364",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "2782",
+          "playcount": "2836",
           "passcount": "528",
           "packs": "S1454",
           "max_combo": "1047",
@@ -31654,7 +31660,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "83",
+          "playcount": "61191"
         },
         {
           "beatmapset_id": "1705930",
@@ -31678,7 +31686,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "26",
+          "playcount": "6644"
         },
         {
           "beatmapset_id": "1276327",
@@ -38440,13 +38450,13 @@
           "tags": "jazz instrumental 4 digit osu!mania world cup 2024 4dm24 mistrzostwa polski w 4k mp4k osu!mania ln tournament 3 omln3 torneo platanorojo 2021 pltrj21 long note",
           "genre_id": "14",
           "language_id": "5",
-          "favourite_count": "190",
+          "favourite_count": "195",
           "rating": "9.86207",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "13195",
+          "playcount": "13573",
           "passcount": "2078",
           "packs": "L29",
           "max_combo": "3645",
@@ -39104,7 +39114,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "195",
+          "playcount": "13573"
         },
         {
           "beatmapset_id": "1162342",

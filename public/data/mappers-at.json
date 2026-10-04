@@ -59,13 +59,13 @@
           "tags": "arthro osu!catch world cup 2026 cwc2026 cwc grandfinals gf hr1 hardrock hard rock english metal deathcore symphonic the poetic edda l'inverno le quattro stagioni four seasons antonio lucio vivaldi allegro non molto orchestral classical neoclassical black",
           "genre_id": "11",
           "language_id": "2",
-          "favourite_count": "20",
+          "favourite_count": "24",
           "rating": "10",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1045",
+          "playcount": "1378",
           "passcount": "63",
           "packs": "P331,SC165",
           "max_combo": "2032",
@@ -103,13 +103,13 @@
           "tags": "spectator marathon songs compilation symphonic hip hop artcore vgm dnb d'n'b d&b drum'n'bass edm drum and bass hardcores hardcore drumstep dubstep electronic video game videogame pop jpop j-pop progressive english portugese portuguese português japanese novelty instrumental vocaloid midorijeon hex -hex- -luminate cielbami hareimu kukkai deif ascendance -rustyy wonjae paranoid grapes team grimoire あま猫 amaneko croix mili utopiosphere warak 暗夜苏醒 reanimate void feat. 小松菜 komatsuna 暁ノ月 akatsuki no tsuki ひつじとおじさん hitsuji to ojisan xΣnΦ xeno lite show magic t+pazolite vs c-show crack traxxxx alípio alipio martins piranha maffalda reloaded trap mix 葛西ハーコーズ kasai harcores サイクルヒット cycle hit dj genki genkianamei かめりあ kamelcamellia cametek camellia ghost 2020 halloween+++++++++ vip 【kyoro】 [kyoro] モチオー mochio- tak feat featuring 初音ミク hatsune miku lemon melon cookie sound voltex booth sdvx deemo rhythm master bms sound voltex ii -infinite infection- スーパーマリオrpg super mario",
           "genre_id": "6",
           "language_id": "14",
-          "favourite_count": "13",
+          "favourite_count": "15",
           "rating": "0",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "733",
+          "playcount": "944",
           "passcount": "58",
           "packs": "SC165",
           "max_combo": "3052",
@@ -2655,13 +2655,13 @@
           "tags": "osu!catch world cup cwc 2024 grandfinals gf hardrock hr1 death black metal deathcore rock english sanctum jemzuu ajamez",
           "genre_id": "11",
           "language_id": "2",
-          "favourite_count": "19",
+          "favourite_count": "20",
           "rating": "7.64706",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "12034",
+          "playcount": "12214",
           "passcount": "733",
           "packs": "P252,SC109",
           "max_combo": "2132",
@@ -2705,7 +2705,7 @@
           "video": "1",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "5995",
+          "playcount": "6067",
           "passcount": "849",
           "packs": "SC107",
           "max_combo": "643",
@@ -2793,7 +2793,7 @@
           "video": "1",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "4978",
+          "playcount": "5014",
           "passcount": "1883",
           "packs": "SC107",
           "max_combo": "280",
@@ -2837,7 +2837,7 @@
           "video": "1",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "6166",
+          "playcount": "6283",
           "passcount": "1343",
           "packs": "SC107",
           "max_combo": "577",
@@ -2881,7 +2881,7 @@
           "video": "1",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "5194",
+          "playcount": "5275",
           "passcount": "1332",
           "packs": "SC107",
           "max_combo": "478",
@@ -2925,7 +2925,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "2503",
+          "playcount": "2512",
           "passcount": "283",
           "packs": "SC105",
           "max_combo": "1467",
@@ -6338,7 +6338,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "24",
+          "playcount": "1378"
         },
         {
           "beatmapset_id": "2558447",
@@ -6355,7 +6357,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "15",
+          "playcount": "944"
         },
         {
           "beatmapset_id": "2475386",
@@ -6981,7 +6985,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "20",
+          "playcount": "12214"
         },
         {
           "beatmapset_id": "2143862",
@@ -7026,7 +7032,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "128",
+          "playcount": "26186"
         },
         {
           "beatmapset_id": "2147438",
@@ -7043,7 +7051,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "19",
+          "playcount": "2512"
         },
         {
           "beatmapset_id": "2137241",

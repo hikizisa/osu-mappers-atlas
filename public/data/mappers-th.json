@@ -64017,13 +64017,13 @@
           "tags": "drrr! theatre brook uragiri no yuuyake japanese electronic anime pop sharpnelsound cyclick durarara!! シアターブルック 裏切りの夕焼け",
           "genre_id": "3",
           "language_id": "3",
-          "favourite_count": "81",
+          "favourite_count": "82",
           "rating": "9.80392",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "19999",
+          "playcount": "20521",
           "passcount": "3411",
           "packs": "S1696",
           "max_combo": "1669",
@@ -64488,7 +64488,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "82",
+          "playcount": "20521"
         },
         {
           "beatmapset_id": "17676",

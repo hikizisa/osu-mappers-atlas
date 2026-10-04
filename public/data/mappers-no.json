@@ -63,7 +63,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "2908",
+          "playcount": "3025",
           "passcount": "504",
           "packs": "S1717",
           "max_combo": "1567",
@@ -107,7 +107,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "7408",
+          "playcount": "7507",
           "passcount": "1822",
           "packs": "S1717",
           "max_combo": "1474",
@@ -151,7 +151,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "3628",
+          "playcount": "3853",
           "passcount": "931",
           "packs": "S1717",
           "max_combo": "1363",
@@ -4194,7 +4194,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "61",
+          "playcount": "14385"
         },
         {
           "beatmapset_id": "815468",
@@ -5109,13 +5111,13 @@
           "tags": "female vocals vocalist metal fujinn actiol japanese kawaii toy's toys factory dragonforce herman li 李康敏 sam totman kitsune suzuka nakamoto yui mizuno moa kikuchi su-metal yuimetal moametal ror rock 中元すず香 菊地最愛 水野由結 power j-metal jmetal metal resistance mish-mosh norimetal kyt-metal kitsune of metal god mk-metal kxbxmetal 教頭 repetitive strain injury razor sharp",
           "genre_id": "11",
           "language_id": "3",
-          "favourite_count": "21",
+          "favourite_count": "22",
           "rating": "10",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "729",
+          "playcount": "1045",
           "passcount": "52",
           "packs": "SC167",
           "max_combo": "2723",
@@ -5159,7 +5161,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1504",
+          "playcount": "1873",
           "passcount": "71",
           "packs": "SC165",
           "max_combo": "3396",
@@ -5241,13 +5243,13 @@
           "tags": "stigma ep artcore gothic hardcore classical hardcore electronic instrumental fast high bpm melodic speedcore gothic piano dramatic vaqu autols razor sharp",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "8",
+          "favourite_count": "7",
           "rating": "7.75",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "905",
+          "playcount": "1036",
           "passcount": "57",
           "packs": "SC163",
           "max_combo": "1977",
@@ -5285,13 +5287,13 @@
           "tags": "stigma ep artcore gothic hardcore classical hardcore electronic instrumental fast high bpm melodic speedcore gothic piano dramatic vaqu autols razor sharp",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "8",
+          "favourite_count": "7",
           "rating": "7.75",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1756",
+          "playcount": "2458",
           "passcount": "93",
           "packs": "SC163",
           "max_combo": "2083",
@@ -5819,7 +5821,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "778",
+          "playcount": "800",
           "passcount": "98",
           "packs": "LR2",
           "max_combo": "1552",
@@ -5863,7 +5865,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1630",
+          "playcount": "1639",
           "passcount": "239",
           "packs": "LR2",
           "max_combo": "1306",
@@ -5907,7 +5909,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1126",
+          "playcount": "1162",
           "passcount": "136",
           "packs": "LR2",
           "max_combo": "1189",
@@ -5951,7 +5953,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "2593",
+          "playcount": "2611",
           "passcount": "230",
           "packs": "LR2",
           "max_combo": "1270",
@@ -8484,7 +8486,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "22",
+          "playcount": "1045"
         },
         {
           "beatmapset_id": "2588421",
@@ -8501,7 +8505,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "10",
+          "playcount": "1873"
         },
         {
           "beatmapset_id": "2585380",
@@ -8542,7 +8548,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "7",
+          "playcount": "3494"
         },
         {
           "beatmapset_id": "1135397",
@@ -8707,7 +8715,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "57",
+          "playcount": "6212"
         },
         {
           "beatmapset_id": "2141702",
@@ -14208,13 +14218,13 @@
           "tags": "bmd napo napo ritaan macchi denpa napolitan electronic japanese novelty",
           "genre_id": "7",
           "language_id": "3",
-          "favourite_count": "383",
+          "favourite_count": "389",
           "rating": "9.71622",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "80416",
+          "playcount": "82918",
           "passcount": "8836",
           "packs": "LR4",
           "max_combo": "1544",
@@ -15417,7 +15427,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "389",
+          "playcount": "82918"
         },
         {
           "beatmapset_id": "1075607",
