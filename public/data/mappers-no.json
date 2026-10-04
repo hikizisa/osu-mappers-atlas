@@ -5,7 +5,7 @@
     "demonym": "Norway",
     "nativeName": "Norway"
   },
-  "lastUpdated": "2026-09-20T07:38:35.134Z",
+  "lastUpdated": "2026-10-04T08:16:37.545Z",
   "totalMappers": 5,
   "totalBeatmaps": 286,
   "totalBeatmapsets": 103,
@@ -5063,7 +5063,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 94
       },
-      "lastUpdated": "2026-09-20T07:38:35.134Z"
+      "lastUpdated": "2026-10-04T08:16:37.545Z"
     },
     {
       "user_id": "3414261",
@@ -8518,9 +8518,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "6",
-          "playcount": "697"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2129116",
@@ -8561,9 +8559,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "18",
-          "playcount": "495"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1232936",
@@ -8580,9 +8576,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "43",
-          "playcount": "3809"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2424816",
@@ -8599,9 +8593,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "9",
-          "playcount": "1117"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "627517",
@@ -8660,9 +8652,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "28",
-          "playcount": "6396"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2109495",
@@ -8679,9 +8669,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "32",
-          "playcount": "3205"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "609845",
@@ -9450,7 +9438,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 77
       },
-      "lastUpdated": "2026-09-20T07:38:35.134Z"
+      "lastUpdated": "2026-10-04T08:16:37.545Z"
     },
     {
       "user_id": "8352623",
@@ -11989,9 +11977,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "161",
-          "playcount": "36370"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2455736",
@@ -12120,9 +12106,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "547",
-          "playcount": "162366"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1089678",
@@ -12507,7 +12491,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 57
       },
-      "lastUpdated": "2026-09-20T07:38:35.134Z"
+      "lastUpdated": "2026-10-04T08:16:37.545Z"
     },
     {
       "user_id": "9738159",
@@ -14092,7 +14076,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 29
       },
-      "lastUpdated": "2026-09-20T07:38:35.134Z"
+      "lastUpdated": "2026-10-04T08:16:37.545Z"
     },
     {
       "user_id": "3475189",
@@ -15399,9 +15383,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "162",
-          "playcount": "10549"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "862297",
@@ -15418,9 +15400,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "451",
-          "playcount": "190450"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "739053",
@@ -15781,7 +15761,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 29
       },
-      "lastUpdated": "2026-09-20T07:38:35.134Z"
+      "lastUpdated": "2026-10-04T08:16:37.545Z"
     }
   ]
 }

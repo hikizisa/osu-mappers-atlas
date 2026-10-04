@@ -5,7 +5,7 @@
     "demonym": "Uruguay",
     "nativeName": "Uruguay"
   },
-  "lastUpdated": "2026-09-20T07:38:37.060Z",
+  "lastUpdated": "2026-10-04T08:16:39.243Z",
   "totalMappers": 6,
   "totalBeatmaps": 328,
   "totalBeatmapsets": 86,
@@ -8550,7 +8550,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 159
       },
-      "lastUpdated": "2026-09-20T07:38:37.060Z"
+      "lastUpdated": "2026-10-04T08:16:39.243Z"
     },
     {
       "user_id": "287468",
@@ -12937,7 +12937,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 81
       },
-      "lastUpdated": "2026-09-20T07:38:37.060Z"
+      "lastUpdated": "2026-10-04T08:16:39.243Z"
     },
     {
       "user_id": "408088",
@@ -15110,9 +15110,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "55",
-          "playcount": "23621"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1006176",
@@ -15525,7 +15523,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 48
       },
-      "lastUpdated": "2026-09-20T07:38:37.060Z"
+      "lastUpdated": "2026-10-04T08:16:39.243Z"
     },
     {
       "user_id": "346677",
@@ -16896,7 +16894,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 25
       },
-      "lastUpdated": "2026-09-20T07:38:37.060Z"
+      "lastUpdated": "2026-10-04T08:16:39.243Z"
     },
     {
       "user_id": "45513",
@@ -17627,7 +17625,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 13
       },
-      "lastUpdated": "2026-09-20T07:38:37.060Z"
+      "lastUpdated": "2026-10-04T08:16:39.243Z"
     },
     {
       "user_id": "58710",
@@ -17765,7 +17763,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 2
       },
-      "lastUpdated": "2026-09-20T07:38:37.060Z"
+      "lastUpdated": "2026-10-04T08:16:39.243Z"
     }
   ]
 }
