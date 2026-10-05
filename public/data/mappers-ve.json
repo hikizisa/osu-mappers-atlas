@@ -5,7 +5,7 @@
     "demonym": "Venezuela",
     "nativeName": "Venezuela"
   },
-  "lastUpdated": "2026-10-01T09:57:39.436Z",
+  "lastUpdated": "2026-10-05T08:46:04.205Z",
   "totalMappers": 7,
   "totalBeatmaps": 250,
   "totalBeatmapsets": 52,
@@ -13,7 +13,7 @@
   "totalGuestBeatmapsets": 0,
   "totalGuestDiffs": 0,
   "totalOwnDifficulties": 250,
-  "scanType": "full",
+  "scanType": "incremental",
   "mappers": [
     {
       "user_id": "9048124",
@@ -4075,9 +4075,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "60",
-          "playcount": "11153"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1689156",
@@ -4122,9 +4120,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "260",
-          "playcount": "135095"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2089549",
@@ -4672,7 +4668,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 87
       },
-      "lastUpdated": "2026-10-01T09:57:39.436Z"
+      "lastUpdated": "2026-10-05T08:46:04.205Z"
     },
     {
       "user_id": "131918",
@@ -8757,7 +8753,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 76
       },
-      "lastUpdated": "2026-10-01T09:57:39.436Z"
+      "lastUpdated": "2026-10-05T08:46:04.205Z"
     },
     {
       "user_id": "2140739",
@@ -10492,51 +10488,6 @@
       ],
       "beatmapsets": [
         {
-          "beatmapset_id": "300130",
-          "title": "licca",
-          "artist": "Qrispy Joybox",
-          "creator": "[_Chichinya_]",
-          "approved_date": "2016-06-30 21:00:08",
-          "difficulties": [
-            {
-              "beatmap_id": "673153",
-              "version": "Oni",
-              "difficultyrating": "4.52041",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "673197",
-              "version": "Muzukashii",
-              "difficultyrating": "3.18913",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "675933",
-              "version": "Futsuu",
-              "difficultyrating": "2.40305",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "676374",
-              "version": "Kantan",
-              "difficultyrating": "1.41131",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "749758",
-              "version": "Alepat's Inner Oni",
-              "difficultyrating": "4.92882",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
           "beatmapset_id": "549370",
           "title": "TSLove",
           "artist": "O2i3",
@@ -10783,6 +10734,51 @@
             }
           ],
           "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "300130",
+          "title": "licca",
+          "artist": "Qrispy Joybox",
+          "creator": "[_Chichinya_]",
+          "approved_date": "2016-06-30 21:00:08",
+          "difficulties": [
+            {
+              "beatmap_id": "673153",
+              "version": "Oni",
+              "difficultyrating": "4.52041",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "673197",
+              "version": "Muzukashii",
+              "difficultyrating": "3.18913",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "675933",
+              "version": "Futsuu",
+              "difficultyrating": "2.40305",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "676374",
+              "version": "Kantan",
+              "difficultyrating": "1.41131",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "749758",
+              "version": "Alepat's Inner Oni",
+              "difficultyrating": "4.92882",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
@@ -10794,7 +10790,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 39
       },
-      "lastUpdated": "2026-10-01T09:57:39.436Z"
+      "lastUpdated": "2026-10-05T08:46:04.205Z"
     },
     {
       "user_id": "547882",
@@ -11693,38 +11689,117 @@
       ],
       "beatmapsets": [
         {
-          "beatmapset_id": "266129",
-          "title": "Refresh",
-          "artist": "Gavin G",
+          "beatmapset_id": "573298",
+          "title": "Happy Voice",
+          "artist": "BlackY vs. Yooh",
           "creator": "game rock",
-          "approved_date": "2015-09-24 01:20:15",
+          "approved_date": "2017-08-17 12:00:57",
           "difficulties": [
             {
-              "beatmap_id": "606497",
+              "beatmap_id": "1214566",
               "version": "EZ",
-              "difficultyrating": "1.07699",
+              "difficultyrating": "1.43866",
               "mode": "3",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "606499",
-              "version": "HD",
-              "difficultyrating": "2.76392",
-              "mode": "3",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "606501",
+              "beatmap_id": "1214567",
               "version": "NM",
-              "difficultyrating": "1.86371",
+              "difficultyrating": "2.07124",
               "mode": "3",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "638907",
-              "version": "Momo's MX",
-              "difficultyrating": "3.71731",
+              "beatmap_id": "1215359",
+              "version": "AL's HD",
+              "difficultyrating": "3.22991",
               "mode": "3",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1215360",
+              "version": "AL's MX",
+              "difficultyrating": "4.36076",
+              "mode": "3",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "589353",
+          "title": "As One feat.Yukacco (Original Mix)",
+          "artist": "The 4th",
+          "creator": "game rock",
+          "approved_date": "2017-07-16 19:00:06",
+          "difficulties": [
+            {
+              "beatmap_id": "1247509",
+              "version": "Together",
+              "difficultyrating": "5.32286",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "437831",
+          "title": "Eternity",
+          "artist": "Yuyoyuppe",
+          "creator": "game rock",
+          "approved_date": "2016-12-05 00:00:13",
+          "difficulties": [
+            {
+              "beatmap_id": "942626",
+              "version": "Easy",
+              "difficultyrating": "1.18744",
+              "mode": "3",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "969954",
+              "version": "As' Normal",
+              "difficultyrating": "1.64898",
+              "mode": "3",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "362784",
+          "title": "Hope",
+          "artist": "Yuyoyuppe",
+          "creator": "game rock",
+          "approved_date": "2016-03-16 03:00:04",
+          "difficulties": [
+            {
+              "beatmap_id": "796730",
+              "version": "Kantan",
+              "difficultyrating": "1.03409",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "796948",
+              "version": "Futsuu",
+              "difficultyrating": "1.67879",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "796949",
+              "version": "Muzukashii",
+              "difficultyrating": "2.28535",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "796950",
+              "version": "Oni",
+              "difficultyrating": "3.30255",
+              "mode": "1",
               "isGuestDiff": false
             }
           ],
@@ -11776,116 +11851,37 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "362784",
-          "title": "Hope",
-          "artist": "Yuyoyuppe",
+          "beatmapset_id": "266129",
+          "title": "Refresh",
+          "artist": "Gavin G",
           "creator": "game rock",
-          "approved_date": "2016-03-16 03:00:04",
+          "approved_date": "2015-09-24 01:20:15",
           "difficulties": [
             {
-              "beatmap_id": "796730",
-              "version": "Kantan",
-              "difficultyrating": "1.03409",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "796948",
-              "version": "Futsuu",
-              "difficultyrating": "1.67879",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "796949",
-              "version": "Muzukashii",
-              "difficultyrating": "2.28535",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "796950",
-              "version": "Oni",
-              "difficultyrating": "3.30255",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "437831",
-          "title": "Eternity",
-          "artist": "Yuyoyuppe",
-          "creator": "game rock",
-          "approved_date": "2016-12-05 00:00:13",
-          "difficulties": [
-            {
-              "beatmap_id": "942626",
-              "version": "Easy",
-              "difficultyrating": "1.18744",
-              "mode": "3",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "969954",
-              "version": "As' Normal",
-              "difficultyrating": "1.64898",
-              "mode": "3",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "589353",
-          "title": "As One feat.Yukacco (Original Mix)",
-          "artist": "The 4th",
-          "creator": "game rock",
-          "approved_date": "2017-07-16 19:00:06",
-          "difficulties": [
-            {
-              "beatmap_id": "1247509",
-              "version": "Together",
-              "difficultyrating": "5.32286",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "573298",
-          "title": "Happy Voice",
-          "artist": "BlackY vs. Yooh",
-          "creator": "game rock",
-          "approved_date": "2017-08-17 12:00:57",
-          "difficulties": [
-            {
-              "beatmap_id": "1214566",
+              "beatmap_id": "606497",
               "version": "EZ",
-              "difficultyrating": "1.43866",
+              "difficultyrating": "1.07699",
               "mode": "3",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "1214567",
+              "beatmap_id": "606499",
+              "version": "HD",
+              "difficultyrating": "2.76392",
+              "mode": "3",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "606501",
               "version": "NM",
-              "difficultyrating": "2.07124",
+              "difficultyrating": "1.86371",
               "mode": "3",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "1215359",
-              "version": "AL's HD",
-              "difficultyrating": "3.22991",
-              "mode": "3",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1215360",
-              "version": "AL's MX",
-              "difficultyrating": "4.36076",
+              "beatmap_id": "638907",
+              "version": "Momo's MX",
+              "difficultyrating": "3.71731",
               "mode": "3",
               "isGuestDiff": false
             }
@@ -11902,7 +11898,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 20
       },
-      "lastUpdated": "2026-10-01T09:57:39.436Z"
+      "lastUpdated": "2026-10-05T08:46:04.205Z"
     },
     {
       "user_id": "2675027",
@@ -12581,47 +12577,44 @@
       ],
       "beatmapsets": [
         {
-          "beatmapset_id": "142614",
-          "title": "Scattered Cherry Blossoms ~Elegant~",
-          "artist": "natsuP feat. VanaN'Ice",
-          "creator": "CSLMVenezuela",
-          "approved_date": "2014-12-14 00:41:38",
-          "difficulties": [
-            {
-              "beatmap_id": "355024",
-              "version": "Hard",
-              "difficultyrating": "3.34855",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "367302",
-              "version": "Easy",
-              "difficultyrating": "1.64761",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "500313",
-              "version": "Normal",
-              "difficultyrating": "1.90013",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "237093",
-          "title": "White*Christmas",
-          "artist": "GobouP",
+          "beatmapset_id": "262993",
+          "title": "Dream Catcher (feat. Charlotte Haining)",
+          "artist": "Rameses B",
           "creator": "CSLM",
-          "approved_date": "2015-03-12 05:00:14",
+          "approved_date": "2024-11-14 06:21:52",
           "difficulties": [
             {
-              "beatmap_id": "548907",
-              "version": "Christmas",
-              "difficultyrating": "3.08509",
+              "beatmap_id": "599957",
+              "version": "Hard",
+              "difficultyrating": "3.35967",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "599959",
+              "version": "Dreams",
+              "difficultyrating": "5.23948",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "632645",
+              "version": "Normal",
+              "difficultyrating": "2.47235",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "684339",
+              "version": "Milan-'s Insane",
+              "difficultyrating": "4.40819",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "691456",
+              "version": "EruJazz's Easy",
+              "difficultyrating": "1.86307",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -12681,51 +12674,52 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "262993",
-          "title": "Dream Catcher (feat. Charlotte Haining)",
-          "artist": "Rameses B",
+          "beatmapset_id": "237093",
+          "title": "White*Christmas",
+          "artist": "GobouP",
           "creator": "CSLM",
-          "approved_date": "2024-11-14 06:21:52",
+          "approved_date": "2015-03-12 05:00:14",
           "difficulties": [
             {
-              "beatmap_id": "599957",
-              "version": "Hard",
-              "difficultyrating": "3.35967",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "599959",
-              "version": "Dreams",
-              "difficultyrating": "5.23948",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "632645",
-              "version": "Normal",
-              "difficultyrating": "2.47235",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "684339",
-              "version": "Milan-'s Insane",
-              "difficultyrating": "4.40819",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "691456",
-              "version": "EruJazz's Easy",
-              "difficultyrating": "1.86307",
+              "beatmap_id": "548907",
+              "version": "Christmas",
+              "difficultyrating": "3.08509",
               "mode": "0",
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "97",
-          "playcount": "33746"
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "142614",
+          "title": "Scattered Cherry Blossoms ~Elegant~",
+          "artist": "natsuP feat. VanaN'Ice",
+          "creator": "CSLMVenezuela",
+          "approved_date": "2014-12-14 00:41:38",
+          "difficulties": [
+            {
+              "beatmap_id": "355024",
+              "version": "Hard",
+              "difficultyrating": "3.34855",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "367302",
+              "version": "Easy",
+              "difficultyrating": "1.64761",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "500313",
+              "version": "Normal",
+              "difficultyrating": "1.90013",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
@@ -12737,7 +12731,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 15
       },
-      "lastUpdated": "2026-10-01T09:57:39.436Z"
+      "lastUpdated": "2026-10-05T08:46:04.205Z"
     },
     {
       "user_id": "3859048",
@@ -13194,51 +13188,6 @@
       ],
       "beatmapsets": [
         {
-          "beatmapset_id": "143082",
-          "title": "SAVE MY HEART (TV Size)",
-          "artist": "Nomizu Iori",
-          "creator": "[ M o m o ]",
-          "approved_date": "2014-03-30 05:42:24",
-          "difficulties": [
-            {
-              "beatmap_id": "356066",
-              "version": "7K MX",
-              "difficultyrating": "3.51832",
-              "mode": "3",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "361040",
-              "version": "S.Star's 7K NM",
-              "difficultyrating": "1.54732",
-              "mode": "3",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "362472",
-              "version": "KK's 7K HD",
-              "difficultyrating": "2.6633",
-              "mode": "3",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "362568",
-              "version": "4K HD",
-              "difficultyrating": "2.86233",
-              "mode": "3",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "362624",
-              "version": "4K NM",
-              "difficultyrating": "1.55948",
-              "mode": "3",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
           "beatmapset_id": "170968",
           "title": "MASAYUME CHASING (TV Size)",
           "artist": "BoA",
@@ -13282,6 +13231,51 @@
             }
           ],
           "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "143082",
+          "title": "SAVE MY HEART (TV Size)",
+          "artist": "Nomizu Iori",
+          "creator": "[ M o m o ]",
+          "approved_date": "2014-03-30 05:42:24",
+          "difficulties": [
+            {
+              "beatmap_id": "356066",
+              "version": "7K MX",
+              "difficultyrating": "3.51832",
+              "mode": "3",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "361040",
+              "version": "S.Star's 7K NM",
+              "difficultyrating": "1.54732",
+              "mode": "3",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "362472",
+              "version": "KK's 7K HD",
+              "difficultyrating": "2.6633",
+              "mode": "3",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "362568",
+              "version": "4K HD",
+              "difficultyrating": "2.86233",
+              "mode": "3",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "362624",
+              "version": "4K NM",
+              "difficultyrating": "1.55948",
+              "mode": "3",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
@@ -13293,7 +13287,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 10
       },
-      "lastUpdated": "2026-10-01T09:57:39.436Z"
+      "lastUpdated": "2026-10-05T08:46:04.205Z"
     },
     {
       "user_id": "45683",
@@ -13482,7 +13476,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-10-01T09:57:39.436Z"
+      "lastUpdated": "2026-10-05T08:46:04.205Z"
     }
   ]
 }
