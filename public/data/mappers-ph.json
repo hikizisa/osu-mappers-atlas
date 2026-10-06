@@ -5,11 +5,11 @@
     "demonym": "Philippines",
     "nativeName": "Philippines"
   },
-  "lastUpdated": "2026-09-22T07:34:27.444Z",
+  "lastUpdated": "2026-10-06T08:49:28.801Z",
   "totalMappers": 40,
-  "totalBeatmaps": 1568,
-  "totalBeatmapsets": 383,
-  "totalOwnBeatmapsets": 383,
+  "totalBeatmaps": 1572,
+  "totalBeatmapsets": 385,
+  "totalOwnBeatmapsets": 385,
   "totalGuestBeatmapsets": 0,
   "totalGuestDiffs": 0,
   "totalOwnDifficulties": 1568,
@@ -22,13 +22,189 @@
         "AJamez"
       ],
       "country": "PH",
-      "rankedBeatmaps": 311,
-      "rankedBeatmapsets": 54,
-      "ownBeatmapsets": 54,
+      "rankedBeatmaps": 315,
+      "rankedBeatmapsets": 56,
+      "ownBeatmapsets": 56,
       "guestBeatmapsets": 0,
       "totalGuestDiffs": 0,
       "ownDifficulties": 311,
       "beatmaps": [
+        {
+          "beatmapset_id": "1633703",
+          "beatmap_id": "3334506",
+          "approved": "1",
+          "total_length": "125",
+          "hit_length": "115",
+          "version": "Subnautica",
+          "file_md5": "60a1209b301908dce291fabdd0f17d05",
+          "diff_size": "4.3",
+          "diff_overall": "9.6",
+          "diff_approach": "9.6",
+          "diff_drain": "6",
+          "mode": "2",
+          "count_normal": "265",
+          "count_slider": "404",
+          "count_spinner": "0",
+          "submit_date": "2021-11-22 13:42:24",
+          "approved_date": "2022-02-16 21:46:19",
+          "last_update": "2022-01-31 08:27:13",
+          "artist": "Raimukun",
+          "artist_unicode": "Raimukun",
+          "title": "Firmament star",
+          "title_unicode": "Firmament star",
+          "creator": "Jemzuu",
+          "creator_id": "7890134",
+          "bpm": "186",
+          "source": "THE BMS OF FIGHTERS XVII -VISION THE RETRO FUTURE-",
+          "tags": "ajamez -rustyy deif bofxvii electronic instrumental breakthrough minimal artcore inukoro",
+          "genre_id": "10",
+          "language_id": "5",
+          "favourite_count": "64",
+          "rating": "9.3945",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "13159",
+          "passcount": "917",
+          "packs": "SC64",
+          "max_combo": "1168",
+          "diff_aim": "6.69156",
+          "diff_speed": null,
+          "difficultyrating": "6.69156"
+        },
+        {
+          "beatmapset_id": "1633703",
+          "beatmap_id": "3345430",
+          "approved": "1",
+          "total_length": "125",
+          "hit_length": "115",
+          "version": "Rustyy's Platter",
+          "file_md5": "61d9a802421c96be91cf95fca3f9c4a6",
+          "diff_size": "3.5",
+          "diff_overall": "8",
+          "diff_approach": "8",
+          "diff_drain": "4",
+          "mode": "2",
+          "count_normal": "199",
+          "count_slider": "204",
+          "count_spinner": "0",
+          "submit_date": "2021-11-22 13:42:24",
+          "approved_date": "2022-02-16 21:46:19",
+          "last_update": "2022-01-31 08:27:13",
+          "artist": "Raimukun",
+          "artist_unicode": "Raimukun",
+          "title": "Firmament star",
+          "title_unicode": "Firmament star",
+          "creator": "Jemzuu",
+          "creator_id": "7890134",
+          "bpm": "186",
+          "source": "THE BMS OF FIGHTERS XVII -VISION THE RETRO FUTURE-",
+          "tags": "ajamez -rustyy deif bofxvii electronic instrumental breakthrough minimal artcore inukoro",
+          "genre_id": "10",
+          "language_id": "5",
+          "favourite_count": "64",
+          "rating": "9.3945",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "7111",
+          "passcount": "1749",
+          "packs": "SC64",
+          "max_combo": "756",
+          "diff_aim": "2.99478",
+          "diff_speed": null,
+          "difficultyrating": "2.99478"
+        },
+        {
+          "beatmapset_id": "1633703",
+          "beatmap_id": "3347407",
+          "approved": "1",
+          "total_length": "125",
+          "hit_length": "115",
+          "version": "Rain",
+          "file_md5": "4e58e108081cbbaf2bd22f1746fd1f7d",
+          "diff_size": "4",
+          "diff_overall": "9",
+          "diff_approach": "9",
+          "diff_drain": "5",
+          "mode": "2",
+          "count_normal": "268",
+          "count_slider": "270",
+          "count_spinner": "0",
+          "submit_date": "2021-11-22 13:42:24",
+          "approved_date": "2022-02-16 21:46:19",
+          "last_update": "2022-01-31 08:27:13",
+          "artist": "Raimukun",
+          "artist_unicode": "Raimukun",
+          "title": "Firmament star",
+          "title_unicode": "Firmament star",
+          "creator": "Jemzuu",
+          "creator_id": "7890134",
+          "bpm": "186",
+          "source": "THE BMS OF FIGHTERS XVII -VISION THE RETRO FUTURE-",
+          "tags": "ajamez -rustyy deif bofxvii electronic instrumental breakthrough minimal artcore inukoro",
+          "genre_id": "10",
+          "language_id": "5",
+          "favourite_count": "64",
+          "rating": "9.3945",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "7390",
+          "passcount": "1409",
+          "packs": "SC64",
+          "max_combo": "939",
+          "diff_aim": "4.46716",
+          "diff_speed": null,
+          "difficultyrating": "4.46716"
+        },
+        {
+          "beatmapset_id": "1373754",
+          "beatmap_id": "2840024",
+          "approved": "4",
+          "total_length": "239",
+          "hit_length": "218",
+          "version": "Leggendaria",
+          "file_md5": "101f6e97a68a04a3e06df41602abdf65",
+          "diff_size": "4.2",
+          "diff_overall": "9.8",
+          "diff_approach": "9.8",
+          "diff_drain": "3.5",
+          "mode": "2",
+          "count_normal": "776",
+          "count_slider": "645",
+          "count_spinner": "3",
+          "submit_date": "2021-02-13 07:06:09",
+          "approved_date": "2022-02-06 12:29:17",
+          "last_update": "2022-02-05 11:18:54",
+          "artist": "Diceros Bicornis (xi+BlackY)",
+          "artist_unicode": "Diceros Bicornis (xi+BlackY)",
+          "title": "Siva",
+          "title_unicode": "Śiva",
+          "creator": "Jemzuu",
+          "creator_id": "7890134",
+          "bpm": "212",
+          "source": "",
+          "tags": "featured artist fa ajamez axs 6 grand finals gf nm nm1 no mod world fragments instrumental electronic diverse system comiket c89",
+          "genre_id": "10",
+          "language_id": "5",
+          "favourite_count": "89",
+          "rating": "5.5",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "3907",
+          "passcount": "316",
+          "packs": null,
+          "max_combo": "2204",
+          "diff_aim": "8.18273",
+          "diff_speed": null,
+          "difficultyrating": "8.18273"
+        },
         {
           "beatmapset_id": "1503591",
           "beatmap_id": "3080437",
@@ -16431,18 +16607,66 @@
             }
           ],
           "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1373754",
+          "title": "Siva",
+          "artist": "Diceros Bicornis (xi+BlackY)",
+          "creator": "Jemzuu",
+          "approved_date": "2022-02-06 12:29:17",
+          "difficulties": [
+            {
+              "beatmap_id": "2840024",
+              "version": "Leggendaria",
+              "difficultyrating": "8.18273",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1633703",
+          "title": "Firmament star",
+          "artist": "Raimukun",
+          "creator": "Jemzuu",
+          "approved_date": "2022-02-16 21:46:19",
+          "difficulties": [
+            {
+              "beatmap_id": "3334506",
+              "version": "Subnautica",
+              "difficultyrating": "6.69156",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "3345430",
+              "version": "Rustyy's Platter",
+              "difficultyrating": "2.99478",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "3347407",
+              "version": "Rain",
+              "difficultyrating": "4.46716",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
       "stats": {
-        "totalBeatmaps": 311,
-        "totalBeatmapsets": 54,
-        "ownBeatmapsets": 54,
+        "totalBeatmaps": 315,
+        "totalBeatmapsets": 56,
+        "ownBeatmapsets": 56,
         "guestBeatmapsets": 0,
         "totalGuestDiffs": 0,
-        "ownDifficulties": 311
+        "ownDifficulties": 315
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "5728",
@@ -29210,7 +29434,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 232
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "1259391",
@@ -37590,9 +37814,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "13",
-          "playcount": "2435"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1838612",
@@ -37637,9 +37859,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "46",
-          "playcount": "5939"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2008589",
@@ -38803,7 +39023,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 180
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "124455",
@@ -45975,7 +46195,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 134
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "7293512",
@@ -49438,7 +49658,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 65
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "36749",
@@ -52918,7 +53138,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 64
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "7483452",
@@ -55881,7 +56101,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 55
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "2439246",
@@ -58516,9 +58736,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "57",
-          "playcount": "29695"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1645394",
@@ -58734,7 +58952,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 53
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "10028",
@@ -61510,7 +61728,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 50
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "1258160",
@@ -63811,7 +64029,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 43
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "2575684",
@@ -66130,7 +66348,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 43
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "2760619",
@@ -68003,7 +68221,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 35
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "277044",
@@ -69680,7 +69898,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 31
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "3009472",
@@ -71257,7 +71475,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 29
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "45036",
@@ -72771,7 +72989,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 28
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "4861005",
@@ -74244,7 +74462,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 27
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "2228215",
@@ -75585,7 +75803,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 25
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "4738846",
@@ -76702,7 +76920,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 21
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "6204933",
@@ -77472,7 +77690,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 14
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "4173144",
@@ -78191,7 +78409,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 13
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "95637",
@@ -78861,7 +79079,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 12
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "99782",
@@ -79478,7 +79696,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 11
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "5682273",
@@ -80034,7 +80252,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 10
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "484670",
@@ -80539,7 +80757,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 9
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "570715",
@@ -80993,7 +81211,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 8
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "2782968",
@@ -81437,7 +81655,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 8
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "1587999",
@@ -81891,7 +82109,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 8
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "152264",
@@ -82245,7 +82463,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 6
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "1382563",
@@ -82599,7 +82817,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 6
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "3066122",
@@ -82892,7 +83110,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 5
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "50829",
@@ -83132,7 +83350,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 4
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "133618",
@@ -83372,7 +83590,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 4
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "926675",
@@ -83612,7 +83830,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 4
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "1999852",
@@ -83854,7 +84072,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 4
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "46538",
@@ -84043,7 +84261,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "928520",
@@ -84232,7 +84450,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "145871",
@@ -84421,7 +84639,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "3255854",
@@ -84610,7 +84828,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "4696",
@@ -84748,7 +84966,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 2
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     },
     {
       "user_id": "46872",
@@ -84886,7 +85104,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 2
       },
-      "lastUpdated": "2026-09-22T07:34:27.444Z"
+      "lastUpdated": "2026-10-06T08:49:28.801Z"
     }
   ]
 }

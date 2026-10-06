@@ -5,7 +5,7 @@
     "demonym": "Vietnam",
     "nativeName": "Vietnam"
   },
-  "lastUpdated": "2026-09-22T07:34:40.304Z",
+  "lastUpdated": "2026-10-06T08:49:41.070Z",
   "totalMappers": 1,
   "totalBeatmaps": 111,
   "totalBeatmapsets": 32,
@@ -4980,9 +4980,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "27",
-          "playcount": "6391"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2056846",
@@ -5034,9 +5032,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "201",
-          "playcount": "96180"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1301404",
@@ -5053,9 +5049,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "100",
-          "playcount": "23815"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2044069",
@@ -6026,7 +6020,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 111
       },
-      "lastUpdated": "2026-09-22T07:34:40.304Z"
+      "lastUpdated": "2026-10-06T08:49:41.070Z"
     }
   ]
 }
