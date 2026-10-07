@@ -5,11 +5,11 @@
     "demonym": "Argentina",
     "nativeName": "Argentina"
   },
-  "lastUpdated": "2026-09-23T07:37:09.658Z",
+  "lastUpdated": "2026-10-07T08:27:12.934Z",
   "totalMappers": 5,
-  "totalBeatmaps": 192,
-  "totalBeatmapsets": 68,
-  "totalOwnBeatmapsets": 68,
+  "totalBeatmaps": 195,
+  "totalBeatmapsets": 70,
+  "totalOwnBeatmapsets": 70,
   "totalGuestBeatmapsets": 0,
   "totalGuestDiffs": 0,
   "totalOwnDifficulties": 180,
@@ -22,13 +22,145 @@
         "Hareimu"
       ],
       "country": "AR",
-      "rankedBeatmaps": 151,
-      "rankedBeatmapsets": 53,
-      "ownBeatmapsets": 53,
+      "rankedBeatmaps": 154,
+      "rankedBeatmapsets": 55,
+      "ownBeatmapsets": 55,
       "guestBeatmapsets": 0,
       "totalGuestDiffs": 0,
       "ownDifficulties": 146,
       "beatmaps": [
+        {
+          "beatmapset_id": "914791",
+          "beatmap_id": "1910610",
+          "approved": "1",
+          "total_length": "167",
+          "hit_length": "167",
+          "version": "The Sun",
+          "file_md5": "cedb985b321871161ea4aca39f74f8a9",
+          "diff_size": "4.5",
+          "diff_overall": "9",
+          "diff_approach": "9",
+          "diff_drain": "5",
+          "mode": "2",
+          "count_normal": "275",
+          "count_slider": "203",
+          "count_spinner": "1",
+          "submit_date": "2019-01-22 00:24:37",
+          "approved_date": "2026-10-05 17:23:53",
+          "last_update": "2026-09-26 20:38:25",
+          "artist": "Serj Tankian",
+          "artist_unicode": "Serj Tankian",
+          "title": "Sky Is Over",
+          "title_unicode": "Sky Is Over",
+          "creator": "Cielbami",
+          "creator_id": "4138746",
+          "bpm": "105",
+          "source": "",
+          "tags": "system of a down vocalist rock english elect the dead soad alternative debut studio album john dolmayan brain dan monti serjical strike reprise january 16 2008 pollution global warming",
+          "genre_id": "4",
+          "language_id": "2",
+          "favourite_count": "14",
+          "rating": "1",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "132",
+          "passcount": "26",
+          "packs": "P122",
+          "max_combo": "884",
+          "diff_aim": "3.77741",
+          "diff_speed": null,
+          "difficultyrating": "3.77741"
+        },
+        {
+          "beatmapset_id": "914791",
+          "beatmap_id": "5008515",
+          "approved": "1",
+          "total_length": "167",
+          "hit_length": "167",
+          "version": "Platter",
+          "file_md5": "f80b06bcc2595e4921258c6807497155",
+          "diff_size": "3.5",
+          "diff_overall": "8",
+          "diff_approach": "8",
+          "diff_drain": "4",
+          "mode": "2",
+          "count_normal": "169",
+          "count_slider": "212",
+          "count_spinner": "1",
+          "submit_date": "2019-01-22 00:24:37",
+          "approved_date": "2026-10-05 17:23:53",
+          "last_update": "2026-09-26 20:38:25",
+          "artist": "Serj Tankian",
+          "artist_unicode": "Serj Tankian",
+          "title": "Sky Is Over",
+          "title_unicode": "Sky Is Over",
+          "creator": "Cielbami",
+          "creator_id": "4138746",
+          "bpm": "105",
+          "source": "",
+          "tags": "system of a down vocalist rock english elect the dead soad alternative debut studio album john dolmayan brain dan monti serjical strike reprise january 16 2008 pollution global warming",
+          "genre_id": "4",
+          "language_id": "2",
+          "favourite_count": "14",
+          "rating": "1",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "261",
+          "passcount": "41",
+          "packs": "P122",
+          "max_combo": "848",
+          "diff_aim": "2.76206",
+          "diff_speed": null,
+          "difficultyrating": "2.76206"
+        },
+        {
+          "beatmapset_id": "2608128",
+          "beatmap_id": "5838439",
+          "approved": "1",
+          "total_length": "269",
+          "hit_length": "266",
+          "version": "under the rain",
+          "file_md5": "d99b880ffcdf2c2ecb272c1a05d4c3e8",
+          "diff_size": "4",
+          "diff_overall": "9",
+          "diff_approach": "9",
+          "diff_drain": "6",
+          "mode": "2",
+          "count_normal": "387",
+          "count_slider": "465",
+          "count_spinner": "1",
+          "submit_date": "2026-08-23 06:03:42",
+          "approved_date": "2026-09-26 10:41:47",
+          "last_update": "2026-09-17 01:33:32",
+          "artist": "KAKO",
+          "artist_unicode": "KAKO♪",
+          "title": "\"if\"",
+          "title_unicode": "「if」",
+          "creator": "Cielbami",
+          "creator_id": "4138746",
+          "bpm": "164",
+          "source": "雨恋",
+          "tags": "ame koi rain love vn visual novel eroge noesis ノエシス op opening vgm 折倉俊則 orikura toshinori innocent grey イノグレ gwave 2nd favorite あめこい 一志瑞希 isshi mizuki theme song jpop japanese pop j-pop video game videogame female vocals vocalist hareimu reimu ciel",
+          "genre_id": "2",
+          "language_id": "3",
+          "favourite_count": "10",
+          "rating": "9.66667",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "112",
+          "passcount": "28",
+          "packs": null,
+          "max_combo": "1513",
+          "diff_aim": "4.89028",
+          "diff_speed": null,
+          "difficultyrating": "4.89028"
+        },
         {
           "beatmapset_id": "2600647",
           "beatmap_id": "5813748",
@@ -6690,9 +6822,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "21",
-          "playcount": "873"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "558507",
@@ -7225,9 +7355,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "16",
-          "playcount": "14862"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2363570",
@@ -7272,9 +7400,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "88",
-          "playcount": "59045"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2263365",
@@ -7361,9 +7487,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "17",
-          "playcount": "18156"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1951766",
@@ -7408,9 +7532,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "19",
-          "playcount": "8247"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2332788",
@@ -7434,9 +7556,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "6",
-          "playcount": "1386"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2047039",
@@ -7453,9 +7573,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "8",
-          "playcount": "1387"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2341811",
@@ -7472,9 +7590,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "25",
-          "playcount": "6832"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2262097",
@@ -7491,9 +7607,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "14",
-          "playcount": "4357"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "732090",
@@ -7510,9 +7624,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "4",
-          "playcount": "947"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "924823",
@@ -8281,18 +8393,59 @@
             }
           ],
           "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2608128",
+          "title": "\"if\"",
+          "artist": "KAKO",
+          "creator": "Cielbami",
+          "approved_date": "2026-09-26 10:41:47",
+          "difficulties": [
+            {
+              "beatmap_id": "5838439",
+              "version": "under the rain",
+              "difficultyrating": "4.89028",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "914791",
+          "title": "Sky Is Over",
+          "artist": "Serj Tankian",
+          "creator": "Cielbami",
+          "approved_date": "2026-10-05 17:23:53",
+          "difficulties": [
+            {
+              "beatmap_id": "1910610",
+              "version": "The Sun",
+              "difficultyrating": "3.77741",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5008515",
+              "version": "Platter",
+              "difficultyrating": "2.76206",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
       "stats": {
-        "totalBeatmaps": 151,
-        "totalBeatmapsets": 53,
-        "ownBeatmapsets": 53,
+        "totalBeatmaps": 154,
+        "totalBeatmapsets": 55,
+        "ownBeatmapsets": 55,
         "guestBeatmapsets": 0,
         "totalGuestDiffs": 0,
-        "ownDifficulties": 151
+        "ownDifficulties": 154
       },
-      "lastUpdated": "2026-09-23T07:37:09.658Z"
+      "lastUpdated": "2026-10-07T08:27:12.934Z"
     },
     {
       "user_id": "6707918",
@@ -10152,7 +10305,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 34
       },
-      "lastUpdated": "2026-09-23T07:37:09.658Z"
+      "lastUpdated": "2026-10-07T08:27:12.934Z"
     },
     {
       "user_id": "555",
@@ -10361,7 +10514,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-09-23T07:37:09.658Z"
+      "lastUpdated": "2026-10-07T08:27:12.934Z"
     },
     {
       "user_id": "1961",
@@ -10499,7 +10652,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 2
       },
-      "lastUpdated": "2026-09-23T07:37:09.658Z"
+      "lastUpdated": "2026-10-07T08:27:12.934Z"
     },
     {
       "user_id": "41568",
@@ -10637,7 +10790,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 2
       },
-      "lastUpdated": "2026-09-23T07:37:09.658Z"
+      "lastUpdated": "2026-10-07T08:27:12.934Z"
     }
   ]
 }
