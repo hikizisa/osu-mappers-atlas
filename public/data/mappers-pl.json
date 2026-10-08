@@ -5,11 +5,11 @@
     "demonym": "Poland",
     "nativeName": "Poland"
   },
-  "lastUpdated": "2026-09-24T07:29:16.707Z",
+  "lastUpdated": "2026-10-08T08:43:08.346Z",
   "totalMappers": 17,
-  "totalBeatmaps": 576,
-  "totalBeatmapsets": 165,
-  "totalOwnBeatmapsets": 165,
+  "totalBeatmaps": 577,
+  "totalBeatmapsets": 166,
+  "totalOwnBeatmapsets": 166,
   "totalGuestBeatmapsets": 0,
   "totalGuestDiffs": 0,
   "totalOwnDifficulties": 575,
@@ -6236,6 +6236,23 @@
       ],
       "beatmapsets": [
         {
+          "beatmapset_id": "2601907",
+          "title": "Bob Lennon (Kenji no Uta)",
+          "artist": "Naoki Urasawa",
+          "creator": "Yudragen",
+          "approved_date": "2026-09-13 21:02:33",
+          "difficulties": [
+            {
+              "beatmap_id": "5817980",
+              "version": "break of millenium",
+              "difficultyrating": "5.11348",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
           "beatmapset_id": "2566463",
           "title": "Iruma-kun! Songs Compilation II",
           "artist": "Various Artists",
@@ -6250,9 +6267,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "58",
-          "playcount": "5329"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1978101",
@@ -6331,9 +6346,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "176",
-          "playcount": "71231"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2116067",
@@ -7638,25 +7651,6 @@
             }
           ],
           "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "2601907",
-          "title": "Bob Lennon (Kenji no Uta)",
-          "artist": "Naoki Urasawa",
-          "creator": "Yudragen",
-          "approved_date": "2026-09-13 21:02:33",
-          "difficulties": [
-            {
-              "beatmap_id": "5817980",
-              "version": "break of millenium",
-              "difficultyrating": "5.11348",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true,
-          "favourite_count": "34",
-          "playcount": "811"
         }
       ],
       "guestDifficulties": [],
@@ -7668,7 +7662,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 141
       },
-      "lastUpdated": "2026-09-24T07:29:16.707Z"
+      "lastUpdated": "2026-10-08T08:43:08.346Z"
     },
     {
       "user_id": "9908108",
@@ -13035,9 +13029,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "82",
-          "playcount": "43276"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1948240",
@@ -13082,9 +13074,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "61",
-          "playcount": "54914"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "925423",
@@ -13884,7 +13874,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 116
       },
-      "lastUpdated": "2026-09-24T07:29:16.707Z"
+      "lastUpdated": "2026-10-08T08:43:08.346Z"
     },
     {
       "user_id": "63829",
@@ -17439,7 +17429,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 66
       },
-      "lastUpdated": "2026-09-24T07:29:16.707Z"
+      "lastUpdated": "2026-10-08T08:43:08.346Z"
     },
     {
       "user_id": "5377178",
@@ -20841,7 +20831,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 64
       },
-      "lastUpdated": "2026-09-24T07:29:16.707Z"
+      "lastUpdated": "2026-10-08T08:43:08.346Z"
     },
     {
       "user_id": "56917",
@@ -23343,9 +23333,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "755",
-          "playcount": "60572"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "707249",
@@ -23905,7 +23893,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 56
       },
-      "lastUpdated": "2026-09-24T07:29:16.707Z"
+      "lastUpdated": "2026-10-08T08:43:08.346Z"
     },
     {
       "user_id": "3827077",
@@ -23914,13 +23902,57 @@
         "Raikozen"
       ],
       "country": "PL",
-      "rankedBeatmaps": 20,
-      "rankedBeatmapsets": 13,
-      "ownBeatmapsets": 13,
+      "rankedBeatmaps": 21,
+      "rankedBeatmapsets": 14,
+      "ownBeatmapsets": 14,
       "guestBeatmapsets": 0,
       "totalGuestDiffs": 0,
       "ownDifficulties": 20,
       "beatmaps": [
+        {
+          "beatmapset_id": "2345157",
+          "beatmap_id": "5417498",
+          "approved": "4",
+          "total_length": "249",
+          "hit_length": "234",
+          "version": "TEMPORAL GIGASNARE ASSAULT",
+          "file_md5": "e222e9a4351ffd1d1d1fd537a62fce6d",
+          "diff_size": "4",
+          "diff_overall": "9",
+          "diff_approach": "9.6",
+          "diff_drain": "4",
+          "mode": "0",
+          "count_normal": "632",
+          "count_slider": "742",
+          "count_spinner": "5",
+          "submit_date": "2025-03-26 16:59:01",
+          "approved_date": "2026-10-05 18:09:14",
+          "last_update": "2026-10-05 14:51:10",
+          "artist": "USAO",
+          "artist_unicode": "USAO",
+          "title": "Phalanx",
+          "title_unicode": "Phalanx",
+          "creator": "nhlx",
+          "creator_id": "3827077",
+          "bpm": "208",
+          "source": "",
+          "tags": "electronic instrumental korean frenchcore hardcore techno jcore j-core tano*c megaton kick 3 raikozen styxwater nihil bonrai",
+          "genre_id": "10",
+          "language_id": "6",
+          "favourite_count": "65",
+          "rating": "10",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "1279",
+          "passcount": "266",
+          "packs": "LR108",
+          "max_combo": "2233",
+          "diff_aim": "4.61802",
+          "diff_speed": "3.11315",
+          "difficultyrating": "8.23727"
+        },
         {
           "beatmapset_id": "1124943",
           "beatmap_id": "5614252",
@@ -24835,9 +24867,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "172",
-          "playcount": "13834"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1029095",
@@ -24854,9 +24884,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "140",
-          "playcount": "13285"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "468937",
@@ -24887,9 +24915,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "327",
-          "playcount": "110082"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1602707",
@@ -25078,18 +25104,35 @@
             }
           ],
           "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2345157",
+          "title": "Phalanx",
+          "artist": "USAO",
+          "creator": "nhlx",
+          "approved_date": "2026-10-05 18:09:14",
+          "difficulties": [
+            {
+              "beatmap_id": "5417498",
+              "version": "TEMPORAL GIGASNARE ASSAULT",
+              "difficultyrating": "8.23727",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
       "stats": {
-        "totalBeatmaps": 20,
-        "totalBeatmapsets": 13,
-        "ownBeatmapsets": 13,
+        "totalBeatmaps": 21,
+        "totalBeatmapsets": 14,
+        "ownBeatmapsets": 14,
         "guestBeatmapsets": 0,
         "totalGuestDiffs": 0,
-        "ownDifficulties": 20
+        "ownDifficulties": 21
       },
-      "lastUpdated": "2026-09-24T07:29:16.707Z"
+      "lastUpdated": "2026-10-08T08:43:08.346Z"
     },
     {
       "user_id": "83268",
@@ -26205,7 +26248,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 20
       },
-      "lastUpdated": "2026-09-24T07:29:16.707Z"
+      "lastUpdated": "2026-10-08T08:43:08.346Z"
     },
     {
       "user_id": "42585",
@@ -27117,7 +27160,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 16
       },
-      "lastUpdated": "2026-09-24T07:29:16.707Z"
+      "lastUpdated": "2026-10-08T08:43:08.346Z"
     },
     {
       "user_id": "62856",
@@ -27948,7 +27991,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 15
       },
-      "lastUpdated": "2026-09-24T07:29:16.707Z"
+      "lastUpdated": "2026-10-08T08:43:08.346Z"
     },
     {
       "user_id": "29144",
@@ -28730,7 +28773,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 14
       },
-      "lastUpdated": "2026-09-24T07:29:16.707Z"
+      "lastUpdated": "2026-10-08T08:43:08.346Z"
     },
     {
       "user_id": "39129",
@@ -29408,7 +29451,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 12
       },
-      "lastUpdated": "2026-09-24T07:29:16.707Z"
+      "lastUpdated": "2026-10-08T08:43:08.346Z"
     },
     {
       "user_id": "110904",
@@ -29925,7 +29968,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 9
       },
-      "lastUpdated": "2026-09-24T07:29:16.707Z"
+      "lastUpdated": "2026-10-08T08:43:08.346Z"
     },
     {
       "user_id": "54716",
@@ -30389,7 +30432,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 8
       },
-      "lastUpdated": "2026-09-24T07:29:16.707Z"
+      "lastUpdated": "2026-10-08T08:43:08.346Z"
     },
     {
       "user_id": "44826",
@@ -30794,7 +30837,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 7
       },
-      "lastUpdated": "2026-09-24T07:29:16.707Z"
+      "lastUpdated": "2026-10-08T08:43:08.346Z"
     },
     {
       "user_id": "6825",
@@ -31085,7 +31128,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 5
       },
-      "lastUpdated": "2026-09-24T07:29:16.707Z"
+      "lastUpdated": "2026-10-08T08:43:08.346Z"
     },
     {
       "user_id": "112265",
@@ -31325,7 +31368,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 4
       },
-      "lastUpdated": "2026-09-24T07:29:16.707Z"
+      "lastUpdated": "2026-10-08T08:43:08.346Z"
     },
     {
       "user_id": "42579",
@@ -31514,7 +31557,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-09-24T07:29:16.707Z"
+      "lastUpdated": "2026-10-08T08:43:08.346Z"
     }
   ]
 }

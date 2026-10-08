@@ -5,7 +5,7 @@
     "demonym": "Greece",
     "nativeName": "Greece"
   },
-  "lastUpdated": "2026-09-24T07:29:14.971Z",
+  "lastUpdated": "2026-10-08T08:43:06.806Z",
   "totalMappers": 5,
   "totalBeatmaps": 394,
   "totalBeatmapsets": 108,
@@ -14682,6 +14682,23 @@
       ],
       "beatmapsets": [
         {
+          "beatmapset_id": "1485946",
+          "title": "Escape With The Clouds",
+          "artist": "Boxplot",
+          "creator": "Genjuro",
+          "approved_date": "2022-04-27 17:44:43",
+          "difficulties": [
+            {
+              "beatmap_id": "3046968",
+              "version": "Freedom",
+              "difficultyrating": "5.58898",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
           "beatmapset_id": "1542682",
           "title": "Dsco",
           "artist": "Sweet Trip",
@@ -17914,23 +17931,6 @@
             }
           ],
           "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1485946",
-          "title": "Escape With The Clouds",
-          "artist": "Boxplot",
-          "creator": "Genjuro",
-          "approved_date": "2022-04-27 17:44:43",
-          "difficulties": [
-            {
-              "beatmap_id": "3046968",
-              "version": "Freedom",
-              "difficultyrating": "5.58898",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
@@ -17942,7 +17942,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 333
       },
-      "lastUpdated": "2026-09-24T07:29:14.971Z"
+      "lastUpdated": "2026-10-08T08:43:06.806Z"
     },
     {
       "user_id": "5530",
@@ -19771,7 +19771,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 33
       },
-      "lastUpdated": "2026-09-24T07:29:14.971Z"
+      "lastUpdated": "2026-10-08T08:43:06.806Z"
     },
     {
       "user_id": "4625954",
@@ -20480,7 +20480,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 13
       },
-      "lastUpdated": "2026-09-24T07:29:14.971Z"
+      "lastUpdated": "2026-10-08T08:43:06.806Z"
     },
     {
       "user_id": "5572371",
@@ -20924,7 +20924,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 8
       },
-      "lastUpdated": "2026-09-24T07:29:14.971Z"
+      "lastUpdated": "2026-10-08T08:43:06.806Z"
     },
     {
       "user_id": "1990890",
@@ -21317,7 +21317,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 7
       },
-      "lastUpdated": "2026-09-24T07:29:14.971Z"
+      "lastUpdated": "2026-10-08T08:43:06.806Z"
     }
   ]
 }
