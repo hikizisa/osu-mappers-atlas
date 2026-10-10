@@ -1,6 +1,6 @@
 {
   "defaultCountry": "KR",
-  "generatedAt": "2026-10-09T08:48:56.775Z",
+  "generatedAt": "2026-10-10T08:19:57.319Z",
   "source": "https://osu.ppy.sh/rankings/osu/country",
   "countries": [
     {
@@ -208,7 +208,7 @@
       "nativeName": "Belgium",
       "hasData": true,
       "mapperCount": 4,
-      "lastUpdated": "2026-09-26T07:23:26.003Z"
+      "lastUpdated": "2026-10-10T08:19:49.871Z"
     },
     {
       "code": "BZ",
@@ -901,7 +901,7 @@
       "nativeName": "Indonesia",
       "hasData": true,
       "mapperCount": 14,
-      "lastUpdated": "2026-09-26T07:23:27.258Z"
+      "lastUpdated": "2026-10-10T08:19:51.179Z"
     },
     {
       "code": "IQ",
@@ -1666,7 +1666,7 @@
       "nativeName": "Serbia",
       "hasData": true,
       "mapperCount": 1,
-      "lastUpdated": "2026-09-26T07:23:31.531Z"
+      "lastUpdated": "2026-10-10T08:19:55.340Z"
     },
     {
       "code": "SC",
