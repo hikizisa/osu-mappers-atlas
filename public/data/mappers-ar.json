@@ -59,13 +59,13 @@
           "tags": "system of a down vocalist rock english elect the dead soad alternative debut studio album john dolmayan brain dan monti serjical strike reprise january 16 2008 pollution global warming",
           "genre_id": "4",
           "language_id": "2",
-          "favourite_count": "14",
+          "favourite_count": "19",
           "rating": "1",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "132",
+          "playcount": "198",
           "passcount": "26",
           "packs": "P122",
           "max_combo": "884",
@@ -103,13 +103,13 @@
           "tags": "system of a down vocalist rock english elect the dead soad alternative debut studio album john dolmayan brain dan monti serjical strike reprise january 16 2008 pollution global warming",
           "genre_id": "4",
           "language_id": "2",
-          "favourite_count": "14",
+          "favourite_count": "19",
           "rating": "1",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "261",
+          "playcount": "466",
           "passcount": "41",
           "packs": "P122",
           "max_combo": "848",
@@ -147,13 +147,13 @@
           "tags": "ame koi rain love vn visual novel eroge noesis ノエシス op opening vgm 折倉俊則 orikura toshinori innocent grey イノグレ gwave 2nd favorite あめこい 一志瑞希 isshi mizuki theme song jpop japanese pop j-pop video game videogame female vocals vocalist hareimu reimu ciel",
           "genre_id": "2",
           "language_id": "3",
-          "favourite_count": "10",
+          "favourite_count": "11",
           "rating": "9.66667",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "112",
+          "playcount": "134",
           "passcount": "28",
           "packs": null,
           "max_combo": "1513",
@@ -8409,7 +8409,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "11",
+          "playcount": "134"
         },
         {
           "beatmapset_id": "914791",
@@ -8433,7 +8435,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "19",
+          "playcount": "664"
         }
       ],
       "guestDifficulties": [],

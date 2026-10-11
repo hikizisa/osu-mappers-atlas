@@ -59,13 +59,13 @@
           "tags": "20 seiki shounen nijuu seiki shounen nijuusseiki shounen 20thcb 20th century boys manga rock japanese 半世紀の男 ボブレノン",
           "genre_id": "4",
           "language_id": "3",
-          "favourite_count": "34",
+          "favourite_count": "35",
           "rating": "7.33333",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "811",
+          "playcount": "892",
           "passcount": "94",
           "packs": "S1869",
           "max_combo": "1652",
@@ -6250,7 +6250,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "35",
+          "playcount": "892"
         },
         {
           "beatmapset_id": "2566463",
@@ -23939,13 +23941,13 @@
           "tags": "electronic instrumental korean frenchcore hardcore techno jcore j-core tano*c megaton kick 3 raikozen styxwater nihil bonrai",
           "genre_id": "10",
           "language_id": "6",
-          "favourite_count": "65",
+          "favourite_count": "77",
           "rating": "10",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1279",
+          "playcount": "2305",
           "passcount": "266",
           "packs": "LR108",
           "max_combo": "2233",
@@ -25120,7 +25122,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "77",
+          "playcount": "2305"
         }
       ],
       "guestDifficulties": [],

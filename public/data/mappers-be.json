@@ -2519,13 +2519,13 @@
           "tags": "アリス・マーガトロイド alice margatroid extra stage ending theme arrange 幺樂団の歴史2 ~ akyu's untouched score vol.2 yougakudan no rekishi history touhou th05 th5 th 05 pc-98 kaikidan bizarre romantic story 寂光寂滅 ～ the truth of the cessation of dukkha progressive power metal ballad instrumental comiket c101 team shanghai alice video game vgm zun woof",
           "genre_id": "11",
           "language_id": "5",
-          "favourite_count": "77",
+          "favourite_count": "79",
           "rating": "9.5",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "6454",
+          "playcount": "6607",
           "passcount": "797",
           "packs": "S1685",
           "max_combo": "3865",
@@ -3958,7 +3958,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "79",
+          "playcount": "6607"
         },
         {
           "beatmapset_id": "1676228",
