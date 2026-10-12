@@ -5,7 +5,7 @@
     "demonym": "Iceland",
     "nativeName": "Iceland"
   },
-  "lastUpdated": "2026-09-28T08:30:50.624Z",
+  "lastUpdated": "2026-10-12T08:57:22.875Z",
   "totalMappers": 1,
   "totalBeatmaps": 88,
   "totalBeatmapsets": 19,
@@ -4110,9 +4110,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "148",
-          "playcount": "51583"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1631603",
@@ -4719,7 +4717,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 88
       },
-      "lastUpdated": "2026-09-28T08:30:50.624Z"
+      "lastUpdated": "2026-10-12T08:57:22.875Z"
     }
   ]
 }
