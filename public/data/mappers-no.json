@@ -5,7 +5,7 @@
     "demonym": "Norway",
     "nativeName": "Norway"
   },
-  "lastUpdated": "2026-10-04T08:16:37.545Z",
+  "lastUpdated": "2026-10-18T07:08:30.263Z",
   "totalMappers": 5,
   "totalBeatmaps": 286,
   "totalBeatmapsets": 103,
@@ -4194,9 +4194,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "61",
-          "playcount": "14385"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "815468",
@@ -5065,7 +5063,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 94
       },
-      "lastUpdated": "2026-10-04T08:16:37.545Z"
+      "lastUpdated": "2026-10-18T07:08:30.263Z"
     },
     {
       "user_id": "3414261",
@@ -8486,9 +8484,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "22",
-          "playcount": "1045"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2588421",
@@ -8505,9 +8501,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "10",
-          "playcount": "1873"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2585380",
@@ -8548,9 +8542,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "7",
-          "playcount": "3494"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1135397",
@@ -8715,9 +8707,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "57",
-          "playcount": "6212"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2141702",
@@ -9448,7 +9438,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 77
       },
-      "lastUpdated": "2026-10-04T08:16:37.545Z"
+      "lastUpdated": "2026-10-18T07:08:30.263Z"
     },
     {
       "user_id": "8352623",
@@ -12501,7 +12491,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 57
       },
-      "lastUpdated": "2026-10-04T08:16:37.545Z"
+      "lastUpdated": "2026-10-18T07:08:30.263Z"
     },
     {
       "user_id": "9738159",
@@ -14086,7 +14076,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 29
       },
-      "lastUpdated": "2026-10-04T08:16:37.545Z"
+      "lastUpdated": "2026-10-18T07:08:30.263Z"
     },
     {
       "user_id": "3475189",
@@ -15427,9 +15417,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "389",
-          "playcount": "82918"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1075607",
@@ -15773,7 +15761,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 29
       },
-      "lastUpdated": "2026-10-04T08:16:37.545Z"
+      "lastUpdated": "2026-10-18T07:08:30.263Z"
     }
   ]
 }
