@@ -860,7 +860,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "812",
+          "playcount": "815",
           "passcount": "82",
           "packs": "ST255",
           "max_combo": "1572",
@@ -904,7 +904,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "512",
+          "playcount": "516",
           "passcount": "92",
           "packs": "ST255",
           "max_combo": "1141",
@@ -6138,7 +6138,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "18",
+          "playcount": "1331"
         },
         {
           "beatmapset_id": "1997755",
@@ -8112,13 +8114,13 @@
           "tags": "mwc 2024 world cup mwc2024 mwc7k2024 grand finals long mixed rice electronic instrumental speedcore hyperbreak critical star blocko evening",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "48",
+          "favourite_count": "49",
           "rating": "8.09524",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "5212",
+          "playcount": "5428",
           "passcount": "1141",
           "packs": "P238,SM219",
           "max_combo": "7525",
@@ -11402,7 +11404,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "49",
+          "playcount": "5428"
         },
         {
           "beatmapset_id": "1887426",

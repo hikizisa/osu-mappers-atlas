@@ -5995,7 +5995,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "3772",
+          "playcount": "3817",
           "passcount": "440",
           "packs": "SC104",
           "max_combo": "4232",
@@ -6039,7 +6039,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "5635",
+          "playcount": "5707",
           "passcount": "439",
           "packs": "SC103",
           "max_combo": "4861",
@@ -6077,13 +6077,13 @@
           "tags": "ambient electronica electronic instrumental bof2012 arthas ein krieg",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "38",
+          "favourite_count": "39",
           "rating": "8.66071",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "7858",
+          "playcount": "8182",
           "passcount": "1679",
           "packs": "SC102",
           "max_combo": "195",
@@ -6121,13 +6121,13 @@
           "tags": "m3-2021秋 2nd album afflict みしゃも mishamo llcd-002 electronic hardcore instrumental viyella vane classical edm metal uptempo ethnic orchestral japan iyouka",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "41",
+          "favourite_count": "42",
           "rating": "8.52941",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "5743",
+          "playcount": "6004",
           "passcount": "734",
           "packs": "SC101",
           "max_combo": "3316",
@@ -6171,7 +6171,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1720",
+          "playcount": "1738",
           "passcount": "286",
           "packs": "SC100",
           "max_combo": "1250",
@@ -6209,13 +6209,13 @@
           "tags": "hitnex electronic if instrumental hnx-014 trax chiptune dnb d'n'b drum and & n bass hardcore hardtek j-core marathon",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "36",
+          "favourite_count": "37",
           "rating": "8.61539",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1981",
+          "playcount": "1990",
           "passcount": "210",
           "packs": "SC98",
           "max_combo": "7381",
@@ -6253,13 +6253,13 @@
           "tags": "speedcore hardcore the psycho filth vol9 -vivid variant- the best of psycho filth records electronic instrumental",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "28",
+          "favourite_count": "30",
           "rating": "8.33333",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "18874",
+          "playcount": "19360",
           "passcount": "1354",
           "packs": "SC97",
           "max_combo": "2662",
@@ -6303,7 +6303,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "12502",
+          "playcount": "12808",
           "passcount": "826",
           "packs": "SC96",
           "max_combo": "3939",
@@ -6341,13 +6341,13 @@
           "tags": "featured artist fa future bass electronic english",
           "genre_id": "10",
           "language_id": "2",
-          "favourite_count": "119",
+          "favourite_count": "118",
           "rating": "8.71429",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "4096",
+          "playcount": "4186",
           "passcount": "498",
           "packs": null,
           "max_combo": "2922",
@@ -6391,7 +6391,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "2854",
+          "playcount": "2908",
           "passcount": "486",
           "packs": null,
           "max_combo": "1851",
@@ -6429,13 +6429,13 @@
           "tags": "かめりあ 大箭将也 ooya masaya kamelcamellia かめるかめりあ sdvx bemani konami video game electronic instrumental ao ΑΩ alphaomega edp presents premium music collection pccg-01987",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "24",
+          "favourite_count": "25",
           "rating": "9.85714",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1891",
+          "playcount": "1918",
           "passcount": "226",
           "packs": null,
           "max_combo": "4638",
@@ -8724,7 +8724,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "23",
+          "playcount": "3817"
         },
         {
           "beatmapset_id": "2139627",
@@ -8741,7 +8743,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "20",
+          "playcount": "5707"
         },
         {
           "beatmapset_id": "2136340",
@@ -8758,7 +8762,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "39",
+          "playcount": "8182"
         },
         {
           "beatmapset_id": "2129862",
@@ -8775,7 +8781,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "42",
+          "playcount": "6004"
         },
         {
           "beatmapset_id": "2126258",
@@ -8792,7 +8800,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "25",
+          "playcount": "1738"
         },
         {
           "beatmapset_id": "1655808",
@@ -8809,7 +8819,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "37",
+          "playcount": "1990"
         },
         {
           "beatmapset_id": "1508396",
@@ -8826,7 +8838,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "30",
+          "playcount": "19360"
         },
         {
           "beatmapset_id": "1485606",
@@ -8843,7 +8857,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "42",
+          "playcount": "12808"
         },
         {
           "beatmapset_id": "913426",
@@ -8860,7 +8876,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "118",
+          "playcount": "4186"
         },
         {
           "beatmapset_id": "779608",
@@ -8877,7 +8895,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "30",
+          "playcount": "2908"
         },
         {
           "beatmapset_id": "1104837",
@@ -8894,7 +8914,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "25",
+          "playcount": "1918"
         },
         {
           "beatmapset_id": "1100729",
@@ -14252,13 +14274,13 @@
           "tags": "ヲワカ anhappii rifurein album complete compilation 超best -memories- マジカルミライ 2015 official magical mirai mega39’s 10th アニバーサリーコレクション anniversary collection balloom best ニコニコ niconico electronic japanese rock jrock j-rock vocaloid vocal voice synthesizer genjitsutouhi-p 現実逃避p arcade future tone sound voltex iv heavenly haven hatsune miku: project diva f osu! world cup 2019 owc grandfinals gf nm1",
           "genre_id": "4",
           "language_id": "3",
-          "favourite_count": "343",
+          "favourite_count": "349",
           "rating": "9.91549",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "88642",
+          "playcount": "91090",
           "passcount": "10133",
           "packs": "P114",
           "max_combo": "1535",
@@ -14296,13 +14318,13 @@
           "tags": "aim cup azur lane x hololive black 3rd minato aqua virtual youtuber vtuber japanese rock jrock j-rock fake fakefakefake 碧蓝航线",
           "genre_id": "4",
           "language_id": "3",
-          "favourite_count": "332",
+          "favourite_count": "338",
           "rating": "9.23333",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "59131",
+          "playcount": "62056",
           "passcount": "4887",
           "packs": null,
           "max_combo": "1864",
@@ -15434,7 +15456,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "349",
+          "playcount": "91090"
         },
         {
           "beatmapset_id": "1743421",
@@ -15451,7 +15475,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "338",
+          "playcount": "62056"
         },
         {
           "beatmapset_id": "621278",

@@ -51160,13 +51160,13 @@
           "tags": "konami bemani sota fujimori かめるかめりあ kamelcamellia masaya oya sionkotori video game videogame instrumental techdance chinese electronic oriental version hydrangea cametek",
           "genre_id": "2",
           "language_id": "5",
-          "favourite_count": "36",
+          "favourite_count": "37",
           "rating": "9.92",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "12934",
+          "playcount": "13321",
           "passcount": "1030",
           "packs": "S1415",
           "max_combo": "2700",
@@ -51210,7 +51210,7 @@
           "video": "1",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "5275",
+          "playcount": "5455",
           "passcount": "1532",
           "packs": "S1412",
           "max_combo": "418",
@@ -51254,7 +51254,7 @@
           "video": "1",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "2179",
+          "playcount": "2215",
           "passcount": "1121",
           "packs": "S1412",
           "max_combo": "280",
@@ -51298,7 +51298,7 @@
           "video": "1",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "4033",
+          "playcount": "4069",
           "passcount": "1432",
           "packs": "S1412",
           "max_combo": "402",
@@ -51342,7 +51342,7 @@
           "video": "1",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "6220",
+          "playcount": "6301",
           "passcount": "1719",
           "packs": "S1412",
           "max_combo": "340",
@@ -54866,7 +54866,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "37",
+          "playcount": "13321"
         },
         {
           "beatmapset_id": "2124848",
@@ -54904,7 +54906,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "26",
+          "playcount": "18040"
         },
         {
           "beatmapset_id": "319418",
@@ -77337,13 +77341,13 @@
           "tags": "friends on mushrooms kelsey electronic instrumental english",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "62",
+          "favourite_count": "67",
           "rating": "9.57576",
           "storyboard": "1",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "15823",
+          "playcount": "16264",
           "passcount": "3251",
           "packs": "S1412",
           "max_combo": "1835",
@@ -77381,13 +77385,13 @@
           "tags": "vicious delicious rock instrumental electronic mombei",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "35",
+          "favourite_count": "37",
           "rating": "8.3125",
           "storyboard": "1",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "10684",
+          "playcount": "10801",
           "passcount": "895",
           "packs": "S1401",
           "max_combo": "2067",
@@ -77425,13 +77429,13 @@
           "tags": "umineko no naku koro ni 07th expansion higurashi visual novel when they cry mirage coordinator damnae reiji-rj leader -kevincela- kevincela kecco collab collaboration frederica bernkastel lambdadelta electronic instrumental video game",
           "genre_id": "2",
           "language_id": "5",
-          "favourite_count": "67",
+          "favourite_count": "72",
           "rating": "9.75714",
           "storyboard": "1",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "25984",
+          "playcount": "27316",
           "passcount": "2950",
           "packs": "S1395",
           "max_combo": "1938",
@@ -79346,7 +79350,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "67",
+          "playcount": "16264"
         },
         {
           "beatmapset_id": "885995",
@@ -79363,7 +79369,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "37",
+          "playcount": "10801"
         },
         {
           "beatmapset_id": "112171",
@@ -79380,7 +79388,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "72",
+          "playcount": "27316"
         },
         {
           "beatmapset_id": "85802",
@@ -82451,13 +82461,13 @@
           "tags": "breakcore gothic hardcore melodic metal orchestra orchestral speedcore marathon instrumental electronic rice stream tech technical",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "798",
+          "favourite_count": "929",
           "rating": "8.8502",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "215974",
+          "playcount": "239833",
           "passcount": "40160",
           "packs": "SM219",
           "max_combo": "6686",
@@ -84102,7 +84112,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "929",
+          "playcount": "239833"
         },
         {
           "beatmapset_id": "1994184",
@@ -115802,13 +115814,13 @@
           "tags": "electronic instrumental fa featured artist fanzhen0019 rokkea sorciere mapping olympiad #1",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "434",
+          "favourite_count": "458",
           "rating": "9.15069",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "21115",
+          "playcount": "22177",
           "passcount": "4772",
           "packs": "R331,S1411",
           "max_combo": "693",
@@ -115846,13 +115858,13 @@
           "tags": "electronic instrumental fa featured artist fanzhen0019 rokkea sorciere mapping olympiad #1",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "434",
+          "favourite_count": "458",
           "rating": "9.15069",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "29791",
+          "playcount": "31195",
           "passcount": "8647",
           "packs": "R331,S1411",
           "max_combo": "1032",
@@ -115890,13 +115902,13 @@
           "tags": "electronic instrumental fa featured artist fanzhen0019 rokkea sorciere mapping olympiad #1",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "434",
+          "favourite_count": "458",
           "rating": "9.15069",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "27667",
+          "playcount": "29044",
           "passcount": "10785",
           "packs": "R331,S1411",
           "max_combo": "734",
@@ -115934,13 +115946,13 @@
           "tags": "electronic instrumental fa featured artist fanzhen0019 rokkea sorciere mapping olympiad #1",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "434",
+          "favourite_count": "458",
           "rating": "9.15069",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "12799",
+          "playcount": "13555",
           "passcount": "6929",
           "packs": "R331,S1411",
           "max_combo": "303",
@@ -115978,13 +115990,13 @@
           "tags": "electronic instrumental fa featured artist fanzhen0019 rokkea sorciere mapping olympiad #1",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "434",
+          "favourite_count": "458",
           "rating": "9.15069",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "21583",
+          "playcount": "22582",
           "passcount": "7997",
           "packs": "R331,S1411",
           "max_combo": "597",
@@ -116022,13 +116034,13 @@
           "tags": "electronic instrumental fa featured artist fanzhen0019 rokkea sorciere mapping olympiad #1",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "434",
+          "favourite_count": "458",
           "rating": "9.15069",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "12286",
+          "playcount": "12808",
           "passcount": "6819",
           "packs": "R331,S1411",
           "max_combo": "337",
@@ -116308,7 +116320,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "458",
+          "playcount": "131361"
         },
         {
           "beatmapset_id": "300195",

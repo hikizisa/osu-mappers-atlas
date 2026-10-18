@@ -1341,7 +1341,7 @@
           "video": "1",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "10450",
+          "playcount": "10522",
           "passcount": "1621",
           "packs": "S1387",
           "max_combo": "421",
@@ -1385,7 +1385,7 @@
           "video": "1",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "6796",
+          "playcount": "6823",
           "passcount": "1621",
           "packs": "S1387",
           "max_combo": "334",
@@ -4151,7 +4151,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "27",
+          "playcount": "19785"
         },
         {
           "beatmapset_id": "2011188",
