@@ -5,7 +5,7 @@
     "demonym": "Argentina",
     "nativeName": "Argentina"
   },
-  "lastUpdated": "2026-10-07T08:27:12.934Z",
+  "lastUpdated": "2026-10-21T07:23:24.988Z",
   "totalMappers": 5,
   "totalBeatmaps": 195,
   "totalBeatmapsets": 70,
@@ -6808,6 +6808,47 @@
       ],
       "beatmapsets": [
         {
+          "beatmapset_id": "914791",
+          "title": "Sky Is Over",
+          "artist": "Serj Tankian",
+          "creator": "Cielbami",
+          "approved_date": "2026-10-05 17:23:53",
+          "difficulties": [
+            {
+              "beatmap_id": "1910610",
+              "version": "The Sun",
+              "difficultyrating": "3.77741",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5008515",
+              "version": "Platter",
+              "difficultyrating": "2.76206",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2608128",
+          "title": "\"if\"",
+          "artist": "KAKO",
+          "creator": "Cielbami",
+          "approved_date": "2026-09-26 10:41:47",
+          "difficulties": [
+            {
+              "beatmap_id": "5838439",
+              "version": "under the rain",
+              "difficultyrating": "4.89028",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
           "beatmapset_id": "2600647",
           "title": "#1208",
           "artist": "Null Specification",
@@ -8393,51 +8434,6 @@
             }
           ],
           "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "2608128",
-          "title": "\"if\"",
-          "artist": "KAKO",
-          "creator": "Cielbami",
-          "approved_date": "2026-09-26 10:41:47",
-          "difficulties": [
-            {
-              "beatmap_id": "5838439",
-              "version": "under the rain",
-              "difficultyrating": "4.89028",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true,
-          "favourite_count": "11",
-          "playcount": "134"
-        },
-        {
-          "beatmapset_id": "914791",
-          "title": "Sky Is Over",
-          "artist": "Serj Tankian",
-          "creator": "Cielbami",
-          "approved_date": "2026-10-05 17:23:53",
-          "difficulties": [
-            {
-              "beatmap_id": "1910610",
-              "version": "The Sun",
-              "difficultyrating": "3.77741",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5008515",
-              "version": "Platter",
-              "difficultyrating": "2.76206",
-              "mode": "2",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true,
-          "favourite_count": "19",
-          "playcount": "664"
         }
       ],
       "guestDifficulties": [],
@@ -8449,7 +8445,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 154
       },
-      "lastUpdated": "2026-10-07T08:27:12.934Z"
+      "lastUpdated": "2026-10-21T07:23:24.988Z"
     },
     {
       "user_id": "6707918",
@@ -10309,7 +10305,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 34
       },
-      "lastUpdated": "2026-10-07T08:27:12.934Z"
+      "lastUpdated": "2026-10-21T07:23:24.988Z"
     },
     {
       "user_id": "555",
@@ -10518,7 +10514,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-10-07T08:27:12.934Z"
+      "lastUpdated": "2026-10-21T07:23:24.988Z"
     },
     {
       "user_id": "1961",
@@ -10656,7 +10652,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 2
       },
-      "lastUpdated": "2026-10-07T08:27:12.934Z"
+      "lastUpdated": "2026-10-21T07:23:24.988Z"
     },
     {
       "user_id": "41568",
@@ -10794,7 +10790,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 2
       },
-      "lastUpdated": "2026-10-07T08:27:12.934Z"
+      "lastUpdated": "2026-10-21T07:23:24.988Z"
     }
   ]
 }
