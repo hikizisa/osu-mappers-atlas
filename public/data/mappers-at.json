@@ -5,7 +5,7 @@
     "demonym": "Austria",
     "nativeName": "Austria"
   },
-  "lastUpdated": "2026-10-08T08:43:06.133Z",
+  "lastUpdated": "2026-10-22T07:24:58.234Z",
   "totalMappers": 2,
   "totalBeatmaps": 160,
   "totalBeatmapsets": 58,
@@ -7040,9 +7040,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "21",
-          "playcount": "10432"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1960126",
@@ -7876,7 +7874,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 143
       },
-      "lastUpdated": "2026-10-08T08:43:06.133Z"
+      "lastUpdated": "2026-10-22T07:24:58.234Z"
     },
     {
       "user_id": "73480",
@@ -8809,7 +8807,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 17
       },
-      "lastUpdated": "2026-10-08T08:43:06.133Z"
+      "lastUpdated": "2026-10-22T07:24:58.234Z"
     }
   ]
 }
