@@ -1,0 +1,18 @@
+{
+  "country": {
+    "code": "XK",
+    "name": "Kosovo",
+    "demonym": "Kosovo",
+    "nativeName": "Kosovo"
+  },
+  "lastUpdated": "2026-07-04T18:43:17.702Z",
+  "totalMappers": 0,
+  "totalBeatmaps": 0,
+  "totalBeatmapsets": 0,
+  "totalOwnBeatmapsets": 0,
+  "totalGuestBeatmapsets": 0,
+  "totalGuestDiffs": 0,
+  "totalOwnDifficulties": 0,
+  "scanType": "shared-discovery-empty",
+  "mappers": []
+}
