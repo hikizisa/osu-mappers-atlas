@@ -5,7 +5,7 @@
     "demonym": "Belgium",
     "nativeName": "Belgium"
   },
-  "lastUpdated": "2026-10-10T08:19:49.871Z",
+  "lastUpdated": "2026-10-24T07:05:07.214Z",
   "totalMappers": 4,
   "totalBeatmaps": 97,
   "totalBeatmapsets": 43,
@@ -2475,7 +2475,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 46
       },
-      "lastUpdated": "2026-10-10T08:19:49.871Z"
+      "lastUpdated": "2026-10-24T07:05:07.214Z"
     },
     {
       "user_id": "1612624",
@@ -3958,9 +3958,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "79",
-          "playcount": "6607"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1676228",
@@ -4476,7 +4474,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 33
       },
-      "lastUpdated": "2026-10-10T08:19:49.871Z"
+      "lastUpdated": "2026-10-24T07:05:07.214Z"
     },
     {
       "user_id": "2558570",
@@ -5032,7 +5030,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 10
       },
-      "lastUpdated": "2026-10-10T08:19:49.871Z"
+      "lastUpdated": "2026-10-24T07:05:07.214Z"
     },
     {
       "user_id": "32856",
@@ -5496,7 +5494,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 8
       },
-      "lastUpdated": "2026-10-10T08:19:49.871Z"
+      "lastUpdated": "2026-10-24T07:05:07.214Z"
     }
   ]
 }
