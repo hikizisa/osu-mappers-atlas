@@ -56759,13 +56759,13 @@
           "tags": "aleksi kiiskinen apple i15 iphone15 iphone 15 ads advertisement pro max experimental electronic instrumental",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "16",
+          "favourite_count": "17",
           "rating": "10",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "330",
+          "playcount": "353",
           "passcount": "48",
           "packs": "ST399",
           "max_combo": "1473",
@@ -56803,13 +56803,13 @@
           "tags": "aleksi kiiskinen apple i15 iphone15 iphone 15 ads advertisement pro max experimental electronic instrumental",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "16",
+          "favourite_count": "17",
           "rating": "10",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "235",
+          "playcount": "264",
           "passcount": "41",
           "packs": "ST399",
           "max_combo": "1127",
@@ -56853,7 +56853,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "218",
+          "playcount": "222",
           "passcount": "93",
           "packs": "ST393",
           "max_combo": "169",
@@ -56897,7 +56897,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "350",
+          "playcount": "366",
           "passcount": "70",
           "packs": "ST393",
           "max_combo": "423",
@@ -56941,7 +56941,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "207",
+          "playcount": "219",
           "passcount": "85",
           "packs": "ST393",
           "max_combo": "99",
@@ -56985,7 +56985,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "204",
+          "playcount": "206",
           "passcount": "84",
           "packs": "ST393",
           "max_combo": "263",
@@ -57029,7 +57029,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "209",
+          "playcount": "211",
           "passcount": "75",
           "packs": "ST393",
           "max_combo": "340",
@@ -59349,7 +59349,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "17",
+          "playcount": "617"
         },
         {
           "beatmapset_id": "2515272",
@@ -59394,7 +59396,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "7",
+          "playcount": "1224"
         },
         {
           "beatmapset_id": "1831804",

@@ -59,13 +59,13 @@
           "tags": "kuroko no basuke basketball which plays anime full version opening season 2 second rock alternate japanese handsome jrock j-rock グランロデオ",
           "genre_id": "4",
           "language_id": "3",
-          "favourite_count": "128",
+          "favourite_count": "131",
           "rating": "9.88889",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "5212",
+          "playcount": "7237",
           "passcount": "523",
           "packs": null,
           "max_combo": "2263",
@@ -14478,7 +14478,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "131",
+          "playcount": "7237"
         },
         {
           "beatmapset_id": "641211",
@@ -42294,13 +42296,13 @@
           "tags": "video game english chinese pop piano canto 8 viii the surrendered witnessing boss theme song cassie wei momocashew 葛西大和 yamato kasai pm project moon projectmili",
           "genre_id": "2",
           "language_id": "2",
-          "favourite_count": "62",
+          "favourite_count": "65",
           "rating": "7",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "279",
+          "playcount": "297",
           "passcount": "60",
           "packs": "SM342",
           "max_combo": "6910",
@@ -42338,13 +42340,13 @@
           "tags": "video game english chinese pop piano canto 8 viii the surrendered witnessing boss theme song cassie wei momocashew 葛西大和 yamato kasai pm project moon projectmili",
           "genre_id": "2",
           "language_id": "2",
-          "favourite_count": "62",
+          "favourite_count": "65",
           "rating": "7",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "422",
+          "playcount": "446",
           "passcount": "64",
           "packs": "SM342",
           "max_combo": "4607",
@@ -42382,13 +42384,13 @@
           "tags": "original sound track soundtrack music ost visual novel vn fvn video game furry jazz instrumental experimental classical fusion new york piano synth adult bara gay horror lgbt mystery queer romance yaoi",
           "genre_id": "14",
           "language_id": "5",
-          "favourite_count": "26",
+          "favourite_count": "25",
           "rating": "7.3",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1846",
+          "playcount": "1909",
           "passcount": "313",
           "packs": "SM335",
           "max_combo": "1477",
@@ -42426,13 +42428,13 @@
           "tags": "original sound track soundtrack music ost visual novel vn fvn video game furry jazz instrumental experimental classical fusion new york piano synth adult bara gay horror lgbt mystery queer romance yaoi",
           "genre_id": "14",
           "language_id": "5",
-          "favourite_count": "26",
+          "favourite_count": "25",
           "rating": "7.3",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1342",
+          "playcount": "1405",
           "passcount": "615",
           "packs": "SM335",
           "max_combo": "996",
@@ -43168,7 +43170,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "65",
+          "playcount": "743"
         },
         {
           "beatmapset_id": "2474711",
@@ -43192,7 +43196,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "25",
+          "playcount": "3314"
         },
         {
           "beatmapset_id": "1993035",

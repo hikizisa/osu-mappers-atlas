@@ -59,13 +59,13 @@
           "tags": "sherunosāju ushinawareta hoshi e sasagu uta ciel nosurge gust genometric concert vol.1 契絆ノ詩 pact songs surge concerto nay nayaflask emotional song pact reon-4213 conlang folk fantasy japanese hymn yooh",
           "genre_id": "13",
           "language_id": "3",
-          "favourite_count": "28",
+          "favourite_count": "25",
           "rating": "10",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1279",
+          "playcount": "1720",
           "passcount": "210",
           "packs": null,
           "max_combo": "1056",
@@ -103,13 +103,13 @@
           "tags": "マルバ m3-2025春 m3 2025 spring haru photology elixir nocturne m3-55 pagan folk electronic instrumental dahkjdas",
           "genre_id": "13",
           "language_id": "5",
-          "favourite_count": "34",
+          "favourite_count": "36",
           "rating": "9.12",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "3178",
+          "playcount": "3349",
           "passcount": "820",
           "packs": "S1789",
           "max_combo": "1609",
@@ -147,13 +147,13 @@
           "tags": "マルバ m3-2025春 m3 2025 spring haru photology elixir nocturne m3-55 pagan folk electronic instrumental dahkjdas",
           "genre_id": "13",
           "language_id": "5",
-          "favourite_count": "34",
+          "favourite_count": "36",
           "rating": "9.12",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "4915",
+          "playcount": "5077",
           "passcount": "1478",
           "packs": "S1789",
           "max_combo": "1470",
@@ -5326,7 +5326,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "25",
+          "playcount": "1720"
         },
         {
           "beatmapset_id": "2462178",
@@ -5350,7 +5352,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "36",
+          "playcount": "8426"
         },
         {
           "beatmapset_id": "2193835",
@@ -16158,13 +16162,13 @@
           "tags": "english pop indie alice in wonderland alternative cry baby crybaby",
           "genre_id": "5",
           "language_id": "2",
-          "favourite_count": "189",
+          "favourite_count": "204",
           "rating": "8.87097",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "12790",
+          "playcount": "13303",
           "passcount": "2300",
           "packs": "S1691",
           "max_combo": "1046",
@@ -16202,13 +16206,13 @@
           "tags": "english pop indie alice in wonderland alternative cry baby crybaby",
           "genre_id": "5",
           "language_id": "2",
-          "favourite_count": "189",
+          "favourite_count": "204",
           "rating": "8.87097",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "9514",
+          "playcount": "9946",
           "passcount": "3155",
           "packs": "S1691",
           "max_combo": "569",
@@ -16246,13 +16250,13 @@
           "tags": "english pop indie alice in wonderland alternative cry baby crybaby",
           "genre_id": "5",
           "language_id": "2",
-          "favourite_count": "189",
+          "favourite_count": "204",
           "rating": "8.87097",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "12115",
+          "playcount": "12529",
           "passcount": "3988",
           "packs": "S1691",
           "max_combo": "797",
@@ -19371,7 +19375,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "204",
+          "playcount": "35778"
         },
         {
           "beatmapset_id": "1282615",
@@ -38396,13 +38402,13 @@
           "tags": "fa featured artist terraformer flying jangus records tys03 tom monda matt reynolds ben karas cody mccorry faye fadem sam greenfield joe gullace mike feretti andy van dette alternative progressive rock metal jazz fusion instrumental hybrid marathon chrome",
           "genre_id": "4",
           "language_id": "5",
-          "favourite_count": "120",
+          "favourite_count": "121",
           "rating": "10",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "2854",
+          "playcount": "2998",
           "passcount": "572",
           "packs": "LR65",
           "max_combo": "10246",
@@ -39087,7 +39093,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "121",
+          "playcount": "2998"
         },
         {
           "beatmapset_id": "1592995",
