@@ -5,11 +5,11 @@
     "demonym": "Chile",
     "nativeName": "Chile"
   },
-  "lastUpdated": "2026-10-14T07:23:19.095Z",
+  "lastUpdated": "2026-10-28T08:09:19.032Z",
   "totalMappers": 10,
-  "totalBeatmaps": 1395,
-  "totalBeatmapsets": 334,
-  "totalOwnBeatmapsets": 334,
+  "totalBeatmaps": 1401,
+  "totalBeatmapsets": 335,
+  "totalOwnBeatmapsets": 335,
   "totalGuestBeatmapsets": 0,
   "totalGuestDiffs": 0,
   "totalOwnDifficulties": 1371,
@@ -14988,9 +14988,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "78",
-          "playcount": "28913"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1901393",
@@ -18070,20 +18068,284 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 339
       },
-      "lastUpdated": "2026-10-14T07:23:19.095Z"
+      "lastUpdated": "2026-10-28T08:09:19.032Z"
     },
     {
       "user_id": "6175280",
       "username": "Cris-",
       "aliases": [],
       "country": "CL",
-      "rankedBeatmaps": 328,
-      "rankedBeatmapsets": 60,
-      "ownBeatmapsets": 60,
+      "rankedBeatmaps": 334,
+      "rankedBeatmapsets": 61,
+      "ownBeatmapsets": 61,
       "guestBeatmapsets": 0,
       "totalGuestDiffs": 0,
       "ownDifficulties": 320,
       "beatmaps": [
+        {
+          "beatmapset_id": "2508810",
+          "beatmap_id": "5526155",
+          "approved": "1",
+          "total_length": "153",
+          "hit_length": "152",
+          "version": "Keep It Goin'",
+          "file_md5": "81f3f7602d852b64004b8990c6bc1179",
+          "diff_size": "4",
+          "diff_overall": "8.8",
+          "diff_approach": "9.5",
+          "diff_drain": "5",
+          "mode": "0",
+          "count_normal": "123",
+          "count_slider": "470",
+          "count_spinner": "0",
+          "submit_date": "2026-02-15 20:51:13",
+          "approved_date": "2026-10-18 07:05:22",
+          "last_update": "2026-10-11 01:10:31",
+          "artist": "NMIXX",
+          "artist_unicode": "엔믹스",
+          "title": "Reality Hurts",
+          "title_unicode": "Reality Hurts",
+          "creator": "Cris-",
+          "creator_id": "6175280",
+          "bpm": "142",
+          "source": "",
+          "tags": "blue valentine english futuristic modern pop electronic dance music edm korean k-pop kpop hardstyle jersey club rap lily 릴리 haewon 해원 sullyoon 설윤 bae 배이 jiwoo 지우 kyujin 규진 theshadowofdark ldnz umi sonoda delta_ orange_ mrterror",
+          "genre_id": "5",
+          "language_id": "2",
+          "favourite_count": "70",
+          "rating": "7.7619",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "1522",
+          "passcount": "267",
+          "packs": "S1885",
+          "max_combo": "1108",
+          "diff_aim": "3.30679",
+          "diff_speed": "2.04764",
+          "difficultyrating": "5.77254"
+        },
+        {
+          "beatmapset_id": "2508810",
+          "beatmap_id": "5549615",
+          "approved": "1",
+          "total_length": "152",
+          "hit_length": "146",
+          "version": "Ldnz's Normal",
+          "file_md5": "f4384d3427b5ae7f098e46fe2683748f",
+          "diff_size": "3",
+          "diff_overall": "4",
+          "diff_approach": "5.2",
+          "diff_drain": "3",
+          "mode": "0",
+          "count_normal": "144",
+          "count_slider": "137",
+          "count_spinner": "1",
+          "submit_date": "2026-02-15 20:51:13",
+          "approved_date": "2026-10-18 07:05:22",
+          "last_update": "2026-10-11 01:10:31",
+          "artist": "NMIXX",
+          "artist_unicode": "엔믹스",
+          "title": "Reality Hurts",
+          "title_unicode": "Reality Hurts",
+          "creator": "Cris-",
+          "creator_id": "6175280",
+          "bpm": "142",
+          "source": "",
+          "tags": "blue valentine english futuristic modern pop electronic dance music edm korean k-pop kpop hardstyle jersey club rap lily 릴리 haewon 해원 sullyoon 설윤 bae 배이 jiwoo 지우 kyujin 규진 theshadowofdark ldnz umi sonoda delta_ orange_ mrterror",
+          "genre_id": "5",
+          "language_id": "2",
+          "favourite_count": "70",
+          "rating": "7.7619",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "704",
+          "passcount": "348",
+          "packs": "S1885",
+          "max_combo": "456",
+          "diff_aim": "1.22953",
+          "diff_speed": "0.844534",
+          "difficultyrating": "2.23009"
+        },
+        {
+          "beatmapset_id": "2508810",
+          "beatmap_id": "5562879",
+          "approved": "1",
+          "total_length": "152",
+          "hit_length": "151",
+          "version": "TheShadow's Easy",
+          "file_md5": "8899c80d0d5e56c6be0619a2cf54c0f6",
+          "diff_size": "2.8",
+          "diff_overall": "2.6",
+          "diff_approach": "3.6",
+          "diff_drain": "2.8",
+          "mode": "0",
+          "count_normal": "82",
+          "count_slider": "103",
+          "count_spinner": "1",
+          "submit_date": "2026-02-15 20:51:13",
+          "approved_date": "2026-10-18 07:05:22",
+          "last_update": "2026-10-11 01:10:31",
+          "artist": "NMIXX",
+          "artist_unicode": "엔믹스",
+          "title": "Reality Hurts",
+          "title_unicode": "Reality Hurts",
+          "creator": "Cris-",
+          "creator_id": "6175280",
+          "bpm": "142",
+          "source": "",
+          "tags": "blue valentine english futuristic modern pop electronic dance music edm korean k-pop kpop hardstyle jersey club rap lily 릴리 haewon 해원 sullyoon 설윤 bae 배이 jiwoo 지우 kyujin 규진 theshadowofdark ldnz umi sonoda delta_ orange_ mrterror",
+          "genre_id": "5",
+          "language_id": "2",
+          "favourite_count": "70",
+          "rating": "7.7619",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "676",
+          "passcount": "305",
+          "packs": "S1885",
+          "max_combo": "339",
+          "diff_aim": "1.04067",
+          "diff_speed": "0.55873",
+          "difficultyrating": "1.79507"
+        },
+        {
+          "beatmapset_id": "2508810",
+          "beatmap_id": "5592373",
+          "approved": "1",
+          "total_length": "152",
+          "hit_length": "152",
+          "version": "Delta's Insane",
+          "file_md5": "9396a5f751d1c0dd1d8693a4ce175f8a",
+          "diff_size": "4.3",
+          "diff_overall": "8",
+          "diff_approach": "9",
+          "diff_drain": "4.8",
+          "mode": "0",
+          "count_normal": "71",
+          "count_slider": "341",
+          "count_spinner": "1",
+          "submit_date": "2026-02-15 20:51:13",
+          "approved_date": "2026-10-18 07:05:22",
+          "last_update": "2026-10-11 01:10:31",
+          "artist": "NMIXX",
+          "artist_unicode": "엔믹스",
+          "title": "Reality Hurts",
+          "title_unicode": "Reality Hurts",
+          "creator": "Cris-",
+          "creator_id": "6175280",
+          "bpm": "142",
+          "source": "",
+          "tags": "blue valentine english futuristic modern pop electronic dance music edm korean k-pop kpop hardstyle jersey club rap lily 릴리 haewon 해원 sullyoon 설윤 bae 배이 jiwoo 지우 kyujin 규진 theshadowofdark ldnz umi sonoda delta_ orange_ mrterror",
+          "genre_id": "5",
+          "language_id": "2",
+          "favourite_count": "70",
+          "rating": "7.7619",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "1720",
+          "passcount": "471",
+          "packs": "S1885",
+          "max_combo": "820",
+          "diff_aim": "2.62834",
+          "diff_speed": "1.39765",
+          "difficultyrating": "4.49091"
+        },
+        {
+          "beatmapset_id": "2508810",
+          "beatmap_id": "5628893",
+          "approved": "1",
+          "total_length": "152",
+          "hit_length": "146",
+          "version": "Sonoda's Hard",
+          "file_md5": "0cd7d6525fdd07cc3afd88b49e9491d6",
+          "diff_size": "3.6",
+          "diff_overall": "6.5",
+          "diff_approach": "8",
+          "diff_drain": "4",
+          "mode": "0",
+          "count_normal": "222",
+          "count_slider": "146",
+          "count_spinner": "1",
+          "submit_date": "2026-02-15 20:51:13",
+          "approved_date": "2026-10-18 07:05:22",
+          "last_update": "2026-10-11 01:10:31",
+          "artist": "NMIXX",
+          "artist_unicode": "엔믹스",
+          "title": "Reality Hurts",
+          "title_unicode": "Reality Hurts",
+          "creator": "Cris-",
+          "creator_id": "6175280",
+          "bpm": "142",
+          "source": "",
+          "tags": "blue valentine english futuristic modern pop electronic dance music edm korean k-pop kpop hardstyle jersey club rap lily 릴리 haewon 해원 sullyoon 설윤 bae 배이 jiwoo 지우 kyujin 규진 theshadowofdark ldnz umi sonoda delta_ orange_ mrterror",
+          "genre_id": "5",
+          "language_id": "2",
+          "favourite_count": "70",
+          "rating": "7.7619",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "1990",
+          "passcount": "944",
+          "packs": "S1885",
+          "max_combo": "539",
+          "diff_aim": "1.74603",
+          "diff_speed": "1.22382",
+          "difficultyrating": "3.12344"
+        },
+        {
+          "beatmapset_id": "2508810",
+          "beatmap_id": "5853216",
+          "approved": "1",
+          "total_length": "153",
+          "hit_length": "152",
+          "version": "MrTerror's Expert",
+          "file_md5": "d30f387efb3a661f32fc29fd12b6439f",
+          "diff_size": "5.2",
+          "diff_overall": "8.2",
+          "diff_approach": "9.1",
+          "diff_drain": "4.9",
+          "mode": "0",
+          "count_normal": "272",
+          "count_slider": "318",
+          "count_spinner": "1",
+          "submit_date": "2026-02-15 20:51:13",
+          "approved_date": "2026-10-18 07:05:22",
+          "last_update": "2026-10-11 01:10:31",
+          "artist": "NMIXX",
+          "artist_unicode": "엔믹스",
+          "title": "Reality Hurts",
+          "title_unicode": "Reality Hurts",
+          "creator": "Cris-",
+          "creator_id": "6175280",
+          "bpm": "142",
+          "source": "",
+          "tags": "blue valentine english futuristic modern pop electronic dance music edm korean k-pop kpop hardstyle jersey club rap lily 릴리 haewon 해원 sullyoon 설윤 bae 배이 jiwoo 지우 kyujin 규진 theshadowofdark ldnz umi sonoda delta_ orange_ mrterror",
+          "genre_id": "5",
+          "language_id": "2",
+          "favourite_count": "70",
+          "rating": "7.7619",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "1225",
+          "passcount": "287",
+          "packs": "S1885",
+          "max_combo": "959",
+          "diff_aim": "2.90334",
+          "diff_speed": "2.10914",
+          "difficultyrating": "5.26838"
+        },
         {
           "beatmapset_id": "2491861",
           "beatmap_id": "5474647",
@@ -32634,9 +32896,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "160",
-          "playcount": "39120"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2530876",
@@ -32688,9 +32948,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "824",
-          "playcount": "310461"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2415448",
@@ -32749,9 +33007,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "584",
-          "playcount": "145861"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2298744",
@@ -32831,9 +33087,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "68",
-          "playcount": "66295"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2412288",
@@ -32878,9 +33132,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "129",
-          "playcount": "30470"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2361010",
@@ -32960,9 +33212,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "223",
-          "playcount": "70354"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2398378",
@@ -33014,9 +33264,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "748",
-          "playcount": "415707"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2389851",
@@ -33068,9 +33316,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "229",
-          "playcount": "120561"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2389847",
@@ -33122,9 +33368,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "206",
-          "playcount": "69153"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2194596",
@@ -33169,9 +33413,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "295",
-          "playcount": "44816"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2341372",
@@ -33799,9 +34041,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "16",
-          "playcount": "3529"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1031888",
@@ -35435,18 +35675,70 @@
             }
           ],
           "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2508810",
+          "title": "Reality Hurts",
+          "artist": "NMIXX",
+          "creator": "Cris-",
+          "approved_date": "2026-10-18 07:05:22",
+          "difficulties": [
+            {
+              "beatmap_id": "5526155",
+              "version": "Keep It Goin'",
+              "difficultyrating": "5.77254",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5549615",
+              "version": "Ldnz's Normal",
+              "difficultyrating": "2.23009",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5562879",
+              "version": "TheShadow's Easy",
+              "difficultyrating": "1.79507",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5592373",
+              "version": "Delta's Insane",
+              "difficultyrating": "4.49091",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5628893",
+              "version": "Sonoda's Hard",
+              "difficultyrating": "3.12344",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5853216",
+              "version": "MrTerror's Expert",
+              "difficultyrating": "5.26838",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
       "stats": {
-        "totalBeatmaps": 328,
-        "totalBeatmapsets": 60,
-        "ownBeatmapsets": 60,
+        "totalBeatmaps": 334,
+        "totalBeatmapsets": 61,
+        "ownBeatmapsets": 61,
         "guestBeatmapsets": 0,
         "totalGuestDiffs": 0,
-        "ownDifficulties": 328
+        "ownDifficulties": 334
       },
-      "lastUpdated": "2026-10-14T07:23:19.095Z"
+      "lastUpdated": "2026-10-28T08:09:19.032Z"
     },
     {
       "user_id": "1263669",
@@ -44814,9 +45106,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "28",
-          "playcount": "5827"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1909021",
@@ -46848,7 +47138,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 212
       },
-      "lastUpdated": "2026-10-14T07:23:19.095Z"
+      "lastUpdated": "2026-10-28T08:09:19.032Z"
     },
     {
       "user_id": "464889",
@@ -54375,9 +54665,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "61",
-          "playcount": "48658"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1936884",
@@ -55924,7 +56212,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 168
       },
-      "lastUpdated": "2026-10-14T07:23:19.095Z"
+      "lastUpdated": "2026-10-28T08:09:19.032Z"
     },
     {
       "user_id": "5405836",
@@ -62728,7 +63016,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 125
       },
-      "lastUpdated": "2026-10-14T07:23:19.095Z"
+      "lastUpdated": "2026-10-28T08:09:19.032Z"
     },
     {
       "user_id": "46605",
@@ -68389,7 +68677,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 105
       },
-      "lastUpdated": "2026-10-14T07:23:19.095Z"
+      "lastUpdated": "2026-10-28T08:09:19.032Z"
     },
     {
       "user_id": "115291",
@@ -72667,9 +72955,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "40",
-          "playcount": "35167"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "108826",
@@ -73535,7 +73821,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 96
       },
-      "lastUpdated": "2026-10-14T07:23:19.095Z"
+      "lastUpdated": "2026-10-28T08:09:19.032Z"
     },
     {
       "user_id": "99284",
@@ -74152,7 +74438,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 11
       },
-      "lastUpdated": "2026-10-14T07:23:19.095Z"
+      "lastUpdated": "2026-10-28T08:09:19.032Z"
     },
     {
       "user_id": "45259",
@@ -74555,7 +74841,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 7
       },
-      "lastUpdated": "2026-10-14T07:23:19.095Z"
+      "lastUpdated": "2026-10-28T08:09:19.032Z"
     },
     {
       "user_id": "144464",
@@ -74797,7 +75083,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 4
       },
-      "lastUpdated": "2026-10-14T07:23:19.095Z"
+      "lastUpdated": "2026-10-28T08:09:19.032Z"
     }
   ]
 }
