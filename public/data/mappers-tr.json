@@ -5,7 +5,7 @@
     "demonym": "Türkiye",
     "nativeName": "Türkiye"
   },
-  "lastUpdated": "2026-10-15T07:17:02.794Z",
+  "lastUpdated": "2026-10-29T08:20:00.316Z",
   "totalMappers": 1,
   "totalBeatmaps": 71,
   "totalBeatmapsets": 32,
@@ -3154,6 +3154,58 @@
       ],
       "beatmapsets": [
         {
+          "beatmapset_id": "531697",
+          "title": "Twilight of the Thunder God",
+          "artist": "Amon Amarth",
+          "creator": "frukoyurdakul",
+          "approved_date": "2026-10-05 23:38:46",
+          "difficulties": [
+            {
+              "beatmap_id": "1126786",
+              "version": "Death",
+              "difficultyrating": "6.612",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1130079",
+              "version": "Inner Oni",
+              "difficultyrating": "5.04807",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1145453",
+              "version": "Oni",
+              "difficultyrating": "4.20729",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1159553",
+              "version": "iControl's Muzukashii",
+              "difficultyrating": "3.3892",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1224766",
+              "version": "Futsuu",
+              "difficultyrating": "2.08624",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1224767",
+              "version": "Kantan",
+              "difficultyrating": "1.33202",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
           "beatmapset_id": "1756364",
           "title": "Tendinitis",
           "artist": "Jason Richardson & Luke Holland",
@@ -3168,9 +3220,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "16",
-          "playcount": "890"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1628329",
@@ -3919,60 +3969,6 @@
             }
           ],
           "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "531697",
-          "title": "Twilight of the Thunder God",
-          "artist": "Amon Amarth",
-          "creator": "frukoyurdakul",
-          "approved_date": "2026-10-05 23:38:46",
-          "difficulties": [
-            {
-              "beatmap_id": "1126786",
-              "version": "Death",
-              "difficultyrating": "6.612",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1130079",
-              "version": "Inner Oni",
-              "difficultyrating": "5.04807",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1145453",
-              "version": "Oni",
-              "difficultyrating": "4.20729",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1159553",
-              "version": "iControl's Muzukashii",
-              "difficultyrating": "3.3892",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1224766",
-              "version": "Futsuu",
-              "difficultyrating": "2.08624",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1224767",
-              "version": "Kantan",
-              "difficultyrating": "1.33202",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true,
-          "favourite_count": "28",
-          "playcount": "467"
         }
       ],
       "guestDifficulties": [],
@@ -3984,7 +3980,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 71
       },
-      "lastUpdated": "2026-10-15T07:17:02.794Z"
+      "lastUpdated": "2026-10-29T08:20:00.316Z"
     }
   ]
 }
