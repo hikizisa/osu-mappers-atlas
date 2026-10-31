@@ -5,11 +5,11 @@
     "demonym": "Ecuador",
     "nativeName": "Ecuador"
   },
-  "lastUpdated": "2026-10-17T06:48:45.330Z",
+  "lastUpdated": "2026-10-31T08:14:20.984Z",
   "totalMappers": 5,
-  "totalBeatmaps": 177,
-  "totalBeatmapsets": 50,
-  "totalOwnBeatmapsets": 50,
+  "totalBeatmaps": 181,
+  "totalBeatmapsets": 51,
+  "totalOwnBeatmapsets": 51,
   "totalGuestBeatmapsets": 0,
   "totalGuestDiffs": 0,
   "totalOwnDifficulties": 177,
@@ -5264,9 +5264,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "16",
-          "playcount": "3765"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2321384",
@@ -5311,9 +5309,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "12",
-          "playcount": "5330"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2373259",
@@ -5406,9 +5402,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "21",
-          "playcount": "2519"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2036508",
@@ -5453,9 +5447,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "39",
-          "playcount": "8910"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1587095",
@@ -6405,7 +6397,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 118
       },
-      "lastUpdated": "2026-10-17T06:48:45.330Z"
+      "lastUpdated": "2026-10-31T08:14:20.984Z"
     },
     {
       "user_id": "39872",
@@ -8000,20 +7992,196 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 29
       },
-      "lastUpdated": "2026-10-17T06:48:45.330Z"
+      "lastUpdated": "2026-10-31T08:14:20.984Z"
     },
     {
       "user_id": "3442319",
       "username": "Etsu",
       "aliases": [],
       "country": "EC",
-      "rankedBeatmaps": 21,
-      "rankedBeatmapsets": 5,
-      "ownBeatmapsets": 5,
+      "rankedBeatmaps": 25,
+      "rankedBeatmapsets": 6,
+      "ownBeatmapsets": 6,
       "guestBeatmapsets": 0,
       "totalGuestDiffs": 0,
       "ownDifficulties": 21,
       "beatmaps": [
+        {
+          "beatmapset_id": "607142",
+          "beatmap_id": "1282473",
+          "approved": "1",
+          "total_length": "88",
+          "hit_length": "87",
+          "version": "Futsuu",
+          "file_md5": "6ee95e24bc29993ef0323c284bd64c76",
+          "diff_size": "2",
+          "diff_overall": "3.5",
+          "diff_approach": "0",
+          "diff_drain": "8",
+          "mode": "1",
+          "count_normal": "157",
+          "count_slider": "0",
+          "count_spinner": "4",
+          "submit_date": "2017-05-01 00:46:50",
+          "approved_date": "2026-10-26 02:45:34",
+          "last_update": "2026-10-18 06:18:34",
+          "artist": "mao",
+          "artist_unicode": "mao",
+          "title": "Yume o Kanaete Doraemon (TV Size)",
+          "title_unicode": "夢をかなえてドラえもん (TV Size)",
+          "creator": "Etsu",
+          "creator_id": "3442319",
+          "bpm": "123",
+          "source": "ドラえもん",
+          "tags": "japanese pop j-pop jpop anime アニメ opening op doraemon ひまわりキッズ fujiko f. fujio 藤子・f・不二雄 swing",
+          "genre_id": "3",
+          "language_id": "3",
+          "favourite_count": "5",
+          "rating": "10",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "102",
+          "passcount": "30",
+          "packs": "ST446",
+          "max_combo": "157",
+          "diff_aim": null,
+          "diff_speed": null,
+          "difficultyrating": "1.48958"
+        },
+        {
+          "beatmapset_id": "607142",
+          "beatmap_id": "1282474",
+          "approved": "1",
+          "total_length": "88",
+          "hit_length": "87",
+          "version": "Kantan",
+          "file_md5": "826666668d5ca47c26582262b9b09793",
+          "diff_size": "2",
+          "diff_overall": "2.5",
+          "diff_approach": "0",
+          "diff_drain": "9",
+          "mode": "1",
+          "count_normal": "102",
+          "count_slider": "0",
+          "count_spinner": "4",
+          "submit_date": "2017-05-01 00:46:50",
+          "approved_date": "2026-10-26 02:45:34",
+          "last_update": "2026-10-18 06:18:34",
+          "artist": "mao",
+          "artist_unicode": "mao",
+          "title": "Yume o Kanaete Doraemon (TV Size)",
+          "title_unicode": "夢をかなえてドラえもん (TV Size)",
+          "creator": "Etsu",
+          "creator_id": "3442319",
+          "bpm": "123",
+          "source": "ドラえもん",
+          "tags": "japanese pop j-pop jpop anime アニメ opening op doraemon ひまわりキッズ fujiko f. fujio 藤子・f・不二雄 swing",
+          "genre_id": "3",
+          "language_id": "3",
+          "favourite_count": "5",
+          "rating": "10",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "172",
+          "passcount": "92",
+          "packs": "ST446",
+          "max_combo": "102",
+          "diff_aim": null,
+          "diff_speed": null,
+          "difficultyrating": "1.10648"
+        },
+        {
+          "beatmapset_id": "607142",
+          "beatmap_id": "1282475",
+          "approved": "1",
+          "total_length": "88",
+          "hit_length": "87",
+          "version": "Muzukashii",
+          "file_md5": "98ab360b083f03ecc0c65e29b1a708e8",
+          "diff_size": "2",
+          "diff_overall": "4.5",
+          "diff_approach": "0",
+          "diff_drain": "7",
+          "mode": "1",
+          "count_normal": "217",
+          "count_slider": "0",
+          "count_spinner": "4",
+          "submit_date": "2017-05-01 00:46:50",
+          "approved_date": "2026-10-26 02:45:34",
+          "last_update": "2026-10-18 06:18:34",
+          "artist": "mao",
+          "artist_unicode": "mao",
+          "title": "Yume o Kanaete Doraemon (TV Size)",
+          "title_unicode": "夢をかなえてドラえもん (TV Size)",
+          "creator": "Etsu",
+          "creator_id": "3442319",
+          "bpm": "123",
+          "source": "ドラえもん",
+          "tags": "japanese pop j-pop jpop anime アニメ opening op doraemon ひまわりキッズ fujiko f. fujio 藤子・f・不二雄 swing",
+          "genre_id": "3",
+          "language_id": "3",
+          "favourite_count": "5",
+          "rating": "10",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "81",
+          "passcount": "34",
+          "packs": "ST446",
+          "max_combo": "217",
+          "diff_aim": null,
+          "diff_speed": null,
+          "difficultyrating": "1.87037"
+        },
+        {
+          "beatmapset_id": "607142",
+          "beatmap_id": "1282476",
+          "approved": "1",
+          "total_length": "88",
+          "hit_length": "87",
+          "version": "Oni",
+          "file_md5": "be3643ad255421de417a113a5dcdd556",
+          "diff_size": "2",
+          "diff_overall": "5.5",
+          "diff_approach": "0",
+          "diff_drain": "6",
+          "mode": "1",
+          "count_normal": "298",
+          "count_slider": "0",
+          "count_spinner": "4",
+          "submit_date": "2017-05-01 00:46:50",
+          "approved_date": "2026-10-26 02:45:34",
+          "last_update": "2026-10-18 06:18:34",
+          "artist": "mao",
+          "artist_unicode": "mao",
+          "title": "Yume o Kanaete Doraemon (TV Size)",
+          "title_unicode": "夢をかなえてドラえもん (TV Size)",
+          "creator": "Etsu",
+          "creator_id": "3442319",
+          "bpm": "123",
+          "source": "ドラえもん",
+          "tags": "japanese pop j-pop jpop anime アニメ opening op doraemon ひまわりキッズ fujiko f. fujio 藤子・f・不二雄 swing",
+          "genre_id": "3",
+          "language_id": "3",
+          "favourite_count": "5",
+          "rating": "10",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "161",
+          "passcount": "46",
+          "packs": "ST446",
+          "max_combo": "298",
+          "diff_aim": null,
+          "diff_speed": null,
+          "difficultyrating": "2.52136"
+        },
         {
           "beatmapset_id": "474312",
           "beatmap_id": "1013207",
@@ -9136,18 +9304,56 @@
             }
           ],
           "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "607142",
+          "title": "Yume o Kanaete Doraemon (TV Size)",
+          "artist": "mao",
+          "creator": "Etsu",
+          "approved_date": "2026-10-26 02:45:34",
+          "difficulties": [
+            {
+              "beatmap_id": "1282473",
+              "version": "Futsuu",
+              "difficultyrating": "1.48958",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1282474",
+              "version": "Kantan",
+              "difficultyrating": "1.10648",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1282475",
+              "version": "Muzukashii",
+              "difficultyrating": "1.87037",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1282476",
+              "version": "Oni",
+              "difficultyrating": "2.52136",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
       "stats": {
-        "totalBeatmaps": 21,
-        "totalBeatmapsets": 5,
-        "ownBeatmapsets": 5,
+        "totalBeatmaps": 25,
+        "totalBeatmapsets": 6,
+        "ownBeatmapsets": 6,
         "guestBeatmapsets": 0,
         "totalGuestDiffs": 0,
-        "ownDifficulties": 21
+        "ownDifficulties": 25
       },
-      "lastUpdated": "2026-10-17T06:48:45.330Z"
+      "lastUpdated": "2026-10-31T08:14:20.984Z"
     },
     {
       "user_id": "2317431",
@@ -9489,7 +9695,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 6
       },
-      "lastUpdated": "2026-10-17T06:48:45.330Z"
+      "lastUpdated": "2026-10-31T08:14:20.984Z"
     },
     {
       "user_id": "61466",
@@ -9678,7 +9884,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-10-17T06:48:45.330Z"
+      "lastUpdated": "2026-10-31T08:14:20.984Z"
     }
   ]
 }
