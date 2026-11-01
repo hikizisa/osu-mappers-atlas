@@ -30035,7 +30035,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "8",
+          "playcount": "646"
         }
       ],
       "guestDifficulties": [],

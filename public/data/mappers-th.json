@@ -47595,7 +47595,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "7237",
+          "playcount": "7246",
           "passcount": "1972",
           "packs": "S1691",
           "max_combo": "1383",
@@ -54705,7 +54705,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "30",
+          "playcount": "9082"
         },
         {
           "beatmapset_id": "2257379",
@@ -54729,7 +54731,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "56",
+          "playcount": "15464"
         },
         {
           "beatmapset_id": "577932",
@@ -54760,7 +54764,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "80",
+          "playcount": "22188"
         }
       ],
       "guestDifficulties": [],
@@ -61737,7 +61743,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "49",
+          "playcount": "9472"
         },
         {
           "beatmapset_id": "561789",
@@ -61775,7 +61783,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "28",
+          "playcount": "16825"
         },
         {
           "beatmapset_id": "86340",
@@ -61813,7 +61823,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "23",
+          "playcount": "10759"
         },
         {
           "beatmapset_id": "2331766",
@@ -61865,7 +61877,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "259",
+          "playcount": "96405"
         },
         {
           "beatmapset_id": "80180",
@@ -61903,7 +61917,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "17",
+          "playcount": "10519"
         },
         {
           "beatmapset_id": "2352925",
@@ -61962,7 +61978,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "184",
+          "playcount": "91600"
         },
         {
           "beatmapset_id": "2398262",
@@ -62000,7 +62018,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "265",
+          "playcount": "102631"
         },
         {
           "beatmapset_id": "2130056",
@@ -62045,7 +62065,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "36",
+          "playcount": "13244"
         }
       ],
       "guestDifficulties": [],
@@ -69214,7 +69236,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "164",
+          "playcount": "83435"
         },
         {
           "beatmapset_id": "1718717",
@@ -69245,7 +69269,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "201",
+          "playcount": "87213"
         }
       ],
       "guestDifficulties": [],
@@ -69307,7 +69333,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "937",
+          "playcount": "940",
           "passcount": "165",
           "packs": "S1888",
           "max_combo": "701",
@@ -69835,7 +69861,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "13303",
+          "playcount": "13312",
           "passcount": "2781",
           "packs": "S1807",
           "max_combo": "1566",
@@ -70055,7 +70081,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "14401",
+          "playcount": "14410",
           "passcount": "2143",
           "packs": "S1760",
           "max_combo": "657",
@@ -74937,7 +74963,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "34",
+          "playcount": "4303"
         },
         {
           "beatmapset_id": "2111185",
@@ -74989,7 +75017,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "72",
+          "playcount": "13515"
         },
         {
           "beatmapset_id": "2300108",
@@ -75027,7 +75057,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "41",
+          "playcount": "15178"
         },
         {
           "beatmapset_id": "2282245",
@@ -75072,7 +75104,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "82",
+          "playcount": "29255"
         },
         {
           "beatmapset_id": "2402637",
@@ -75089,7 +75123,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "38",
+          "playcount": "3907"
         },
         {
           "beatmapset_id": "2020675",
@@ -75155,7 +75191,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "38",
+          "playcount": "18609"
         },
         {
           "beatmapset_id": "2466542",
@@ -75186,7 +75224,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "111",
+          "playcount": "27354"
         },
         {
           "beatmapset_id": "2524476",
@@ -75203,7 +75243,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "25",
+          "playcount": "3088"
         },
         {
           "beatmapset_id": "2495854",
@@ -75220,7 +75262,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "88",
+          "playcount": "4987"
         },
         {
           "beatmapset_id": "2288250",
@@ -75300,7 +75344,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "460",
+          "playcount": "102187"
         },
         {
           "beatmapset_id": "2529203",
@@ -75317,7 +75363,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "82",
+          "playcount": "6814"
         },
         {
           "beatmapset_id": "2520017",
@@ -75348,7 +75396,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "59",
+          "playcount": "6069"
         },
         {
           "beatmapset_id": "2584384",
@@ -75365,7 +75415,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "22",
+          "playcount": "4028"
         }
       ],
       "guestDifficulties": [],
@@ -88002,7 +88054,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "22",
+          "playcount": "9823"
         },
         {
           "beatmapset_id": "2119032",
@@ -88054,7 +88108,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "27",
+          "playcount": "26116"
         },
         {
           "beatmapset_id": "2333298",
@@ -88092,7 +88148,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "20",
+          "playcount": "5491"
         }
       ],
       "guestDifficulties": [],
@@ -91704,13 +91762,13 @@
           "tags": "clockbite born pink korean pop kpop k-pop yg entertainment 블핑 블랙핑크 지수 jisoo 제니 jennie 로제 rosÉ rose 리사 lisa",
           "genre_id": "5",
           "language_id": "6",
-          "favourite_count": "79",
+          "favourite_count": "80",
           "rating": "8.42857",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "613",
+          "playcount": "623",
           "passcount": "145",
           "packs": "ST336",
           "max_combo": "768",
@@ -91748,13 +91806,13 @@
           "tags": "clockbite born pink korean pop kpop k-pop yg entertainment 블핑 블랙핑크 지수 jisoo 제니 jennie 로제 rosÉ rose 리사 lisa",
           "genre_id": "5",
           "language_id": "6",
-          "favourite_count": "79",
+          "favourite_count": "80",
           "rating": "8.42857",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "329",
+          "playcount": "333",
           "passcount": "80",
           "packs": "ST336",
           "max_combo": "633",
@@ -91792,13 +91850,13 @@
           "tags": "clockbite born pink korean pop kpop k-pop yg entertainment 블핑 블랙핑크 지수 jisoo 제니 jennie 로제 rosÉ rose 리사 lisa",
           "genre_id": "5",
           "language_id": "6",
-          "favourite_count": "79",
+          "favourite_count": "80",
           "rating": "8.42857",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "595",
+          "playcount": "608",
           "passcount": "131",
           "packs": "ST336",
           "max_combo": "484",
@@ -91836,13 +91894,13 @@
           "tags": "clockbite born pink korean pop kpop k-pop yg entertainment 블핑 블랙핑크 지수 jisoo 제니 jennie 로제 rosÉ rose 리사 lisa",
           "genre_id": "5",
           "language_id": "6",
-          "favourite_count": "79",
+          "favourite_count": "80",
           "rating": "8.42857",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "945",
+          "playcount": "973",
           "passcount": "317",
           "packs": "ST336",
           "max_combo": "318",
@@ -94069,7 +94127,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "80",
+          "playcount": "2537"
         },
         {
           "beatmapset_id": "1739579",
@@ -110888,7 +110948,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "47",
+          "playcount": "14755"
         }
       ],
       "guestDifficulties": [],
@@ -112239,7 +112301,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "59",
+          "playcount": "12226"
         },
         {
           "beatmapset_id": "2327760",
@@ -112256,7 +112320,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "25",
+          "playcount": "4060"
         },
         {
           "beatmapset_id": "104331",
@@ -112280,7 +112346,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "117",
+          "playcount": "19576"
         },
         {
           "beatmapset_id": "2423672",
@@ -112297,7 +112365,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "30",
+          "playcount": "4249"
         }
       ],
       "guestDifficulties": [],
@@ -115976,7 +116046,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "41",
+          "playcount": "6562"
         }
       ],
       "guestDifficulties": [],

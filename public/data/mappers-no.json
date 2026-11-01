@@ -5203,7 +5203,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "697",
+          "playcount": "804",
           "passcount": "27",
           "packs": null,
           "max_combo": "1593",
@@ -8518,7 +8518,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "6",
+          "playcount": "804"
         },
         {
           "beatmapset_id": "2129116",
@@ -14164,13 +14166,13 @@
           "tags": "bmd kazmasa k_a_z_m_a_s_a opening ブレンド・a blend a 桜ノ宮苺香 sakuranomiya maika 和氣あず未 waki azumi 日向夏帆 hinata kaho 鬼頭明里 kitou akari 星川麻冬 hoshikawa mafuyu 春野杏 haruno anzu full version happy hardcore stream marathon anicolloid bonus track electronic anime op japanese pop jpop j-pop",
           "genre_id": "3",
           "language_id": "3",
-          "favourite_count": "451",
+          "favourite_count": "458",
           "rating": "9.69565",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "190450",
+          "playcount": "197029",
           "passcount": "11811",
           "packs": "S1567",
           "max_combo": "3905",
@@ -15400,7 +15402,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "458",
+          "playcount": "197029"
         },
         {
           "beatmapset_id": "739053",

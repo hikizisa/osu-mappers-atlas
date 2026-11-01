@@ -206,7 +206,7 @@
           "video": "1",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "4348",
+          "playcount": "4357",
           "passcount": "1095",
           "packs": "S1875",
           "max_combo": "1199",
@@ -250,7 +250,7 @@
           "video": "1",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "96733",
+          "playcount": "96742",
           "passcount": "9096",
           "packs": "S1686",
           "max_combo": "1879",
@@ -21739,7 +21739,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "90",
+          "playcount": "73525"
         },
         {
           "beatmapset_id": "2138387",
@@ -21784,7 +21786,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "101",
+          "playcount": "98276"
         },
         {
           "beatmapset_id": "2039561",
@@ -21815,7 +21819,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "135",
+          "playcount": "48108"
         },
         {
           "beatmapset_id": "2364551",
@@ -21839,7 +21845,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "10",
+          "playcount": "4016"
         },
         {
           "beatmapset_id": "2372098",
@@ -21856,7 +21864,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "25",
+          "playcount": "6841"
         },
         {
           "beatmapset_id": "2380969",
@@ -21887,7 +21897,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "49",
+          "playcount": "16815"
         },
         {
           "beatmapset_id": "2411474",
@@ -21918,7 +21930,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "371",
+          "playcount": "226164"
         },
         {
           "beatmapset_id": "2571988",
@@ -21956,7 +21970,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "63",
+          "playcount": "10993"
         }
       ],
       "guestDifficulties": [],
@@ -22012,7 +22028,7 @@
           "tags": "ac8129464363 deetz in love cry umineko no naku koro ni visual novel video game anime image album beatrice luck ganriki j-rock rock jrock japanese diodex clair vaux bernardus when the seagulls rokkenjima",
           "genre_id": "4",
           "language_id": "3",
-          "favourite_count": "40",
+          "favourite_count": "39",
           "rating": "9.5",
           "storyboard": "0",
           "video": "0",
@@ -22056,13 +22072,13 @@
           "tags": "ac8129464363 deetz in love cry umineko no naku koro ni visual novel video game anime image album beatrice luck ganriki j-rock rock jrock japanese diodex clair vaux bernardus when the seagulls rokkenjima",
           "genre_id": "4",
           "language_id": "3",
-          "favourite_count": "40",
+          "favourite_count": "39",
           "rating": "9.5",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "2224",
+          "playcount": "2233",
           "passcount": "517",
           "packs": "S1886",
           "max_combo": "1346",
@@ -31542,7 +31558,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "33",
+          "playcount": "6672"
         },
         {
           "beatmapset_id": "2322901",
@@ -31559,7 +31577,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "31",
+          "playcount": "3448"
         },
         {
           "beatmapset_id": "2318567",
@@ -31576,7 +31596,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "111",
+          "playcount": "11287"
         },
         {
           "beatmapset_id": "693398",
@@ -31593,7 +31615,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "113",
+          "playcount": "10837"
         },
         {
           "beatmapset_id": "2636074",
@@ -31617,7 +31641,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "39",
+          "playcount": "5105"
         }
       ],
       "guestDifficulties": [],
@@ -31851,13 +31877,13 @@
           "tags": "shangri-la frontier: crappy game hunter challenges god-tier game shanfro shangri la kalibe chaoticred anime jp en rap pop english japanese hip hop opening chaki zulu",
           "genre_id": "3",
           "language_id": "3",
-          "favourite_count": "176",
+          "favourite_count": "186",
           "rating": "8.49091",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "10990",
+          "playcount": "11386",
           "passcount": "2413",
           "packs": "S1623",
           "max_combo": "674",
@@ -31895,13 +31921,13 @@
           "tags": "shangri-la frontier: crappy game hunter challenges god-tier game shanfro shangri la kalibe chaoticred anime jp en rap pop english japanese hip hop opening chaki zulu",
           "genre_id": "3",
           "language_id": "3",
-          "favourite_count": "176",
+          "favourite_count": "186",
           "rating": "8.49091",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "19540",
+          "playcount": "20413",
           "passcount": "3127",
           "packs": "S1623",
           "max_combo": "677",
@@ -31939,13 +31965,13 @@
           "tags": "shangri-la frontier: crappy game hunter challenges god-tier game shanfro shangri la kalibe chaoticred anime jp en rap pop english japanese hip hop opening chaki zulu",
           "genre_id": "3",
           "language_id": "3",
-          "favourite_count": "176",
+          "favourite_count": "186",
           "rating": "8.49091",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "18694",
+          "playcount": "19306",
           "passcount": "7066",
           "packs": "S1623",
           "max_combo": "531",
@@ -31983,13 +32009,13 @@
           "tags": "shangri-la frontier: crappy game hunter challenges god-tier game shanfro shangri la kalibe chaoticred anime jp en rap pop english japanese hip hop opening chaki zulu",
           "genre_id": "3",
           "language_id": "3",
-          "favourite_count": "176",
+          "favourite_count": "186",
           "rating": "8.49091",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "13096",
+          "playcount": "13447",
           "passcount": "3539",
           "packs": "S1623",
           "max_combo": "608",
@@ -32027,13 +32053,13 @@
           "tags": "shangri-la frontier: crappy game hunter challenges god-tier game shanfro shangri la kalibe chaoticred anime jp en rap pop english japanese hip hop opening chaki zulu",
           "genre_id": "3",
           "language_id": "3",
-          "favourite_count": "176",
+          "favourite_count": "186",
           "rating": "8.49091",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "8911",
+          "playcount": "9433",
           "passcount": "3919",
           "packs": "S1623",
           "max_combo": "367",
@@ -37962,7 +37988,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "186",
+          "playcount": "73985"
         },
         {
           "beatmapset_id": "2116067",
@@ -40334,13 +40362,13 @@
           "tags": "hyper digicore noheart english hip hop hip-hop rap pop hyperpop #noheart azinlen markus- aether_xx",
           "genre_id": "9",
           "language_id": "2",
-          "favourite_count": "82",
+          "favourite_count": "84",
           "rating": "8.68493",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "10252",
+          "playcount": "10594",
           "passcount": "3368",
           "packs": "S1616",
           "max_combo": "369",
@@ -40378,13 +40406,13 @@
           "tags": "hyper digicore noheart english hip hop hip-hop rap pop hyperpop #noheart azinlen markus- aether_xx",
           "genre_id": "9",
           "language_id": "2",
-          "favourite_count": "82",
+          "favourite_count": "84",
           "rating": "8.68493",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "5545",
+          "playcount": "5743",
           "passcount": "2605",
           "packs": "S1616",
           "max_combo": "212",
@@ -40422,13 +40450,13 @@
           "tags": "hyper digicore noheart english hip hop hip-hop rap pop hyperpop #noheart azinlen markus- aether_xx",
           "genre_id": "9",
           "language_id": "2",
-          "favourite_count": "82",
+          "favourite_count": "84",
           "rating": "8.68493",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "18910",
+          "playcount": "19396",
           "passcount": "4682",
           "packs": "S1616",
           "max_combo": "349",
@@ -40466,13 +40494,13 @@
           "tags": "hyper digicore noheart english hip hop hip-hop rap pop hyperpop #noheart azinlen markus- aether_xx",
           "genre_id": "9",
           "language_id": "2",
-          "favourite_count": "82",
+          "favourite_count": "84",
           "rating": "8.68493",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "8569",
+          "playcount": "8731",
           "passcount": "2697",
           "packs": "S1616",
           "max_combo": "313",
@@ -44645,7 +44673,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "84",
+          "playcount": "44464"
         },
         {
           "beatmapset_id": "1948240",
@@ -53585,7 +53615,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "119",
+          "playcount": "12891"
         }
       ],
       "guestDifficulties": [],
@@ -70219,7 +70251,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "112",
+          "playcount": "12431"
         }
       ],
       "guestDifficulties": [],
@@ -75692,7 +75726,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "20",
+          "playcount": "8139"
         },
         {
           "beatmapset_id": "598153",
@@ -75716,7 +75752,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "34",
+          "playcount": "4952"
         }
       ],
       "guestDifficulties": [],
@@ -77004,13 +77042,13 @@
           "tags": "electronic instrumental korean frenchcore hardcore techno jcore j-core tano*c megaton kick 3 raikozen styxwater nihil bonrai",
           "genre_id": "10",
           "language_id": "6",
-          "favourite_count": "84",
+          "favourite_count": "89",
           "rating": "10",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "4078",
+          "playcount": "4825",
           "passcount": "266",
           "packs": "LR108",
           "max_combo": "2233",
@@ -77092,13 +77130,13 @@
           "tags": "immersion drum and bass dnb electronic english full version ver single rob swire watercolor raikozen styxwater nihil",
           "genre_id": "10",
           "language_id": "2",
-          "favourite_count": "172",
+          "favourite_count": "177",
           "rating": "7.32692",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "13834",
+          "playcount": "14302",
           "passcount": "2368",
           "packs": "S1619",
           "max_combo": "2178",
@@ -77136,13 +77174,13 @@
           "tags": "drum and bass d&b dnb indie rock alternative metal electronic english immersion warner music uk earstorm tech technical slider album version hsv raikozen styxwater",
           "genre_id": "10",
           "language_id": "2",
-          "favourite_count": "140",
+          "favourite_count": "141",
           "rating": "8.70968",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "13285",
+          "playcount": "13645",
           "passcount": "1411",
           "packs": "LR32",
           "max_combo": "1806",
@@ -77915,7 +77953,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "89",
+          "playcount": "4825"
         },
         {
           "beatmapset_id": "1124943",
@@ -77949,7 +77989,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "177",
+          "playcount": "14302"
         },
         {
           "beatmapset_id": "1029095",
@@ -77966,7 +78008,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "141",
+          "playcount": "13645"
         },
         {
           "beatmapset_id": "468937",

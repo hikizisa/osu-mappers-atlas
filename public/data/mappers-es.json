@@ -14131,7 +14131,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "94",
+          "playcount": "11569"
         },
         {
           "beatmapset_id": "2307373",
@@ -14148,7 +14150,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "25",
+          "playcount": "2431"
         },
         {
           "beatmapset_id": "2391605",
@@ -14165,7 +14169,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "10",
+          "playcount": "1180"
         },
         {
           "beatmapset_id": "2257724",
@@ -14196,7 +14202,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "122",
+          "playcount": "8499"
         },
         {
           "beatmapset_id": "2373397",
@@ -14255,7 +14263,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "32",
+          "playcount": "6444"
         },
         {
           "beatmapset_id": "2288016",
@@ -14314,7 +14324,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "165",
+          "playcount": "13347"
         },
         {
           "beatmapset_id": "526175",
@@ -14331,7 +14343,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "17",
+          "playcount": "680"
         },
         {
           "beatmapset_id": "2414119",
@@ -14369,7 +14383,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "93",
+          "playcount": "7429"
         },
         {
           "beatmapset_id": "2098434",
@@ -14428,7 +14444,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "42",
+          "playcount": "8020"
         },
         {
           "beatmapset_id": "2416478",
@@ -14459,7 +14477,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "50",
+          "playcount": "4074"
         },
         {
           "beatmapset_id": "1003938",
@@ -14497,7 +14517,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "35",
+          "playcount": "1119"
         }
       ],
       "guestDifficulties": [],
@@ -22755,13 +22777,13 @@
           "tags": "speed sped up version english pop every girl is capable of murder amats kuroame dopaminos ninelchanyt -koyomi armada fuxi fuxi66 pika tylerderp my angel ram my_angel_ram -azumi nymphe reform kujinn",
           "genre_id": "5",
           "language_id": "2",
-          "favourite_count": "1120",
+          "favourite_count": "1196",
           "rating": "8.7624",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "32077",
+          "playcount": "34012",
           "passcount": "13325",
           "packs": "S1650",
           "max_combo": "199",
@@ -22799,13 +22821,13 @@
           "tags": "speed sped up version english pop every girl is capable of murder amats kuroame dopaminos ninelchanyt -koyomi armada fuxi fuxi66 pika tylerderp my angel ram my_angel_ram -azumi nymphe reform kujinn",
           "genre_id": "5",
           "language_id": "2",
-          "favourite_count": "1120",
+          "favourite_count": "1196",
           "rating": "8.7624",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "450478",
+          "playcount": "477055",
           "passcount": "112165",
           "packs": "S1650",
           "max_combo": "292",
@@ -22843,13 +22865,13 @@
           "tags": "speed sped up version english pop every girl is capable of murder amats kuroame dopaminos ninelchanyt -koyomi armada fuxi fuxi66 pika tylerderp my angel ram my_angel_ram -azumi nymphe reform kujinn",
           "genre_id": "5",
           "language_id": "2",
-          "favourite_count": "1120",
+          "favourite_count": "1196",
           "rating": "8.7624",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "262153",
+          "playcount": "278056",
           "passcount": "69318",
           "packs": "S1650",
           "max_combo": "297",
@@ -22887,13 +22909,13 @@
           "tags": "speed sped up version english pop every girl is capable of murder amats kuroame dopaminos ninelchanyt -koyomi armada fuxi fuxi66 pika tylerderp my angel ram my_angel_ram -azumi nymphe reform kujinn",
           "genre_id": "5",
           "language_id": "2",
-          "favourite_count": "1120",
+          "favourite_count": "1196",
           "rating": "8.7624",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "440164",
+          "playcount": "455266",
           "passcount": "105018",
           "packs": "S1650",
           "max_combo": "251",
@@ -22931,13 +22953,13 @@
           "tags": "speed sped up version english pop every girl is capable of murder amats kuroame dopaminos ninelchanyt -koyomi armada fuxi fuxi66 pika tylerderp my angel ram my_angel_ram -azumi nymphe reform kujinn",
           "genre_id": "5",
           "language_id": "2",
-          "favourite_count": "1120",
+          "favourite_count": "1196",
           "rating": "8.7624",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "830512",
+          "playcount": "865603",
           "passcount": "214588",
           "packs": "S1650",
           "max_combo": "294",
@@ -22975,13 +22997,13 @@
           "tags": "speed sped up version english pop every girl is capable of murder amats kuroame dopaminos ninelchanyt -koyomi armada fuxi fuxi66 pika tylerderp my angel ram my_angel_ram -azumi nymphe reform kujinn",
           "genre_id": "5",
           "language_id": "2",
-          "favourite_count": "1120",
+          "favourite_count": "1196",
           "rating": "8.7624",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "355519",
+          "playcount": "371350",
           "passcount": "118516",
           "packs": "S1650",
           "max_combo": "287",
@@ -23019,13 +23041,13 @@
           "tags": "speed sped up version english pop every girl is capable of murder amats kuroame dopaminos ninelchanyt -koyomi armada fuxi fuxi66 pika tylerderp my angel ram my_angel_ram -azumi nymphe reform kujinn",
           "genre_id": "5",
           "language_id": "2",
-          "favourite_count": "1120",
+          "favourite_count": "1196",
           "rating": "8.7624",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "181441",
+          "playcount": "194122",
           "passcount": "51070",
           "packs": "S1650",
           "max_combo": "233",
@@ -23063,13 +23085,13 @@
           "tags": "speed sped up version english pop every girl is capable of murder amats kuroame dopaminos ninelchanyt -koyomi armada fuxi fuxi66 pika tylerderp my angel ram my_angel_ram -azumi nymphe reform kujinn",
           "genre_id": "5",
           "language_id": "2",
-          "favourite_count": "1120",
+          "favourite_count": "1196",
           "rating": "8.7624",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "529849",
+          "playcount": "554221",
           "passcount": "125483",
           "packs": "S1650",
           "max_combo": "237",
@@ -23107,13 +23129,13 @@
           "tags": "speed sped up version english pop every girl is capable of murder amats kuroame dopaminos ninelchanyt -koyomi armada fuxi fuxi66 pika tylerderp my angel ram my_angel_ram -azumi nymphe reform kujinn",
           "genre_id": "5",
           "language_id": "2",
-          "favourite_count": "1120",
+          "favourite_count": "1196",
           "rating": "8.7624",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "381187",
+          "playcount": "397549",
           "passcount": "103398",
           "packs": "S1650",
           "max_combo": "281",
@@ -23151,13 +23173,13 @@
           "tags": "speed sped up version english pop every girl is capable of murder amats kuroame dopaminos ninelchanyt -koyomi armada fuxi fuxi66 pika tylerderp my angel ram my_angel_ram -azumi nymphe reform kujinn",
           "genre_id": "5",
           "language_id": "2",
-          "favourite_count": "1120",
+          "favourite_count": "1196",
           "rating": "8.7624",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "359812",
+          "playcount": "375040",
           "passcount": "88779",
           "packs": "S1650",
           "max_combo": "300",
@@ -23195,13 +23217,13 @@
           "tags": "speed sped up version english pop every girl is capable of murder amats kuroame dopaminos ninelchanyt -koyomi armada fuxi fuxi66 pika tylerderp my angel ram my_angel_ram -azumi nymphe reform kujinn",
           "genre_id": "5",
           "language_id": "2",
-          "favourite_count": "1120",
+          "favourite_count": "1196",
           "rating": "8.7624",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "370585",
+          "playcount": "388666",
           "passcount": "96830",
           "packs": "S1650",
           "max_combo": "298",
@@ -23239,13 +23261,13 @@
           "tags": "speed sped up version english pop every girl is capable of murder amats kuroame dopaminos ninelchanyt -koyomi armada fuxi fuxi66 pika tylerderp my angel ram my_angel_ram -azumi nymphe reform kujinn",
           "genre_id": "5",
           "language_id": "2",
-          "favourite_count": "1120",
+          "favourite_count": "1196",
           "rating": "8.7624",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "90964",
+          "playcount": "96418",
           "passcount": "32235",
           "packs": "S1650",
           "max_combo": "274",
@@ -27168,7 +27190,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "1196",
+          "playcount": "4487358"
         },
         {
           "beatmapset_id": "2269930",

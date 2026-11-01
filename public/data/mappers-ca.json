@@ -15022,13 +15022,13 @@
           "tags": "meyrink hbr heaven burns red 麻枝准 テーマソング theme song ヘブバン key visualarts video game japanese pop jpop j-pop wfs 緋染天空 gazelle",
           "genre_id": "2",
           "language_id": "3",
-          "favourite_count": "37",
+          "favourite_count": "38",
           "rating": "9.45833",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "3781",
+          "playcount": "3871",
           "passcount": "578",
           "packs": "S1647",
           "max_combo": "1562",
@@ -15066,13 +15066,13 @@
           "tags": "meyrink hbr heaven burns red 麻枝准 テーマソング theme song ヘブバン key visualarts video game japanese pop jpop j-pop wfs 緋染天空 gazelle",
           "genre_id": "2",
           "language_id": "3",
-          "favourite_count": "37",
+          "favourite_count": "38",
           "rating": "9.45833",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1945",
+          "playcount": "2008",
           "passcount": "606",
           "packs": "S1647",
           "max_combo": "1337",
@@ -15110,13 +15110,13 @@
           "tags": "meyrink hbr heaven burns red 麻枝准 テーマソング theme song ヘブバン key visualarts video game japanese pop jpop j-pop wfs 緋染天空 gazelle",
           "genre_id": "2",
           "language_id": "3",
-          "favourite_count": "37",
+          "favourite_count": "38",
           "rating": "9.45833",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "2845",
+          "playcount": "2971",
           "passcount": "511",
           "packs": "S1647",
           "max_combo": "1558",
@@ -25790,7 +25790,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "38",
+          "playcount": "8850"
         },
         {
           "beatmapset_id": "591232",
@@ -28875,7 +28877,7 @@
           "video": "1",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "14716",
+          "playcount": "14851",
           "passcount": "3471",
           "packs": "S1576",
           "max_combo": "367",
@@ -28919,7 +28921,7 @@
           "video": "1",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "7885",
+          "playcount": "7957",
           "passcount": "2566",
           "packs": "S1576",
           "max_combo": "407",
@@ -28963,7 +28965,7 @@
           "video": "1",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "14635",
+          "playcount": "14824",
           "passcount": "5724",
           "packs": "S1576",
           "max_combo": "364",
@@ -29007,7 +29009,7 @@
           "video": "1",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "3781",
+          "playcount": "3817",
           "passcount": "1767",
           "packs": "S1576",
           "max_combo": "162",
@@ -29051,7 +29053,7 @@
           "video": "1",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "3655",
+          "playcount": "3691",
           "passcount": "1707",
           "packs": "S1576",
           "max_combo": "253",
@@ -29095,7 +29097,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "8812",
+          "playcount": "8956",
           "passcount": "1194",
           "packs": "S1570",
           "max_combo": "953",
@@ -29227,7 +29229,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "6490",
+          "playcount": "6535",
           "passcount": "1206",
           "packs": "S1570",
           "max_combo": "904",
@@ -29271,7 +29273,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "9136",
+          "playcount": "9208",
           "passcount": "1851",
           "packs": "S1570",
           "max_combo": "820",
@@ -36571,7 +36573,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "68",
+          "playcount": "45140"
         },
         {
           "beatmapset_id": "2308863",
@@ -36616,7 +36620,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "37",
+          "playcount": "29507"
         },
         {
           "beatmapset_id": "2181847",
@@ -69820,7 +69826,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1441",
+          "playcount": "1459",
           "passcount": "80",
           "packs": "S1643",
           "max_combo": "1215",
@@ -69864,7 +69870,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1216",
+          "playcount": "1225",
           "passcount": "97",
           "packs": "S1643",
           "max_combo": "1145",
@@ -72524,7 +72530,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "18",
+          "playcount": "3882"
         },
         {
           "beatmapset_id": "1846601",

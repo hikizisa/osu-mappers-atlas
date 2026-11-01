@@ -62,13 +62,13 @@
           "tags": "yuigot 真崎エリカ erica masaki 是 tsukimi ととりか totorika cosmic princess kaguya! cho-kaguya chou hime! movie kaguya-hime cpk japanese pop jpop j-pop electronic anime original soundtrack ost",
           "genre_id": "3",
           "language_id": "3",
-          "favourite_count": "8",
+          "favourite_count": "10",
           "rating": "10",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "158",
+          "playcount": "199",
           "passcount": "23",
           "packs": null,
           "max_combo": "1218",
@@ -508,7 +508,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1765",
+          "playcount": "1837",
           "passcount": "240",
           "packs": "ST323",
           "max_combo": "3178",
@@ -5945,7 +5945,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "10",
+          "playcount": "199"
         },
         {
           "beatmapset_id": "2244840",
@@ -6045,7 +6047,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "22",
+          "playcount": "1837"
         },
         {
           "beatmapset_id": "2188006",
@@ -7452,13 +7456,13 @@
           "tags": "mwc 2025 world cup mwc2025 mwc7k2025 gf grandfinals tb tiebreaker featured artist fa mappers' guild mg mpg u1d ruka blocko _underjoy exneko ludicin critical_star km crewk thefunk binarie ricess zeth z419 sakura006 orchestral dubstep tearout hardcore neurofunk osu! original electronic instrumental",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "506",
+          "favourite_count": "509",
           "rating": "9.4507",
           "storyboard": "1",
           "video": "1",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "7543",
+          "playcount": "7867",
           "passcount": "2495",
           "packs": "P276,SM278,T133",
           "max_combo": "23250",
@@ -7496,13 +7500,13 @@
           "tags": "mwc 2025 world cup mwc2025 mwc7k2025 ro16 round of 16 generic hybrid japanese pop jpop miracle diver kotonaut kawaii critical_star",
           "genre_id": "5",
           "language_id": "3",
-          "favourite_count": "33",
+          "favourite_count": "34",
           "rating": "9.41177",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "4717",
+          "playcount": "4906",
           "passcount": "1289",
           "packs": "P272,SM276",
           "max_combo": "6497",
@@ -7540,13 +7544,13 @@
           "tags": "mwc 2025 world cup mwc2025 mwc7k2025 finals featured artist fa mappers' guild mg mpg electronic instrumental hardcore darkpsy blocko ruka osu! original aoi's odd ideas boolmaster flex krabtown sakura006",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "48",
+          "favourite_count": "47",
           "rating": "9.62712",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "9379",
+          "playcount": "9586",
           "passcount": "2620",
           "packs": "P275,SM273",
           "max_combo": "9750",
@@ -11257,7 +11261,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "509",
+          "playcount": "7867"
         },
         {
           "beatmapset_id": "2310670",
@@ -11274,7 +11280,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "34",
+          "playcount": "4906"
         },
         {
           "beatmapset_id": "2321296",
@@ -11291,7 +11299,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "47",
+          "playcount": "9586"
         },
         {
           "beatmapset_id": "923032",

@@ -63,7 +63,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "766",
+          "playcount": "768",
           "passcount": "167",
           "packs": "S1889",
           "max_combo": "899",
@@ -107,7 +107,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "554",
+          "playcount": "555",
           "passcount": "82",
           "packs": "S1888",
           "max_combo": "1199",
@@ -151,7 +151,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "678",
+          "playcount": "679",
           "passcount": "218",
           "packs": "S1888",
           "max_combo": "1182",
@@ -195,7 +195,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1504",
+          "playcount": "1513",
           "passcount": "414",
           "packs": "S1881",
           "max_combo": "1351",
@@ -547,7 +547,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "9811",
+          "playcount": "9838",
           "passcount": "793",
           "packs": "S1867",
           "max_combo": "2445",
@@ -635,7 +635,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "2611",
+          "playcount": "2620",
           "passcount": "524",
           "packs": "S1833",
           "max_combo": "1513",
@@ -811,7 +811,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "9451",
+          "playcount": "9460",
           "passcount": "717",
           "packs": "S1811",
           "max_combo": "1987",
@@ -899,7 +899,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "8569",
+          "playcount": "8578",
           "passcount": "405",
           "packs": "S1811",
           "max_combo": "2118",
@@ -1955,7 +1955,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "15697",
+          "playcount": "15706",
           "passcount": "1763",
           "packs": "S1755",
           "max_combo": "1531",
@@ -4067,7 +4067,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "17227",
+          "playcount": "17236",
           "passcount": "5132",
           "packs": "S1564",
           "max_combo": "1049",
@@ -4155,7 +4155,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "20107",
+          "playcount": "20116",
           "passcount": "2267",
           "packs": "S1564",
           "max_combo": "971",
@@ -23906,7 +23906,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "47",
+          "playcount": "31261"
         },
         {
           "beatmapset_id": "2261278",
@@ -23958,7 +23960,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "139",
+          "playcount": "78990"
         },
         {
           "beatmapset_id": "2186358",
@@ -23975,7 +23979,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "27",
+          "playcount": "5383"
         },
         {
           "beatmapset_id": "2188281",
@@ -24020,7 +24026,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "46",
+          "playcount": "16844"
         },
         {
           "beatmapset_id": "2253765",
@@ -24051,7 +24059,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "70",
+          "playcount": "20514"
         },
         {
           "beatmapset_id": "2234473",
@@ -24103,7 +24113,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "54",
+          "playcount": "57075"
         },
         {
           "beatmapset_id": "2292772",
@@ -24120,7 +24132,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "36",
+          "playcount": "5878"
         },
         {
           "beatmapset_id": "2281722",
@@ -24179,7 +24193,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "153",
+          "playcount": "98899"
         },
         {
           "beatmapset_id": "2307730",
@@ -24196,7 +24212,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "39",
+          "playcount": "12043"
         },
         {
           "beatmapset_id": "2313591",
@@ -24234,7 +24252,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "69",
+          "playcount": "16321"
         },
         {
           "beatmapset_id": "2321237",
@@ -24251,7 +24271,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "50",
+          "playcount": "9667"
         },
         {
           "beatmapset_id": "2358456",
@@ -24282,7 +24304,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "74",
+          "playcount": "19740"
         },
         {
           "beatmapset_id": "2301898",
@@ -24299,7 +24323,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "48",
+          "playcount": "1810"
         },
         {
           "beatmapset_id": "2238611",
@@ -24344,7 +24370,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "96",
+          "playcount": "64598"
         },
         {
           "beatmapset_id": "2403674",
@@ -24361,7 +24389,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "59",
+          "playcount": "11998"
         },
         {
           "beatmapset_id": "2424055",
@@ -24399,7 +24429,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "15",
+          "playcount": "7717"
         },
         {
           "beatmapset_id": "2449099",
@@ -24416,7 +24448,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "11",
+          "playcount": "2971"
         },
         {
           "beatmapset_id": "2482036",
@@ -24447,7 +24481,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "113",
+          "playcount": "42843"
         },
         {
           "beatmapset_id": "2507014",
@@ -24485,7 +24521,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "44",
+          "playcount": "22423"
         },
         {
           "beatmapset_id": "2505483",
@@ -24502,7 +24540,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "62",
+          "playcount": "6643"
         },
         {
           "beatmapset_id": "2519180",
@@ -24519,7 +24559,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "39",
+          "playcount": "2863"
         },
         {
           "beatmapset_id": "2449934",
@@ -24571,7 +24613,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "141",
+          "playcount": "52386"
         },
         {
           "beatmapset_id": "2498864",
@@ -24595,7 +24639,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "48",
+          "playcount": "8882"
         },
         {
           "beatmapset_id": "2533384",
@@ -24626,7 +24672,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "96",
+          "playcount": "19902"
         },
         {
           "beatmapset_id": "2521025",
@@ -24678,7 +24726,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "72",
+          "playcount": "24999"
         },
         {
           "beatmapset_id": "2336986",
@@ -24709,7 +24759,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "79",
+          "playcount": "28353"
         },
         {
           "beatmapset_id": "2559378",
@@ -24733,7 +24785,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "52",
+          "playcount": "6132"
         },
         {
           "beatmapset_id": "2563599",
@@ -24757,7 +24811,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "16",
+          "playcount": "4358"
         },
         {
           "beatmapset_id": "2580326",
@@ -24774,7 +24830,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "59",
+          "playcount": "4069"
         },
         {
           "beatmapset_id": "2234472",
@@ -24791,7 +24849,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "127",
+          "playcount": "9838"
         },
         {
           "beatmapset_id": "2467986",
@@ -24850,7 +24910,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "44",
+          "playcount": "9413"
         },
         {
           "beatmapset_id": "2616939",
@@ -24867,7 +24929,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "23",
+          "playcount": "1513"
         },
         {
           "beatmapset_id": "2524924",
@@ -24891,7 +24955,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "19",
+          "playcount": "1234"
         },
         {
           "beatmapset_id": "2621700",
@@ -24908,7 +24974,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "15",
+          "playcount": "768"
         }
       ],
       "guestDifficulties": [],
@@ -49817,13 +49885,13 @@
           "tags": "-_inui_toko_- - inui toko - by-ad zun のみこ masayoshi minoshima マサヨシ ミノシマ toho touhou 東方project 幻想郷 stage 3 theme gensoukyou fruits vocal japanese electronic video game arcd0087 rebirthed サイン入り haruka dai takano",
           "genre_id": "10",
           "language_id": "3",
-          "favourite_count": "410",
+          "favourite_count": "429",
           "rating": "9.22222",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "39916",
+          "playcount": "41932",
           "passcount": "9414",
           "packs": "SM296",
           "max_combo": "3844",
@@ -49861,13 +49929,13 @@
           "tags": "-_inui_toko_- - inui toko - by-ad zun のみこ masayoshi minoshima マサヨシ ミノシマ toho touhou 東方project 幻想郷 stage 3 theme gensoukyou fruits vocal japanese electronic video game arcd0087 rebirthed サイン入り haruka dai takano",
           "genre_id": "10",
           "language_id": "3",
-          "favourite_count": "410",
+          "favourite_count": "429",
           "rating": "9.22222",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "29251",
+          "playcount": "31006",
           "passcount": "5623",
           "packs": "SM296",
           "max_combo": "4318",
@@ -49905,13 +49973,13 @@
           "tags": "-_inui_toko_- - inui toko - by-ad zun のみこ masayoshi minoshima マサヨシ ミノシマ toho touhou 東方project 幻想郷 stage 3 theme gensoukyou fruits vocal japanese electronic video game arcd0087 rebirthed サイン入り haruka dai takano",
           "genre_id": "10",
           "language_id": "3",
-          "favourite_count": "410",
+          "favourite_count": "429",
           "rating": "9.22222",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "38152",
+          "playcount": "40267",
           "passcount": "11520",
           "packs": "SM296",
           "max_combo": "3068",
@@ -49949,13 +50017,13 @@
           "tags": "reinterpretation after 10 years ten electronic instrumental epic trancecore azaka bms bof2012",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "325",
+          "favourite_count": "340",
           "rating": "9.44385",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "25138",
+          "playcount": "26326",
           "passcount": "9993",
           "packs": "SM294",
           "max_combo": "1809",
@@ -49993,13 +50061,13 @@
           "tags": "reinterpretation after 10 years ten electronic instrumental epic trancecore azaka bms bof2012",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "325",
+          "favourite_count": "340",
           "rating": "9.44385",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "26704",
+          "playcount": "27829",
           "passcount": "9826",
           "packs": "SM294",
           "max_combo": "1838",
@@ -50037,13 +50105,13 @@
           "tags": "reinterpretation after 10 years ten electronic instrumental epic trancecore azaka bms bof2012",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "325",
+          "favourite_count": "340",
           "rating": "9.44385",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "32347",
+          "playcount": "33400",
           "passcount": "10923",
           "packs": "SM294",
           "max_combo": "1549",
@@ -50081,13 +50149,13 @@
           "tags": "reinterpretation after 10 years ten electronic instrumental epic trancecore azaka bms bof2012",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "325",
+          "favourite_count": "340",
           "rating": "9.44385",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "14644",
+          "playcount": "15049",
           "passcount": "6834",
           "packs": "SM294",
           "max_combo": "1178",
@@ -50125,13 +50193,13 @@
           "tags": "reinterpretation after 10 years ten electronic instrumental epic trancecore azaka bms bof2012",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "325",
+          "favourite_count": "340",
           "rating": "9.44385",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "3457",
+          "playcount": "3547",
           "passcount": "1762",
           "packs": "SM294",
           "max_combo": "731",
@@ -50169,13 +50237,13 @@
           "tags": "zun 上海アリス幻樂団 team shanghai alice touhou shinreibyou デザイアドライブ desire drive アレンジ arrange tits fuck hardcore techno electronic instrumental fa featured artist mg mappers' guild",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "353",
+          "favourite_count": "370",
           "rating": "9.25121",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "22834",
+          "playcount": "24112",
           "passcount": "8621",
           "packs": "FM27,SM290",
           "max_combo": "2182",
@@ -50213,13 +50281,13 @@
           "tags": "zun 上海アリス幻樂団 team shanghai alice touhou shinreibyou デザイアドライブ desire drive アレンジ arrange tits fuck hardcore techno electronic instrumental fa featured artist mg mappers' guild",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "353",
+          "favourite_count": "370",
           "rating": "9.25121",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "24436",
+          "playcount": "25660",
           "passcount": "8718",
           "packs": "FM27,SM290",
           "max_combo": "1923",
@@ -50257,13 +50325,13 @@
           "tags": "zun 上海アリス幻樂団 team shanghai alice touhou shinreibyou デザイアドライブ desire drive アレンジ arrange tits fuck hardcore techno electronic instrumental fa featured artist mg mappers' guild",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "353",
+          "favourite_count": "370",
           "rating": "9.25121",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "33130",
+          "playcount": "34507",
           "passcount": "13733",
           "packs": "FM27,SM290",
           "max_combo": "1536",
@@ -50301,13 +50369,13 @@
           "tags": "zun 上海アリス幻樂団 team shanghai alice touhou shinreibyou デザイアドライブ desire drive アレンジ arrange tits fuck hardcore techno electronic instrumental fa featured artist mg mappers' guild",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "353",
+          "favourite_count": "370",
           "rating": "9.25121",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "16678",
+          "playcount": "17380",
           "passcount": "7762",
           "packs": "FM27,SM290",
           "max_combo": "1145",
@@ -50345,13 +50413,13 @@
           "tags": "zun 上海アリス幻樂団 team shanghai alice touhou shinreibyou デザイアドライブ desire drive アレンジ arrange tits fuck hardcore techno electronic instrumental fa featured artist mg mappers' guild",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "353",
+          "favourite_count": "370",
           "rating": "9.25121",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "3709",
+          "playcount": "3871",
           "passcount": "1901",
           "packs": "FM27,SM290",
           "max_combo": "756",
@@ -50389,13 +50457,13 @@
           "tags": "syadow- zun toho touhou 7 chen theme featured artist fa mappers' guild mg the fantastic legend of tohno youyoumu th7 東方project 上海アリス幻樂団 team shanghai alice hardcore j-core electronic instrumental floor落選供養 rakusen kuyou 東方幻鍵音 lotus groove genkenon",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "286",
+          "favourite_count": "293",
           "rating": "9.26042",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "26992",
+          "playcount": "28063",
           "passcount": "13589",
           "packs": "SM276",
           "max_combo": "1198",
@@ -50433,13 +50501,13 @@
           "tags": "syadow- zun toho touhou 7 chen theme featured artist fa mappers' guild mg the fantastic legend of tohno youyoumu th7 東方project 上海アリス幻樂団 team shanghai alice hardcore j-core electronic instrumental floor落選供養 rakusen kuyou 東方幻鍵音 lotus groove genkenon",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "286",
+          "favourite_count": "293",
           "rating": "9.26042",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "33040",
+          "playcount": "34363",
           "passcount": "13780",
           "packs": "SM276",
           "max_combo": "1569",
@@ -50477,13 +50545,13 @@
           "tags": "syadow- zun toho touhou 7 chen theme featured artist fa mappers' guild mg the fantastic legend of tohno youyoumu th7 東方project 上海アリス幻樂団 team shanghai alice hardcore j-core electronic instrumental floor落選供養 rakusen kuyou 東方幻鍵音 lotus groove genkenon",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "286",
+          "favourite_count": "293",
           "rating": "9.26042",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "11197",
+          "playcount": "11566",
           "passcount": "5798",
           "packs": "SM276",
           "max_combo": "884",
@@ -50521,13 +50589,13 @@
           "tags": "syadow- zun toho touhou 7 chen theme featured artist fa mappers' guild mg the fantastic legend of tohno youyoumu th7 東方project 上海アリス幻樂団 team shanghai alice hardcore j-core electronic instrumental floor落選供養 rakusen kuyou 東方幻鍵音 lotus groove genkenon",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "286",
+          "favourite_count": "293",
           "rating": "9.26042",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "28216",
+          "playcount": "29746",
           "passcount": "11590",
           "packs": "SM276",
           "max_combo": "1826",
@@ -50565,13 +50633,13 @@
           "tags": "syadow- zun toho touhou 7 chen theme featured artist fa mappers' guild mg the fantastic legend of tohno youyoumu th7 東方project 上海アリス幻樂団 team shanghai alice hardcore j-core electronic instrumental floor落選供養 rakusen kuyou 東方幻鍵音 lotus groove genkenon",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "286",
+          "favourite_count": "293",
           "rating": "9.26042",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "4384",
+          "playcount": "4555",
           "passcount": "2117",
           "packs": "SM276",
           "max_combo": "682",
@@ -50609,13 +50677,13 @@
           "tags": "initial d zun junya ota oota 太田順也 touhou toho 18 東方project th18 kitten of great fortune 大吉キトゥン fortunate kitten taku stage 1 boss mike godoukuji goutokuji 豪徳寺 ミケ ごうとくじ みけ theme maneki-neko neko danmaku electronic instrumental video game doujin cat meow sv slider velocity",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "80",
+          "favourite_count": "82",
           "rating": "9.01333",
           "storyboard": "1",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "2494",
+          "playcount": "2530",
           "passcount": "1205",
           "packs": "SM273",
           "max_combo": "842",
@@ -50653,13 +50721,13 @@
           "tags": "initial d zun junya ota oota 太田順也 touhou toho 18 東方project th18 kitten of great fortune 大吉キトゥン fortunate kitten taku stage 1 boss mike godoukuji goutokuji 豪徳寺 ミケ ごうとくじ みけ theme maneki-neko neko danmaku electronic instrumental video game doujin cat meow sv slider velocity",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "80",
+          "favourite_count": "82",
           "rating": "9.01333",
           "storyboard": "1",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "10675",
+          "playcount": "10828",
           "passcount": "3817",
           "packs": "SM273",
           "max_combo": "1675",
@@ -50697,13 +50765,13 @@
           "tags": "initial d zun junya ota oota 太田順也 touhou toho 18 東方project th18 kitten of great fortune 大吉キトゥン fortunate kitten taku stage 1 boss mike godoukuji goutokuji 豪徳寺 ミケ ごうとくじ みけ theme maneki-neko neko danmaku electronic instrumental video game doujin cat meow sv slider velocity",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "80",
+          "favourite_count": "82",
           "rating": "9.01333",
           "storyboard": "1",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "8911",
+          "playcount": "9208",
           "passcount": "2914",
           "packs": "SM273",
           "max_combo": "1995",
@@ -50741,13 +50809,13 @@
           "tags": "initial d zun junya ota oota 太田順也 touhou toho 18 東方project th18 kitten of great fortune 大吉キトゥン fortunate kitten taku stage 1 boss mike godoukuji goutokuji 豪徳寺 ミケ ごうとくじ みけ theme maneki-neko neko danmaku electronic instrumental video game doujin cat meow sv slider velocity",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "80",
+          "favourite_count": "82",
           "rating": "9.01333",
           "storyboard": "1",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "7174",
+          "playcount": "7264",
           "passcount": "3312",
           "packs": "SM273",
           "max_combo": "1117",
@@ -62289,7 +62357,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "429",
+          "playcount": "113205"
         },
         {
           "beatmapset_id": "1931812",
@@ -62334,7 +62404,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "340",
+          "playcount": "106151"
         },
         {
           "beatmapset_id": "2320547",
@@ -62379,7 +62451,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "370",
+          "playcount": "105530"
         },
         {
           "beatmapset_id": "2308571",
@@ -62424,7 +62498,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "293",
+          "playcount": "108293"
         },
         {
           "beatmapset_id": "1461937",
@@ -62462,7 +62538,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "82",
+          "playcount": "29830"
         },
         {
           "beatmapset_id": "2214814",
@@ -66838,7 +66916,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "16264",
+          "playcount": "16273",
           "passcount": "8220",
           "packs": "SM286",
           "max_combo": "2568",
@@ -78956,7 +79034,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "96",
+          "playcount": "10551"
         },
         {
           "beatmapset_id": "2289421",
@@ -78994,7 +79074,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "18",
+          "playcount": "9976"
         },
         {
           "beatmapset_id": "2309188",
@@ -79032,7 +79114,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "64",
+          "playcount": "14269"
         },
         {
           "beatmapset_id": "2318667",
@@ -79084,7 +79168,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "79",
+          "playcount": "12084"
         },
         {
           "beatmapset_id": "2328700",
@@ -79101,7 +79187,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "35",
+          "playcount": "1864"
         },
         {
           "beatmapset_id": "2277758",
@@ -79237,7 +79325,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "137",
+          "playcount": "43199"
         },
         {
           "beatmapset_id": "1879397",
@@ -79282,7 +79372,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "169",
+          "playcount": "47534"
         },
         {
           "beatmapset_id": "2421326",
@@ -79299,7 +79391,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "15",
+          "playcount": "1522"
         },
         {
           "beatmapset_id": "2435074",
@@ -79337,7 +79431,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "78",
+          "playcount": "12541"
         },
         {
           "beatmapset_id": "2384836",
@@ -79480,7 +79576,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "66",
+          "playcount": "26685"
         },
         {
           "beatmapset_id": "2384832",
@@ -79518,7 +79616,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "46",
+          "playcount": "8266"
         },
         {
           "beatmapset_id": "2481633",
@@ -79556,7 +79656,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "40",
+          "playcount": "6163"
         },
         {
           "beatmapset_id": "2487799",
@@ -79594,7 +79696,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "79",
+          "playcount": "21001"
         },
         {
           "beatmapset_id": "2349761",
@@ -79625,7 +79729,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "38",
+          "playcount": "2721"
         },
         {
           "beatmapset_id": "2495115",
@@ -79642,7 +79748,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "35",
+          "playcount": "3007"
         }
       ],
       "guestDifficulties": [],
@@ -94288,7 +94396,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "28",
+          "playcount": "29812"
         },
         {
           "beatmapset_id": "2295264",
@@ -94319,7 +94429,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "24",
+          "playcount": "16149"
         },
         {
           "beatmapset_id": "2279410",
@@ -94336,7 +94448,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "30",
+          "playcount": "8308"
         },
         {
           "beatmapset_id": "2299109",
@@ -94367,7 +94481,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "42",
+          "playcount": "20424"
         },
         {
           "beatmapset_id": "2346080",
@@ -94405,7 +94521,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "37",
+          "playcount": "24214"
         },
         {
           "beatmapset_id": "1985103",
@@ -94436,7 +94554,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "24",
+          "playcount": "10992"
         },
         {
           "beatmapset_id": "2400865",
@@ -94474,7 +94594,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "62",
+          "playcount": "26266"
         }
       ],
       "guestDifficulties": [],
@@ -108991,7 +109113,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "27",
+          "playcount": "11774"
         },
         {
           "beatmapset_id": "2239324",
@@ -109015,7 +109139,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "216",
+          "playcount": "120461"
         }
       ],
       "guestDifficulties": [],
@@ -132482,7 +132608,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "19",
+          "playcount": "6795"
         },
         {
           "beatmapset_id": "586493",
@@ -132499,7 +132627,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "36",
+          "playcount": "353"
         },
         {
           "beatmapset_id": "2352141",
@@ -132530,7 +132660,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "10",
+          "playcount": "1017"
         }
       ],
       "guestDifficulties": [],
@@ -143275,7 +143407,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "110",
+          "playcount": "69872"
         },
         {
           "beatmapset_id": "2220848",
@@ -143313,7 +143447,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "18",
+          "playcount": "16393"
         },
         {
           "beatmapset_id": "2414830",
@@ -143358,7 +143494,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "251",
+          "playcount": "101723"
         },
         {
           "beatmapset_id": "2338521",
@@ -143410,7 +143548,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "264",
+          "playcount": "61089"
         }
       ],
       "guestDifficulties": [],
@@ -143471,13 +143611,13 @@
           "tags": "aks0042 2008 ports of lima ade firza paloh awan garnida ramondo mondo gascaro reza dwi putranto bemby gusti pramudya dono firman aksara records indonesia indonesian jazz fusion lounge indie rock chamber pop psychedelic anime girl anime_girl jungkyuyoung natsume shiki natsume_shiki scub domino [keqing] 8972308 rho smh choke enough 1629553 supav 19511007 4:30 430 4.30 four thirty empat half past to five and live again mati suri di taman jakarta selatan senayan near death experience at the park ernestito uzilite owc owc2023 ro32 fm2 freemod round",
           "genre_id": "4",
           "language_id": "14",
-          "favourite_count": "93",
+          "favourite_count": "103",
           "rating": "8.41177",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "3655",
+          "playcount": "8425",
           "passcount": "587",
           "packs": "P226,R339,S1621",
           "max_combo": "1417",
@@ -143515,13 +143655,13 @@
           "tags": "aks0042 2008 ports of lima ade firza paloh awan garnida ramondo mondo gascaro reza dwi putranto bemby gusti pramudya dono firman aksara records indonesia indonesian jazz fusion lounge indie rock chamber pop psychedelic anime girl anime_girl jungkyuyoung natsume shiki natsume_shiki scub domino [keqing] 8972308 rho smh choke enough 1629553 supav 19511007 4:30 430 4.30 four thirty empat half past to five and live again mati suri di taman jakarta selatan senayan near death experience at the park ernestito uzilite owc owc2023 ro32 fm2 freemod round",
           "genre_id": "4",
           "language_id": "14",
-          "favourite_count": "93",
+          "favourite_count": "103",
           "rating": "8.41177",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "2386",
+          "playcount": "2989",
           "passcount": "482",
           "packs": "P226,R339,S1621",
           "max_combo": "1383",
@@ -143559,13 +143699,13 @@
           "tags": "aks0042 2008 ports of lima ade firza paloh awan garnida ramondo mondo gascaro reza dwi putranto bemby gusti pramudya dono firman aksara records indonesia indonesian jazz fusion lounge indie rock chamber pop psychedelic anime girl anime_girl jungkyuyoung natsume shiki natsume_shiki scub domino [keqing] 8972308 rho smh choke enough 1629553 supav 19511007 4:30 430 4.30 four thirty empat half past to five and live again mati suri di taman jakarta selatan senayan near death experience at the park ernestito uzilite owc owc2023 ro32 fm2 freemod round",
           "genre_id": "4",
           "language_id": "14",
-          "favourite_count": "93",
+          "favourite_count": "103",
           "rating": "8.41177",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1180",
+          "playcount": "2197",
           "passcount": "323",
           "packs": "P226,R339,S1621",
           "max_combo": "1143",
@@ -143603,13 +143743,13 @@
           "tags": "genkai! chouchijou file darkside mystery frontier works fccv-0034 inc. nhk bs premium プレミアム theme song 主題歌 knightc0re knightcore demonknight000 7894340 hinsvar 1249323 frozz -keqing 7891266 aeril gunner234 4334976 conlang world music folk neoclassical darkwave constructed language polyphonic chant choral japanese female vocalist vocals",
           "genre_id": "13",
           "language_id": "14",
-          "favourite_count": "29",
+          "favourite_count": "28",
           "rating": "8.56667",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "3916",
+          "playcount": "4141",
           "passcount": "1031",
           "packs": "S1620",
           "max_combo": "1147",
@@ -143647,13 +143787,13 @@
           "tags": "genkai! chouchijou file darkside mystery frontier works fccv-0034 inc. nhk bs premium プレミアム theme song 主題歌 knightc0re knightcore demonknight000 7894340 hinsvar 1249323 frozz -keqing 7891266 aeril gunner234 4334976 conlang world music folk neoclassical darkwave constructed language polyphonic chant choral japanese female vocalist vocals",
           "genre_id": "13",
           "language_id": "14",
-          "favourite_count": "29",
+          "favourite_count": "28",
           "rating": "8.56667",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1468",
+          "playcount": "1495",
           "passcount": "296",
           "packs": "S1620",
           "max_combo": "1113",
@@ -143691,13 +143831,13 @@
           "tags": "genkai! chouchijou file darkside mystery frontier works fccv-0034 inc. nhk bs premium プレミアム theme song 主題歌 knightc0re knightcore demonknight000 7894340 hinsvar 1249323 frozz -keqing 7891266 aeril gunner234 4334976 conlang world music folk neoclassical darkwave constructed language polyphonic chant choral japanese female vocalist vocals",
           "genre_id": "13",
           "language_id": "14",
-          "favourite_count": "29",
+          "favourite_count": "28",
           "rating": "8.56667",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "846",
+          "playcount": "874",
           "passcount": "213",
           "packs": "S1620",
           "max_combo": "699",
@@ -143735,13 +143875,13 @@
           "tags": "genkai! chouchijou file darkside mystery frontier works fccv-0034 inc. nhk bs premium プレミアム theme song 主題歌 knightc0re knightcore demonknight000 7894340 hinsvar 1249323 frozz -keqing 7891266 aeril gunner234 4334976 conlang world music folk neoclassical darkwave constructed language polyphonic chant choral japanese female vocalist vocals",
           "genre_id": "13",
           "language_id": "14",
-          "favourite_count": "29",
+          "favourite_count": "28",
           "rating": "8.56667",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1090",
+          "playcount": "1108",
           "passcount": "307",
           "packs": "S1620",
           "max_combo": "713",
@@ -143779,13 +143919,13 @@
           "tags": "genkai! chouchijou file darkside mystery frontier works fccv-0034 inc. nhk bs premium プレミアム theme song 主題歌 knightc0re knightcore demonknight000 7894340 hinsvar 1249323 frozz -keqing 7891266 aeril gunner234 4334976 conlang world music folk neoclassical darkwave constructed language polyphonic chant choral japanese female vocalist vocals",
           "genre_id": "13",
           "language_id": "14",
-          "favourite_count": "29",
+          "favourite_count": "28",
           "rating": "8.56667",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "655",
+          "playcount": "659",
           "passcount": "291",
           "packs": "S1620",
           "max_combo": "498",
@@ -143823,13 +143963,13 @@
           "tags": "genkai! chouchijou file darkside mystery frontier works fccv-0034 inc. nhk bs premium プレミアム theme song 主題歌 knightc0re knightcore demonknight000 7894340 hinsvar 1249323 frozz -keqing 7891266 aeril gunner234 4334976 conlang world music folk neoclassical darkwave constructed language polyphonic chant choral japanese female vocalist vocals",
           "genre_id": "13",
           "language_id": "14",
-          "favourite_count": "29",
+          "favourite_count": "28",
           "rating": "8.56667",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1954",
+          "playcount": "2044",
           "passcount": "462",
           "packs": "S1620",
           "max_combo": "1054",
@@ -143867,13 +144007,13 @@
           "tags": "waves in the mirror houseki no kuni land of lustrous opening op thcs-60168 thca-60169 toho records animation j-pop jpop japanese math pop jazz polyrhythmic electronic 照井順政 yoshimasa terui 徳澤 青弦 seigen tokuzawa 樋口 幸佑 kosuke higuchi 小島 康太郎 kotaro kojima anime girl anime_girl jungkyuyoung natsume shiki natsume_shiki scub domino [keqing] 8972308 tonogamikun indonesian_btmc hederpy 15381937 venerablenyanta 12243368 kourouduqi kuroduki @お仕事募集中 kurodukimajaja pieat 摳肉肚臍",
           "genre_id": "3",
           "language_id": "3",
-          "favourite_count": "104",
+          "favourite_count": "106",
           "rating": "8.8",
           "storyboard": "1",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "5518",
+          "playcount": "5707",
           "passcount": "1221",
           "packs": "S1582",
           "max_combo": "1212",
@@ -143911,13 +144051,13 @@
           "tags": "waves in the mirror houseki no kuni land of lustrous opening op thcs-60168 thca-60169 toho records animation j-pop jpop japanese math pop jazz polyrhythmic electronic 照井順政 yoshimasa terui 徳澤 青弦 seigen tokuzawa 樋口 幸佑 kosuke higuchi 小島 康太郎 kotaro kojima anime girl anime_girl jungkyuyoung natsume shiki natsume_shiki scub domino [keqing] 8972308 tonogamikun indonesian_btmc hederpy 15381937 venerablenyanta 12243368 kourouduqi kuroduki @お仕事募集中 kurodukimajaja pieat 摳肉肚臍",
           "genre_id": "3",
           "language_id": "3",
-          "favourite_count": "104",
+          "favourite_count": "106",
           "rating": "8.8",
           "storyboard": "1",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "5581",
+          "playcount": "5671",
           "passcount": "1590",
           "packs": "S1582",
           "max_combo": "1218",
@@ -143955,13 +144095,13 @@
           "tags": "mr. morale & the big steppers mmatbs mm&tbs sounwave mark m. anthony spears jahaan akil sweet hykeem carter baby keem boi-1da duckworth k dot k-dot k.dot oklama sam dew matt schaeffer matthew samuels english west coast hip-hop rap hip hop compton conscious hiphop trap natsume shiki anime girl natsume_shiki anime_girl domino scubdomino scub_domino jungkyuyoung [keqing] 8972308 supav 19511007 paka workinggears 6646204 cyndifusic kataryn 19044162 destiny gd _destiny 16345483 dave free pglang and dt3 corsace closed cc 2023 cc23 sf semifinals",
           "genre_id": "9",
           "language_id": "2",
-          "favourite_count": "116",
+          "favourite_count": "117",
           "rating": "8.30159",
           "storyboard": "1",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "7372",
+          "playcount": "7597",
           "passcount": "900",
           "packs": "S1559",
           "max_combo": "1023",
@@ -143999,13 +144139,13 @@
           "tags": "mr. morale & the big steppers mmatbs mm&tbs sounwave mark m. anthony spears jahaan akil sweet hykeem carter baby keem boi-1da duckworth k dot k-dot k.dot oklama sam dew matt schaeffer matthew samuels english west coast hip-hop rap hip hop compton conscious hiphop trap natsume shiki anime girl natsume_shiki anime_girl domino scubdomino scub_domino jungkyuyoung [keqing] 8972308 supav 19511007 paka workinggears 6646204 cyndifusic kataryn 19044162 destiny gd _destiny 16345483 dave free pglang and dt3 corsace closed cc 2023 cc23 sf semifinals",
           "genre_id": "9",
           "language_id": "2",
-          "favourite_count": "116",
+          "favourite_count": "117",
           "rating": "8.30159",
           "storyboard": "1",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "3565",
+          "playcount": "3691",
           "passcount": "366",
           "packs": "S1559",
           "max_combo": "771",
@@ -144043,13 +144183,13 @@
           "tags": "mr. morale & the big steppers mmatbs mm&tbs sounwave mark m. anthony spears jahaan akil sweet hykeem carter baby keem boi-1da duckworth k dot k-dot k.dot oklama sam dew matt schaeffer matthew samuels english west coast hip-hop rap hip hop compton conscious hiphop trap natsume shiki anime girl natsume_shiki anime_girl domino scubdomino scub_domino jungkyuyoung [keqing] 8972308 supav 19511007 paka workinggears 6646204 cyndifusic kataryn 19044162 destiny gd _destiny 16345483 dave free pglang and dt3 corsace closed cc 2023 cc23 sf semifinals",
           "genre_id": "9",
           "language_id": "2",
-          "favourite_count": "116",
+          "favourite_count": "117",
           "rating": "8.30159",
           "storyboard": "1",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "7489",
+          "playcount": "7705",
           "passcount": "2500",
           "packs": "S1559",
           "max_combo": "783",
@@ -144087,13 +144227,13 @@
           "tags": "mr. morale & the big steppers mmatbs mm&tbs sounwave mark m. anthony spears jahaan akil sweet hykeem carter baby keem boi-1da duckworth k dot k-dot k.dot oklama sam dew matt schaeffer matthew samuels english west coast hip-hop rap hip hop compton conscious hiphop trap natsume shiki anime girl natsume_shiki anime_girl domino scubdomino scub_domino jungkyuyoung [keqing] 8972308 supav 19511007 paka workinggears 6646204 cyndifusic kataryn 19044162 destiny gd _destiny 16345483 dave free pglang and dt3 corsace closed cc 2023 cc23 sf semifinals",
           "genre_id": "9",
           "language_id": "2",
-          "favourite_count": "116",
+          "favourite_count": "117",
           "rating": "8.30159",
           "storyboard": "1",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "6634",
+          "playcount": "6823",
           "passcount": "1306",
           "packs": "S1559",
           "max_combo": "923",
@@ -144131,13 +144271,13 @@
           "tags": "mr. morale & the big steppers mmatbs mm&tbs sounwave mark m. anthony spears jahaan akil sweet hykeem carter baby keem boi-1da duckworth k dot k-dot k.dot oklama sam dew matt schaeffer matthew samuels english west coast hip-hop rap hip hop compton conscious hiphop trap natsume shiki anime girl natsume_shiki anime_girl domino scubdomino scub_domino jungkyuyoung [keqing] 8972308 supav 19511007 paka workinggears 6646204 cyndifusic kataryn 19044162 destiny gd _destiny 16345483 dave free pglang and dt3 corsace closed cc 2023 cc23 sf semifinals",
           "genre_id": "9",
           "language_id": "2",
-          "favourite_count": "116",
+          "favourite_count": "117",
           "rating": "8.30159",
           "storyboard": "1",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "5230",
+          "playcount": "5365",
           "passcount": "1972",
           "packs": "S1559",
           "max_combo": "505",
@@ -152272,7 +152412,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "103",
+          "playcount": "13611"
         },
         {
           "beatmapset_id": "1882896",
@@ -152324,7 +152466,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "28",
+          "playcount": "10321"
         },
         {
           "beatmapset_id": "2171905",
@@ -152348,7 +152492,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "106",
+          "playcount": "11378"
         },
         {
           "beatmapset_id": "1980589",
@@ -152393,7 +152539,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "117",
+          "playcount": "31181"
         },
         {
           "beatmapset_id": "2242304",
@@ -164479,7 +164627,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "14",
+          "playcount": "692"
         }
       ],
       "guestDifficulties": [],
@@ -164761,7 +164911,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "6724",
+          "playcount": "6733",
           "passcount": "2266",
           "packs": "SM302",
           "max_combo": "3193",
@@ -164805,7 +164955,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "8128",
+          "playcount": "8137",
           "passcount": "1976",
           "packs": "SM302",
           "max_combo": "1988",
@@ -173310,7 +173460,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "164",
+          "playcount": "36220"
         },
         {
           "beatmapset_id": "2259728",
@@ -173348,7 +173500,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "76",
+          "playcount": "30118"
         },
         {
           "beatmapset_id": "2248194",
@@ -173393,7 +173547,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "52",
+          "playcount": "33053"
         },
         {
           "beatmapset_id": "2113313",
@@ -173431,7 +173587,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "120",
+          "playcount": "38578"
         },
         {
           "beatmapset_id": "611552",
@@ -173455,7 +173613,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "49",
+          "playcount": "13331"
         },
         {
           "beatmapset_id": "2279815",
@@ -173479,7 +173639,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "91",
+          "playcount": "17525"
         },
         {
           "beatmapset_id": "2395433",
@@ -173510,7 +173672,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "142",
+          "playcount": "21486"
         },
         {
           "beatmapset_id": "2508959",
@@ -173555,7 +173719,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "146",
+          "playcount": "47966"
         }
       ],
       "guestDifficulties": [],
@@ -181029,7 +181195,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "27235",
+          "playcount": "27244",
           "passcount": "14012",
           "packs": "S1740",
           "max_combo": "963",
@@ -181381,7 +181547,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "38845",
+          "playcount": "38854",
           "passcount": "12923",
           "packs": "S1571",
           "max_combo": "1434",
@@ -187893,7 +188059,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "463",
+          "playcount": "127957"
         },
         {
           "beatmapset_id": "1285562",
@@ -187910,7 +188078,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "457",
+          "playcount": "38566"
         },
         {
           "beatmapset_id": "2403899",
@@ -187983,7 +188153,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "427",
+          "playcount": "160236"
         }
       ],
       "guestDifficulties": [],
@@ -224107,7 +224279,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "32",
+          "playcount": "14007"
         }
       ],
       "guestDifficulties": [],
@@ -228500,7 +228674,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "36",
+          "playcount": "1414"
         },
         {
           "beatmapset_id": "1661057",
@@ -228517,7 +228693,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "18",
+          "playcount": "926"
         },
         {
           "beatmapset_id": "1701735",
@@ -228534,7 +228712,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "12",
+          "playcount": "429"
         }
       ],
       "guestDifficulties": [],
@@ -237132,7 +237312,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "33",
+          "playcount": "5420"
         },
         {
           "beatmapset_id": "2282075",
@@ -237170,7 +237352,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "34",
+          "playcount": "12664"
         },
         {
           "beatmapset_id": "808010",
@@ -237187,7 +237371,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "174",
+          "playcount": "32689"
         }
       ],
       "guestDifficulties": [],
@@ -241248,7 +241434,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "25",
+          "playcount": "2494"
         },
         {
           "beatmapset_id": "2077414",
@@ -241300,7 +241488,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "32",
+          "playcount": "10479"
         }
       ],
       "guestDifficulties": [],
@@ -245573,7 +245763,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "22",
+          "playcount": "843"
         }
       ],
       "guestDifficulties": [],
@@ -256957,7 +257149,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "121",
+          "playcount": "41335"
         }
       ],
       "guestDifficulties": [],
@@ -277332,7 +277526,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "128",
+          "playcount": "64832"
         }
       ],
       "guestDifficulties": [],
@@ -283374,13 +283570,13 @@
           "tags": "horsaga hortensia saga william_k william k fl37 regraz mafumafu gokugohan12468 kittyadventure kyouren isagi yoichi japanese jp j-pop pop jpop j-rock rock jrock",
           "genre_id": "5",
           "language_id": "3",
-          "favourite_count": "23",
+          "favourite_count": "27",
           "rating": "9.5",
           "storyboard": "0",
           "video": "1",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "2494",
+          "playcount": "2845",
           "passcount": "208",
           "packs": null,
           "max_combo": "569",
@@ -283418,13 +283614,13 @@
           "tags": "horsaga hortensia saga william_k william k fl37 regraz mafumafu gokugohan12468 kittyadventure kyouren isagi yoichi japanese jp j-pop pop jpop j-rock rock jrock",
           "genre_id": "5",
           "language_id": "3",
-          "favourite_count": "23",
+          "favourite_count": "27",
           "rating": "9.5",
           "storyboard": "0",
           "video": "1",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "2071",
+          "playcount": "2377",
           "passcount": "209",
           "packs": null,
           "max_combo": "369",
@@ -283462,13 +283658,13 @@
           "tags": "horsaga hortensia saga william_k william k fl37 regraz mafumafu gokugohan12468 kittyadventure kyouren isagi yoichi japanese jp j-pop pop jpop j-rock rock jrock",
           "genre_id": "5",
           "language_id": "3",
-          "favourite_count": "23",
+          "favourite_count": "27",
           "rating": "9.5",
           "storyboard": "0",
           "video": "1",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1153",
+          "playcount": "1225",
           "passcount": "267",
           "packs": null,
           "max_combo": "342",
@@ -283506,13 +283702,13 @@
           "tags": "horsaga hortensia saga william_k william k fl37 regraz mafumafu gokugohan12468 kittyadventure kyouren isagi yoichi japanese jp j-pop pop jpop j-rock rock jrock",
           "genre_id": "5",
           "language_id": "3",
-          "favourite_count": "23",
+          "favourite_count": "27",
           "rating": "9.5",
           "storyboard": "0",
           "video": "1",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "2917",
+          "playcount": "3394",
           "passcount": "377",
           "packs": null,
           "max_combo": "446",
@@ -285582,7 +285778,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "27",
+          "playcount": "9841"
         },
         {
           "beatmapset_id": "2508518",
@@ -296323,7 +296521,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "76",
+          "playcount": "33656"
         }
       ],
       "guestDifficulties": [],
@@ -305051,7 +305251,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "85",
+          "playcount": "16831"
         }
       ],
       "guestDifficulties": [],

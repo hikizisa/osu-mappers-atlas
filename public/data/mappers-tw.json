@@ -59,13 +59,13 @@
           "tags": "alea jacta est アヴェ ムジカ diggy-mo’ yasuhiro gasa 賀佐泰洋 japanese metal bandori! gbp girls band party! garupa bushiroad elements garden doloris mortis timoris amoris oblivionis 祐天寺 にゃむ yutenji nyamu 米澤茜 yonezawa akane 八幡海鈴 yahata umiri 岡田夢以 okada mei 若葉睦 wakaba mutsumi 渡瀬結月 watase yuzuki 三角初華 misumi uika 佐々木李子 sasaki rico 豊川祥子 togawa sakiko 高尾奏音 takao kanon lu^3 hey lululu hey_lululu garden kalibe vp757",
           "genre_id": "11",
           "language_id": "3",
-          "favourite_count": "256",
+          "favourite_count": "272",
           "rating": "9.16529",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "21439",
+          "playcount": "22006",
           "passcount": "5777",
           "packs": "S1551",
           "max_combo": "1176",
@@ -103,13 +103,13 @@
           "tags": "alea jacta est アヴェ ムジカ diggy-mo’ yasuhiro gasa 賀佐泰洋 japanese metal bandori! gbp girls band party! garupa bushiroad elements garden doloris mortis timoris amoris oblivionis 祐天寺 にゃむ yutenji nyamu 米澤茜 yonezawa akane 八幡海鈴 yahata umiri 岡田夢以 okada mei 若葉睦 wakaba mutsumi 渡瀬結月 watase yuzuki 三角初華 misumi uika 佐々木李子 sasaki rico 豊川祥子 togawa sakiko 高尾奏音 takao kanon lu^3 hey lululu hey_lululu garden kalibe vp757",
           "genre_id": "11",
           "language_id": "3",
-          "favourite_count": "256",
+          "favourite_count": "272",
           "rating": "9.16529",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "26749",
+          "playcount": "27658",
           "passcount": "4782",
           "packs": "S1551",
           "max_combo": "1458",
@@ -10789,7 +10789,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "272",
+          "playcount": "112207"
         },
         {
           "beatmapset_id": "2259244",
