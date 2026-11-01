@@ -5,7 +5,7 @@
     "demonym": "Spain",
     "nativeName": "Spain"
   },
-  "lastUpdated": "2026-10-18T07:08:28.222Z",
+  "lastUpdated": "2026-11-01T08:58:42.279Z",
   "totalMappers": 7,
   "totalBeatmaps": 222,
   "totalBeatmapsets": 58,
@@ -4970,9 +4970,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "838",
-          "playcount": "1828240"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2510715",
@@ -5038,9 +5036,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "427",
-          "playcount": "909485"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2379887",
@@ -5342,9 +5338,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "216",
-          "playcount": "225464"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1399646",
@@ -5896,7 +5890,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 111
       },
-      "lastUpdated": "2026-10-18T07:08:28.222Z"
+      "lastUpdated": "2026-11-01T08:58:42.279Z"
     },
     {
       "user_id": "160158",
@@ -7868,7 +7862,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 36
       },
-      "lastUpdated": "2026-10-18T07:08:28.222Z"
+      "lastUpdated": "2026-11-01T08:58:42.279Z"
     },
     {
       "user_id": "67192",
@@ -9363,7 +9357,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 27
       },
-      "lastUpdated": "2026-10-18T07:08:28.222Z"
+      "lastUpdated": "2026-11-01T08:58:42.279Z"
     },
     {
       "user_id": "33646",
@@ -10316,7 +10310,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 17
       },
-      "lastUpdated": "2026-10-18T07:08:28.222Z"
+      "lastUpdated": "2026-11-01T08:58:42.279Z"
     },
     {
       "user_id": "224335",
@@ -11024,7 +11018,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 12
       },
-      "lastUpdated": "2026-10-18T07:08:28.222Z"
+      "lastUpdated": "2026-11-01T08:58:42.279Z"
     },
     {
       "user_id": "79616",
@@ -11641,7 +11635,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 11
       },
-      "lastUpdated": "2026-10-18T07:08:28.222Z"
+      "lastUpdated": "2026-11-01T08:58:42.279Z"
     },
     {
       "user_id": "17446",
@@ -12105,7 +12099,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 8
       },
-      "lastUpdated": "2026-10-18T07:08:28.222Z"
+      "lastUpdated": "2026-11-01T08:58:42.279Z"
     }
   ]
 }
