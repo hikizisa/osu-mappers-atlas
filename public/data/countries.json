@@ -1,6 +1,6 @@
 {
   "defaultCountry": "KR",
-  "generatedAt": "2026-11-01T10:15:04.767Z",
+  "generatedAt": "2026-11-02T09:10:43.134Z",
   "source": "https://osu.ppy.sh/rankings/osu/country",
   "countries": [
     {
@@ -676,7 +676,7 @@
       "nativeName": "Finland",
       "hasData": true,
       "mapperCount": 6,
-      "lastUpdated": "2026-10-19T07:34:36.116Z"
+      "lastUpdated": "2026-11-02T09:10:34.796Z"
     },
     {
       "code": "FR",
@@ -1360,7 +1360,7 @@
       "nativeName": "New Zealand",
       "hasData": true,
       "mapperCount": 7,
-      "lastUpdated": "2026-10-19T07:34:38.168Z"
+      "lastUpdated": "2026-11-02T09:10:36.684Z"
     },
     {
       "code": "NI",
@@ -2062,7 +2062,7 @@
       "nativeName": "Venezuela",
       "hasData": true,
       "mapperCount": 7,
-      "lastUpdated": "2026-10-19T07:34:40.531Z"
+      "lastUpdated": "2026-11-02T09:10:39.038Z"
     },
     {
       "code": "VN",

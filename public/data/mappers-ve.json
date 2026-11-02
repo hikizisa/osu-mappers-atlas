@@ -5,7 +5,7 @@
     "demonym": "Venezuela",
     "nativeName": "Venezuela"
   },
-  "lastUpdated": "2026-10-19T07:34:40.531Z",
+  "lastUpdated": "2026-11-02T09:10:39.038Z",
   "totalMappers": 7,
   "totalBeatmaps": 250,
   "totalBeatmapsets": 52,
@@ -3923,9 +3923,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "375",
-          "playcount": "100952"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2342727",
@@ -3963,9 +3961,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "71",
-          "playcount": "23980"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2261087",
@@ -4010,9 +4006,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "340",
-          "playcount": "144986"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1006790",
@@ -4057,9 +4051,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "115",
-          "playcount": "69350"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2140183",
@@ -4676,7 +4668,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 87
       },
-      "lastUpdated": "2026-10-19T07:34:40.531Z"
+      "lastUpdated": "2026-11-02T09:10:39.038Z"
     },
     {
       "user_id": "131918",
@@ -8761,7 +8753,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 76
       },
-      "lastUpdated": "2026-10-19T07:34:40.531Z"
+      "lastUpdated": "2026-11-02T09:10:39.038Z"
     },
     {
       "user_id": "2140739",
@@ -10798,7 +10790,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 39
       },
-      "lastUpdated": "2026-10-19T07:34:40.531Z"
+      "lastUpdated": "2026-11-02T09:10:39.038Z"
     },
     {
       "user_id": "547882",
@@ -11906,7 +11898,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 20
       },
-      "lastUpdated": "2026-10-19T07:34:40.531Z"
+      "lastUpdated": "2026-11-02T09:10:39.038Z"
     },
     {
       "user_id": "2675027",
@@ -12739,7 +12731,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 15
       },
-      "lastUpdated": "2026-10-19T07:34:40.531Z"
+      "lastUpdated": "2026-11-02T09:10:39.038Z"
     },
     {
       "user_id": "3859048",
@@ -13295,7 +13287,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 10
       },
-      "lastUpdated": "2026-10-19T07:34:40.531Z"
+      "lastUpdated": "2026-11-02T09:10:39.038Z"
     },
     {
       "user_id": "45683",
@@ -13484,7 +13476,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-10-19T07:34:40.531Z"
+      "lastUpdated": "2026-11-02T09:10:39.038Z"
     }
   ]
 }
