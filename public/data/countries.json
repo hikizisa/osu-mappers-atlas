@@ -1,6 +1,6 @@
 {
   "defaultCountry": "KR",
-  "generatedAt": "2026-11-02T09:10:43.134Z",
+  "generatedAt": "2026-11-03T09:17:13.280Z",
   "source": "https://osu.ppy.sh/rankings/osu/country",
   "countries": [
     {
@@ -685,7 +685,7 @@
       "nativeName": "France",
       "hasData": true,
       "mapperCount": 11,
-      "lastUpdated": "2026-10-20T07:23:02.654Z"
+      "lastUpdated": "2026-11-03T09:16:55.168Z"
     },
     {
       "code": "GF",
@@ -1495,7 +1495,7 @@
       "nativeName": "Philippines",
       "hasData": true,
       "mapperCount": 40,
-      "lastUpdated": "2026-10-20T07:23:05.532Z"
+      "lastUpdated": "2026-11-03T09:16:58.292Z"
     },
     {
       "code": "PL",
@@ -2071,7 +2071,7 @@
       "nativeName": "Vietnam",
       "hasData": true,
       "mapperCount": 7,
-      "lastUpdated": "2026-11-01T10:15:00.693Z"
+      "lastUpdated": "2026-11-03T09:17:09.562Z"
     },
     {
       "code": "VG",
