@@ -5,7 +5,7 @@
     "demonym": "Pakistan",
     "nativeName": "Pakistan"
   },
-  "lastUpdated": "2026-10-21T07:23:49.753Z",
+  "lastUpdated": "2026-11-04T08:52:38.412Z",
   "totalMappers": 1,
   "totalBeatmaps": 262,
   "totalBeatmapsets": 62,
@@ -11586,9 +11586,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "125",
-          "playcount": "84288"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2240527",
@@ -14023,7 +14021,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 262
       },
-      "lastUpdated": "2026-10-21T07:23:49.753Z"
+      "lastUpdated": "2026-11-04T08:52:38.412Z"
     }
   ]
 }

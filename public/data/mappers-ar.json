@@ -5,11 +5,11 @@
     "demonym": "Argentina",
     "nativeName": "Argentina"
   },
-  "lastUpdated": "2026-10-21T07:23:24.988Z",
+  "lastUpdated": "2026-11-04T08:52:16.673Z",
   "totalMappers": 5,
-  "totalBeatmaps": 195,
-  "totalBeatmapsets": 70,
-  "totalOwnBeatmapsets": 70,
+  "totalBeatmaps": 202,
+  "totalBeatmapsets": 72,
+  "totalOwnBeatmapsets": 72,
   "totalGuestBeatmapsets": 0,
   "totalGuestDiffs": 0,
   "totalOwnDifficulties": 180,
@@ -22,13 +22,321 @@
         "Hareimu"
       ],
       "country": "AR",
-      "rankedBeatmaps": 154,
-      "rankedBeatmapsets": 55,
-      "ownBeatmapsets": 55,
+      "rankedBeatmaps": 161,
+      "rankedBeatmapsets": 57,
+      "ownBeatmapsets": 57,
       "guestBeatmapsets": 0,
       "totalGuestDiffs": 0,
       "ownDifficulties": 146,
       "beatmaps": [
+        {
+          "beatmapset_id": "2590553",
+          "beatmap_id": "5781085",
+          "approved": "1",
+          "total_length": "213",
+          "hit_length": "201",
+          "version": "Bunny Overdose",
+          "file_md5": "bbf55da22939df70fe0095a8e8f1da0a",
+          "diff_size": "3.8",
+          "diff_overall": "9",
+          "diff_approach": "9",
+          "diff_drain": "6",
+          "mode": "2",
+          "count_normal": "362",
+          "count_slider": "301",
+          "count_spinner": "0",
+          "submit_date": "2026-07-23 03:09:57",
+          "approved_date": "2026-10-25 00:02:55",
+          "last_update": "2026-10-10 12:31:14",
+          "artist": "Nekomiya Eto",
+          "artist_unicode": "猫宮えと",
+          "title": "Bunny Girl",
+          "title_unicode": "Bunny Girl",
+          "creator": "Cielbami",
+          "creator_id": "4138746",
+          "bpm": "160",
+          "source": "",
+          "tags": "japanese pop jpop j-pop female vocals vocalist cover vtuber virtual youtuber akasaki バニーガール ma:様 nekomiyaeto",
+          "genre_id": "5",
+          "language_id": "3",
+          "favourite_count": "25",
+          "rating": "7.75",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "377",
+          "passcount": "64",
+          "packs": "SC173",
+          "max_combo": "1075",
+          "diff_aim": "4.42683",
+          "diff_speed": null,
+          "difficultyrating": "4.42683"
+        },
+        {
+          "beatmapset_id": "2590553",
+          "beatmap_id": "5788612",
+          "approved": "1",
+          "total_length": "213",
+          "hit_length": "201",
+          "version": "Bunny Rain",
+          "file_md5": "09e2b19f9d3a6ac52f111ff0fe3ba98a",
+          "diff_size": "3.6",
+          "diff_overall": "8.8",
+          "diff_approach": "8.8",
+          "diff_drain": "5",
+          "mode": "2",
+          "count_normal": "245",
+          "count_slider": "323",
+          "count_spinner": "0",
+          "submit_date": "2026-07-23 03:09:57",
+          "approved_date": "2026-10-25 00:02:55",
+          "last_update": "2026-10-10 12:31:14",
+          "artist": "Nekomiya Eto",
+          "artist_unicode": "猫宮えと",
+          "title": "Bunny Girl",
+          "title_unicode": "Bunny Girl",
+          "creator": "Cielbami",
+          "creator_id": "4138746",
+          "bpm": "160",
+          "source": "",
+          "tags": "japanese pop jpop j-pop female vocals vocalist cover vtuber virtual youtuber akasaki バニーガール ma:様 nekomiyaeto",
+          "genre_id": "5",
+          "language_id": "3",
+          "favourite_count": "25",
+          "rating": "7.75",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "437",
+          "passcount": "93",
+          "packs": "SC173",
+          "max_combo": "926",
+          "diff_aim": "3.62615",
+          "diff_speed": null,
+          "difficultyrating": "3.62615"
+        },
+        {
+          "beatmapset_id": "2628999",
+          "beatmap_id": "5909871",
+          "approved": "1",
+          "total_length": "34",
+          "hit_length": "32",
+          "version": "Overdose",
+          "file_md5": "0e0abddfddba3dce21ae7c3b0a11b476",
+          "diff_size": "5",
+          "diff_overall": "9.2",
+          "diff_approach": "9.2",
+          "diff_drain": "6",
+          "mode": "2",
+          "count_normal": "45",
+          "count_slider": "52",
+          "count_spinner": "1",
+          "submit_date": "2026-09-30 09:34:18",
+          "approved_date": "2026-10-22 10:22:56",
+          "last_update": "2026-10-15 05:50:41",
+          "artist": "Junichi Masuda",
+          "artist_unicode": "増田順一",
+          "title": "Professor Oak's Laboratory",
+          "title_unicode": "オーキド研究所",
+          "creator": "Cielbami",
+          "creator_id": "4138746",
+          "bpm": "136.5",
+          "source": "ポケットモンスター 赤・緑",
+          "tags": "hareimu reimu ciel pokémon jun'ichi okido ohkido ookido kenkyuujo ユキナリ博士 yukinari hakase aka midori 青 ao ピカチュウ pikachu gamefreak original soundtrack gen generation 1 pokemon red yellow blue green ost samuel oak lab institute research gameboy nintendo game freak pocket monsters electronic instrumental chiptune 8-bit 8bit video videogame vg vgm kanto pallet town マサラタウン masara",
+          "genre_id": "2",
+          "language_id": "5",
+          "favourite_count": "14",
+          "rating": "10",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "526",
+          "passcount": "117",
+          "packs": "SC172",
+          "max_combo": "170",
+          "diff_aim": "4.09671",
+          "diff_speed": null,
+          "difficultyrating": "4.09671"
+        },
+        {
+          "beatmapset_id": "2628999",
+          "beatmap_id": "5909872",
+          "approved": "1",
+          "total_length": "34",
+          "hit_length": "32",
+          "version": "Platter",
+          "file_md5": "6822b02a5aa7a6820658ddcf12c11835",
+          "diff_size": "3.8",
+          "diff_overall": "8",
+          "diff_approach": "8",
+          "diff_drain": "4",
+          "mode": "2",
+          "count_normal": "64",
+          "count_slider": "38",
+          "count_spinner": "1",
+          "submit_date": "2026-09-30 09:34:18",
+          "approved_date": "2026-10-22 10:22:56",
+          "last_update": "2026-10-15 05:50:41",
+          "artist": "Junichi Masuda",
+          "artist_unicode": "増田順一",
+          "title": "Professor Oak's Laboratory",
+          "title_unicode": "オーキド研究所",
+          "creator": "Cielbami",
+          "creator_id": "4138746",
+          "bpm": "136.5",
+          "source": "ポケットモンスター 赤・緑",
+          "tags": "hareimu reimu ciel pokémon jun'ichi okido ohkido ookido kenkyuujo ユキナリ博士 yukinari hakase aka midori 青 ao ピカチュウ pikachu gamefreak original soundtrack gen generation 1 pokemon red yellow blue green ost samuel oak lab institute research gameboy nintendo game freak pocket monsters electronic instrumental chiptune 8-bit 8bit video videogame vg vgm kanto pallet town マサラタウン masara",
+          "genre_id": "2",
+          "language_id": "5",
+          "favourite_count": "14",
+          "rating": "10",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "818",
+          "passcount": "285",
+          "packs": "SC172",
+          "max_combo": "141",
+          "diff_aim": "2.32682",
+          "diff_speed": null,
+          "difficultyrating": "2.32682"
+        },
+        {
+          "beatmapset_id": "2628999",
+          "beatmap_id": "5909873",
+          "approved": "1",
+          "total_length": "34",
+          "hit_length": "32",
+          "version": "Rain",
+          "file_md5": "9e7e51b6cdd21769a691398b5c6915e3",
+          "diff_size": "4.4",
+          "diff_overall": "9",
+          "diff_approach": "9",
+          "diff_drain": "5",
+          "mode": "2",
+          "count_normal": "74",
+          "count_slider": "36",
+          "count_spinner": "1",
+          "submit_date": "2026-09-30 09:34:18",
+          "approved_date": "2026-10-22 10:22:56",
+          "last_update": "2026-10-15 05:50:41",
+          "artist": "Junichi Masuda",
+          "artist_unicode": "増田順一",
+          "title": "Professor Oak's Laboratory",
+          "title_unicode": "オーキド研究所",
+          "creator": "Cielbami",
+          "creator_id": "4138746",
+          "bpm": "136.5",
+          "source": "ポケットモンスター 赤・緑",
+          "tags": "hareimu reimu ciel pokémon jun'ichi okido ohkido ookido kenkyuujo ユキナリ博士 yukinari hakase aka midori 青 ao ピカチュウ pikachu gamefreak original soundtrack gen generation 1 pokemon red yellow blue green ost samuel oak lab institute research gameboy nintendo game freak pocket monsters electronic instrumental chiptune 8-bit 8bit video videogame vg vgm kanto pallet town マサラタウン masara",
+          "genre_id": "2",
+          "language_id": "5",
+          "favourite_count": "14",
+          "rating": "10",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "612",
+          "passcount": "199",
+          "packs": "SC172",
+          "max_combo": "150",
+          "diff_aim": "3.13188",
+          "diff_speed": null,
+          "difficultyrating": "3.13188"
+        },
+        {
+          "beatmapset_id": "2628999",
+          "beatmap_id": "5909874",
+          "approved": "1",
+          "total_length": "34",
+          "hit_length": "32",
+          "version": "Salad",
+          "file_md5": "0aa8675dda0da4893607adbd539f0f8d",
+          "diff_size": "3",
+          "diff_overall": "7",
+          "diff_approach": "7",
+          "diff_drain": "3",
+          "mode": "2",
+          "count_normal": "27",
+          "count_slider": "44",
+          "count_spinner": "1",
+          "submit_date": "2026-09-30 09:34:18",
+          "approved_date": "2026-10-22 10:22:56",
+          "last_update": "2026-10-15 05:50:41",
+          "artist": "Junichi Masuda",
+          "artist_unicode": "増田順一",
+          "title": "Professor Oak's Laboratory",
+          "title_unicode": "オーキド研究所",
+          "creator": "Cielbami",
+          "creator_id": "4138746",
+          "bpm": "136.5",
+          "source": "ポケットモンスター 赤・緑",
+          "tags": "hareimu reimu ciel pokémon jun'ichi okido ohkido ookido kenkyuujo ユキナリ博士 yukinari hakase aka midori 青 ao ピカチュウ pikachu gamefreak original soundtrack gen generation 1 pokemon red yellow blue green ost samuel oak lab institute research gameboy nintendo game freak pocket monsters electronic instrumental chiptune 8-bit 8bit video videogame vg vgm kanto pallet town マサラタウン masara",
+          "genre_id": "2",
+          "language_id": "5",
+          "favourite_count": "14",
+          "rating": "10",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "548",
+          "passcount": "233",
+          "packs": "SC172",
+          "max_combo": "127",
+          "diff_aim": "1.83124",
+          "diff_speed": null,
+          "difficultyrating": "1.83124"
+        },
+        {
+          "beatmapset_id": "2628999",
+          "beatmap_id": "5911432",
+          "approved": "1",
+          "total_length": "34",
+          "hit_length": "32",
+          "version": "Cup",
+          "file_md5": "f75edeecc6cf942d31399a1bdba26222",
+          "diff_size": "2.5",
+          "diff_overall": "6",
+          "diff_approach": "6",
+          "diff_drain": "2",
+          "mode": "2",
+          "count_normal": "33",
+          "count_slider": "25",
+          "count_spinner": "1",
+          "submit_date": "2026-09-30 09:34:18",
+          "approved_date": "2026-10-22 10:22:56",
+          "last_update": "2026-10-15 05:50:41",
+          "artist": "Junichi Masuda",
+          "artist_unicode": "増田順一",
+          "title": "Professor Oak's Laboratory",
+          "title_unicode": "オーキド研究所",
+          "creator": "Cielbami",
+          "creator_id": "4138746",
+          "bpm": "136.5",
+          "source": "ポケットモンスター 赤・緑",
+          "tags": "hareimu reimu ciel pokémon jun'ichi okido ohkido ookido kenkyuujo ユキナリ博士 yukinari hakase aka midori 青 ao ピカチュウ pikachu gamefreak original soundtrack gen generation 1 pokemon red yellow blue green ost samuel oak lab institute research gameboy nintendo game freak pocket monsters electronic instrumental chiptune 8-bit 8bit video videogame vg vgm kanto pallet town マサラタウン masara",
+          "genre_id": "2",
+          "language_id": "5",
+          "favourite_count": "14",
+          "rating": "10",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "806",
+          "passcount": "379",
+          "packs": "SC172",
+          "max_combo": "96",
+          "diff_aim": "1.24001",
+          "diff_speed": null,
+          "difficultyrating": "1.24001"
+        },
         {
           "beatmapset_id": "914791",
           "beatmap_id": "1910610",
@@ -6829,9 +7137,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "19",
-          "playcount": "1030"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2608128",
@@ -6848,9 +7154,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "11",
-          "playcount": "152"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2600647",
@@ -6867,9 +7171,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "23",
-          "playcount": "1225"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "558507",
@@ -6907,9 +7209,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "36",
-          "playcount": "5998"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2527173",
@@ -6926,9 +7226,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "42",
-          "playcount": "4150"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2526654",
@@ -6973,9 +7271,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "6",
-          "playcount": "2952"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1016325",
@@ -7020,9 +7316,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "10",
-          "playcount": "8611"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2336097",
@@ -7039,9 +7333,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "5",
-          "playcount": "366"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2520292",
@@ -7058,9 +7350,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "13",
-          "playcount": "1720"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2389491",
@@ -7077,9 +7367,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "6",
-          "playcount": "486"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "563322",
@@ -7124,9 +7412,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "26",
-          "playcount": "4475"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2485248",
@@ -7143,9 +7429,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "6",
-          "playcount": "2161"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "642686",
@@ -7162,9 +7446,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "11",
-          "playcount": "1990"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2454095",
@@ -7223,9 +7505,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "21",
-          "playcount": "28804"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "599761",
@@ -7242,9 +7522,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "89",
-          "playcount": "1441"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2389471",
@@ -7261,9 +7539,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "4",
-          "playcount": "826"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2465643",
@@ -7280,9 +7556,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "7",
-          "playcount": "2566"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2457062",
@@ -7299,9 +7573,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "8",
-          "playcount": "1567"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2448468",
@@ -7346,9 +7618,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "26",
-          "playcount": "12551"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2415070",
@@ -7365,9 +7635,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "9",
-          "playcount": "2863"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2359763",
@@ -7384,9 +7652,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "16",
-          "playcount": "964"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2367831",
@@ -7438,9 +7704,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "17",
-          "playcount": "15243"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2363570",
@@ -7485,9 +7749,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "90",
-          "playcount": "61214"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2263365",
@@ -7574,9 +7836,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "17",
-          "playcount": "18558"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1951766",
@@ -7621,9 +7881,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "19",
-          "playcount": "8454"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2332788",
@@ -7647,9 +7905,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "6",
-          "playcount": "1393"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2047039",
@@ -7666,9 +7922,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "8",
-          "playcount": "1396"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2341811",
@@ -7685,9 +7939,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "26",
-          "playcount": "6994"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2262097",
@@ -7704,9 +7956,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "14",
-          "playcount": "4429"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "732090",
@@ -7723,9 +7973,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "4",
-          "playcount": "961"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "924823",
@@ -8494,18 +8742,87 @@
             }
           ],
           "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2628999",
+          "title": "Professor Oak's Laboratory",
+          "artist": "Junichi Masuda",
+          "creator": "Cielbami",
+          "approved_date": "2026-10-22 10:22:56",
+          "difficulties": [
+            {
+              "beatmap_id": "5909871",
+              "version": "Overdose",
+              "difficultyrating": "4.09671",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5909872",
+              "version": "Platter",
+              "difficultyrating": "2.32682",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5909873",
+              "version": "Rain",
+              "difficultyrating": "3.13188",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5909874",
+              "version": "Salad",
+              "difficultyrating": "1.83124",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5911432",
+              "version": "Cup",
+              "difficultyrating": "1.24001",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2590553",
+          "title": "Bunny Girl",
+          "artist": "Nekomiya Eto",
+          "creator": "Cielbami",
+          "approved_date": "2026-10-25 00:02:55",
+          "difficulties": [
+            {
+              "beatmap_id": "5781085",
+              "version": "Bunny Overdose",
+              "difficultyrating": "4.42683",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5788612",
+              "version": "Bunny Rain",
+              "difficultyrating": "3.62615",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
       "stats": {
-        "totalBeatmaps": 154,
-        "totalBeatmapsets": 55,
-        "ownBeatmapsets": 55,
+        "totalBeatmaps": 161,
+        "totalBeatmapsets": 57,
+        "ownBeatmapsets": 57,
         "guestBeatmapsets": 0,
         "totalGuestDiffs": 0,
-        "ownDifficulties": 154
+        "ownDifficulties": 161
       },
-      "lastUpdated": "2026-10-21T07:23:24.988Z"
+      "lastUpdated": "2026-11-04T08:52:16.673Z"
     },
     {
       "user_id": "6707918",
@@ -10074,9 +10391,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "275",
-          "playcount": "45025"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2526441",
@@ -10093,9 +10408,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "71",
-          "playcount": "6976"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2490599",
@@ -10112,9 +10425,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "47",
-          "playcount": "6121"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "876611",
@@ -10131,9 +10442,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "1120",
-          "playcount": "122959"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1238432",
@@ -10373,7 +10682,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 34
       },
-      "lastUpdated": "2026-10-21T07:23:24.988Z"
+      "lastUpdated": "2026-11-04T08:52:16.673Z"
     },
     {
       "user_id": "555",
@@ -10582,7 +10891,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-10-21T07:23:24.988Z"
+      "lastUpdated": "2026-11-04T08:52:16.673Z"
     },
     {
       "user_id": "1961",
@@ -10720,7 +11029,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 2
       },
-      "lastUpdated": "2026-10-21T07:23:24.988Z"
+      "lastUpdated": "2026-11-04T08:52:16.673Z"
     },
     {
       "user_id": "41568",
@@ -10858,7 +11167,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 2
       },
-      "lastUpdated": "2026-10-21T07:23:24.988Z"
+      "lastUpdated": "2026-11-04T08:52:16.673Z"
     }
   ]
 }
