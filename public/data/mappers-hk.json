@@ -5,11 +5,11 @@
     "demonym": "Hong Kong",
     "nativeName": "Hong Kong"
   },
-  "lastUpdated": "2026-10-23T07:17:39.428Z",
+  "lastUpdated": "2026-11-06T09:08:03.048Z",
   "totalMappers": 58,
-  "totalBeatmaps": 3946,
-  "totalBeatmapsets": 884,
-  "totalOwnBeatmapsets": 884,
+  "totalBeatmaps": 3951,
+  "totalBeatmapsets": 885,
+  "totalOwnBeatmapsets": 885,
   "totalGuestBeatmapsets": 0,
   "totalGuestDiffs": 0,
   "totalOwnDifficulties": 3946,
@@ -20,13 +20,233 @@
       "username": "Chaoslitz",
       "aliases": [],
       "country": "HK",
-      "rankedBeatmaps": 425,
-      "rankedBeatmapsets": 102,
-      "ownBeatmapsets": 102,
+      "rankedBeatmaps": 430,
+      "rankedBeatmapsets": 103,
+      "ownBeatmapsets": 103,
       "guestBeatmapsets": 0,
       "totalGuestDiffs": 0,
       "ownDifficulties": 425,
       "beatmaps": [
+        {
+          "beatmapset_id": "2626706",
+          "beatmap_id": "5902402",
+          "approved": "1",
+          "total_length": "101",
+          "hit_length": "101",
+          "version": "This Is EXPERT",
+          "file_md5": "45c604a0c0822c9875e60f9f22ec3dcb",
+          "diff_size": "4.4",
+          "diff_overall": "8",
+          "diff_approach": "9",
+          "diff_drain": "5",
+          "mode": "0",
+          "count_normal": "162",
+          "count_slider": "290",
+          "count_spinner": "1",
+          "submit_date": "2026-09-26 06:56:29",
+          "approved_date": "2026-10-31 06:03:12",
+          "last_update": "2026-10-23 17:25:29",
+          "artist": "Akiri",
+          "artist_unicode": "あきり",
+          "title": "This Is ERA",
+          "title_unicode": "This Is ERA",
+          "creator": "Chaoslitz",
+          "creator_id": "3621552",
+          "bpm": "132",
+          "source": "",
+          "tags": "featured artist fa mappers' guild mg mpg instrumental electronic hinsvar",
+          "genre_id": "10",
+          "language_id": "5",
+          "favourite_count": "45",
+          "rating": "9.44444",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "2179",
+          "passcount": "539",
+          "packs": null,
+          "max_combo": "779",
+          "diff_aim": "3.23201",
+          "diff_speed": "1.9104",
+          "difficultyrating": "5.60712"
+        },
+        {
+          "beatmapset_id": "2626706",
+          "beatmap_id": "5902403",
+          "approved": "1",
+          "total_length": "101",
+          "hit_length": "101",
+          "version": "This Is HINSVAR'S HARD",
+          "file_md5": "fd38a0c43108776867447deb6e87a1a7",
+          "diff_size": "3.3",
+          "diff_overall": "6",
+          "diff_approach": "7.7",
+          "diff_drain": "4",
+          "mode": "0",
+          "count_normal": "218",
+          "count_slider": "133",
+          "count_spinner": "1",
+          "submit_date": "2026-09-26 06:56:29",
+          "approved_date": "2026-10-31 06:03:12",
+          "last_update": "2026-10-23 17:25:29",
+          "artist": "Akiri",
+          "artist_unicode": "あきり",
+          "title": "This Is ERA",
+          "title_unicode": "This Is ERA",
+          "creator": "Chaoslitz",
+          "creator_id": "3621552",
+          "bpm": "132",
+          "source": "",
+          "tags": "featured artist fa mappers' guild mg mpg instrumental electronic hinsvar",
+          "genre_id": "10",
+          "language_id": "5",
+          "favourite_count": "45",
+          "rating": "9.44444",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "2188",
+          "passcount": "776",
+          "packs": null,
+          "max_combo": "497",
+          "diff_aim": "1.89564",
+          "diff_speed": "1.61427",
+          "difficultyrating": "3.62134"
+        },
+        {
+          "beatmapset_id": "2626706",
+          "beatmap_id": "5907500",
+          "approved": "1",
+          "total_length": "101",
+          "hit_length": "101",
+          "version": "This Is EASY",
+          "file_md5": "6755d4f960f9f611253f55719f757b23",
+          "diff_size": "3",
+          "diff_overall": "3",
+          "diff_approach": "4",
+          "diff_drain": "2",
+          "mode": "0",
+          "count_normal": "60",
+          "count_slider": "63",
+          "count_spinner": "1",
+          "submit_date": "2026-09-26 06:56:29",
+          "approved_date": "2026-10-31 06:03:12",
+          "last_update": "2026-10-23 17:25:29",
+          "artist": "Akiri",
+          "artist_unicode": "あきり",
+          "title": "This Is ERA",
+          "title_unicode": "This Is ERA",
+          "creator": "Chaoslitz",
+          "creator_id": "3621552",
+          "bpm": "132",
+          "source": "",
+          "tags": "featured artist fa mappers' guild mg mpg instrumental electronic hinsvar",
+          "genre_id": "10",
+          "language_id": "5",
+          "favourite_count": "45",
+          "rating": "9.44444",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "2683",
+          "passcount": "1344",
+          "packs": null,
+          "max_combo": "223",
+          "diff_aim": "0.957333",
+          "diff_speed": "0.580256",
+          "difficultyrating": "1.66429"
+        },
+        {
+          "beatmapset_id": "2626706",
+          "beatmap_id": "5907502",
+          "approved": "1",
+          "total_length": "100",
+          "hit_length": "100",
+          "version": "This Is NORMAL",
+          "file_md5": "5de9f850e49dffa8f739f4af4c8d78e3",
+          "diff_size": "3.5",
+          "diff_overall": "4",
+          "diff_approach": "5.5",
+          "diff_drain": "3",
+          "mode": "0",
+          "count_normal": "81",
+          "count_slider": "107",
+          "count_spinner": "1",
+          "submit_date": "2026-09-26 06:56:29",
+          "approved_date": "2026-10-31 06:03:12",
+          "last_update": "2026-10-23 17:25:29",
+          "artist": "Akiri",
+          "artist_unicode": "あきり",
+          "title": "This Is ERA",
+          "title_unicode": "This Is ERA",
+          "creator": "Chaoslitz",
+          "creator_id": "3621552",
+          "bpm": "132",
+          "source": "",
+          "tags": "featured artist fa mappers' guild mg mpg instrumental electronic hinsvar",
+          "genre_id": "10",
+          "language_id": "5",
+          "favourite_count": "45",
+          "rating": "9.44444",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "1891",
+          "passcount": "849",
+          "packs": null,
+          "max_combo": "312",
+          "diff_aim": "1.09573",
+          "diff_speed": "0.793014",
+          "difficultyrating": "1.97592"
+        },
+        {
+          "beatmapset_id": "2626706",
+          "beatmap_id": "5916541",
+          "approved": "1",
+          "total_length": "101",
+          "hit_length": "101",
+          "version": "This Is COLLAB INSANE",
+          "file_md5": "6f5eb641a68cca8f7dd709471a45b635",
+          "diff_size": "4.4",
+          "diff_overall": "8",
+          "diff_approach": "9",
+          "diff_drain": "5",
+          "mode": "0",
+          "count_normal": "231",
+          "count_slider": "186",
+          "count_spinner": "1",
+          "submit_date": "2026-09-26 06:56:29",
+          "approved_date": "2026-10-31 06:03:12",
+          "last_update": "2026-10-23 17:25:29",
+          "artist": "Akiri",
+          "artist_unicode": "あきり",
+          "title": "This Is ERA",
+          "title_unicode": "This Is ERA",
+          "creator": "Chaoslitz",
+          "creator_id": "3621552",
+          "bpm": "132",
+          "source": "",
+          "tags": "featured artist fa mappers' guild mg mpg instrumental electronic hinsvar",
+          "genre_id": "10",
+          "language_id": "5",
+          "favourite_count": "45",
+          "rating": "9.44444",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "2008",
+          "passcount": "727",
+          "packs": null,
+          "max_combo": "630",
+          "diff_aim": "2.19417",
+          "diff_speed": "1.8574",
+          "difficultyrating": "4.15254"
+        },
         {
           "beatmapset_id": "2613712",
           "beatmap_id": "5856306",
@@ -22723,18 +22943,63 @@
             }
           ],
           "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2626706",
+          "title": "This Is ERA",
+          "artist": "Akiri",
+          "creator": "Chaoslitz",
+          "approved_date": "2026-10-31 06:03:12",
+          "difficulties": [
+            {
+              "beatmap_id": "5902402",
+              "version": "This Is EXPERT",
+              "difficultyrating": "5.60712",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5902403",
+              "version": "This Is HINSVAR'S HARD",
+              "difficultyrating": "3.62134",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5907500",
+              "version": "This Is EASY",
+              "difficultyrating": "1.66429",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5907502",
+              "version": "This Is NORMAL",
+              "difficultyrating": "1.97592",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5916541",
+              "version": "This Is COLLAB INSANE",
+              "difficultyrating": "4.15254",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
       "stats": {
-        "totalBeatmaps": 425,
-        "totalBeatmapsets": 102,
-        "ownBeatmapsets": 102,
+        "totalBeatmaps": 430,
+        "totalBeatmapsets": 103,
+        "ownBeatmapsets": 103,
         "guestBeatmapsets": 0,
         "totalGuestDiffs": 0,
-        "ownDifficulties": 425
+        "ownDifficulties": 430
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "394326",
@@ -44755,7 +45020,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 415
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "876419",
@@ -62321,7 +62586,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 330
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "7354729",
@@ -76770,9 +77035,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "86",
-          "playcount": "28949"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2475339",
@@ -76831,9 +77094,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "682",
-          "playcount": "209104"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2397979",
@@ -76878,9 +77139,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "149",
-          "playcount": "46661"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2468347",
@@ -76897,9 +77156,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "64",
-          "playcount": "9028"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2401973",
@@ -76965,9 +77222,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "173",
-          "playcount": "65474"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2258353",
@@ -77019,9 +77274,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "59",
-          "playcount": "26457"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1833718",
@@ -77066,9 +77319,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "145",
-          "playcount": "56705"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2074153",
@@ -77120,9 +77371,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "106",
-          "playcount": "44358"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2337469",
@@ -77181,9 +77430,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "276",
-          "playcount": "117484"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2305252",
@@ -77242,9 +77489,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "228",
-          "playcount": "98215"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2270896",
@@ -77296,9 +77541,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "447",
-          "playcount": "201318"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2254451",
@@ -79678,7 +79921,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 327
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "1367570",
@@ -94301,7 +94544,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 275
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "419954",
@@ -103500,7 +103743,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 173
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "873961",
@@ -112038,7 +112281,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 159
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "3901754",
@@ -120230,7 +120473,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 154
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "310747",
@@ -126972,7 +127215,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 126
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "636114",
@@ -132758,9 +133001,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "27",
-          "playcount": "18392"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2040393",
@@ -133807,7 +134048,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 125
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "2045914",
@@ -139626,7 +139867,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 111
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "643394",
@@ -145086,7 +145327,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 102
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "3178411",
@@ -150442,7 +150683,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 100
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "4600383",
@@ -155424,7 +155665,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 94
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "515967",
@@ -159928,7 +160169,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 86
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "4835997",
@@ -163338,7 +163579,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 64
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "155707",
@@ -166503,7 +166744,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 59
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "207340",
@@ -169576,7 +169817,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 57
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "2286528",
@@ -172580,7 +172821,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 56
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "7401",
@@ -175490,7 +175731,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 54
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "26507",
@@ -178392,7 +178633,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 54
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "21961",
@@ -180720,7 +180961,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 42
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "3718151",
@@ -182968,7 +183209,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 42
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "3793769",
@@ -184900,7 +185141,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 36
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "91501",
@@ -186811,7 +187052,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 35
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "27896",
@@ -188652,7 +188893,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 33
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "31610",
@@ -190380,7 +190621,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 32
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "4887865",
@@ -192118,7 +192359,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 32
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "1856463",
@@ -193744,7 +193985,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 30
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "3565813",
@@ -195380,7 +195621,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 30
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "220939",
@@ -196680,7 +196921,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 24
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "342856",
@@ -197929,7 +198170,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 23
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "100497",
@@ -199147,7 +199388,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 22
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "355278",
@@ -200192,7 +200433,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 19
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "968756",
@@ -201217,7 +201458,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 19
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "22343",
@@ -202211,7 +202452,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 18
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "324768",
@@ -203154,7 +203395,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 17
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "1530993",
@@ -204097,7 +204338,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 17
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "57603",
@@ -204867,7 +205108,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 14
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "321",
@@ -205578,7 +205819,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 12
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "214933",
@@ -206144,7 +206385,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 10
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "1367674",
@@ -206649,7 +206890,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 9
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "31054",
@@ -207164,7 +207405,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 9
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "1488736",
@@ -207719,7 +207960,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 9
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "18404",
@@ -208173,7 +208414,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 8
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "1927544",
@@ -208627,7 +208868,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 8
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "858416",
@@ -208969,7 +209210,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 6
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "42824",
@@ -209272,7 +209513,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 5
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "43938",
@@ -209573,7 +209814,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 5
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "10641",
@@ -209864,7 +210105,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 5
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "1333167",
@@ -210155,7 +210396,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 5
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "71",
@@ -210405,7 +210646,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 4
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "21870",
@@ -210645,7 +210886,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 4
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "6188",
@@ -210885,7 +211126,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 4
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "72",
@@ -211096,7 +211337,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "593",
@@ -211285,7 +211526,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "21824",
@@ -211474,7 +211715,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     },
     {
       "user_id": "312215",
@@ -211663,7 +211904,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-10-23T07:17:39.428Z"
+      "lastUpdated": "2026-11-06T09:08:03.048Z"
     }
   ]
 }
