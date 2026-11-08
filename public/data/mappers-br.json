@@ -5,11 +5,11 @@
     "demonym": "Brazil",
     "nativeName": "Brazil"
   },
-  "lastUpdated": "2026-10-25T07:28:57.956Z",
+  "lastUpdated": "2026-11-08T08:48:32.730Z",
   "totalMappers": 36,
-  "totalBeatmaps": 1247,
-  "totalBeatmapsets": 309,
-  "totalOwnBeatmapsets": 309,
+  "totalBeatmaps": 1256,
+  "totalBeatmapsets": 312,
+  "totalOwnBeatmapsets": 312,
   "totalGuestBeatmapsets": 0,
   "totalGuestDiffs": 0,
   "totalOwnDifficulties": 1234,
@@ -22,13 +22,409 @@
         "Net0"
       ],
       "country": "BR",
-      "rankedBeatmaps": 303,
-      "rankedBeatmapsets": 65,
-      "ownBeatmapsets": 65,
+      "rankedBeatmaps": 312,
+      "rankedBeatmapsets": 68,
+      "ownBeatmapsets": 68,
       "guestBeatmapsets": 0,
       "totalGuestDiffs": 0,
       "ownDifficulties": 297,
       "beatmaps": [
+        {
+          "beatmapset_id": "2381863",
+          "beatmap_id": "5149523",
+          "approved": "1",
+          "total_length": "93",
+          "hit_length": "92",
+          "version": "Symmetrical Prism",
+          "file_md5": "ef97228baaeadfe7ff31cb2ee13b07a4",
+          "diff_size": "4",
+          "diff_overall": "8",
+          "diff_approach": "8.5",
+          "diff_drain": "5",
+          "mode": "0",
+          "count_normal": "137",
+          "count_slider": "152",
+          "count_spinner": "2",
+          "submit_date": "2025-06-03 19:59:16",
+          "approved_date": "2025-06-21 16:23:42",
+          "last_update": "2025-06-13 01:38:00",
+          "artist": "alan",
+          "artist_unicode": "alan",
+          "title": "Diamond (TV Size)",
+          "title_unicode": "Diamond (TV Size)",
+          "creator": "Neto",
+          "creator_id": "5099768",
+          "bpm": "105",
+          "source": "犬夜叉 完結編",
+          "tags": "jpop j-pop japanese anime inuyasha: kanketsu-hen inuyasha: the final act avex trax ats- 藤林聖子 shoko fujibayashi 菊池一仁 kazuhito kikuchi silent rock net0 niii_san dasdwqdf",
+          "genre_id": "3",
+          "language_id": "3",
+          "favourite_count": "24",
+          "rating": "9.27273",
+          "storyboard": "0",
+          "video": "1",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "3214",
+          "passcount": "644",
+          "packs": "S1653",
+          "max_combo": "460",
+          "diff_aim": "2.59025",
+          "diff_speed": "1.36697",
+          "difficultyrating": "4.44133"
+        },
+        {
+          "beatmapset_id": "2377952",
+          "beatmap_id": "5137728",
+          "approved": "1",
+          "total_length": "163",
+          "hit_length": "159",
+          "version": "She's not real, but my feelings are",
+          "file_md5": "17b276fa5e1171dc8cf15f716324db70",
+          "diff_size": "4",
+          "diff_overall": "8",
+          "diff_approach": "8.8",
+          "diff_drain": "4",
+          "mode": "0",
+          "count_normal": "345",
+          "count_slider": "245",
+          "count_spinner": "0",
+          "submit_date": "2025-05-27 14:34:02",
+          "approved_date": "2025-06-16 08:25:33",
+          "last_update": "2025-06-09 00:09:49",
+          "artist": "Arlo Parks",
+          "artist_unicode": "Arlo Parks",
+          "title": "Portra 400",
+          "title_unicode": "Portra 400",
+          "creator": "Neto",
+          "creator_id": "5099768",
+          "bpm": "85",
+          "source": "",
+          "tags": "pop english tarrasky le mirai sirmirai cacturne azumiw danilmaz1 net0 lapwing ryan gosling blade runner meme you look lonely tik tok",
+          "genre_id": "5",
+          "language_id": "2",
+          "favourite_count": "256",
+          "rating": "9.13699",
+          "storyboard": "0",
+          "video": "1",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "47692",
+          "passcount": "13260",
+          "packs": "S1649",
+          "max_combo": "848",
+          "diff_aim": "2.48698",
+          "diff_speed": "1.74711",
+          "difficultyrating": "4.45545"
+        },
+        {
+          "beatmapset_id": "2377952",
+          "beatmap_id": "5138092",
+          "approved": "1",
+          "total_length": "163",
+          "hit_length": "163",
+          "version": "Collab Hard",
+          "file_md5": "41005459e20a34d4c64fe8482765aaf5",
+          "diff_size": "3.3",
+          "diff_overall": "6",
+          "diff_approach": "7",
+          "diff_drain": "3",
+          "mode": "0",
+          "count_normal": "271",
+          "count_slider": "233",
+          "count_spinner": "0",
+          "submit_date": "2025-05-27 14:34:02",
+          "approved_date": "2025-06-16 08:25:33",
+          "last_update": "2025-06-09 00:09:49",
+          "artist": "Arlo Parks",
+          "artist_unicode": "Arlo Parks",
+          "title": "Portra 400",
+          "title_unicode": "Portra 400",
+          "creator": "Neto",
+          "creator_id": "5099768",
+          "bpm": "85",
+          "source": "",
+          "tags": "pop english tarrasky le mirai sirmirai cacturne azumiw danilmaz1 net0 lapwing ryan gosling blade runner meme you look lonely tik tok",
+          "genre_id": "5",
+          "language_id": "2",
+          "favourite_count": "256",
+          "rating": "9.13699",
+          "storyboard": "0",
+          "video": "1",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "12043",
+          "passcount": "2869",
+          "packs": "S1649",
+          "max_combo": "782",
+          "diff_aim": "1.63894",
+          "diff_speed": "1.56102",
+          "difficultyrating": "3.26036"
+        },
+        {
+          "beatmapset_id": "2377952",
+          "beatmap_id": "5138093",
+          "approved": "1",
+          "total_length": "163",
+          "hit_length": "158",
+          "version": "Collab Normal",
+          "file_md5": "a44d8a3fbea85a912de01e7a8d2561ee",
+          "diff_size": "3",
+          "diff_overall": "4",
+          "diff_approach": "5",
+          "diff_drain": "3",
+          "mode": "0",
+          "count_normal": "131",
+          "count_slider": "192",
+          "count_spinner": "0",
+          "submit_date": "2025-05-27 14:34:02",
+          "approved_date": "2025-06-16 08:25:33",
+          "last_update": "2025-06-09 00:09:49",
+          "artist": "Arlo Parks",
+          "artist_unicode": "Arlo Parks",
+          "title": "Portra 400",
+          "title_unicode": "Portra 400",
+          "creator": "Neto",
+          "creator_id": "5099768",
+          "bpm": "85",
+          "source": "",
+          "tags": "pop english tarrasky le mirai sirmirai cacturne azumiw danilmaz1 net0 lapwing ryan gosling blade runner meme you look lonely tik tok",
+          "genre_id": "5",
+          "language_id": "2",
+          "favourite_count": "256",
+          "rating": "9.13699",
+          "storyboard": "0",
+          "video": "1",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "6391",
+          "passcount": "2465",
+          "packs": "S1649",
+          "max_combo": "538",
+          "diff_aim": "1.07363",
+          "diff_speed": "0.898774",
+          "difficultyrating": "2.04651"
+        },
+        {
+          "beatmapset_id": "1173237",
+          "beatmap_id": "2446912",
+          "approved": "1",
+          "total_length": "89",
+          "hit_length": "87",
+          "version": "Extra",
+          "file_md5": "22d572c7f76d9b9b43f88c09b48724ad",
+          "diff_size": "4.5",
+          "diff_overall": "8",
+          "diff_approach": "9.2",
+          "diff_drain": "5",
+          "mode": "0",
+          "count_normal": "188",
+          "count_slider": "194",
+          "count_spinner": "1",
+          "submit_date": "2020-05-17 19:54:35",
+          "approved_date": "2025-05-29 07:22:59",
+          "last_update": "2025-05-26 22:49:34",
+          "artist": "ROUND TABLE feat. Nino",
+          "artist_unicode": "ROUND TABLE feat. Nino",
+          "title": "Let Me Be With You (TV Size)",
+          "title_unicode": "Let Me Be With You (TV Size)",
+          "creator": "Neto",
+          "creator_id": "5099768",
+          "bpm": "132.21",
+          "source": "ちょびっツ",
+          "tags": "japanese jpop pop anisong electronica shibuya-kei akishibu-kei net0 renamon bossandy lkxemmeji kauan xunni 2000's 2003 alternate old style aplil april chii chobits 北川勝利 katsutoshi kitagawa 伊藤利恵子 rieko ito clamp madhouse op opening romance comedy sci-fi ecchi drama victor entertainment inc anime",
+          "genre_id": "3",
+          "language_id": "3",
+          "favourite_count": "115",
+          "rating": "8.24561",
+          "storyboard": "0",
+          "video": "1",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "8803",
+          "passcount": "1023",
+          "packs": "S1638",
+          "max_combo": "603",
+          "diff_aim": "3.14703",
+          "diff_speed": "1.77486",
+          "difficultyrating": "5.42312"
+        },
+        {
+          "beatmapset_id": "1173237",
+          "beatmap_id": "2642757",
+          "approved": "1",
+          "total_length": "89",
+          "hit_length": "87",
+          "version": "Kauan's Extra",
+          "file_md5": "819969a3c22cd26d58b6812316a3a0d0",
+          "diff_size": "5",
+          "diff_overall": "9",
+          "diff_approach": "8",
+          "diff_drain": "4",
+          "mode": "0",
+          "count_normal": "118",
+          "count_slider": "219",
+          "count_spinner": "1",
+          "submit_date": "2020-05-17 19:54:35",
+          "approved_date": "2025-05-29 07:22:59",
+          "last_update": "2025-05-26 22:49:34",
+          "artist": "ROUND TABLE feat. Nino",
+          "artist_unicode": "ROUND TABLE feat. Nino",
+          "title": "Let Me Be With You (TV Size)",
+          "title_unicode": "Let Me Be With You (TV Size)",
+          "creator": "Neto",
+          "creator_id": "5099768",
+          "bpm": "132.21",
+          "source": "ちょびっツ",
+          "tags": "japanese jpop pop anisong electronica shibuya-kei akishibu-kei net0 renamon bossandy lkxemmeji kauan xunni 2000's 2003 alternate old style aplil april chii chobits 北川勝利 katsutoshi kitagawa 伊藤利恵子 rieko ito clamp madhouse op opening romance comedy sci-fi ecchi drama victor entertainment inc anime",
+          "genre_id": "3",
+          "language_id": "3",
+          "favourite_count": "115",
+          "rating": "8.24561",
+          "storyboard": "0",
+          "video": "1",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "6850",
+          "passcount": "656",
+          "packs": "S1638",
+          "max_combo": "557",
+          "diff_aim": "3.68601",
+          "diff_speed": "1.77634",
+          "difficultyrating": "6.5444"
+        },
+        {
+          "beatmapset_id": "1173237",
+          "beatmap_id": "2681338",
+          "approved": "1",
+          "total_length": "89",
+          "hit_length": "87",
+          "version": "Boss' Hard",
+          "file_md5": "f510542024d5518e75d8b51dfa3ba9c6",
+          "diff_size": "3.8",
+          "diff_overall": "6",
+          "diff_approach": "7",
+          "diff_drain": "5",
+          "mode": "0",
+          "count_normal": "176",
+          "count_slider": "106",
+          "count_spinner": "1",
+          "submit_date": "2020-05-17 19:54:35",
+          "approved_date": "2025-05-29 07:22:59",
+          "last_update": "2025-05-26 22:49:34",
+          "artist": "ROUND TABLE feat. Nino",
+          "artist_unicode": "ROUND TABLE feat. Nino",
+          "title": "Let Me Be With You (TV Size)",
+          "title_unicode": "Let Me Be With You (TV Size)",
+          "creator": "Neto",
+          "creator_id": "5099768",
+          "bpm": "132.21",
+          "source": "ちょびっツ",
+          "tags": "japanese jpop pop anisong electronica shibuya-kei akishibu-kei net0 renamon bossandy lkxemmeji kauan xunni 2000's 2003 alternate old style aplil april chii chobits 北川勝利 katsutoshi kitagawa 伊藤利恵子 rieko ito clamp madhouse op opening romance comedy sci-fi ecchi drama victor entertainment inc anime",
+          "genre_id": "3",
+          "language_id": "3",
+          "favourite_count": "115",
+          "rating": "8.24561",
+          "storyboard": "0",
+          "video": "1",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "7813",
+          "passcount": "2595",
+          "packs": "S1638",
+          "max_combo": "398",
+          "diff_aim": "1.62105",
+          "diff_speed": "1.392",
+          "difficultyrating": "3.08744"
+        },
+        {
+          "beatmapset_id": "1173237",
+          "beatmap_id": "2707292",
+          "approved": "1",
+          "total_length": "89",
+          "hit_length": "87",
+          "version": "Lkxemmeji's Insane",
+          "file_md5": "af3cbf5410dc142980072772c0bbc4dd",
+          "diff_size": "4",
+          "diff_overall": "7",
+          "diff_approach": "8",
+          "diff_drain": "5",
+          "mode": "0",
+          "count_normal": "244",
+          "count_slider": "110",
+          "count_spinner": "1",
+          "submit_date": "2020-05-17 19:54:35",
+          "approved_date": "2025-05-29 07:22:59",
+          "last_update": "2025-05-26 22:49:34",
+          "artist": "ROUND TABLE feat. Nino",
+          "artist_unicode": "ROUND TABLE feat. Nino",
+          "title": "Let Me Be With You (TV Size)",
+          "title_unicode": "Let Me Be With You (TV Size)",
+          "creator": "Neto",
+          "creator_id": "5099768",
+          "bpm": "132.21",
+          "source": "ちょびっツ",
+          "tags": "japanese jpop pop anisong electronica shibuya-kei akishibu-kei net0 renamon bossandy lkxemmeji kauan xunni 2000's 2003 alternate old style aplil april chii chobits 北川勝利 katsutoshi kitagawa 伊藤利恵子 rieko ito clamp madhouse op opening romance comedy sci-fi ecchi drama victor entertainment inc anime",
+          "genre_id": "3",
+          "language_id": "3",
+          "favourite_count": "115",
+          "rating": "8.24561",
+          "storyboard": "0",
+          "video": "1",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "10360",
+          "passcount": "1346",
+          "packs": "S1638",
+          "max_combo": "502",
+          "diff_aim": "2.45825",
+          "diff_speed": "1.76518",
+          "difficultyrating": "4.48027"
+        },
+        {
+          "beatmapset_id": "1173237",
+          "beatmap_id": "4452216",
+          "approved": "1",
+          "total_length": "89",
+          "hit_length": "87",
+          "version": "Renamon's Normal",
+          "file_md5": "97f1a6286dbd0fef50477296aff5b840",
+          "diff_size": "3.8",
+          "diff_overall": "4",
+          "diff_approach": "5",
+          "diff_drain": "4",
+          "mode": "0",
+          "count_normal": "88",
+          "count_slider": "81",
+          "count_spinner": "0",
+          "submit_date": "2020-05-17 19:54:35",
+          "approved_date": "2025-05-29 07:22:59",
+          "last_update": "2025-05-26 22:49:34",
+          "artist": "ROUND TABLE feat. Nino",
+          "artist_unicode": "ROUND TABLE feat. Nino",
+          "title": "Let Me Be With You (TV Size)",
+          "title_unicode": "Let Me Be With You (TV Size)",
+          "creator": "Neto",
+          "creator_id": "5099768",
+          "bpm": "132.21",
+          "source": "ちょびっツ",
+          "tags": "japanese jpop pop anisong electronica shibuya-kei akishibu-kei net0 renamon bossandy lkxemmeji kauan xunni 2000's 2003 alternate old style aplil april chii chobits 北川勝利 katsutoshi kitagawa 伊藤利恵子 rieko ito clamp madhouse op opening romance comedy sci-fi ecchi drama victor entertainment inc anime",
+          "genre_id": "3",
+          "language_id": "3",
+          "favourite_count": "115",
+          "rating": "8.24561",
+          "storyboard": "0",
+          "video": "1",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "3430",
+          "passcount": "1421",
+          "packs": "S1638",
+          "max_combo": "264",
+          "diff_aim": "1.24949",
+          "diff_speed": "0.746634",
+          "difficultyrating": "2.17936"
+        },
         {
           "beatmapset_id": "2371965",
           "beatmap_id": "5119879",
@@ -13399,9 +13795,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "449",
-          "playcount": "160960"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1033380",
@@ -13481,9 +13875,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "301",
-          "playcount": "135091"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1292749",
@@ -13528,9 +13920,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "65",
-          "playcount": "48326"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2341258",
@@ -13603,9 +13993,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "49",
-          "playcount": "64692"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2343193",
@@ -13643,9 +14031,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "58",
-          "playcount": "24304"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "611553",
@@ -13697,9 +14083,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "127",
-          "playcount": "82509"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1804902",
@@ -13737,9 +14121,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "16",
-          "playcount": "15466"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1514530",
@@ -13812,9 +14194,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "291",
-          "playcount": "279379"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1494893",
@@ -13859,9 +14239,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "135",
-          "playcount": "52349"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2242675",
@@ -13906,9 +14284,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "45",
-          "playcount": "38597"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1818273",
@@ -13953,9 +14329,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "415",
-          "playcount": "194225"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "853493",
@@ -14021,9 +14395,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "186",
-          "playcount": "212966"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2107136",
@@ -14040,9 +14412,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "10",
-          "playcount": "3808"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2267990",
@@ -16159,18 +16529,111 @@
             }
           ],
           "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1173237",
+          "title": "Let Me Be With You (TV Size)",
+          "artist": "ROUND TABLE feat. Nino",
+          "creator": "Neto",
+          "approved_date": "2025-05-29 07:22:59",
+          "difficulties": [
+            {
+              "beatmap_id": "2446912",
+              "version": "Extra",
+              "difficultyrating": "5.42312",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2642757",
+              "version": "Kauan's Extra",
+              "difficultyrating": "6.5444",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2681338",
+              "version": "Boss' Hard",
+              "difficultyrating": "3.08744",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2707292",
+              "version": "Lkxemmeji's Insane",
+              "difficultyrating": "4.48027",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "4452216",
+              "version": "Renamon's Normal",
+              "difficultyrating": "2.17936",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2377952",
+          "title": "Portra 400",
+          "artist": "Arlo Parks",
+          "creator": "Neto",
+          "approved_date": "2025-06-16 08:25:33",
+          "difficulties": [
+            {
+              "beatmap_id": "5137728",
+              "version": "She's not real, but my feelings are",
+              "difficultyrating": "4.45545",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5138092",
+              "version": "Collab Hard",
+              "difficultyrating": "3.26036",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5138093",
+              "version": "Collab Normal",
+              "difficultyrating": "2.04651",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2381863",
+          "title": "Diamond (TV Size)",
+          "artist": "alan",
+          "creator": "Neto",
+          "approved_date": "2025-06-21 16:23:42",
+          "difficulties": [
+            {
+              "beatmap_id": "5149523",
+              "version": "Symmetrical Prism",
+              "difficultyrating": "4.44133",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
       "stats": {
-        "totalBeatmaps": 303,
-        "totalBeatmapsets": 65,
-        "ownBeatmapsets": 65,
+        "totalBeatmaps": 312,
+        "totalBeatmapsets": 68,
+        "ownBeatmapsets": 68,
         "guestBeatmapsets": 0,
         "totalGuestDiffs": 0,
-        "ownDifficulties": 303
+        "ownDifficulties": 312
       },
-      "lastUpdated": "2026-10-25T07:28:57.956Z"
+      "lastUpdated": "2026-11-08T08:48:32.730Z"
     },
     {
       "user_id": "2857314",
@@ -26672,7 +27135,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 196
       },
-      "lastUpdated": "2026-10-25T07:28:57.956Z"
+      "lastUpdated": "2026-11-08T08:48:32.730Z"
     },
     {
       "user_id": "5139042",
@@ -31377,7 +31840,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 87
       },
-      "lastUpdated": "2026-10-25T07:28:57.956Z"
+      "lastUpdated": "2026-11-08T08:48:32.730Z"
     },
     {
       "user_id": "4098393",
@@ -34655,9 +35118,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "1974",
-          "playcount": "1015269"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1109770",
@@ -34702,9 +35163,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "27",
-          "playcount": "18725"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2338699",
@@ -34735,9 +35194,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "1736",
-          "playcount": "912909"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1647839",
@@ -35272,7 +35729,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 73
       },
-      "lastUpdated": "2026-10-25T07:28:57.956Z"
+      "lastUpdated": "2026-11-08T08:48:32.730Z"
     },
     {
       "user_id": "1572385",
@@ -38899,7 +39356,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 69
       },
-      "lastUpdated": "2026-10-25T07:28:57.956Z"
+      "lastUpdated": "2026-11-08T08:48:32.730Z"
     },
     {
       "user_id": "19048",
@@ -42348,7 +42805,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 63
       },
-      "lastUpdated": "2026-10-25T07:28:57.956Z"
+      "lastUpdated": "2026-11-08T08:48:32.730Z"
     },
     {
       "user_id": "93813",
@@ -44803,7 +45260,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 45
       },
-      "lastUpdated": "2026-10-25T07:28:57.956Z"
+      "lastUpdated": "2026-11-08T08:48:32.730Z"
     },
     {
       "user_id": "802909",
@@ -47144,7 +47601,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 43
       },
-      "lastUpdated": "2026-10-25T07:28:57.956Z"
+      "lastUpdated": "2026-11-08T08:48:32.730Z"
     },
     {
       "user_id": "122623",
@@ -49251,7 +49708,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 39
       },
-      "lastUpdated": "2026-10-25T07:28:57.956Z"
+      "lastUpdated": "2026-11-08T08:48:32.730Z"
     },
     {
       "user_id": "701726",
@@ -51060,7 +51517,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 33
       },
-      "lastUpdated": "2026-10-25T07:28:57.956Z"
+      "lastUpdated": "2026-11-08T08:48:32.730Z"
     },
     {
       "user_id": "5400261",
@@ -52696,7 +53153,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 30
       },
-      "lastUpdated": "2026-10-25T07:28:57.956Z"
+      "lastUpdated": "2026-11-08T08:48:32.730Z"
     },
     {
       "user_id": "328615",
@@ -54069,7 +54526,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 25
       },
-      "lastUpdated": "2026-10-25T07:28:57.956Z"
+      "lastUpdated": "2026-11-08T08:48:32.730Z"
     },
     {
       "user_id": "1948827",
@@ -55328,7 +55785,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 23
       },
-      "lastUpdated": "2026-10-25T07:28:57.956Z"
+      "lastUpdated": "2026-11-08T08:48:32.730Z"
     },
     {
       "user_id": "3860376",
@@ -56373,7 +56830,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 19
       },
-      "lastUpdated": "2026-10-25T07:28:57.956Z"
+      "lastUpdated": "2026-11-08T08:48:32.730Z"
     },
     {
       "user_id": "4475985",
@@ -57357,7 +57814,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 18
       },
-      "lastUpdated": "2026-10-25T07:28:57.956Z"
+      "lastUpdated": "2026-11-08T08:48:32.730Z"
     },
     {
       "user_id": "40981",
@@ -58363,7 +58820,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 18
       },
-      "lastUpdated": "2026-10-25T07:28:57.956Z"
+      "lastUpdated": "2026-11-08T08:48:32.730Z"
     },
     {
       "user_id": "150978",
@@ -59188,9 +59645,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "22",
-          "playcount": "4861"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "25016",
@@ -59381,7 +59836,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 18
       },
-      "lastUpdated": "2026-10-25T07:28:57.956Z"
+      "lastUpdated": "2026-11-08T08:48:32.730Z"
     },
     {
       "user_id": "317177",
@@ -60163,7 +60618,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 14
       },
-      "lastUpdated": "2026-10-25T07:28:57.956Z"
+      "lastUpdated": "2026-11-08T08:48:32.730Z"
     },
     {
       "user_id": "227881",
@@ -60943,7 +61398,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 14
       },
-      "lastUpdated": "2026-10-25T07:28:57.956Z"
+      "lastUpdated": "2026-11-08T08:48:32.730Z"
     },
     {
       "user_id": "15064",
@@ -61570,7 +62025,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 11
       },
-      "lastUpdated": "2026-10-25T07:28:57.956Z"
+      "lastUpdated": "2026-11-08T08:48:32.730Z"
     },
     {
       "user_id": "195335",
@@ -62085,7 +62540,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 9
       },
-      "lastUpdated": "2026-10-25T07:28:57.956Z"
+      "lastUpdated": "2026-11-08T08:48:32.730Z"
     },
     {
       "user_id": "1078989",
@@ -62590,7 +63045,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 9
       },
-      "lastUpdated": "2026-10-25T07:28:57.956Z"
+      "lastUpdated": "2026-11-08T08:48:32.730Z"
     },
     {
       "user_id": "555855",
@@ -63107,7 +63562,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 9
       },
-      "lastUpdated": "2026-10-25T07:28:57.956Z"
+      "lastUpdated": "2026-11-08T08:48:32.730Z"
     },
     {
       "user_id": "5018747",
@@ -63614,7 +64069,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 9
       },
-      "lastUpdated": "2026-10-25T07:28:57.956Z"
+      "lastUpdated": "2026-11-08T08:48:32.730Z"
     },
     {
       "user_id": "76262",
@@ -64068,7 +64523,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 8
       },
-      "lastUpdated": "2026-10-25T07:28:57.956Z"
+      "lastUpdated": "2026-11-08T08:48:32.730Z"
     },
     {
       "user_id": "209664",
@@ -64532,7 +64987,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 8
       },
-      "lastUpdated": "2026-10-25T07:28:57.956Z"
+      "lastUpdated": "2026-11-08T08:48:32.730Z"
     },
     {
       "user_id": "5287",
@@ -64935,7 +65390,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 7
       },
-      "lastUpdated": "2026-10-25T07:28:57.956Z"
+      "lastUpdated": "2026-11-08T08:48:32.730Z"
     },
     {
       "user_id": "74017",
@@ -65338,7 +65793,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 7
       },
-      "lastUpdated": "2026-10-25T07:28:57.956Z"
+      "lastUpdated": "2026-11-08T08:48:32.730Z"
     },
     {
       "user_id": "1360278",
@@ -65743,7 +66198,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 7
       },
-      "lastUpdated": "2026-10-25T07:28:57.956Z"
+      "lastUpdated": "2026-11-08T08:48:32.730Z"
     },
     {
       "user_id": "1558603",
@@ -66148,7 +66603,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 7
       },
-      "lastUpdated": "2026-10-25T07:28:57.956Z"
+      "lastUpdated": "2026-11-08T08:48:32.730Z"
     },
     {
       "user_id": "4956938",
@@ -66500,7 +66955,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 6
       },
-      "lastUpdated": "2026-10-25T07:28:57.956Z"
+      "lastUpdated": "2026-11-08T08:48:32.730Z"
     },
     {
       "user_id": "362851",
@@ -66791,7 +67246,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 5
       },
-      "lastUpdated": "2026-10-25T07:28:57.956Z"
+      "lastUpdated": "2026-11-08T08:48:32.730Z"
     },
     {
       "user_id": "3813800",
@@ -67082,7 +67537,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 5
       },
-      "lastUpdated": "2026-10-25T07:28:57.956Z"
+      "lastUpdated": "2026-11-08T08:48:32.730Z"
     },
     {
       "user_id": "126927",
@@ -67322,7 +67777,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 4
       },
-      "lastUpdated": "2026-10-25T07:28:57.956Z"
+      "lastUpdated": "2026-11-08T08:48:32.730Z"
     },
     {
       "user_id": "2594229",
@@ -67562,7 +68017,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 4
       },
-      "lastUpdated": "2026-10-25T07:28:57.956Z"
+      "lastUpdated": "2026-11-08T08:48:32.730Z"
     },
     {
       "user_id": "9314703",
@@ -67700,7 +68155,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 2
       },
-      "lastUpdated": "2026-10-25T07:28:57.956Z"
+      "lastUpdated": "2026-11-08T08:48:32.730Z"
     }
   ]
 }

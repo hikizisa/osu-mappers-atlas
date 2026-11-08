@@ -5,11 +5,11 @@
     "demonym": "Russian Federation",
     "nativeName": "Russian Federation"
   },
-  "lastUpdated": "2026-10-25T07:29:09.995Z",
+  "lastUpdated": "2026-11-08T08:48:42.333Z",
   "totalMappers": 59,
-  "totalBeatmaps": 2314,
-  "totalBeatmapsets": 664,
-  "totalOwnBeatmapsets": 664,
+  "totalBeatmaps": 2315,
+  "totalBeatmapsets": 665,
+  "totalOwnBeatmapsets": 665,
   "totalGuestBeatmapsets": 0,
   "totalGuestDiffs": 0,
   "totalOwnDifficulties": 2289,
@@ -11325,9 +11325,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "63",
-          "playcount": "6895"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2091742",
@@ -13697,7 +13695,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 256
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "597957",
@@ -27144,7 +27142,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 248
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "186243",
@@ -35934,7 +35932,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 164
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "1848318",
@@ -42526,7 +42524,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 119
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "89619",
@@ -48063,20 +48061,64 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 101
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "7645522",
       "username": "piroshki",
       "aliases": [],
       "country": "RU",
-      "rankedBeatmaps": 99,
-      "rankedBeatmapsets": 33,
-      "ownBeatmapsets": 33,
+      "rankedBeatmaps": 100,
+      "rankedBeatmapsets": 34,
+      "ownBeatmapsets": 34,
       "guestBeatmapsets": 0,
       "totalGuestDiffs": 0,
       "ownDifficulties": 89,
       "beatmaps": [
+        {
+          "beatmapset_id": "2560063",
+          "beatmap_id": "5689073",
+          "approved": "1",
+          "total_length": "445",
+          "hit_length": "415",
+          "version": "Bring the Flame",
+          "file_md5": "a17bf7e8067e7d3c97ab3cdab9f5f87c",
+          "diff_size": "4.5",
+          "diff_overall": "9.4",
+          "diff_approach": "9.7",
+          "diff_drain": "4",
+          "mode": "0",
+          "count_normal": "2413",
+          "count_slider": "640",
+          "count_spinner": "2",
+          "submit_date": "2026-05-26 21:10:27",
+          "approved_date": "2026-10-31 19:05:15",
+          "last_update": "2026-10-24 16:54:56",
+          "artist": "STILVERLIGHT",
+          "artist_unicode": "STILVERLIGHT",
+          "title": "Show Me The Miracle",
+          "title_unicode": "Show Me The Miracle",
+          "creator": "piroshki",
+          "creator_id": "7645522",
+          "bpm": "190",
+          "source": "",
+          "tags": "english metal power fantasy heavy epic speed melodic",
+          "genre_id": "11",
+          "language_id": "2",
+          "favourite_count": "53",
+          "rating": "8.71429",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "2170",
+          "passcount": "352",
+          "packs": null,
+          "max_combo": "3948",
+          "diff_aim": "3.8975",
+          "diff_speed": "3.47545",
+          "difficultyrating": "7.55366"
+        },
         {
           "beatmapset_id": "2131849",
           "beatmap_id": "4484105",
@@ -52457,9 +52499,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "71",
-          "playcount": "5438"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2088487",
@@ -52535,9 +52575,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "71",
-          "playcount": "22616"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1801375",
@@ -52554,9 +52592,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "81",
-          "playcount": "3970"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2484771",
@@ -52580,9 +52616,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "204",
-          "playcount": "24437"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2354715",
@@ -52599,9 +52633,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "33",
-          "playcount": "4528"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2230963",
@@ -53467,18 +53499,35 @@
             }
           ],
           "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2560063",
+          "title": "Show Me The Miracle",
+          "artist": "STILVERLIGHT",
+          "creator": "piroshki",
+          "approved_date": "2026-10-31 19:05:15",
+          "difficulties": [
+            {
+              "beatmap_id": "5689073",
+              "version": "Bring the Flame",
+              "difficultyrating": "7.55366",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
       "stats": {
-        "totalBeatmaps": 99,
-        "totalBeatmapsets": 33,
-        "ownBeatmapsets": 33,
+        "totalBeatmaps": 100,
+        "totalBeatmapsets": 34,
+        "ownBeatmapsets": 34,
         "guestBeatmapsets": 0,
         "totalGuestDiffs": 0,
-        "ownDifficulties": 99
+        "ownDifficulties": 100
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "2195646",
@@ -58253,7 +58302,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 89
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "360176",
@@ -62762,7 +62811,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 83
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "4715762",
@@ -66742,7 +66791,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 74
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "301279",
@@ -70538,7 +70587,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 70
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "2907237",
@@ -73288,9 +73337,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "166",
-          "playcount": "38571"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "516709",
@@ -73373,9 +73420,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "279",
-          "playcount": "25698"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "781632",
@@ -73839,7 +73884,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 61
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "305389",
@@ -77054,7 +77099,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 59
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "745494",
@@ -80086,7 +80131,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 56
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "71611",
@@ -82731,7 +82776,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 49
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "208440",
@@ -85296,7 +85341,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 47
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "119933",
@@ -87749,7 +87794,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 45
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "1367296",
@@ -90171,7 +90216,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 44
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "188248",
@@ -92520,7 +92565,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 43
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "654516",
@@ -94828,7 +94873,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 42
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "5902629",
@@ -96654,9 +96699,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "232",
-          "playcount": "65553"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1729705",
@@ -96966,7 +97009,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 40
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "425997",
@@ -99071,7 +99114,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 39
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "120823",
@@ -101086,7 +101129,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 37
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "3144542",
@@ -102481,9 +102524,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "220",
-          "playcount": "65989"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2040003",
@@ -102835,7 +102876,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 31
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "727012",
@@ -104453,7 +104494,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 30
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "113027",
@@ -105716,9 +105757,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "52",
-          "playcount": "8182"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "29996",
@@ -105969,7 +106008,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 28
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "256907",
@@ -107484,7 +107523,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 27
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "291211",
@@ -108967,7 +109006,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 27
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "7989641",
@@ -110369,7 +110408,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 26
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "4759935",
@@ -111781,7 +111820,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 26
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "335784",
@@ -112938,7 +112977,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 21
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "2296",
@@ -114044,7 +114083,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 20
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "190088",
@@ -115152,7 +115191,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 20
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "417551",
@@ -116146,7 +116185,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 18
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "879200",
@@ -116969,7 +117008,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 15
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "373918",
@@ -117739,7 +117778,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 14
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "61866",
@@ -118490,7 +118529,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 13
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "682919",
@@ -119170,7 +119209,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 12
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "486264",
@@ -119818,7 +119857,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 12
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "71142",
@@ -120323,7 +120362,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 9
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "190114",
@@ -120830,7 +120869,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 9
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "2047666",
@@ -121345,7 +121384,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 9
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "352967",
@@ -121799,7 +121838,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 8
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "940656",
@@ -122253,7 +122292,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 8
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "109282",
@@ -122656,7 +122695,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 7
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "446548",
@@ -123059,7 +123098,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 7
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "426495",
@@ -123411,7 +123450,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 6
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "2417227",
@@ -123755,7 +123794,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 6
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "226221",
@@ -124046,7 +124085,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 5
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "334369",
@@ -124337,7 +124376,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 5
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "7380793",
@@ -124628,7 +124667,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 5
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "297551",
@@ -124868,7 +124907,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 4
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "3905740",
@@ -125110,7 +125149,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 4
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "44074",
@@ -125299,7 +125338,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "75322",
@@ -125488,7 +125527,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "5366569",
@@ -125677,7 +125716,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "7379339",
@@ -125888,7 +125927,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "913249",
@@ -126026,7 +126065,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 2
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "4581039",
@@ -126176,7 +126215,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 2
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     },
     {
       "user_id": "6566",
@@ -126263,7 +126302,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 1
       },
-      "lastUpdated": "2026-10-25T07:29:09.995Z"
+      "lastUpdated": "2026-11-08T08:48:42.333Z"
     }
   ]
 }
