@@ -59,13 +59,13 @@
           "tags": "amity deca marbles j-rock j-pop japanese pop rock male vocals tonari hana",
           "genre_id": "5",
           "language_id": "3",
-          "favourite_count": "36",
+          "favourite_count": "37",
           "rating": "9.23529",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "6715",
+          "playcount": "6850",
           "passcount": "1317",
           "packs": "S1491",
           "max_combo": "1355",
@@ -103,13 +103,13 @@
           "tags": "amity deca marbles j-rock j-pop japanese pop rock male vocals tonari hana",
           "genre_id": "5",
           "language_id": "3",
-          "favourite_count": "36",
+          "favourite_count": "37",
           "rating": "9.23529",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "5797",
+          "playcount": "5887",
           "passcount": "1304",
           "packs": "S1491",
           "max_combo": "1263",
@@ -153,7 +153,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1945",
+          "playcount": "1999",
           "passcount": "548",
           "packs": "S1481",
           "max_combo": "407",
@@ -197,7 +197,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "7210",
+          "playcount": "7327",
           "passcount": "768",
           "packs": "S1481",
           "max_combo": "651",
@@ -241,7 +241,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "4429",
+          "playcount": "4483",
           "passcount": "1612",
           "packs": "S1481",
           "max_combo": "593",
@@ -285,7 +285,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "12835",
+          "playcount": "12997",
           "passcount": "2766",
           "packs": "S1481",
           "max_combo": "712",
@@ -3265,7 +3265,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "37",
+          "playcount": "12737"
         },
         {
           "beatmapset_id": "1770239",
@@ -3303,7 +3305,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "42",
+          "playcount": "26806"
         },
         {
           "beatmapset_id": "1674096",

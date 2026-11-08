@@ -63,7 +63,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "3025",
+          "playcount": "3106",
           "passcount": "504",
           "packs": "S1717",
           "max_combo": "1567",
@@ -107,7 +107,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "7507",
+          "playcount": "7570",
           "passcount": "1822",
           "packs": "S1717",
           "max_combo": "1474",
@@ -151,7 +151,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "3853",
+          "playcount": "4006",
           "passcount": "931",
           "packs": "S1717",
           "max_combo": "1363",
@@ -4194,7 +4194,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "61",
+          "playcount": "14682"
         },
         {
           "beatmapset_id": "815468",
@@ -5115,7 +5117,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1045",
+          "playcount": "1297",
           "passcount": "52",
           "packs": "SC167",
           "max_combo": "2723",
@@ -5153,13 +5155,13 @@
           "tags": "japanese rock jrock j-rock 東方project touhou project toho 東風谷 早苗 sanae kochiya 騙 凋叶棕 diao ye zong withered leaf razor sharp [_azu-_] azu-",
           "genre_id": "4",
           "language_id": "3",
-          "favourite_count": "10",
+          "favourite_count": "11",
           "rating": "7.33333",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1873",
+          "playcount": "2197",
           "passcount": "71",
           "packs": "SC165",
           "max_combo": "3396",
@@ -5241,13 +5243,13 @@
           "tags": "stigma ep artcore gothic hardcore classical hardcore electronic instrumental fast high bpm melodic speedcore gothic piano dramatic vaqu autols razor sharp",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "7",
+          "favourite_count": "8",
           "rating": "7.75",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1036",
+          "playcount": "1225",
           "passcount": "57",
           "packs": "SC163",
           "max_combo": "1977",
@@ -5285,13 +5287,13 @@
           "tags": "stigma ep artcore gothic hardcore classical hardcore electronic instrumental fast high bpm melodic speedcore gothic piano dramatic vaqu autols razor sharp",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "7",
+          "favourite_count": "8",
           "rating": "7.75",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "2458",
+          "playcount": "2890",
           "passcount": "93",
           "packs": "SC163",
           "max_combo": "2083",
@@ -5769,13 +5771,13 @@
           "tags": "cametek instrumental hardcore dubstep zirnitra finale xronial xero xroniàl xéro かめるかめりあ japanese j-core piano kamelcamellia 大箭将也 masaya ooya oya pcca-04883 edp pony canyon inc electronic dance production scubdomino scub domino [keqing] anime girl anime_girl jungkyuyoung natsume shiki natsume_shiki 8972308 final iyouka jcore",
           "genre_id": "10",
           "language_id": "5",
-          "favourite_count": "32",
+          "favourite_count": "31",
           "rating": "8.1",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "3205",
+          "playcount": "3259",
           "passcount": "511",
           "packs": "SC113",
           "max_combo": "4732",
@@ -5813,13 +5815,13 @@
           "tags": "jbhyperion spectator stickypicky japanese rock metal j-rock j-metal jrock jmetal pax vesania",
           "genre_id": "4",
           "language_id": "3",
-          "favourite_count": "57",
+          "favourite_count": "56",
           "rating": "8.625",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "800",
+          "playcount": "806",
           "passcount": "98",
           "packs": "LR2",
           "max_combo": "1552",
@@ -5857,13 +5859,13 @@
           "tags": "jbhyperion spectator stickypicky japanese rock metal j-rock j-metal jrock jmetal pax vesania",
           "genre_id": "4",
           "language_id": "3",
-          "favourite_count": "57",
+          "favourite_count": "56",
           "rating": "8.625",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1639",
+          "playcount": "1720",
           "passcount": "239",
           "packs": "LR2",
           "max_combo": "1306",
@@ -5901,7 +5903,7 @@
           "tags": "jbhyperion spectator stickypicky japanese rock metal j-rock j-metal jrock jmetal pax vesania",
           "genre_id": "4",
           "language_id": "3",
-          "favourite_count": "57",
+          "favourite_count": "56",
           "rating": "8.625",
           "storyboard": "0",
           "video": "0",
@@ -5945,13 +5947,13 @@
           "tags": "jbhyperion spectator stickypicky japanese rock metal j-rock j-metal jrock jmetal pax vesania",
           "genre_id": "4",
           "language_id": "3",
-          "favourite_count": "57",
+          "favourite_count": "56",
           "rating": "8.625",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "2611",
+          "playcount": "2629",
           "passcount": "230",
           "packs": "LR2",
           "max_combo": "1270",
@@ -8484,7 +8486,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "22",
+          "playcount": "1297"
         },
         {
           "beatmapset_id": "2588421",
@@ -8501,7 +8505,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "11",
+          "playcount": "2197"
         },
         {
           "beatmapset_id": "2585380",
@@ -8544,7 +8550,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "8",
+          "playcount": "4115"
         },
         {
           "beatmapset_id": "1135397",
@@ -8671,7 +8679,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "31",
+          "playcount": "3259"
         },
         {
           "beatmapset_id": "609845",
@@ -8709,7 +8719,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "56",
+          "playcount": "6317"
         },
         {
           "beatmapset_id": "2141702",
@@ -14210,13 +14222,13 @@
           "tags": "bmd napo napo ritaan macchi denpa napolitan electronic japanese novelty",
           "genre_id": "7",
           "language_id": "3",
-          "favourite_count": "389",
+          "favourite_count": "390",
           "rating": "9.71622",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "82918",
+          "playcount": "85267",
           "passcount": "8836",
           "packs": "LR4",
           "max_combo": "1544",
@@ -15421,7 +15433,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "390",
+          "playcount": "85267"
         },
         {
           "beatmapset_id": "1075607",

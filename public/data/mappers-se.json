@@ -16292,13 +16292,13 @@
           "tags": "dnb drum & and n bass electronic english freudeman freude female vocals",
           "genre_id": "10",
           "language_id": "2",
-          "favourite_count": "71",
+          "favourite_count": "73",
           "rating": "9.44231",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "21124",
+          "playcount": "21331",
           "passcount": "3646",
           "packs": "S1474",
           "max_combo": "1686",
@@ -16336,13 +16336,13 @@
           "tags": "dnb drum & and n bass electronic english freudeman freude female vocals",
           "genre_id": "10",
           "language_id": "2",
-          "favourite_count": "71",
+          "favourite_count": "73",
           "rating": "9.44231",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "19261",
+          "playcount": "19477",
           "passcount": "4733",
           "packs": "S1474",
           "max_combo": "1535",
@@ -19397,7 +19397,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "73",
+          "playcount": "40808"
         },
         {
           "beatmapset_id": "1950373",

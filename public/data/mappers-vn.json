@@ -10575,13 +10575,13 @@
           "tags": "fa featured artist english symphonic power metal the solace system",
           "genre_id": "11",
           "language_id": "2",
-          "favourite_count": "100",
+          "favourite_count": "103",
           "rating": "9.82143",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "23815",
+          "playcount": "24634",
           "passcount": "5048",
           "packs": "LR16,P136",
           "max_combo": "1558",
@@ -14995,7 +14995,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "103",
+          "playcount": "24634"
         },
         {
           "beatmapset_id": "2044069",
