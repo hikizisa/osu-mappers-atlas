@@ -5,7 +5,7 @@
     "demonym": "Belarus",
     "nativeName": "Belarus"
   },
-  "lastUpdated": "2026-11-01T10:14:00.372Z",
+  "lastUpdated": "2026-11-09T09:31:10.833Z",
   "totalMappers": 2,
   "totalBeatmaps": 399,
   "totalBeatmapsets": 62,
@@ -20409,7 +20409,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 388
       },
-      "lastUpdated": "2026-11-01T10:14:00.372Z"
+      "lastUpdated": "2026-11-09T09:31:10.833Z"
     },
     {
       "user_id": "160442",
@@ -20910,30 +20910,47 @@
       ],
       "beatmapsets": [
         {
-          "beatmapset_id": "22992",
-          "title": "Borderlands!",
-          "artist": "Kagamine Len, Hatsune Miku & ClapTrap",
+          "beatmapset_id": "48461",
+          "title": "Promise (Reprise)",
+          "artist": "Akira Yamaoka",
           "creator": "Hitomi May",
-          "approved_date": "2010-12-28 13:33:47",
+          "approved_date": "2012-04-18 16:40:56",
           "difficulties": [
             {
-              "beatmap_id": "81192",
-              "version": "Insane",
-              "difficultyrating": "3.9351",
+              "beatmap_id": "149820",
+              "version": "Hard",
+              "difficultyrating": "2.90444",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "81785",
-              "version": "Fapfrit's Easy",
-              "difficultyrating": "1.28913",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "81877",
+              "beatmap_id": "149821",
               "version": "Normal",
-              "difficultyrating": "2.05867",
+              "difficultyrating": "1.76952",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "42607",
+          "title": "You're Not Here (Short Ver.)",
+          "artist": "Melissa Williamson",
+          "creator": "Hitomi May",
+          "approved_date": "2012-03-08 19:48:55",
+          "difficulties": [
+            {
+              "beatmap_id": "141432",
+              "version": "Hard",
+              "difficultyrating": "3.70424",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "144365",
+              "version": "Normal",
+              "difficultyrating": "1.85846",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -20979,47 +20996,30 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "42607",
-          "title": "You're Not Here (Short Ver.)",
-          "artist": "Melissa Williamson",
+          "beatmapset_id": "22992",
+          "title": "Borderlands!",
+          "artist": "Kagamine Len, Hatsune Miku & ClapTrap",
           "creator": "Hitomi May",
-          "approved_date": "2012-03-08 19:48:55",
+          "approved_date": "2010-12-28 13:33:47",
           "difficulties": [
             {
-              "beatmap_id": "141432",
-              "version": "Hard",
-              "difficultyrating": "3.70424",
+              "beatmap_id": "81192",
+              "version": "Insane",
+              "difficultyrating": "3.9351",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "144365",
-              "version": "Normal",
-              "difficultyrating": "1.85846",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "48461",
-          "title": "Promise (Reprise)",
-          "artist": "Akira Yamaoka",
-          "creator": "Hitomi May",
-          "approved_date": "2012-04-18 16:40:56",
-          "difficulties": [
-            {
-              "beatmap_id": "149820",
-              "version": "Hard",
-              "difficultyrating": "2.90444",
+              "beatmap_id": "81785",
+              "version": "Fapfrit's Easy",
+              "difficultyrating": "1.28913",
               "mode": "0",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "149821",
+              "beatmap_id": "81877",
               "version": "Normal",
-              "difficultyrating": "1.76952",
+              "difficultyrating": "2.05867",
               "mode": "0",
               "isGuestDiff": false
             }
@@ -21036,7 +21036,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 11
       },
-      "lastUpdated": "2026-11-01T10:14:00.372Z"
+      "lastUpdated": "2026-11-09T09:31:10.833Z"
     }
   ]
 }
