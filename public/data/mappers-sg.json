@@ -5,7 +5,7 @@
     "demonym": "Singapore",
     "nativeName": "Singapore"
   },
-  "lastUpdated": "2026-10-27T07:36:44.781Z",
+  "lastUpdated": "2026-11-10T09:32:30.331Z",
   "totalMappers": 15,
   "totalBeatmaps": 826,
   "totalBeatmapsets": 235,
@@ -14495,9 +14495,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "106",
-          "playcount": "9874"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2254559",
@@ -14535,9 +14533,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "7",
-          "playcount": "5254"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2208914",
@@ -14561,9 +14557,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "17",
-          "playcount": "3278"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2258383",
@@ -14580,9 +14574,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "71",
-          "playcount": "16129"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2208710",
@@ -14620,9 +14612,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "21",
-          "playcount": "10192"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2236220",
@@ -14667,9 +14657,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "72",
-          "playcount": "44861"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2214238",
@@ -14686,9 +14674,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "865",
-          "playcount": "74269"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2230787",
@@ -14705,9 +14691,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "167",
-          "playcount": "99307"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1799342",
@@ -14724,9 +14708,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "110",
-          "playcount": "17452"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2103148",
@@ -17737,7 +17719,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 328
       },
-      "lastUpdated": "2026-10-27T07:36:44.781Z"
+      "lastUpdated": "2026-11-10T09:32:30.331Z"
     },
     {
       "user_id": "2193881",
@@ -23416,9 +23398,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "50",
-          "playcount": "3317"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2134144",
@@ -23435,9 +23415,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "201",
-          "playcount": "3142"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1086070",
@@ -23482,9 +23460,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "290",
-          "playcount": "72041"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1681593",
@@ -23508,9 +23484,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "58",
-          "playcount": "8732"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1715584",
@@ -23576,9 +23550,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "108",
-          "playcount": "13355"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1905308",
@@ -24603,7 +24575,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 128
       },
-      "lastUpdated": "2026-10-27T07:36:44.781Z"
+      "lastUpdated": "2026-11-10T09:32:30.331Z"
     },
     {
       "user_id": "1561995",
@@ -29187,9 +29159,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "13",
-          "playcount": "1349"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1190578",
@@ -29220,9 +29190,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "16",
-          "playcount": "10056"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1450274",
@@ -29253,9 +29221,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "38",
-          "playcount": "18102"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2127958",
@@ -29286,9 +29252,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "161",
-          "playcount": "55767"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2320808",
@@ -29326,9 +29290,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "25",
-          "playcount": "1251"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1884197",
@@ -30172,7 +30134,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 103
       },
-      "lastUpdated": "2026-10-27T07:36:44.781Z"
+      "lastUpdated": "2026-11-10T09:32:30.331Z"
     },
     {
       "user_id": "2439822",
@@ -33619,9 +33581,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "99",
-          "playcount": "25763"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2075262",
@@ -33638,9 +33598,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "244",
-          "playcount": "15373"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2535516",
@@ -33692,9 +33650,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "72",
-          "playcount": "20751"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2491790",
@@ -33753,9 +33709,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "174",
-          "playcount": "121579"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2274931",
@@ -33807,9 +33761,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "243",
-          "playcount": "90519"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2398353",
@@ -33854,9 +33806,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "172",
-          "playcount": "119804"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2304917",
@@ -33901,9 +33851,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "156",
-          "playcount": "85262"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1478436",
@@ -33920,9 +33868,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "284",
-          "playcount": "38125"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2164860",
@@ -33974,9 +33920,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "128",
-          "playcount": "67533"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1850935",
@@ -34313,7 +34257,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 77
       },
-      "lastUpdated": "2026-10-27T07:36:44.781Z"
+      "lastUpdated": "2026-11-10T09:32:30.331Z"
     },
     {
       "user_id": "65152",
@@ -36295,7 +36239,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 36
       },
-      "lastUpdated": "2026-10-27T07:36:44.781Z"
+      "lastUpdated": "2026-11-10T09:32:30.331Z"
     },
     {
       "user_id": "142413",
@@ -38104,7 +38048,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 33
       },
-      "lastUpdated": "2026-10-27T07:36:44.781Z"
+      "lastUpdated": "2026-11-10T09:32:30.331Z"
     },
     {
       "user_id": "69333",
@@ -39803,7 +39747,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 31
       },
-      "lastUpdated": "2026-10-27T07:36:44.781Z"
+      "lastUpdated": "2026-11-10T09:32:30.331Z"
     },
     {
       "user_id": "43345",
@@ -41133,7 +41077,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 24
       },
-      "lastUpdated": "2026-10-27T07:36:44.781Z"
+      "lastUpdated": "2026-11-10T09:32:30.331Z"
     },
     {
       "user_id": "499843",
@@ -42282,7 +42226,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 21
       },
-      "lastUpdated": "2026-10-27T07:36:44.781Z"
+      "lastUpdated": "2026-11-10T09:32:30.331Z"
     },
     {
       "user_id": "7199159",
@@ -43408,7 +43352,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 20
       },
-      "lastUpdated": "2026-10-27T07:36:44.781Z"
+      "lastUpdated": "2026-11-10T09:32:30.331Z"
     },
     {
       "user_id": "2500099",
@@ -43976,7 +43920,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 10
       },
-      "lastUpdated": "2026-10-27T07:36:44.781Z"
+      "lastUpdated": "2026-11-10T09:32:30.331Z"
     },
     {
       "user_id": "3617847",
@@ -44399,7 +44343,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 7
       },
-      "lastUpdated": "2026-10-27T07:36:44.781Z"
+      "lastUpdated": "2026-11-10T09:32:30.331Z"
     },
     {
       "user_id": "677",
@@ -44669,7 +44613,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 4
       },
-      "lastUpdated": "2026-10-27T07:36:44.781Z"
+      "lastUpdated": "2026-11-10T09:32:30.331Z"
     },
     {
       "user_id": "12213",
@@ -44858,7 +44802,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-10-27T07:36:44.781Z"
+      "lastUpdated": "2026-11-10T09:32:30.331Z"
     },
     {
       "user_id": "1653858",
@@ -44945,7 +44889,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 1
       },
-      "lastUpdated": "2026-10-27T07:36:44.781Z"
+      "lastUpdated": "2026-11-10T09:32:30.331Z"
     }
   ]
 }
