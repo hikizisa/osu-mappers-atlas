@@ -5,11 +5,11 @@
     "demonym": "Japan",
     "nativeName": "Japan"
   },
-  "lastUpdated": "2026-10-28T08:09:22.870Z",
+  "lastUpdated": "2026-11-11T09:07:20.217Z",
   "totalMappers": 147,
-  "totalBeatmaps": 5848,
-  "totalBeatmapsets": 1401,
-  "totalOwnBeatmapsets": 1401,
+  "totalBeatmaps": 5876,
+  "totalBeatmapsets": 1408,
+  "totalOwnBeatmapsets": 1408,
   "totalGuestBeatmapsets": 0,
   "totalGuestDiffs": 0,
   "totalOwnDifficulties": 5826,
@@ -20,13 +20,453 @@
       "username": "Charlotte",
       "aliases": [],
       "country": "JP",
-      "rankedBeatmaps": 409,
-      "rankedBeatmapsets": 99,
-      "ownBeatmapsets": 99,
+      "rankedBeatmaps": 419,
+      "rankedBeatmapsets": 102,
+      "ownBeatmapsets": 102,
       "guestBeatmapsets": 0,
       "totalGuestDiffs": 0,
       "ownDifficulties": 404,
       "beatmaps": [
+        {
+          "beatmapset_id": "2598188",
+          "beatmap_id": "5806646",
+          "approved": "1",
+          "total_length": "44",
+          "hit_length": "43",
+          "version": "Oni",
+          "file_md5": "d1f744683fd557f5e5809b091e5ef9c5",
+          "diff_size": "5",
+          "diff_overall": "5.5",
+          "diff_approach": "5",
+          "diff_drain": "8",
+          "mode": "1",
+          "count_normal": "234",
+          "count_slider": "0",
+          "count_spinner": "0",
+          "submit_date": "2026-08-06 04:01:05",
+          "approved_date": "2026-11-10 22:44:19",
+          "last_update": "2026-10-22 07:02:51",
+          "artist": "Sammy Sound Team",
+          "artist_unicode": "Sammy Sound Team",
+          "title": "GET HOT! ~DJ ZONE DAN-D~ (Cut Ver.)",
+          "title_unicode": "GET HOT! ~DJ ZONE DAN-D~ (Cut Ver.)",
+          "creator": "Charlotte",
+          "creator_id": "3686901",
+          "bpm": "142",
+          "source": "パチスロディスクアップ2",
+          "tags": "pachislot disc up2 original sound track electronic instrumental sega pachinko slot ost background music segasammy セガサミーホールディングス パチンコ スロット version",
+          "genre_id": "10",
+          "language_id": "5",
+          "favourite_count": "4",
+          "rating": "0",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "51",
+          "passcount": "27",
+          "packs": null,
+          "max_combo": "234",
+          "diff_aim": null,
+          "diff_speed": null,
+          "difficultyrating": "3.29172"
+        },
+        {
+          "beatmapset_id": "2598188",
+          "beatmap_id": "5807372",
+          "approved": "1",
+          "total_length": "44",
+          "hit_length": "43",
+          "version": "Muzukashii",
+          "file_md5": "57d7ccf1e11333479654b7b6f6d7500a",
+          "diff_size": "5",
+          "diff_overall": "5",
+          "diff_approach": "5",
+          "diff_drain": "8.5",
+          "mode": "1",
+          "count_normal": "188",
+          "count_slider": "0",
+          "count_spinner": "0",
+          "submit_date": "2026-08-06 04:01:05",
+          "approved_date": "2026-11-10 22:44:19",
+          "last_update": "2026-10-22 07:02:51",
+          "artist": "Sammy Sound Team",
+          "artist_unicode": "Sammy Sound Team",
+          "title": "GET HOT! ~DJ ZONE DAN-D~ (Cut Ver.)",
+          "title_unicode": "GET HOT! ~DJ ZONE DAN-D~ (Cut Ver.)",
+          "creator": "Charlotte",
+          "creator_id": "3686901",
+          "bpm": "142",
+          "source": "パチスロディスクアップ2",
+          "tags": "pachislot disc up2 original sound track electronic instrumental sega pachinko slot ost background music segasammy セガサミーホールディングス パチンコ スロット version",
+          "genre_id": "10",
+          "language_id": "5",
+          "favourite_count": "4",
+          "rating": "0",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "39",
+          "passcount": "13",
+          "packs": null,
+          "max_combo": "188",
+          "diff_aim": null,
+          "diff_speed": null,
+          "difficultyrating": "2.68491"
+        },
+        {
+          "beatmapset_id": "2598188",
+          "beatmap_id": "5808680",
+          "approved": "1",
+          "total_length": "44",
+          "hit_length": "43",
+          "version": "Futsuu",
+          "file_md5": "1d57dad9964d21556b043a63fb0ae0e4",
+          "diff_size": "5",
+          "diff_overall": "4",
+          "diff_approach": "5",
+          "diff_drain": "9",
+          "mode": "1",
+          "count_normal": "132",
+          "count_slider": "0",
+          "count_spinner": "0",
+          "submit_date": "2026-08-06 04:01:05",
+          "approved_date": "2026-11-10 22:44:19",
+          "last_update": "2026-10-22 07:02:51",
+          "artist": "Sammy Sound Team",
+          "artist_unicode": "Sammy Sound Team",
+          "title": "GET HOT! ~DJ ZONE DAN-D~ (Cut Ver.)",
+          "title_unicode": "GET HOT! ~DJ ZONE DAN-D~ (Cut Ver.)",
+          "creator": "Charlotte",
+          "creator_id": "3686901",
+          "bpm": "142",
+          "source": "パチスロディスクアップ2",
+          "tags": "pachislot disc up2 original sound track electronic instrumental sega pachinko slot ost background music segasammy セガサミーホールディングス パチンコ スロット version",
+          "genre_id": "10",
+          "language_id": "5",
+          "favourite_count": "4",
+          "rating": "0",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "28",
+          "passcount": "12",
+          "packs": null,
+          "max_combo": "132",
+          "diff_aim": null,
+          "diff_speed": null,
+          "difficultyrating": "1.91366"
+        },
+        {
+          "beatmapset_id": "2598188",
+          "beatmap_id": "5808681",
+          "approved": "1",
+          "total_length": "44",
+          "hit_length": "43",
+          "version": "Kantan",
+          "file_md5": "ecc4ae74760a003b713444cbce9311ea",
+          "diff_size": "5",
+          "diff_overall": "3",
+          "diff_approach": "5",
+          "diff_drain": "10",
+          "mode": "1",
+          "count_normal": "67",
+          "count_slider": "0",
+          "count_spinner": "0",
+          "submit_date": "2026-08-06 04:01:05",
+          "approved_date": "2026-11-10 22:44:19",
+          "last_update": "2026-10-22 07:02:51",
+          "artist": "Sammy Sound Team",
+          "artist_unicode": "Sammy Sound Team",
+          "title": "GET HOT! ~DJ ZONE DAN-D~ (Cut Ver.)",
+          "title_unicode": "GET HOT! ~DJ ZONE DAN-D~ (Cut Ver.)",
+          "creator": "Charlotte",
+          "creator_id": "3686901",
+          "bpm": "142",
+          "source": "パチスロディスクアップ2",
+          "tags": "pachislot disc up2 original sound track electronic instrumental sega pachinko slot ost background music segasammy セガサミーホールディングス パチンコ スロット version",
+          "genre_id": "10",
+          "language_id": "5",
+          "favourite_count": "4",
+          "rating": "0",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "34",
+          "passcount": "16",
+          "packs": null,
+          "max_combo": "67",
+          "diff_aim": null,
+          "diff_speed": null,
+          "difficultyrating": "1.13899"
+        },
+        {
+          "beatmapset_id": "2619913",
+          "beatmap_id": "5879983",
+          "approved": "1",
+          "total_length": "271",
+          "hit_length": "252",
+          "version": "Future",
+          "file_md5": "7e4febfddc2e97ec9e160b33627be254",
+          "diff_size": "5",
+          "diff_overall": "5.5",
+          "diff_approach": "5",
+          "diff_drain": "5.5",
+          "mode": "1",
+          "count_normal": "1256",
+          "count_slider": "0",
+          "count_spinner": "4",
+          "submit_date": "2026-09-13 08:46:17",
+          "approved_date": "2026-11-10 15:21:30",
+          "last_update": "2026-11-02 02:58:26",
+          "artist": "Riryka",
+          "artist_unicode": "Riryka",
+          "title": "Hashiru Sekai to Bokura no Mirai",
+          "title_unicode": "疾るセカイと僕らのミライ",
+          "creator": "Charlotte",
+          "creator_id": "3686901",
+          "bpm": "150",
+          "source": "ミライセカイのプラネッタ",
+          "tags": "op mirai sekai no planeta puranetta visual novel vn galgame opening eroge video game videogame japanese pop j-pop jpop angel note libre りぷる the planeta in the future world symphony sounds request female vocals vocalist vgm music jp 原田由佳 yuka harada",
+          "genre_id": "2",
+          "language_id": "3",
+          "favourite_count": "6",
+          "rating": "0",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "149",
+          "passcount": "18",
+          "packs": null,
+          "max_combo": "1256",
+          "diff_aim": null,
+          "diff_speed": null,
+          "difficultyrating": "4.0276"
+        },
+        {
+          "beatmapset_id": "2535408",
+          "beatmap_id": "5606946",
+          "approved": "1",
+          "total_length": "76",
+          "hit_length": "75",
+          "version": "Wetland",
+          "file_md5": "124119abebb089e410956ac9bad74ffd",
+          "diff_size": "5",
+          "diff_overall": "5",
+          "diff_approach": "5",
+          "diff_drain": "7",
+          "mode": "1",
+          "count_normal": "385",
+          "count_slider": "0",
+          "count_spinner": "1",
+          "submit_date": "2026-04-07 11:24:01",
+          "approved_date": "2026-10-30 12:02:35",
+          "last_update": "2026-10-23 00:59:46",
+          "artist": "Hitomi Sato",
+          "artist_unicode": "佐藤仁美",
+          "title": "Route 209 (Night)",
+          "title_unicode": "209ばんどうろ（夜）",
+          "creator": "Charlotte",
+          "creator_id": "3686901",
+          "bpm": "85.98",
+          "source": "ポケットモンスター ダイヤモンド・パール",
+          "tags": "pokémon pokemon sinnoh poketto monsuta monsutā satou satō & version d p dp pt brilliant shining dppt diamond pearl platinum super music collection ost original soundtrack version pocket monsters nintendo ds nds ニンテンドーds ポケモン ダイヤモンド＆パール ポケットモンスターブリリアントダイヤモンド・シャイニングパール スーパーミュージック gen generation four fourth 4 4g iv eight eighth 8 8g viii コレクション gamefreak game freak instrumental video game vgm complete yoru flr eae skey ness_okey linkff001",
+          "genre_id": "2",
+          "language_id": "5",
+          "favourite_count": "14",
+          "rating": "7.75",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "168",
+          "passcount": "50",
+          "packs": "ST448",
+          "max_combo": "385",
+          "diff_aim": null,
+          "diff_speed": null,
+          "difficultyrating": "3.42117"
+        },
+        {
+          "beatmapset_id": "2535408",
+          "beatmap_id": "5618429",
+          "approved": "1",
+          "total_length": "76",
+          "hit_length": "75",
+          "version": "Skey's Futsuu",
+          "file_md5": "f0e28dc8648f5fd4a83743d8c8d7c402",
+          "diff_size": "5",
+          "diff_overall": "3",
+          "diff_approach": "5",
+          "diff_drain": "9",
+          "mode": "1",
+          "count_normal": "140",
+          "count_slider": "0",
+          "count_spinner": "1",
+          "submit_date": "2026-04-07 11:24:01",
+          "approved_date": "2026-10-30 12:02:35",
+          "last_update": "2026-10-23 00:59:46",
+          "artist": "Hitomi Sato",
+          "artist_unicode": "佐藤仁美",
+          "title": "Route 209 (Night)",
+          "title_unicode": "209ばんどうろ（夜）",
+          "creator": "Charlotte",
+          "creator_id": "3686901",
+          "bpm": "85.98",
+          "source": "ポケットモンスター ダイヤモンド・パール",
+          "tags": "pokémon pokemon sinnoh poketto monsuta monsutā satou satō & version d p dp pt brilliant shining dppt diamond pearl platinum super music collection ost original soundtrack version pocket monsters nintendo ds nds ニンテンドーds ポケモン ダイヤモンド＆パール ポケットモンスターブリリアントダイヤモンド・シャイニングパール スーパーミュージック gen generation four fourth 4 4g iv eight eighth 8 8g viii コレクション gamefreak game freak instrumental video game vgm complete yoru flr eae skey ness_okey linkff001",
+          "genre_id": "2",
+          "language_id": "5",
+          "favourite_count": "14",
+          "rating": "7.75",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "135",
+          "passcount": "52",
+          "packs": "ST448",
+          "max_combo": "140",
+          "diff_aim": null,
+          "diff_speed": null,
+          "difficultyrating": "1.41253"
+        },
+        {
+          "beatmapset_id": "2535408",
+          "beatmap_id": "5637502",
+          "approved": "1",
+          "total_length": "76",
+          "hit_length": "75",
+          "version": "Linkff's Oni",
+          "file_md5": "073ab944f86d3f8cfb4a57c041a7e5eb",
+          "diff_size": "5",
+          "diff_overall": "4.5",
+          "diff_approach": "5",
+          "diff_drain": "7.5",
+          "mode": "1",
+          "count_normal": "294",
+          "count_slider": "0",
+          "count_spinner": "1",
+          "submit_date": "2026-04-07 11:24:01",
+          "approved_date": "2026-10-30 12:02:35",
+          "last_update": "2026-10-23 00:59:46",
+          "artist": "Hitomi Sato",
+          "artist_unicode": "佐藤仁美",
+          "title": "Route 209 (Night)",
+          "title_unicode": "209ばんどうろ（夜）",
+          "creator": "Charlotte",
+          "creator_id": "3686901",
+          "bpm": "85.98",
+          "source": "ポケットモンスター ダイヤモンド・パール",
+          "tags": "pokémon pokemon sinnoh poketto monsuta monsutā satou satō & version d p dp pt brilliant shining dppt diamond pearl platinum super music collection ost original soundtrack version pocket monsters nintendo ds nds ニンテンドーds ポケモン ダイヤモンド＆パール ポケットモンスターブリリアントダイヤモンド・シャイニングパール スーパーミュージック gen generation four fourth 4 4g iv eight eighth 8 8g viii コレクション gamefreak game freak instrumental video game vgm complete yoru flr eae skey ness_okey linkff001",
+          "genre_id": "2",
+          "language_id": "5",
+          "favourite_count": "14",
+          "rating": "7.75",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "163",
+          "passcount": "46",
+          "packs": "ST448",
+          "max_combo": "294",
+          "diff_aim": null,
+          "diff_speed": null,
+          "difficultyrating": "2.50203"
+        },
+        {
+          "beatmapset_id": "2535408",
+          "beatmap_id": "5647127",
+          "approved": "1",
+          "total_length": "76",
+          "hit_length": "76",
+          "version": "flr's Kantan",
+          "file_md5": "e4738c7bcff99779553ca28e68351775",
+          "diff_size": "5",
+          "diff_overall": "2",
+          "diff_approach": "5",
+          "diff_drain": "10",
+          "mode": "1",
+          "count_normal": "80",
+          "count_slider": "0",
+          "count_spinner": "1",
+          "submit_date": "2026-04-07 11:24:01",
+          "approved_date": "2026-10-30 12:02:35",
+          "last_update": "2026-10-23 00:59:46",
+          "artist": "Hitomi Sato",
+          "artist_unicode": "佐藤仁美",
+          "title": "Route 209 (Night)",
+          "title_unicode": "209ばんどうろ（夜）",
+          "creator": "Charlotte",
+          "creator_id": "3686901",
+          "bpm": "85.98",
+          "source": "ポケットモンスター ダイヤモンド・パール",
+          "tags": "pokémon pokemon sinnoh poketto monsuta monsutā satou satō & version d p dp pt brilliant shining dppt diamond pearl platinum super music collection ost original soundtrack version pocket monsters nintendo ds nds ニンテンドーds ポケモン ダイヤモンド＆パール ポケットモンスターブリリアントダイヤモンド・シャイニングパール スーパーミュージック gen generation four fourth 4 4g iv eight eighth 8 8g viii コレクション gamefreak game freak instrumental video game vgm complete yoru flr eae skey ness_okey linkff001",
+          "genre_id": "2",
+          "language_id": "5",
+          "favourite_count": "14",
+          "rating": "7.75",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "168",
+          "passcount": "71",
+          "packs": "ST448",
+          "max_combo": "80",
+          "diff_aim": null,
+          "diff_speed": null,
+          "difficultyrating": "0.887733"
+        },
+        {
+          "beatmapset_id": "2535408",
+          "beatmap_id": "5682365",
+          "approved": "1",
+          "total_length": "76",
+          "hit_length": "75",
+          "version": "Ness' Muzukashii",
+          "file_md5": "d54b6e2d3395ccbf287779be10589580",
+          "diff_size": "6.4",
+          "diff_overall": "4",
+          "diff_approach": "8",
+          "diff_drain": "8",
+          "mode": "1",
+          "count_normal": "228",
+          "count_slider": "0",
+          "count_spinner": "1",
+          "submit_date": "2026-04-07 11:24:01",
+          "approved_date": "2026-10-30 12:02:35",
+          "last_update": "2026-10-23 00:59:46",
+          "artist": "Hitomi Sato",
+          "artist_unicode": "佐藤仁美",
+          "title": "Route 209 (Night)",
+          "title_unicode": "209ばんどうろ（夜）",
+          "creator": "Charlotte",
+          "creator_id": "3686901",
+          "bpm": "85.98",
+          "source": "ポケットモンスター ダイヤモンド・パール",
+          "tags": "pokémon pokemon sinnoh poketto monsuta monsutā satou satō & version d p dp pt brilliant shining dppt diamond pearl platinum super music collection ost original soundtrack version pocket monsters nintendo ds nds ニンテンドーds ポケモン ダイヤモンド＆パール ポケットモンスターブリリアントダイヤモンド・シャイニングパール スーパーミュージック gen generation four fourth 4 4g iv eight eighth 8 8g viii コレクション gamefreak game freak instrumental video game vgm complete yoru flr eae skey ness_okey linkff001",
+          "genre_id": "2",
+          "language_id": "5",
+          "favourite_count": "14",
+          "rating": "7.75",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "198",
+          "passcount": "39",
+          "packs": "ST448",
+          "max_combo": "228",
+          "diff_aim": null,
+          "diff_speed": null,
+          "difficultyrating": "2.07186"
+        },
         {
           "beatmapset_id": "2611662",
           "beatmap_id": "5849948",
@@ -18026,6 +18466,51 @@
       ],
       "beatmapsets": [
         {
+          "beatmapset_id": "2611662",
+          "title": "Links (TV Size)",
+          "artist": "Sachika Misawa",
+          "creator": "Charlotte",
+          "approved_date": "2026-10-27 06:24:51",
+          "difficulties": [
+            {
+              "beatmap_id": "5849948",
+              "version": "Inner Oni",
+              "difficultyrating": "3.91657",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5850213",
+              "version": "Fapu's Muzukashii",
+              "difficultyrating": "2.59791",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5851276",
+              "version": "miyagishima's Oni",
+              "difficultyrating": "3.22808",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5902853",
+              "version": "Kantan",
+              "difficultyrating": "1.23825",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5902854",
+              "version": "Zhuosh's Futsuu",
+              "difficultyrating": "2.13861",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
           "beatmapset_id": "906238",
           "title": "Rakuen PROJECT (TV Size)",
           "artist": "Ray",
@@ -21834,63 +22319,116 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "2611662",
-          "title": "Links (TV Size)",
-          "artist": "Sachika Misawa",
+          "beatmapset_id": "2535408",
+          "title": "Route 209 (Night)",
+          "artist": "Hitomi Sato",
           "creator": "Charlotte",
-          "approved_date": "2026-10-27 06:24:51",
+          "approved_date": "2026-10-30 12:02:35",
           "difficulties": [
             {
-              "beatmap_id": "5849948",
-              "version": "Inner Oni",
-              "difficultyrating": "3.91657",
+              "beatmap_id": "5606946",
+              "version": "Wetland",
+              "difficultyrating": "3.42117",
               "mode": "1",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "5850213",
-              "version": "Fapu's Muzukashii",
-              "difficultyrating": "2.59791",
+              "beatmap_id": "5618429",
+              "version": "Skey's Futsuu",
+              "difficultyrating": "1.41253",
               "mode": "1",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "5851276",
-              "version": "miyagishima's Oni",
-              "difficultyrating": "3.22808",
+              "beatmap_id": "5637502",
+              "version": "Linkff's Oni",
+              "difficultyrating": "2.50203",
               "mode": "1",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "5902853",
-              "version": "Kantan",
-              "difficultyrating": "1.23825",
+              "beatmap_id": "5647127",
+              "version": "flr's Kantan",
+              "difficultyrating": "0.887733",
               "mode": "1",
               "isGuestDiff": false
             },
             {
-              "beatmap_id": "5902854",
-              "version": "Zhuosh's Futsuu",
-              "difficultyrating": "2.13861",
+              "beatmap_id": "5682365",
+              "version": "Ness' Muzukashii",
+              "difficultyrating": "2.07186",
               "mode": "1",
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "6",
-          "playcount": "493"
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2619913",
+          "title": "Hashiru Sekai to Bokura no Mirai",
+          "artist": "Riryka",
+          "creator": "Charlotte",
+          "approved_date": "2026-11-10 15:21:30",
+          "difficulties": [
+            {
+              "beatmap_id": "5879983",
+              "version": "Future",
+              "difficultyrating": "4.0276",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2598188",
+          "title": "GET HOT! ~DJ ZONE DAN-D~ (Cut Ver.)",
+          "artist": "Sammy Sound Team",
+          "creator": "Charlotte",
+          "approved_date": "2026-11-10 22:44:19",
+          "difficulties": [
+            {
+              "beatmap_id": "5806646",
+              "version": "Oni",
+              "difficultyrating": "3.29172",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5807372",
+              "version": "Muzukashii",
+              "difficultyrating": "2.68491",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5808680",
+              "version": "Futsuu",
+              "difficultyrating": "1.91366",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5808681",
+              "version": "Kantan",
+              "difficultyrating": "1.13899",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
       "stats": {
-        "totalBeatmaps": 409,
-        "totalBeatmapsets": 99,
-        "ownBeatmapsets": 99,
+        "totalBeatmaps": 419,
+        "totalBeatmapsets": 102,
+        "ownBeatmapsets": 102,
         "guestBeatmapsets": 0,
         "totalGuestDiffs": 0,
-        "ownDifficulties": 409
+        "ownDifficulties": 419
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "869782",
@@ -35185,7 +35723,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 249
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "1741295",
@@ -48290,7 +48828,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 247
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "4754771",
@@ -48300,13 +48838,321 @@
         "Corinn"
       ],
       "country": "JP",
-      "rankedBeatmaps": 218,
-      "rankedBeatmapsets": 39,
-      "ownBeatmapsets": 39,
+      "rankedBeatmaps": 225,
+      "rankedBeatmapsets": 40,
+      "ownBeatmapsets": 40,
       "guestBeatmapsets": 0,
       "totalGuestDiffs": 0,
       "ownDifficulties": 218,
       "beatmaps": [
+        {
+          "beatmapset_id": "1858631",
+          "beatmap_id": "3820672",
+          "approved": "1",
+          "total_length": "224",
+          "hit_length": "223",
+          "version": "Expert",
+          "file_md5": "21557b4f619248563b21a0d402f694fa",
+          "diff_size": "3.8",
+          "diff_overall": "8.8",
+          "diff_approach": "9.2",
+          "diff_drain": "6",
+          "mode": "0",
+          "count_normal": "539",
+          "count_slider": "354",
+          "count_spinner": "0",
+          "submit_date": "2022-10-01 17:20:29",
+          "approved_date": "2026-11-07 17:06:40",
+          "last_update": "2026-10-26 09:41:30",
+          "artist": "Tennoji Rina (CV: Tanaka Chiemi)",
+          "artist_unicode": "天王寺璃奈 (CV: 田中ちえ美)",
+          "title": "Tsunagaru Connect",
+          "title_unicode": "ツナガルコネクト",
+          "creator": "Akitoshi",
+          "creator_id": "4754771",
+          "bpm": "175",
+          "source": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+          "tags": "corinn -laura- -_ex_- ex shiyun kuroame kowari deppyforce koiyo samsmas gai_sib lovelive love live! nijigasaki high school idol club gakuen doukoukai doukou kai nijigaku ニジガク llas sifas スクスタ festival all stars スクールアイドルフェスティバル perfect dream project pdp chan board deco*27 anime insert video game japanese pop j-pop jpop てんのうじ りな",
+          "genre_id": "5",
+          "language_id": "3",
+          "favourite_count": "68",
+          "rating": "9.8421",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "1486",
+          "passcount": "385",
+          "packs": null,
+          "max_combo": "1276",
+          "diff_aim": "3.11687",
+          "diff_speed": "2.03845",
+          "difficultyrating": "5.50223"
+        },
+        {
+          "beatmapset_id": "1858631",
+          "beatmap_id": "3837456",
+          "approved": "1",
+          "total_length": "224",
+          "hit_length": "210",
+          "version": "Easy",
+          "file_md5": "eb33fd70b4e72d5dea50772217e26f72",
+          "diff_size": "3",
+          "diff_overall": "3",
+          "diff_approach": "4",
+          "diff_drain": "2",
+          "mode": "0",
+          "count_normal": "91",
+          "count_slider": "180",
+          "count_spinner": "1",
+          "submit_date": "2022-10-01 17:20:29",
+          "approved_date": "2026-11-07 17:06:40",
+          "last_update": "2026-10-26 09:41:30",
+          "artist": "Tennoji Rina (CV: Tanaka Chiemi)",
+          "artist_unicode": "天王寺璃奈 (CV: 田中ちえ美)",
+          "title": "Tsunagaru Connect",
+          "title_unicode": "ツナガルコネクト",
+          "creator": "Akitoshi",
+          "creator_id": "4754771",
+          "bpm": "175",
+          "source": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+          "tags": "corinn -laura- -_ex_- ex shiyun kuroame kowari deppyforce koiyo samsmas gai_sib lovelive love live! nijigasaki high school idol club gakuen doukoukai doukou kai nijigaku ニジガク llas sifas スクスタ festival all stars スクールアイドルフェスティバル perfect dream project pdp chan board deco*27 anime insert video game japanese pop j-pop jpop てんのうじ りな",
+          "genre_id": "5",
+          "language_id": "3",
+          "favourite_count": "68",
+          "rating": "9.8421",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "545",
+          "passcount": "266",
+          "packs": null,
+          "max_combo": "637",
+          "diff_aim": "1.07255",
+          "diff_speed": "0.610335",
+          "difficultyrating": "1.84876"
+        },
+        {
+          "beatmapset_id": "1858631",
+          "beatmap_id": "3842254",
+          "approved": "1",
+          "total_length": "224",
+          "hit_length": "220",
+          "version": "Ex's Hard",
+          "file_md5": "b3e6991d611d348b289006bd2ccfc779",
+          "diff_size": "3.8",
+          "diff_overall": "6.5",
+          "diff_approach": "8",
+          "diff_drain": "4.5",
+          "mode": "0",
+          "count_normal": "334",
+          "count_slider": "388",
+          "count_spinner": "1",
+          "submit_date": "2022-10-01 17:20:29",
+          "approved_date": "2026-11-07 17:06:40",
+          "last_update": "2026-10-26 09:41:30",
+          "artist": "Tennoji Rina (CV: Tanaka Chiemi)",
+          "artist_unicode": "天王寺璃奈 (CV: 田中ちえ美)",
+          "title": "Tsunagaru Connect",
+          "title_unicode": "ツナガルコネクト",
+          "creator": "Akitoshi",
+          "creator_id": "4754771",
+          "bpm": "175",
+          "source": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+          "tags": "corinn -laura- -_ex_- ex shiyun kuroame kowari deppyforce koiyo samsmas gai_sib lovelive love live! nijigasaki high school idol club gakuen doukoukai doukou kai nijigaku ニジガク llas sifas スクスタ festival all stars スクールアイドルフェスティバル perfect dream project pdp chan board deco*27 anime insert video game japanese pop j-pop jpop てんのうじ りな",
+          "genre_id": "5",
+          "language_id": "3",
+          "favourite_count": "68",
+          "rating": "9.8421",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "1045",
+          "passcount": "387",
+          "packs": null,
+          "max_combo": "1139",
+          "diff_aim": "2.13501",
+          "diff_speed": "1.6446",
+          "difficultyrating": "3.92109"
+        },
+        {
+          "beatmapset_id": "1858631",
+          "beatmap_id": "3866002",
+          "approved": "1",
+          "total_length": "224",
+          "hit_length": "223",
+          "version": "Deppy & Koiyo's Another",
+          "file_md5": "9c1c652666efd4c5fc6f666546027aaf",
+          "diff_size": "4",
+          "diff_overall": "8",
+          "diff_approach": "9",
+          "diff_drain": "6",
+          "mode": "0",
+          "count_normal": "577",
+          "count_slider": "236",
+          "count_spinner": "2",
+          "submit_date": "2022-10-01 17:20:29",
+          "approved_date": "2026-11-07 17:06:40",
+          "last_update": "2026-10-26 09:41:30",
+          "artist": "Tennoji Rina (CV: Tanaka Chiemi)",
+          "artist_unicode": "天王寺璃奈 (CV: 田中ちえ美)",
+          "title": "Tsunagaru Connect",
+          "title_unicode": "ツナガルコネクト",
+          "creator": "Akitoshi",
+          "creator_id": "4754771",
+          "bpm": "175",
+          "source": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+          "tags": "corinn -laura- -_ex_- ex shiyun kuroame kowari deppyforce koiyo samsmas gai_sib lovelive love live! nijigasaki high school idol club gakuen doukoukai doukou kai nijigaku ニジガク llas sifas スクスタ festival all stars スクールアイドルフェスティバル perfect dream project pdp chan board deco*27 anime insert video game japanese pop j-pop jpop てんのうじ りな",
+          "genre_id": "5",
+          "language_id": "3",
+          "favourite_count": "68",
+          "rating": "9.8421",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "1144",
+          "passcount": "224",
+          "packs": null,
+          "max_combo": "1098",
+          "diff_aim": "2.76517",
+          "diff_speed": "1.91106",
+          "difficultyrating": "4.95001"
+        },
+        {
+          "beatmapset_id": "1858631",
+          "beatmap_id": "3866003",
+          "approved": "1",
+          "total_length": "224",
+          "hit_length": "219",
+          "version": "Normal",
+          "file_md5": "bab0d5b395b1f85c2f207b8dff910ce8",
+          "diff_size": "3.2",
+          "diff_overall": "4",
+          "diff_approach": "5.5",
+          "diff_drain": "3",
+          "mode": "0",
+          "count_normal": "218",
+          "count_slider": "270",
+          "count_spinner": "1",
+          "submit_date": "2022-10-01 17:20:29",
+          "approved_date": "2026-11-07 17:06:40",
+          "last_update": "2026-10-26 09:41:30",
+          "artist": "Tennoji Rina (CV: Tanaka Chiemi)",
+          "artist_unicode": "天王寺璃奈 (CV: 田中ちえ美)",
+          "title": "Tsunagaru Connect",
+          "title_unicode": "ツナガルコネクト",
+          "creator": "Akitoshi",
+          "creator_id": "4754771",
+          "bpm": "175",
+          "source": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+          "tags": "corinn -laura- -_ex_- ex shiyun kuroame kowari deppyforce koiyo samsmas gai_sib lovelive love live! nijigasaki high school idol club gakuen doukoukai doukou kai nijigaku ニジガク llas sifas スクスタ festival all stars スクールアイドルフェスティバル perfect dream project pdp chan board deco*27 anime insert video game japanese pop j-pop jpop てんのうじ りな",
+          "genre_id": "5",
+          "language_id": "3",
+          "favourite_count": "68",
+          "rating": "9.8421",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "665",
+          "passcount": "304",
+          "packs": null,
+          "max_combo": "789",
+          "diff_aim": "1.24617",
+          "diff_speed": "1.02847",
+          "difficultyrating": "2.40151"
+        },
+        {
+          "beatmapset_id": "1858631",
+          "beatmap_id": "5431828",
+          "approved": "1",
+          "total_length": "224",
+          "hit_length": "223",
+          "version": "Insane",
+          "file_md5": "14e3799db579bf22af08840ff0d1909b",
+          "diff_size": "3.8",
+          "diff_overall": "7.5",
+          "diff_approach": "9",
+          "diff_drain": "5",
+          "mode": "0",
+          "count_normal": "416",
+          "count_slider": "382",
+          "count_spinner": "1",
+          "submit_date": "2022-10-01 17:20:29",
+          "approved_date": "2026-11-07 17:06:40",
+          "last_update": "2026-10-26 09:41:30",
+          "artist": "Tennoji Rina (CV: Tanaka Chiemi)",
+          "artist_unicode": "天王寺璃奈 (CV: 田中ちえ美)",
+          "title": "Tsunagaru Connect",
+          "title_unicode": "ツナガルコネクト",
+          "creator": "Akitoshi",
+          "creator_id": "4754771",
+          "bpm": "175",
+          "source": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+          "tags": "corinn -laura- -_ex_- ex shiyun kuroame kowari deppyforce koiyo samsmas gai_sib lovelive love live! nijigasaki high school idol club gakuen doukoukai doukou kai nijigaku ニジガク llas sifas スクスタ festival all stars スクールアイドルフェスティバル perfect dream project pdp chan board deco*27 anime insert video game japanese pop j-pop jpop てんのうじ りな",
+          "genre_id": "5",
+          "language_id": "3",
+          "favourite_count": "68",
+          "rating": "9.8421",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "1567",
+          "passcount": "578",
+          "packs": null,
+          "max_combo": "1197",
+          "diff_aim": "2.46021",
+          "diff_speed": "1.87772",
+          "difficultyrating": "4.50204"
+        },
+        {
+          "beatmapset_id": "1858631",
+          "beatmap_id": "5496031",
+          "approved": "1",
+          "total_length": "224",
+          "hit_length": "214",
+          "version": "Kuroame & Kowari's Connection",
+          "file_md5": "bc4daf9709d97a4ac014ecbbefc80c85",
+          "diff_size": "4",
+          "diff_overall": "9",
+          "diff_approach": "9.2",
+          "diff_drain": "6",
+          "mode": "0",
+          "count_normal": "564",
+          "count_slider": "329",
+          "count_spinner": "1",
+          "submit_date": "2022-10-01 17:20:29",
+          "approved_date": "2026-11-07 17:06:40",
+          "last_update": "2026-10-26 09:41:30",
+          "artist": "Tennoji Rina (CV: Tanaka Chiemi)",
+          "artist_unicode": "天王寺璃奈 (CV: 田中ちえ美)",
+          "title": "Tsunagaru Connect",
+          "title_unicode": "ツナガルコネクト",
+          "creator": "Akitoshi",
+          "creator_id": "4754771",
+          "bpm": "175",
+          "source": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+          "tags": "corinn -laura- -_ex_- ex shiyun kuroame kowari deppyforce koiyo samsmas gai_sib lovelive love live! nijigasaki high school idol club gakuen doukoukai doukou kai nijigaku ニジガク llas sifas スクスタ festival all stars スクールアイドルフェスティバル perfect dream project pdp chan board deco*27 anime insert video game japanese pop j-pop jpop てんのうじ りな",
+          "genre_id": "5",
+          "language_id": "3",
+          "favourite_count": "68",
+          "rating": "9.8421",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "2908",
+          "passcount": "669",
+          "packs": null,
+          "max_combo": "1230",
+          "diff_aim": "3.34678",
+          "diff_speed": "2.04626",
+          "difficultyrating": "5.85636"
+        },
         {
           "beatmapset_id": "2357503",
           "beatmap_id": "5077635",
@@ -59816,18 +60662,77 @@
             }
           ],
           "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1858631",
+          "title": "Tsunagaru Connect",
+          "artist": "Tennoji Rina (CV: Tanaka Chiemi)",
+          "creator": "Akitoshi",
+          "approved_date": "2026-11-07 17:06:40",
+          "difficulties": [
+            {
+              "beatmap_id": "3820672",
+              "version": "Expert",
+              "difficultyrating": "5.50223",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "3837456",
+              "version": "Easy",
+              "difficultyrating": "1.84876",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "3842254",
+              "version": "Ex's Hard",
+              "difficultyrating": "3.92109",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "3866002",
+              "version": "Deppy & Koiyo's Another",
+              "difficultyrating": "4.95001",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "3866003",
+              "version": "Normal",
+              "difficultyrating": "2.40151",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5431828",
+              "version": "Insane",
+              "difficultyrating": "4.50204",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5496031",
+              "version": "Kuroame & Kowari's Connection",
+              "difficultyrating": "5.85636",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
       "stats": {
-        "totalBeatmaps": 218,
-        "totalBeatmapsets": 39,
-        "ownBeatmapsets": 39,
+        "totalBeatmaps": 225,
+        "totalBeatmapsets": 40,
+        "ownBeatmapsets": 40,
         "guestBeatmapsets": 0,
         "totalGuestDiffs": 0,
-        "ownDifficulties": 218
+        "ownDifficulties": 225
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "1661227",
@@ -71351,7 +72256,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 216
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "1872496",
@@ -82384,7 +83289,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 205
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "1881639",
@@ -93234,7 +94139,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 204
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "1603923",
@@ -103546,20 +104451,240 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 193
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "700010",
       "username": "Laurier",
       "aliases": [],
       "country": "JP",
-      "rankedBeatmaps": 183,
-      "rankedBeatmapsets": 47,
-      "ownBeatmapsets": 47,
+      "rankedBeatmaps": 188,
+      "rankedBeatmapsets": 48,
+      "ownBeatmapsets": 48,
       "guestBeatmapsets": 0,
       "totalGuestDiffs": 0,
       "ownDifficulties": 173,
       "beatmaps": [
+        {
+          "beatmapset_id": "2616917",
+          "beatmap_id": "5869555",
+          "approved": "1",
+          "total_length": "88",
+          "hit_length": "87",
+          "version": "Insane",
+          "file_md5": "ea4857b429ee51e71719a64d3ee7e510",
+          "diff_size": "4",
+          "diff_overall": "8",
+          "diff_approach": "9",
+          "diff_drain": "5",
+          "mode": "0",
+          "count_normal": "184",
+          "count_slider": "167",
+          "count_spinner": "0",
+          "submit_date": "2026-09-07 15:57:01",
+          "approved_date": "2026-10-31 21:44:04",
+          "last_update": "2026-10-05 11:20:20",
+          "artist": "Ogura Yui",
+          "artist_unicode": "小倉唯",
+          "title": "Honey <3 Come!! (TV Size)",
+          "title_unicode": "Honey♥Come!! (TV Size)",
+          "creator": "Laurier",
+          "creator_id": "700010",
+          "bpm": "184",
+          "source": "城下町のダンデライオン",
+          "tags": "oomori shouko 大森祥子 shunryu 俊龍 ookuba kaoru 大久保薫 hikari sakurada 櫻田光castle town dandelion joukamachi no dandelion tvsize ending suisei69 477 theshadowofdark take japanese pop anime ed ending j-pop",
+          "genre_id": "3",
+          "language_id": "3",
+          "favourite_count": "47",
+          "rating": "10",
+          "storyboard": "0",
+          "video": "1",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "4087",
+          "passcount": "1186",
+          "packs": "S1891",
+          "max_combo": "569",
+          "diff_aim": "2.51368",
+          "diff_speed": "1.80638",
+          "difficultyrating": "4.53566"
+        },
+        {
+          "beatmapset_id": "2616917",
+          "beatmap_id": "5875807",
+          "approved": "1",
+          "total_length": "86",
+          "hit_length": "86",
+          "version": "477's Easy",
+          "file_md5": "1ea5414b0fef9788a45e4bb7a851e25b",
+          "diff_size": "3",
+          "diff_overall": "2",
+          "diff_approach": "3",
+          "diff_drain": "2",
+          "mode": "0",
+          "count_normal": "54",
+          "count_slider": "73",
+          "count_spinner": "1",
+          "submit_date": "2026-09-07 15:57:01",
+          "approved_date": "2026-10-31 21:44:04",
+          "last_update": "2026-10-05 11:20:20",
+          "artist": "Ogura Yui",
+          "artist_unicode": "小倉唯",
+          "title": "Honey <3 Come!! (TV Size)",
+          "title_unicode": "Honey♥Come!! (TV Size)",
+          "creator": "Laurier",
+          "creator_id": "700010",
+          "bpm": "184",
+          "source": "城下町のダンデライオン",
+          "tags": "oomori shouko 大森祥子 shunryu 俊龍 ookuba kaoru 大久保薫 hikari sakurada 櫻田光castle town dandelion joukamachi no dandelion tvsize ending suisei69 477 theshadowofdark take japanese pop anime ed ending j-pop",
+          "genre_id": "3",
+          "language_id": "3",
+          "favourite_count": "47",
+          "rating": "10",
+          "storyboard": "0",
+          "video": "1",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "1396",
+          "passcount": "642",
+          "packs": "S1891",
+          "max_combo": "249",
+          "diff_aim": "1.1932",
+          "diff_speed": "0.627513",
+          "difficultyrating": "2.13812"
+        },
+        {
+          "beatmapset_id": "2616917",
+          "beatmap_id": "5875808",
+          "approved": "1",
+          "total_length": "88",
+          "hit_length": "86",
+          "version": "SUISEI",
+          "file_md5": "ebb5819c16570faf6c473685bd2ca573",
+          "diff_size": "4",
+          "diff_overall": "8.3",
+          "diff_approach": "9",
+          "diff_drain": "5",
+          "mode": "0",
+          "count_normal": "223",
+          "count_slider": "129",
+          "count_spinner": "1",
+          "submit_date": "2026-09-07 15:57:01",
+          "approved_date": "2026-10-31 21:44:04",
+          "last_update": "2026-10-05 11:20:20",
+          "artist": "Ogura Yui",
+          "artist_unicode": "小倉唯",
+          "title": "Honey <3 Come!! (TV Size)",
+          "title_unicode": "Honey♥Come!! (TV Size)",
+          "creator": "Laurier",
+          "creator_id": "700010",
+          "bpm": "184",
+          "source": "城下町のダンデライオン",
+          "tags": "oomori shouko 大森祥子 shunryu 俊龍 ookuba kaoru 大久保薫 hikari sakurada 櫻田光castle town dandelion joukamachi no dandelion tvsize ending suisei69 477 theshadowofdark take japanese pop anime ed ending j-pop",
+          "genre_id": "3",
+          "language_id": "3",
+          "favourite_count": "47",
+          "rating": "10",
+          "storyboard": "0",
+          "video": "1",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "4951",
+          "passcount": "1043",
+          "packs": "S1891",
+          "max_combo": "534",
+          "diff_aim": "2.99053",
+          "diff_speed": "1.82817",
+          "difficultyrating": "5.22372"
+        },
+        {
+          "beatmapset_id": "2616917",
+          "beatmap_id": "5877414",
+          "approved": "1",
+          "total_length": "88",
+          "hit_length": "87",
+          "version": "TheShadow's Normal",
+          "file_md5": "9bee90e89ee44086ac56977f4f8e209c",
+          "diff_size": "3.3",
+          "diff_overall": "3.9",
+          "diff_approach": "5.2",
+          "diff_drain": "3.2",
+          "mode": "0",
+          "count_normal": "89",
+          "count_slider": "110",
+          "count_spinner": "0",
+          "submit_date": "2026-09-07 15:57:01",
+          "approved_date": "2026-10-31 21:44:04",
+          "last_update": "2026-10-05 11:20:20",
+          "artist": "Ogura Yui",
+          "artist_unicode": "小倉唯",
+          "title": "Honey <3 Come!! (TV Size)",
+          "title_unicode": "Honey♥Come!! (TV Size)",
+          "creator": "Laurier",
+          "creator_id": "700010",
+          "bpm": "184",
+          "source": "城下町のダンデライオン",
+          "tags": "oomori shouko 大森祥子 shunryu 俊龍 ookuba kaoru 大久保薫 hikari sakurada 櫻田光castle town dandelion joukamachi no dandelion tvsize ending suisei69 477 theshadowofdark take japanese pop anime ed ending j-pop",
+          "genre_id": "3",
+          "language_id": "3",
+          "favourite_count": "47",
+          "rating": "10",
+          "storyboard": "0",
+          "video": "1",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "1054",
+          "passcount": "505",
+          "packs": "S1891",
+          "max_combo": "338",
+          "diff_aim": "1.27244",
+          "diff_speed": "0.969323",
+          "difficultyrating": "2.51692"
+        },
+        {
+          "beatmapset_id": "2616917",
+          "beatmap_id": "5881974",
+          "approved": "1",
+          "total_length": "88",
+          "hit_length": "87",
+          "version": "Take's Hard",
+          "file_md5": "4244a0cf8e69e829d9bd88dba55d22f4",
+          "diff_size": "3.8",
+          "diff_overall": "6",
+          "diff_approach": "8",
+          "diff_drain": "4",
+          "mode": "0",
+          "count_normal": "84",
+          "count_slider": "161",
+          "count_spinner": "0",
+          "submit_date": "2026-09-07 15:57:01",
+          "approved_date": "2026-10-31 21:44:04",
+          "last_update": "2026-10-05 11:20:20",
+          "artist": "Ogura Yui",
+          "artist_unicode": "小倉唯",
+          "title": "Honey <3 Come!! (TV Size)",
+          "title_unicode": "Honey♥Come!! (TV Size)",
+          "creator": "Laurier",
+          "creator_id": "700010",
+          "bpm": "184",
+          "source": "城下町のダンデライオン",
+          "tags": "oomori shouko 大森祥子 shunryu 俊龍 ookuba kaoru 大久保薫 hikari sakurada 櫻田光castle town dandelion joukamachi no dandelion tvsize ending suisei69 477 theshadowofdark take japanese pop anime ed ending j-pop",
+          "genre_id": "3",
+          "language_id": "3",
+          "favourite_count": "47",
+          "rating": "10",
+          "storyboard": "0",
+          "video": "1",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "2953",
+          "passcount": "1250",
+          "packs": "S1891",
+          "max_combo": "442",
+          "diff_aim": "2.0235",
+          "diff_speed": "1.31022",
+          "difficultyrating": "3.56276"
+        },
         {
           "beatmapset_id": "171215",
           "beatmap_id": "414217",
@@ -111702,9 +112827,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "153",
-          "playcount": "84013"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "182749",
@@ -113366,18 +114489,63 @@
             }
           ],
           "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2616917",
+          "title": "Honey <3 Come!! (TV Size)",
+          "artist": "Ogura Yui",
+          "creator": "Laurier",
+          "approved_date": "2026-10-31 21:44:04",
+          "difficulties": [
+            {
+              "beatmap_id": "5869555",
+              "version": "Insane",
+              "difficultyrating": "4.53566",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5875807",
+              "version": "477's Easy",
+              "difficultyrating": "2.13812",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5875808",
+              "version": "SUISEI",
+              "difficultyrating": "5.22372",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5877414",
+              "version": "TheShadow's Normal",
+              "difficultyrating": "2.51692",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5881974",
+              "version": "Take's Hard",
+              "difficultyrating": "3.56276",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
       "stats": {
-        "totalBeatmaps": 183,
-        "totalBeatmapsets": 47,
-        "ownBeatmapsets": 47,
+        "totalBeatmaps": 188,
+        "totalBeatmapsets": 48,
+        "ownBeatmapsets": 48,
         "guestBeatmapsets": 0,
         "totalGuestDiffs": 0,
-        "ownDifficulties": 183
+        "ownDifficulties": 188
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "243917",
@@ -122433,7 +123601,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 170
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "153323",
@@ -130531,7 +131699,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 152
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "610988",
@@ -137641,20 +138809,240 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 134
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "2774767",
       "username": "tasuke912",
       "aliases": [],
       "country": "JP",
-      "rankedBeatmaps": 117,
-      "rankedBeatmapsets": 30,
-      "ownBeatmapsets": 30,
+      "rankedBeatmaps": 123,
+      "rankedBeatmapsets": 32,
+      "ownBeatmapsets": 32,
       "guestBeatmapsets": 0,
       "totalGuestDiffs": 0,
       "ownDifficulties": 117,
       "beatmaps": [
+        {
+          "beatmapset_id": "965178",
+          "beatmap_id": "2020455",
+          "approved": "1",
+          "total_length": "87",
+          "hit_length": "86",
+          "version": "TAIKO-HOLIC",
+          "file_md5": "bc51ef4d586e6ea13583e242f2a8fd20",
+          "diff_size": "2",
+          "diff_overall": "7.7",
+          "diff_approach": "5",
+          "diff_drain": "6.5",
+          "mode": "1",
+          "count_normal": "842",
+          "count_slider": "0",
+          "count_spinner": "1",
+          "submit_date": "2019-05-01 21:09:28",
+          "approved_date": "2019-07-18 11:20:01",
+          "last_update": "2019-07-09 17:00:43",
+          "artist": "The Flashbulb",
+          "artist_unicode": "The Flashbulb",
+          "title": "DIDJ PVC",
+          "title_unicode": "DIDJ PVC",
+          "creator": "tasuke912",
+          "creator_id": "2774767",
+          "bpm": "135",
+          "source": "",
+          "tags": "featured artist nardoxyribonucleic that missing week electronic",
+          "genre_id": "10",
+          "language_id": "5",
+          "favourite_count": "37",
+          "rating": "8.33158",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "35514",
+          "passcount": "1611",
+          "packs": "A52,P120,ST65",
+          "max_combo": "842",
+          "diff_aim": null,
+          "diff_speed": null,
+          "difficultyrating": "6.57716"
+        },
+        {
+          "beatmapset_id": "951618",
+          "beatmap_id": "1987309",
+          "approved": "1",
+          "total_length": "196",
+          "hit_length": "195",
+          "version": "Oni",
+          "file_md5": "76a0a56cc9bba031840855f3764db9df",
+          "diff_size": "2",
+          "diff_overall": "5",
+          "diff_approach": "5",
+          "diff_drain": "5",
+          "mode": "1",
+          "count_normal": "976",
+          "count_slider": "0",
+          "count_spinner": "1",
+          "submit_date": "2019-04-06 13:50:03",
+          "approved_date": "2019-06-10 15:20:02",
+          "last_update": "2019-05-30 10:21:50",
+          "artist": "Rin",
+          "artist_unicode": "凛",
+          "title": "Kishinjou set 02 ~ Mermaid from the Uncharted Land",
+          "title_unicode": "Kishinjou set 02 ～ 秘境のマーメイド",
+          "creator": "tasuke912",
+          "creator_id": "2774767",
+          "bpm": "128",
+          "source": "東方輝針城　～ Double Dealing Character.",
+          "tags": "touhou project osu! featured artist house set of komasy hikyou no",
+          "genre_id": "2",
+          "language_id": "5",
+          "favourite_count": "225",
+          "rating": "8.70746",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "30321",
+          "passcount": "2421",
+          "packs": "ST62",
+          "max_combo": "976",
+          "diff_aim": null,
+          "diff_speed": null,
+          "difficultyrating": "3.93295"
+        },
+        {
+          "beatmapset_id": "951618",
+          "beatmap_id": "1987597",
+          "approved": "1",
+          "total_length": "196",
+          "hit_length": "195",
+          "version": "Futsuu",
+          "file_md5": "14742aeaa7a312ebfe15268d1f6e28ec",
+          "diff_size": "2",
+          "diff_overall": "4",
+          "diff_approach": "5",
+          "diff_drain": "7",
+          "mode": "1",
+          "count_normal": "396",
+          "count_slider": "0",
+          "count_spinner": "2",
+          "submit_date": "2019-04-06 13:50:03",
+          "approved_date": "2019-06-10 15:20:02",
+          "last_update": "2019-05-30 10:21:50",
+          "artist": "Rin",
+          "artist_unicode": "凛",
+          "title": "Kishinjou set 02 ~ Mermaid from the Uncharted Land",
+          "title_unicode": "Kishinjou set 02 ～ 秘境のマーメイド",
+          "creator": "tasuke912",
+          "creator_id": "2774767",
+          "bpm": "128",
+          "source": "東方輝針城　～ Double Dealing Character.",
+          "tags": "touhou project osu! featured artist house set of komasy hikyou no",
+          "genre_id": "2",
+          "language_id": "5",
+          "favourite_count": "225",
+          "rating": "8.70746",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "116442",
+          "passcount": "17964",
+          "packs": "ST62",
+          "max_combo": "396",
+          "diff_aim": null,
+          "diff_speed": null,
+          "difficultyrating": "1.8576"
+        },
+        {
+          "beatmapset_id": "951618",
+          "beatmap_id": "1993054",
+          "approved": "1",
+          "total_length": "196",
+          "hit_length": "195",
+          "version": "komasy's Muzukashii",
+          "file_md5": "1865e68575c68064acc80a10d09c7549",
+          "diff_size": "4.5",
+          "diff_overall": "4.5",
+          "diff_approach": "6",
+          "diff_drain": "6",
+          "mode": "1",
+          "count_normal": "676",
+          "count_slider": "0",
+          "count_spinner": "1",
+          "submit_date": "2019-04-06 13:50:03",
+          "approved_date": "2019-06-10 15:20:02",
+          "last_update": "2019-05-30 10:21:50",
+          "artist": "Rin",
+          "artist_unicode": "凛",
+          "title": "Kishinjou set 02 ~ Mermaid from the Uncharted Land",
+          "title_unicode": "Kishinjou set 02 ～ 秘境のマーメイド",
+          "creator": "tasuke912",
+          "creator_id": "2774767",
+          "bpm": "128",
+          "source": "東方輝針城　～ Double Dealing Character.",
+          "tags": "touhou project osu! featured artist house set of komasy hikyou no",
+          "genre_id": "2",
+          "language_id": "5",
+          "favourite_count": "225",
+          "rating": "8.70746",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "50580",
+          "passcount": "3969",
+          "packs": "ST62",
+          "max_combo": "676",
+          "diff_aim": null,
+          "diff_speed": null,
+          "difficultyrating": "2.788"
+        },
+        {
+          "beatmapset_id": "951618",
+          "beatmap_id": "2014323",
+          "approved": "1",
+          "total_length": "196",
+          "hit_length": "195",
+          "version": "Kantan",
+          "file_md5": "bcecd2e3982ea6a5d7310555cb243db7",
+          "diff_size": "2",
+          "diff_overall": "3.5",
+          "diff_approach": "5",
+          "diff_drain": "8",
+          "mode": "1",
+          "count_normal": "219",
+          "count_slider": "0",
+          "count_spinner": "3",
+          "submit_date": "2019-04-06 13:50:03",
+          "approved_date": "2019-06-10 15:20:02",
+          "last_update": "2019-05-30 10:21:50",
+          "artist": "Rin",
+          "artist_unicode": "凛",
+          "title": "Kishinjou set 02 ~ Mermaid from the Uncharted Land",
+          "title_unicode": "Kishinjou set 02 ～ 秘境のマーメイド",
+          "creator": "tasuke912",
+          "creator_id": "2774767",
+          "bpm": "128",
+          "source": "東方輝針城　～ Double Dealing Character.",
+          "tags": "touhou project osu! featured artist house set of komasy hikyou no",
+          "genre_id": "2",
+          "language_id": "5",
+          "favourite_count": "225",
+          "rating": "8.70746",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "277425",
+          "passcount": "88056",
+          "packs": "ST62",
+          "max_combo": "219",
+          "diff_aim": null,
+          "diff_speed": null,
+          "difficultyrating": "1.16329"
+        },
         {
           "beatmapset_id": "789553",
           "beatmap_id": "1656937",
@@ -137874,6 +139262,50 @@
           "diff_aim": null,
           "diff_speed": null,
           "difficultyrating": "5.62537"
+        },
+        {
+          "beatmapset_id": "789553",
+          "beatmap_id": "1890648",
+          "approved": "1",
+          "total_length": "197",
+          "hit_length": "169",
+          "version": "Kazu's Oni",
+          "file_md5": "aa0852a673d3cfe1d9567a1e0dd18dd5",
+          "diff_size": "5",
+          "diff_overall": "6",
+          "diff_approach": "5",
+          "diff_drain": "5",
+          "mode": "1",
+          "count_normal": "815",
+          "count_slider": "0",
+          "count_spinner": "1",
+          "submit_date": "2018-05-30 07:19:07",
+          "approved_date": "2019-06-10 15:00:03",
+          "last_update": "2019-06-03 14:00:47",
+          "artist": "Cranky",
+          "artist_unicode": "Cranky",
+          "title": "Ran",
+          "title_unicode": "乱",
+          "creator": "tasuke912",
+          "creator_id": "2774767",
+          "bpm": "170",
+          "source": "",
+          "tags": "midnaait -kazu- featured artist fa record5-speed hiroshi watanabe luan",
+          "genre_id": "2",
+          "language_id": "5",
+          "favourite_count": "27",
+          "rating": "9.20652",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "2565",
+          "passcount": "576",
+          "packs": "ST62",
+          "max_combo": "815",
+          "diff_aim": null,
+          "diff_speed": null,
+          "difficultyrating": "4.11109"
         },
         {
           "beatmapset_id": "897127",
@@ -142846,6 +144278,13 @@
               "difficultyrating": "5.62537",
               "mode": "1",
               "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1890648",
+              "version": "Kazu's Oni",
+              "difficultyrating": "4.11109",
+              "mode": "1",
+              "isGuestDiff": false
             }
           ],
           "isOwnMapset": true
@@ -143923,18 +145362,73 @@
             }
           ],
           "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "951618",
+          "title": "Kishinjou set 02 ~ Mermaid from the Uncharted Land",
+          "artist": "Rin",
+          "creator": "tasuke912",
+          "approved_date": "2019-06-10 15:20:02",
+          "difficulties": [
+            {
+              "beatmap_id": "1987309",
+              "version": "Oni",
+              "difficultyrating": "3.93295",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1987597",
+              "version": "Futsuu",
+              "difficultyrating": "1.8576",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1993054",
+              "version": "komasy's Muzukashii",
+              "difficultyrating": "2.788",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2014323",
+              "version": "Kantan",
+              "difficultyrating": "1.16329",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "965178",
+          "title": "DIDJ PVC",
+          "artist": "The Flashbulb",
+          "creator": "tasuke912",
+          "approved_date": "2019-07-18 11:20:01",
+          "difficulties": [
+            {
+              "beatmap_id": "2020455",
+              "version": "TAIKO-HOLIC",
+              "difficultyrating": "6.57716",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
       "stats": {
-        "totalBeatmaps": 117,
-        "totalBeatmapsets": 30,
-        "ownBeatmapsets": 30,
+        "totalBeatmaps": 123,
+        "totalBeatmapsets": 32,
+        "ownBeatmapsets": 32,
         "guestBeatmapsets": 0,
         "totalGuestDiffs": 0,
-        "ownDifficulties": 117
+        "ownDifficulties": 123
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "91738",
@@ -150095,7 +151589,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 115
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "940878",
@@ -155830,7 +157324,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 107
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "1077845",
@@ -161492,7 +162986,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 106
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "420622",
@@ -167052,7 +168546,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 104
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "611174",
@@ -172461,7 +173955,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 101
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "767003",
@@ -176798,7 +178292,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 81
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "123636",
@@ -180910,7 +182404,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 76
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "431791",
@@ -184706,7 +186200,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 70
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "78552",
@@ -188291,7 +189785,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 66
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "100324",
@@ -191680,7 +193174,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 63
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "419795",
@@ -194969,7 +196463,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 61
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "353821",
@@ -198042,7 +199536,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 57
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "445907",
@@ -201066,7 +202560,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 56
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "807817",
@@ -204078,7 +205572,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 56
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "131270",
@@ -206988,7 +208482,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 54
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "1786588",
@@ -209817,7 +211311,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 53
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "74313",
@@ -212625,7 +214119,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 52
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "3650145",
@@ -215119,7 +216613,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 46
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "119404",
@@ -217509,7 +219003,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 44
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "542498",
@@ -219869,7 +221363,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 44
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "770590",
@@ -221843,9 +223337,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "145",
-          "playcount": "17480"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2362250",
@@ -222261,7 +223753,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 44
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "102152",
@@ -224569,7 +226061,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 42
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "5069490",
@@ -226810,7 +228302,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 42
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "382840",
@@ -228956,7 +230448,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 40
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "3280542",
@@ -231132,7 +232624,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 40
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "199540",
@@ -233206,7 +234698,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 38
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "550523",
@@ -235260,7 +236752,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 38
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "352328",
@@ -237384,7 +238876,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 38
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "3001783",
@@ -239448,7 +240940,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 38
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "275300",
@@ -241461,7 +242953,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 37
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "352740",
@@ -243352,7 +244844,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 35
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "501551",
@@ -245174,7 +246666,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 34
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "1014222",
@@ -246966,7 +248458,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 33
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "133783",
@@ -248602,7 +250094,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 30
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "605540",
@@ -250218,7 +251710,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 30
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "487668",
@@ -251886,7 +253378,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 30
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "60574",
@@ -253481,7 +254973,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 29
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "73453",
@@ -255076,7 +256568,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 29
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "290738",
@@ -256671,7 +258163,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 29
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "1499299",
@@ -258236,7 +259728,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 29
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "1614839",
@@ -259803,7 +261295,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 29
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "855713",
@@ -261317,7 +262809,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 28
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "303929",
@@ -262790,7 +264282,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 27
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "1476203",
@@ -264255,7 +265747,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 27
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "482120",
@@ -265708,7 +267200,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 27
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "210658",
@@ -267142,7 +268634,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 26
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "579512",
@@ -268554,7 +270046,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 26
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "306700",
@@ -269915,7 +271407,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 25
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "1170595",
@@ -271225,7 +272717,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 24
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "93392",
@@ -272514,7 +274006,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 23
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "855209",
@@ -273793,7 +275285,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 23
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "4455389",
@@ -275054,7 +276546,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 23
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "7114",
@@ -276252,7 +277744,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 22
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "1686709",
@@ -277460,7 +278952,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 22
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "137168",
@@ -278617,7 +280109,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 21
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "1331937",
@@ -279754,7 +281246,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 21
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "265700",
@@ -280860,7 +282352,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 20
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "1746675",
@@ -281978,7 +283470,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 20
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "177045",
@@ -282962,7 +284454,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 18
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "204736",
@@ -283905,7 +285397,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 17
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "71917",
@@ -284838,7 +286330,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 17
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "384802",
@@ -285771,7 +287263,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 17
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "855219",
@@ -286704,7 +288196,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 17
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "1380956",
@@ -287637,7 +289129,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 17
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "1473106",
@@ -288570,7 +290062,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 17
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "2478769",
@@ -289513,7 +291005,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 17
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "396542",
@@ -290395,7 +291887,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 16
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "438547",
@@ -291236,7 +292728,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 15
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "127949",
@@ -292026,7 +293518,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 14
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "337102",
@@ -292796,7 +294288,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 14
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "540992",
@@ -293515,7 +295007,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 13
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "522188",
@@ -294224,7 +295716,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 13
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "2534632",
@@ -294973,7 +296465,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 13
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "298267",
@@ -295641,7 +297133,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 12
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "1008962",
@@ -296329,7 +297821,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 12
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "4270973",
@@ -296997,7 +298489,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 12
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "639751",
@@ -297604,7 +299096,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 11
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "3100145",
@@ -298203,7 +299695,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 11
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "1603608",
@@ -298820,7 +300312,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 11
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "645109",
@@ -299376,7 +300868,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 10
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "163639",
@@ -299881,7 +301373,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 9
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "607288",
@@ -300386,7 +301878,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 9
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "576368",
@@ -300891,7 +302383,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 9
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "733878",
@@ -301396,7 +302888,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 9
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "1083407",
@@ -301921,7 +303413,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 9
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "409957",
@@ -302375,7 +303867,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 8
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "1074928",
@@ -302841,7 +304333,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 8
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "608261",
@@ -303295,7 +304787,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 8
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "1422149",
@@ -303749,7 +305241,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 8
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "72290",
@@ -304152,7 +305644,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 7
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "231631",
@@ -304565,7 +306057,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 7
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "159590",
@@ -304968,7 +306460,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 7
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "624345",
@@ -305371,7 +306863,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 7
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "2417723",
@@ -305776,7 +307268,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 7
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "580925",
@@ -306179,7 +307671,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 7
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "14053",
@@ -306531,7 +308023,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 6
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "113058",
@@ -306883,7 +308375,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 6
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "564790",
@@ -307245,7 +308737,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 6
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "1282954",
@@ -307587,7 +309079,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 6
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "14823",
@@ -307888,7 +309380,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 5
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "164024",
@@ -308179,7 +309671,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 5
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "94364",
@@ -308472,7 +309964,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 5
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "198574",
@@ -308763,7 +310255,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 5
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "360207",
@@ -309054,7 +310546,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 5
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "74517",
@@ -309345,7 +310837,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 5
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "365280",
@@ -309636,7 +311128,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 5
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "872311",
@@ -309929,7 +311421,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 5
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "294856",
@@ -310220,7 +311712,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 5
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "619514",
@@ -310511,7 +312003,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 5
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "1309717",
@@ -310802,7 +312294,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 5
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "397297",
@@ -311093,7 +312585,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 5
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "3995068",
@@ -311384,7 +312876,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 5
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "92873",
@@ -311624,7 +313116,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 4
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "112088",
@@ -311866,7 +313358,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 4
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "198394",
@@ -312106,7 +313598,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 4
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "589550",
@@ -312346,7 +313838,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 4
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "393190",
@@ -312586,7 +314078,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 4
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "714263",
@@ -312828,7 +314320,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 4
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "940961",
@@ -313068,7 +314560,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 4
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "1587460",
@@ -313308,7 +314800,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 4
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "2243053",
@@ -313548,7 +315040,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 4
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "383807",
@@ -313788,7 +315280,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 4
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "1870588",
@@ -314028,7 +315520,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 4
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "2212938",
@@ -314268,7 +315760,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 4
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "6050380",
@@ -314510,7 +316002,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 4
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "423007",
@@ -314699,7 +316191,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "166465",
@@ -314890,7 +316382,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "352616",
@@ -315079,7 +316571,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "420798",
@@ -315268,7 +316760,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "795235",
@@ -315457,7 +316949,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "850361",
@@ -315646,7 +317138,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "729632",
@@ -315835,7 +317327,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "358287",
@@ -316024,7 +317516,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     },
     {
       "user_id": "191499",
@@ -316162,7 +317654,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 2
       },
-      "lastUpdated": "2026-10-28T08:09:22.870Z"
+      "lastUpdated": "2026-11-11T09:07:20.217Z"
     }
   ]
 }

@@ -5,7 +5,7 @@
     "demonym": "Chile",
     "nativeName": "Chile"
   },
-  "lastUpdated": "2026-10-28T08:09:19.032Z",
+  "lastUpdated": "2026-11-11T09:07:16.507Z",
   "totalMappers": 10,
   "totalBeatmaps": 1401,
   "totalBeatmapsets": 335,
@@ -18068,7 +18068,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 339
       },
-      "lastUpdated": "2026-10-28T08:09:19.032Z"
+      "lastUpdated": "2026-11-11T09:07:16.507Z"
     },
     {
       "user_id": "6175280",
@@ -32781,6 +32781,58 @@
       ],
       "beatmapsets": [
         {
+          "beatmapset_id": "2508810",
+          "title": "Reality Hurts",
+          "artist": "NMIXX",
+          "creator": "Cris-",
+          "approved_date": "2026-10-18 07:05:22",
+          "difficulties": [
+            {
+              "beatmap_id": "5526155",
+              "version": "Keep It Goin'",
+              "difficultyrating": "5.77254",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5549615",
+              "version": "Ldnz's Normal",
+              "difficultyrating": "2.23009",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5562879",
+              "version": "TheShadow's Easy",
+              "difficultyrating": "1.79507",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5592373",
+              "version": "Delta's Insane",
+              "difficultyrating": "4.49091",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5628893",
+              "version": "Sonoda's Hard",
+              "difficultyrating": "3.12344",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5853216",
+              "version": "MrTerror's Expert",
+              "difficultyrating": "5.26838",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
           "beatmapset_id": "2491861",
           "title": "End Of Fake!",
           "artist": "mimizu",
@@ -32844,9 +32896,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "348",
-          "playcount": "66032"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2487586",
@@ -33474,9 +33524,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "352",
-          "playcount": "149758"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2310830",
@@ -33528,9 +33576,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "50",
-          "playcount": "40731"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2308772",
@@ -33680,9 +33726,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "360",
-          "playcount": "315992"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2260967",
@@ -33776,9 +33820,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "190",
-          "playcount": "102630"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1289187",
@@ -33823,9 +33865,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "110",
-          "playcount": "47687"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1588771",
@@ -33870,9 +33910,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "66",
-          "playcount": "27581"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2234038",
@@ -33917,9 +33955,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "54",
-          "playcount": "26222"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2215787",
@@ -33971,9 +34007,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "81",
-          "playcount": "52890"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2217678",
@@ -34025,9 +34059,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "282",
-          "playcount": "52449"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1384792",
@@ -34044,9 +34076,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "14",
-          "playcount": "3403"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1384791",
@@ -35697,60 +35727,6 @@
             }
           ],
           "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "2508810",
-          "title": "Reality Hurts",
-          "artist": "NMIXX",
-          "creator": "Cris-",
-          "approved_date": "2026-10-18 07:05:22",
-          "difficulties": [
-            {
-              "beatmap_id": "5526155",
-              "version": "Keep It Goin'",
-              "difficultyrating": "5.77254",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5549615",
-              "version": "Ldnz's Normal",
-              "difficultyrating": "2.23009",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5562879",
-              "version": "TheShadow's Easy",
-              "difficultyrating": "1.79507",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5592373",
-              "version": "Delta's Insane",
-              "difficultyrating": "4.49091",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5628893",
-              "version": "Sonoda's Hard",
-              "difficultyrating": "3.12344",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5853216",
-              "version": "MrTerror's Expert",
-              "difficultyrating": "5.26838",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true,
-          "favourite_count": "81",
-          "playcount": "10668"
         }
       ],
       "guestDifficulties": [],
@@ -35762,7 +35738,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 334
       },
-      "lastUpdated": "2026-10-28T08:09:19.032Z"
+      "lastUpdated": "2026-11-11T09:07:16.507Z"
     },
     {
       "user_id": "1263669",
@@ -47162,7 +47138,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 212
       },
-      "lastUpdated": "2026-10-28T08:09:19.032Z"
+      "lastUpdated": "2026-11-11T09:07:16.507Z"
     },
     {
       "user_id": "464889",
@@ -54620,9 +54596,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "25",
-          "playcount": "22452"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2198859",
@@ -54653,9 +54627,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "24",
-          "playcount": "12396"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2102254",
@@ -56240,7 +56212,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 168
       },
-      "lastUpdated": "2026-10-28T08:09:19.032Z"
+      "lastUpdated": "2026-11-11T09:07:16.507Z"
     },
     {
       "user_id": "5405836",
@@ -63044,7 +63016,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 125
       },
-      "lastUpdated": "2026-10-28T08:09:19.032Z"
+      "lastUpdated": "2026-11-11T09:07:16.507Z"
     },
     {
       "user_id": "46605",
@@ -68705,7 +68677,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 105
       },
-      "lastUpdated": "2026-10-28T08:09:19.032Z"
+      "lastUpdated": "2026-11-11T09:07:16.507Z"
     },
     {
       "user_id": "115291",
@@ -73849,7 +73821,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 96
       },
-      "lastUpdated": "2026-10-28T08:09:19.032Z"
+      "lastUpdated": "2026-11-11T09:07:16.507Z"
     },
     {
       "user_id": "99284",
@@ -74466,7 +74438,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 11
       },
-      "lastUpdated": "2026-10-28T08:09:19.032Z"
+      "lastUpdated": "2026-11-11T09:07:16.507Z"
     },
     {
       "user_id": "45259",
@@ -74869,7 +74841,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 7
       },
-      "lastUpdated": "2026-10-28T08:09:19.032Z"
+      "lastUpdated": "2026-11-11T09:07:16.507Z"
     },
     {
       "user_id": "144464",
@@ -75111,7 +75083,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 4
       },
-      "lastUpdated": "2026-10-28T08:09:19.032Z"
+      "lastUpdated": "2026-11-11T09:07:16.507Z"
     }
   ]
 }
