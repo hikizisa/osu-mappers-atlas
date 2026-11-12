@@ -5,7 +5,7 @@
     "demonym": "Türkiye",
     "nativeName": "Türkiye"
   },
-  "lastUpdated": "2026-10-29T08:20:00.316Z",
+  "lastUpdated": "2026-11-12T09:37:25.064Z",
   "totalMappers": 1,
   "totalBeatmaps": 71,
   "totalBeatmapsets": 32,
@@ -3203,9 +3203,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "28",
-          "playcount": "534"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1756364",
@@ -3982,7 +3980,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 71
       },
-      "lastUpdated": "2026-10-29T08:20:00.316Z"
+      "lastUpdated": "2026-11-12T09:37:25.064Z"
     }
   ]
 }
