@@ -5,11 +5,11 @@
     "demonym": "Malaysia",
     "nativeName": "Malaysia"
   },
-  "lastUpdated": "2026-10-31T08:14:22.377Z",
+  "lastUpdated": "2026-11-14T08:49:17.734Z",
   "totalMappers": 7,
-  "totalBeatmaps": 336,
-  "totalBeatmapsets": 100,
-  "totalOwnBeatmapsets": 100,
+  "totalBeatmaps": 337,
+  "totalBeatmapsets": 101,
+  "totalOwnBeatmapsets": 101,
   "totalGuestBeatmapsets": 0,
   "totalGuestDiffs": 0,
   "totalOwnDifficulties": 335,
@@ -25,13 +25,57 @@
         "[Zeth]"
       ],
       "country": "MY",
-      "rankedBeatmaps": 134,
-      "rankedBeatmapsets": 44,
-      "ownBeatmapsets": 44,
+      "rankedBeatmaps": 135,
+      "rankedBeatmapsets": 45,
+      "ownBeatmapsets": 45,
       "guestBeatmapsets": 0,
       "totalGuestDiffs": 0,
       "ownDifficulties": 133,
       "beatmaps": [
+        {
+          "beatmapset_id": "2603727",
+          "beatmap_id": "5823259",
+          "approved": "1",
+          "total_length": "266",
+          "hit_length": "253",
+          "version": "Glimmer",
+          "file_md5": "d29626411d8163f40bb7e1963af2a711",
+          "diff_size": "2",
+          "diff_overall": "6",
+          "diff_approach": "10",
+          "diff_drain": "6",
+          "mode": "1",
+          "count_normal": "1247",
+          "count_slider": "0",
+          "count_spinner": "1",
+          "submit_date": "2026-08-15 17:04:56",
+          "approved_date": "2026-11-11 01:22:57",
+          "last_update": "2026-11-02 07:55:52",
+          "artist": "TAKU INOUE feat. Yuko Natsuyoshi, Hayami Saori",
+          "artist_unicode": "TAKU INOUE feat. 夏吉ゆうこ、早見沙織",
+          "title": "ray (Cosmic Princess Kaguya! Ver.)",
+          "title_unicode": "ray (超かぐや姫！ Ver.)",
+          "creator": "Zeth",
+          "creator_id": "9912966",
+          "bpm": "132",
+          "source": "超かぐや姫！",
+          "tags": "cho-kaguya chou hime! movie kaguya-hime cpk かぐや kaguya 月見ヤチヨ yachiyo runami japanese pop jpop j-pop electronic anime original soundtrack ost cover bump of chicken boc motoo fujiwara 藤原基央 hiroaki masukawa 増川弘明 yoshifumi naoi 直井由文 hideo masu 升秀夫 taku inoue 井上拓",
+          "genre_id": "5",
+          "language_id": "3",
+          "favourite_count": "7",
+          "rating": "10",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "193",
+          "passcount": "40",
+          "packs": null,
+          "max_combo": "1247",
+          "diff_aim": null,
+          "diff_speed": null,
+          "difficultyrating": "3.82625"
+        },
         {
           "beatmapset_id": "2505954",
           "beatmap_id": "5517590",
@@ -5945,9 +5989,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "10",
-          "playcount": "199"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2244840",
@@ -6047,9 +6089,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "22",
-          "playcount": "1837"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2188006",
@@ -6087,9 +6127,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "37",
-          "playcount": "6763"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2166350",
@@ -7313,18 +7351,35 @@
             }
           ],
           "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2603727",
+          "title": "ray (Cosmic Princess Kaguya! Ver.)",
+          "artist": "TAKU INOUE feat. Yuko Natsuyoshi, Hayami Saori",
+          "creator": "Zeth",
+          "approved_date": "2026-11-11 01:22:57",
+          "difficulties": [
+            {
+              "beatmap_id": "5823259",
+              "version": "Glimmer",
+              "difficultyrating": "3.82625",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
       "stats": {
-        "totalBeatmaps": 134,
-        "totalBeatmapsets": 44,
-        "ownBeatmapsets": 44,
+        "totalBeatmaps": 135,
+        "totalBeatmapsets": 45,
+        "ownBeatmapsets": 45,
         "guestBeatmapsets": 0,
         "totalGuestDiffs": 0,
-        "ownDifficulties": 134
+        "ownDifficulties": 135
       },
-      "lastUpdated": "2026-10-31T08:14:22.377Z"
+      "lastUpdated": "2026-11-14T08:49:17.734Z"
     },
     {
       "user_id": "6209713",
@@ -11263,9 +11318,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "509",
-          "playcount": "7867"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2310670",
@@ -11282,9 +11335,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "34",
-          "playcount": "4906"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2321296",
@@ -11301,9 +11352,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "47",
-          "playcount": "9586"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "923032",
@@ -11397,9 +11446,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "169",
-          "playcount": "76764"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2137694",
@@ -12118,7 +12165,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 88
       },
-      "lastUpdated": "2026-10-31T08:14:22.377Z"
+      "lastUpdated": "2026-11-14T08:49:17.734Z"
     },
     {
       "user_id": "95480",
@@ -14875,7 +14922,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 51
       },
-      "lastUpdated": "2026-10-31T08:14:22.377Z"
+      "lastUpdated": "2026-11-14T08:49:17.734Z"
     },
     {
       "user_id": "6537",
@@ -17255,7 +17302,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 44
       },
-      "lastUpdated": "2026-10-31T08:14:22.377Z"
+      "lastUpdated": "2026-11-14T08:49:17.734Z"
     },
     {
       "user_id": "333959",
@@ -17762,7 +17809,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 9
       },
-      "lastUpdated": "2026-10-31T08:14:22.377Z"
+      "lastUpdated": "2026-11-14T08:49:17.734Z"
     },
     {
       "user_id": "118446",
@@ -18165,7 +18212,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 7
       },
-      "lastUpdated": "2026-10-31T08:14:22.377Z"
+      "lastUpdated": "2026-11-14T08:49:17.734Z"
     },
     {
       "user_id": "91320",
@@ -18356,7 +18403,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-10-31T08:14:22.377Z"
+      "lastUpdated": "2026-11-14T08:49:17.734Z"
     }
   ]
 }

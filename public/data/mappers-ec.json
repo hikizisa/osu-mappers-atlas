@@ -5,7 +5,7 @@
     "demonym": "Ecuador",
     "nativeName": "Ecuador"
   },
-  "lastUpdated": "2026-10-31T08:14:20.984Z",
+  "lastUpdated": "2026-11-14T08:49:15.944Z",
   "totalMappers": 5,
   "totalBeatmaps": 181,
   "totalBeatmapsets": 51,
@@ -5326,9 +5326,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "27",
-          "playcount": "1324"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1842746",
@@ -5373,9 +5371,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "14",
-          "playcount": "5688"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1814145",
@@ -6401,7 +6397,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 118
       },
-      "lastUpdated": "2026-10-31T08:14:20.984Z"
+      "lastUpdated": "2026-11-14T08:49:15.944Z"
     },
     {
       "user_id": "39872",
@@ -7996,7 +7992,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 29
       },
-      "lastUpdated": "2026-10-31T08:14:20.984Z"
+      "lastUpdated": "2026-11-14T08:49:15.944Z"
     },
     {
       "user_id": "3442319",
@@ -9113,6 +9109,44 @@
       ],
       "beatmapsets": [
         {
+          "beatmapset_id": "607142",
+          "title": "Yume o Kanaete Doraemon (TV Size)",
+          "artist": "mao",
+          "creator": "Etsu",
+          "approved_date": "2026-10-26 02:45:34",
+          "difficulties": [
+            {
+              "beatmap_id": "1282473",
+              "version": "Futsuu",
+              "difficultyrating": "1.48958",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1282474",
+              "version": "Kantan",
+              "difficultyrating": "1.10648",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1282475",
+              "version": "Muzukashii",
+              "difficultyrating": "1.87037",
+              "mode": "1",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "1282476",
+              "version": "Oni",
+              "difficultyrating": "2.52136",
+              "mode": "1",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
           "beatmapset_id": "474312",
           "title": "Nichijou Decoration (TV Size)",
           "artist": "Petit Rabbit's",
@@ -9308,46 +9342,6 @@
             }
           ],
           "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "607142",
-          "title": "Yume o Kanaete Doraemon (TV Size)",
-          "artist": "mao",
-          "creator": "Etsu",
-          "approved_date": "2026-10-26 02:45:34",
-          "difficulties": [
-            {
-              "beatmap_id": "1282473",
-              "version": "Futsuu",
-              "difficultyrating": "1.48958",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1282474",
-              "version": "Kantan",
-              "difficultyrating": "1.10648",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1282475",
-              "version": "Muzukashii",
-              "difficultyrating": "1.87037",
-              "mode": "1",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "1282476",
-              "version": "Oni",
-              "difficultyrating": "2.52136",
-              "mode": "1",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true,
-          "favourite_count": "7",
-          "playcount": "759"
         }
       ],
       "guestDifficulties": [],
@@ -9359,7 +9353,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 25
       },
-      "lastUpdated": "2026-10-31T08:14:20.984Z"
+      "lastUpdated": "2026-11-14T08:49:15.944Z"
     },
     {
       "user_id": "2317431",
@@ -9701,7 +9695,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 6
       },
-      "lastUpdated": "2026-10-31T08:14:20.984Z"
+      "lastUpdated": "2026-11-14T08:49:15.944Z"
     },
     {
       "user_id": "61466",
@@ -9890,7 +9884,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-10-31T08:14:20.984Z"
+      "lastUpdated": "2026-11-14T08:49:15.944Z"
     }
   ]
 }
