@@ -69301,13 +69301,13 @@
           "tags": "kirakira 365 days to the wedding are you really getting married? kekkon suru tte hontou desu ka? anime pop japanese jpop j-pop opening op full version ver. karupa -karupa- kawasaki sakura",
           "genre_id": "3",
           "language_id": "3",
-          "favourite_count": "25",
+          "favourite_count": "29",
           "rating": "8.5",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1306",
+          "playcount": "1450",
           "passcount": "165",
           "packs": "S1888",
           "max_combo": "701",
@@ -74304,7 +74304,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "29",
+          "playcount": "6329"
         },
         {
           "beatmapset_id": "2520017",

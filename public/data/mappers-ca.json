@@ -38262,13 +38262,13 @@
           "tags": "remix cover version 由助 yusuke 鈴木まりこ mariko suzuki cinnamons 原田夏希 natsuki harada evening cinema 君の虜に kimi no toriko ni bossa nova jazz japanese mai ji",
           "genre_id": "14",
           "language_id": "3",
-          "favourite_count": "182",
+          "favourite_count": "200",
           "rating": "9.4",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "2548",
+          "playcount": "5410",
           "passcount": "804",
           "packs": "LR112",
           "max_combo": "521",
@@ -47963,7 +47963,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "200",
+          "playcount": "5410"
         }
       ],
       "guestDifficulties": [],
@@ -56859,13 +56861,13 @@
           "tags": "noah existruth larca head-on clash zun team shanghai alice yukari yakumo 八雲 紫 touhou th7 youyoumu 東方project instrumental metal",
           "genre_id": "11",
           "language_id": "5",
-          "favourite_count": "89",
+          "favourite_count": "110",
           "rating": "9.84615",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "16588",
+          "playcount": "24076",
           "passcount": "1678",
           "packs": "S1870",
           "max_combo": "1715",
@@ -63006,7 +63008,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "110",
+          "playcount": "24076"
         },
         {
           "beatmapset_id": "2470966",

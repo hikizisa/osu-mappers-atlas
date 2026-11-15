@@ -62,13 +62,13 @@
           "tags": "cho-kaguya chou hime! movie kaguya-hime cpk かぐや kaguya 月見ヤチヨ yachiyo runami japanese pop jpop j-pop electronic anime original soundtrack ost cover bump of chicken boc motoo fujiwara 藤原基央 hiroaki masukawa 増川弘明 yoshifumi naoi 直井由文 hideo masu 升秀夫 taku inoue 井上拓",
           "genre_id": "5",
           "language_id": "3",
-          "favourite_count": "7",
+          "favourite_count": "8",
           "rating": "10",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "193",
+          "playcount": "208",
           "passcount": "40",
           "packs": null,
           "max_combo": "1247",
@@ -7367,7 +7367,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "8",
+          "playcount": "208"
         }
       ],
       "guestDifficulties": [],
