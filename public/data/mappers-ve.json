@@ -5,7 +5,7 @@
     "demonym": "Venezuela",
     "nativeName": "Venezuela"
   },
-  "lastUpdated": "2026-11-02T09:10:39.038Z",
+  "lastUpdated": "2026-11-16T09:19:51.092Z",
   "totalMappers": 7,
   "totalBeatmaps": 250,
   "totalBeatmapsets": 52,
@@ -4668,7 +4668,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 87
       },
-      "lastUpdated": "2026-11-02T09:10:39.038Z"
+      "lastUpdated": "2026-11-16T09:19:51.092Z"
     },
     {
       "user_id": "131918",
@@ -8753,7 +8753,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 76
       },
-      "lastUpdated": "2026-11-02T09:10:39.038Z"
+      "lastUpdated": "2026-11-16T09:19:51.092Z"
     },
     {
       "user_id": "2140739",
@@ -10790,7 +10790,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 39
       },
-      "lastUpdated": "2026-11-02T09:10:39.038Z"
+      "lastUpdated": "2026-11-16T09:19:51.092Z"
     },
     {
       "user_id": "547882",
@@ -11898,7 +11898,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 20
       },
-      "lastUpdated": "2026-11-02T09:10:39.038Z"
+      "lastUpdated": "2026-11-16T09:19:51.092Z"
     },
     {
       "user_id": "2675027",
@@ -12619,9 +12619,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "98",
-          "playcount": "34592"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "245118",
@@ -12733,7 +12731,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 15
       },
-      "lastUpdated": "2026-11-02T09:10:39.038Z"
+      "lastUpdated": "2026-11-16T09:19:51.092Z"
     },
     {
       "user_id": "3859048",
@@ -13289,7 +13287,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 10
       },
-      "lastUpdated": "2026-11-02T09:10:39.038Z"
+      "lastUpdated": "2026-11-16T09:19:51.092Z"
     },
     {
       "user_id": "45683",
@@ -13478,7 +13476,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-11-02T09:10:39.038Z"
+      "lastUpdated": "2026-11-16T09:19:51.092Z"
     }
   ]
 }
