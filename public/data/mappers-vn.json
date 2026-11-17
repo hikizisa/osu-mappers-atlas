@@ -5,7 +5,7 @@
     "demonym": "Vietnam",
     "nativeName": "Vietnam"
   },
-  "lastUpdated": "2026-11-03T09:17:09.562Z",
+  "lastUpdated": "2026-11-17T10:27:48.574Z",
   "totalMappers": 7,
   "totalBeatmaps": 466,
   "totalBeatmapsets": 108,
@@ -13,7 +13,7 @@
   "totalGuestBeatmapsets": 0,
   "totalGuestDiffs": 0,
   "totalOwnDifficulties": 466,
-  "scanType": "incremental",
+  "scanType": "full",
   "mappers": [
     {
       "user_id": "2596306",
@@ -9959,7 +9959,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 188
       },
-      "lastUpdated": "2026-11-03T09:17:09.562Z"
+      "lastUpdated": "2026-11-17T10:27:48.574Z"
     },
     {
       "user_id": "7262798",
@@ -14995,9 +14995,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "103",
-          "playcount": "24634"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2044069",
@@ -15968,7 +15966,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 111
       },
-      "lastUpdated": "2026-11-03T09:17:09.562Z"
+      "lastUpdated": "2026-11-17T10:27:48.574Z"
     },
     {
       "user_id": "6486831",
@@ -19469,7 +19467,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 65
       },
-      "lastUpdated": "2026-11-03T09:17:09.562Z"
+      "lastUpdated": "2026-11-17T10:27:48.574Z"
     },
     {
       "user_id": "2209412",
@@ -21951,7 +21949,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 46
       },
-      "lastUpdated": "2026-11-03T09:17:09.562Z"
+      "lastUpdated": "2026-11-17T10:27:48.574Z"
     },
     {
       "user_id": "252527",
@@ -23709,7 +23707,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 32
       },
-      "lastUpdated": "2026-11-03T09:17:09.562Z"
+      "lastUpdated": "2026-11-17T10:27:48.574Z"
     },
     {
       "user_id": "2743764",
@@ -24532,7 +24530,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 15
       },
-      "lastUpdated": "2026-11-03T09:17:09.562Z"
+      "lastUpdated": "2026-11-17T10:27:48.574Z"
     },
     {
       "user_id": "694267",
@@ -25047,7 +25045,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 9
       },
-      "lastUpdated": "2026-11-03T09:17:09.562Z"
+      "lastUpdated": "2026-11-17T10:27:48.574Z"
     }
   ]
 }
