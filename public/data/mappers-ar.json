@@ -5,11 +5,11 @@
     "demonym": "Argentina",
     "nativeName": "Argentina"
   },
-  "lastUpdated": "2026-11-04T08:52:16.673Z",
+  "lastUpdated": "2026-11-18T09:57:55.946Z",
   "totalMappers": 5,
-  "totalBeatmaps": 202,
-  "totalBeatmapsets": 72,
-  "totalOwnBeatmapsets": 72,
+  "totalBeatmaps": 204,
+  "totalBeatmapsets": 74,
+  "totalOwnBeatmapsets": 74,
   "totalGuestBeatmapsets": 0,
   "totalGuestDiffs": 0,
   "totalOwnDifficulties": 180,
@@ -22,13 +22,101 @@
         "Hareimu"
       ],
       "country": "AR",
-      "rankedBeatmaps": 161,
-      "rankedBeatmapsets": 57,
-      "ownBeatmapsets": 57,
+      "rankedBeatmaps": 163,
+      "rankedBeatmapsets": 59,
+      "ownBeatmapsets": 59,
       "guestBeatmapsets": 0,
       "totalGuestDiffs": 0,
       "ownDifficulties": 146,
       "beatmaps": [
+        {
+          "beatmapset_id": "2610895",
+          "beatmap_id": "5847471",
+          "approved": "1",
+          "total_length": "271",
+          "hit_length": "270",
+          "version": "Azure Bird",
+          "file_md5": "b66f66ffc5d5bfb2da523356e3db2474",
+          "diff_size": "4.3",
+          "diff_overall": "9",
+          "diff_approach": "9",
+          "diff_drain": "6",
+          "mode": "2",
+          "count_normal": "462",
+          "count_slider": "388",
+          "count_spinner": "6",
+          "submit_date": "2026-08-28 00:05:26",
+          "approved_date": "2026-11-08 16:22:01",
+          "last_update": "2026-11-01 15:17:12",
+          "artist": "Shimotsuki Haruka",
+          "artist_unicode": "霜月はるか",
+          "title": "Ruri no Tori",
+          "title_unicode": "瑠璃の鳥",
+          "creator": "Cielbami",
+          "creator_id": "4138746",
+          "bpm": "97",
+          "source": "殻ノ少女",
+          "tags": "jpop j-pop karanoshojo shōjo eroge op opening kara no shoujo shojo main theme innocent grey little wing manyo azure bird 導きのハーモニー michibiki harmony galgame visual novel japanese pop video game full size version ver. ciel hareimu reimu",
+          "genre_id": "5",
+          "language_id": "3",
+          "favourite_count": "7",
+          "rating": "0",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "108",
+          "passcount": "29",
+          "packs": "SC175",
+          "max_combo": "1354",
+          "diff_aim": "4.71542",
+          "diff_speed": null,
+          "difficultyrating": "4.71542"
+        },
+        {
+          "beatmapset_id": "2614840",
+          "beatmap_id": "5861421",
+          "approved": "1",
+          "total_length": "285",
+          "hit_length": "284",
+          "version": "unreachable",
+          "file_md5": "abfa90693911a5b77a8555042b48395d",
+          "diff_size": "4.5",
+          "diff_overall": "9",
+          "diff_approach": "9",
+          "diff_drain": "5",
+          "mode": "2",
+          "count_normal": "636",
+          "count_slider": "489",
+          "count_spinner": "2",
+          "submit_date": "2026-09-04 07:12:50",
+          "approved_date": "2026-11-06 03:05:58",
+          "last_update": "2026-10-30 02:36:10",
+          "artist": "Kalafina",
+          "artist_unicode": "Kalafina",
+          "title": "sprinter",
+          "title_unicode": "sprinter",
+          "creator": "Cielbami",
+          "creator_id": "4138746",
+          "bpm": "160",
+          "source": "劇場版「空の境界」 第五章 矛盾螺旋",
+          "tags": "the garden of sinners chapter 5 paradox paradigm kara no kyoukai mujun rasen 梶浦由記 kajiura yuki カラフィナ 窪田啓子 kubota keiko 大滝若奈 Ōtaki outaki otaki wakana 政井光 masai hikaru 豊島摩耶 toyoshima maya japanese rock j-pop jpop pop j-rock symphonic ending ed theme female vocals vocalist hareimu reimu ciel anime movie knk type-moon ufotable typemoon",
+          "genre_id": "3",
+          "language_id": "3",
+          "favourite_count": "14",
+          "rating": "0",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "220",
+          "passcount": "28",
+          "packs": "SC175",
+          "max_combo": "1827",
+          "diff_aim": "5.54488",
+          "diff_speed": null,
+          "difficultyrating": "5.54488"
+        },
         {
           "beatmapset_id": "2590553",
           "beatmap_id": "5781085",
@@ -7116,6 +7204,75 @@
       ],
       "beatmapsets": [
         {
+          "beatmapset_id": "2590553",
+          "title": "Bunny Girl",
+          "artist": "Nekomiya Eto",
+          "creator": "Cielbami",
+          "approved_date": "2026-10-25 00:02:55",
+          "difficulties": [
+            {
+              "beatmap_id": "5781085",
+              "version": "Bunny Overdose",
+              "difficultyrating": "4.42683",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5788612",
+              "version": "Bunny Rain",
+              "difficultyrating": "3.62615",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "2628999",
+          "title": "Professor Oak's Laboratory",
+          "artist": "Junichi Masuda",
+          "creator": "Cielbami",
+          "approved_date": "2026-10-22 10:22:56",
+          "difficulties": [
+            {
+              "beatmap_id": "5909871",
+              "version": "Overdose",
+              "difficultyrating": "4.09671",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5909872",
+              "version": "Platter",
+              "difficultyrating": "2.32682",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5909873",
+              "version": "Rain",
+              "difficultyrating": "3.13188",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5909874",
+              "version": "Salad",
+              "difficultyrating": "1.83124",
+              "mode": "2",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5911432",
+              "version": "Cup",
+              "difficultyrating": "1.24001",
+              "mode": "2",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
           "beatmapset_id": "914791",
           "title": "Sky Is Over",
           "artist": "Serj Tankian",
@@ -8744,89 +8901,50 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "2628999",
-          "title": "Professor Oak's Laboratory",
-          "artist": "Junichi Masuda",
+          "beatmapset_id": "2614840",
+          "title": "sprinter",
+          "artist": "Kalafina",
           "creator": "Cielbami",
-          "approved_date": "2026-10-22 10:22:56",
+          "approved_date": "2026-11-06 03:05:58",
           "difficulties": [
             {
-              "beatmap_id": "5909871",
-              "version": "Overdose",
-              "difficultyrating": "4.09671",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5909872",
-              "version": "Platter",
-              "difficultyrating": "2.32682",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5909873",
-              "version": "Rain",
-              "difficultyrating": "3.13188",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5909874",
-              "version": "Salad",
-              "difficultyrating": "1.83124",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5911432",
-              "version": "Cup",
-              "difficultyrating": "1.24001",
+              "beatmap_id": "5861421",
+              "version": "unreachable",
+              "difficultyrating": "5.54488",
               "mode": "2",
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "15",
-          "playcount": "4003"
+          "isOwnMapset": true
         },
         {
-          "beatmapset_id": "2590553",
-          "title": "Bunny Girl",
-          "artist": "Nekomiya Eto",
+          "beatmapset_id": "2610895",
+          "title": "Ruri no Tori",
+          "artist": "Shimotsuki Haruka",
           "creator": "Cielbami",
-          "approved_date": "2026-10-25 00:02:55",
+          "approved_date": "2026-11-08 16:22:01",
           "difficulties": [
             {
-              "beatmap_id": "5781085",
-              "version": "Bunny Overdose",
-              "difficultyrating": "4.42683",
-              "mode": "2",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5788612",
-              "version": "Bunny Rain",
-              "difficultyrating": "3.62615",
+              "beatmap_id": "5847471",
+              "version": "Azure Bird",
+              "difficultyrating": "4.71542",
               "mode": "2",
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "27",
-          "playcount": "1057"
+          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
       "stats": {
-        "totalBeatmaps": 161,
-        "totalBeatmapsets": 57,
-        "ownBeatmapsets": 57,
+        "totalBeatmaps": 163,
+        "totalBeatmapsets": 59,
+        "ownBeatmapsets": 59,
         "guestBeatmapsets": 0,
         "totalGuestDiffs": 0,
-        "ownDifficulties": 161
+        "ownDifficulties": 163
       },
-      "lastUpdated": "2026-11-04T08:52:16.673Z"
+      "lastUpdated": "2026-11-18T09:57:55.946Z"
     },
     {
       "user_id": "6707918",
@@ -10686,7 +10804,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 34
       },
-      "lastUpdated": "2026-11-04T08:52:16.673Z"
+      "lastUpdated": "2026-11-18T09:57:55.946Z"
     },
     {
       "user_id": "555",
@@ -10895,7 +11013,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-11-04T08:52:16.673Z"
+      "lastUpdated": "2026-11-18T09:57:55.946Z"
     },
     {
       "user_id": "1961",
@@ -11033,7 +11151,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 2
       },
-      "lastUpdated": "2026-11-04T08:52:16.673Z"
+      "lastUpdated": "2026-11-18T09:57:55.946Z"
     },
     {
       "user_id": "41568",
@@ -11171,7 +11289,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 2
       },
-      "lastUpdated": "2026-11-04T08:52:16.673Z"
+      "lastUpdated": "2026-11-18T09:57:55.946Z"
     }
   ]
 }
