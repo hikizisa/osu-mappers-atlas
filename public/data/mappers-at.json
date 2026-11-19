@@ -5,7 +5,7 @@
     "demonym": "Austria",
     "nativeName": "Austria"
   },
-  "lastUpdated": "2026-11-05T09:15:28.625Z",
+  "lastUpdated": "2026-11-19T10:04:45.829Z",
   "totalMappers": 2,
   "totalBeatmaps": 160,
   "totalBeatmapsets": 58,
@@ -6338,9 +6338,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "24",
-          "playcount": "1630"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2558447",
@@ -6357,9 +6355,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "16",
-          "playcount": "1063"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2475386",
@@ -6890,9 +6886,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "37",
-          "playcount": "110744"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2230774",
@@ -6909,9 +6903,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "32",
-          "playcount": "8911"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2191184",
@@ -6935,9 +6927,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "30",
-          "playcount": "5375"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2241735",
@@ -6954,9 +6944,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "111",
-          "playcount": "10648"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2202800",
@@ -6973,9 +6961,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "21",
-          "playcount": "12430"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2143862",
@@ -7888,7 +7874,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 143
       },
-      "lastUpdated": "2026-11-05T09:15:28.625Z"
+      "lastUpdated": "2026-11-19T10:04:45.829Z"
     },
     {
       "user_id": "73480",
@@ -8821,7 +8807,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 17
       },
-      "lastUpdated": "2026-11-05T09:15:28.625Z"
+      "lastUpdated": "2026-11-19T10:04:45.829Z"
     }
   ]
 }

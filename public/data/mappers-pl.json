@@ -5,15 +5,15 @@
     "demonym": "Poland",
     "nativeName": "Poland"
   },
-  "lastUpdated": "2026-11-05T09:15:31.284Z",
+  "lastUpdated": "2026-11-19T10:04:48.076Z",
   "totalMappers": 42,
-  "totalBeatmaps": 1704,
-  "totalBeatmapsets": 495,
-  "totalOwnBeatmapsets": 495,
+  "totalBeatmaps": 1706,
+  "totalBeatmapsets": 497,
+  "totalOwnBeatmapsets": 497,
   "totalGuestBeatmapsets": 0,
   "totalGuestDiffs": 0,
   "totalOwnDifficulties": 1696,
-  "scanType": "incremental",
+  "scanType": "full",
   "mappers": [
     {
       "user_id": "700887",
@@ -18290,9 +18290,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "85",
-          "playcount": "51314"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2099346",
@@ -18330,9 +18328,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "141",
-          "playcount": "91714"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2115633",
@@ -18363,9 +18359,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "137",
-          "playcount": "37857"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2106029",
@@ -18382,9 +18376,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "20",
-          "playcount": "12790"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2044239",
@@ -18415,9 +18407,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "66",
-          "playcount": "20541"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2158792",
@@ -21978,7 +21968,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 408
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "3376777",
@@ -29716,9 +29706,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "50",
-          "playcount": "6599"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "693398",
@@ -29859,9 +29847,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "25",
-          "playcount": "9763"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1828560",
@@ -31643,7 +31629,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 175
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "8406396",
@@ -37880,9 +37866,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "36",
-          "playcount": "1027"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2566463",
@@ -37899,9 +37883,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "63",
-          "playcount": "6355"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1978101",
@@ -39296,7 +39278,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 141
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "9908108",
@@ -44637,6 +44619,51 @@
       ],
       "beatmapsets": [
         {
+          "beatmapset_id": "1261307",
+          "title": "RiGHT NOW (TV SiZE)",
+          "artist": "EMPiRE",
+          "creator": "HakuYT",
+          "approved_date": "2026-11-01 18:24:20",
+          "difficulties": [
+            {
+              "beatmap_id": "2678750",
+              "version": "NORMAL",
+              "difficultyrating": "2.2175",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2756818",
+              "version": "KOJiO'S HARD",
+              "difficultyrating": "3.45888",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "2905330",
+              "version": "XYTOPER'S REiNCARNATiON",
+              "difficultyrating": "5.05575",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5127570",
+              "version": "EASY",
+              "difficultyrating": "1.88329",
+              "mode": "0",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "5127571",
+              "version": "iNSANE",
+              "difficultyrating": "4.36392",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
           "beatmapset_id": "2541060",
           "title": "Hitokoto no Kyori (Cut Ver.)",
           "artist": "*namirin",
@@ -45717,53 +45744,6 @@
             }
           ],
           "isOwnMapset": true
-        },
-        {
-          "beatmapset_id": "1261307",
-          "title": "RiGHT NOW (TV SiZE)",
-          "artist": "EMPiRE",
-          "creator": "HakuYT",
-          "approved_date": "2026-11-01 18:24:20",
-          "difficulties": [
-            {
-              "beatmap_id": "2678750",
-              "version": "NORMAL",
-              "difficultyrating": "2.2175",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2756818",
-              "version": "KOJiO'S HARD",
-              "difficultyrating": "3.45888",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "2905330",
-              "version": "XYTOPER'S REiNCARNATiON",
-              "difficultyrating": "5.05575",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5127570",
-              "version": "EASY",
-              "difficultyrating": "1.88329",
-              "mode": "0",
-              "isGuestDiff": false
-            },
-            {
-              "beatmap_id": "5127571",
-              "version": "iNSANE",
-              "difficultyrating": "4.36392",
-              "mode": "0",
-              "isGuestDiff": false
-            }
-          ],
-          "isOwnMapset": true,
-          "favourite_count": "89",
-          "playcount": "18662"
         }
       ],
       "guestDifficulties": [],
@@ -45775,7 +45755,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 121
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "2124783",
@@ -50064,7 +50044,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 81
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "1478292",
@@ -53882,7 +53862,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 72
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "2235750",
@@ -57527,7 +57507,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 67
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "63829",
@@ -61082,7 +61062,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 66
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "5377178",
@@ -64484,20 +64464,108 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 64
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "56917",
       "username": "fartownik",
       "aliases": [],
       "country": "PL",
-      "rankedBeatmaps": 57,
-      "rankedBeatmapsets": 19,
-      "ownBeatmapsets": 19,
+      "rankedBeatmaps": 59,
+      "rankedBeatmapsets": 21,
+      "ownBeatmapsets": 21,
       "guestBeatmapsets": 0,
       "totalGuestDiffs": 0,
       "ownDifficulties": 56,
       "beatmaps": [
+        {
+          "beatmapset_id": "1296252",
+          "beatmap_id": "2689473",
+          "approved": "4",
+          "total_length": "158",
+          "hit_length": "150",
+          "version": "Insane",
+          "file_md5": "611a61f2e0431ba6f4c31f262c94f007",
+          "diff_size": "4",
+          "diff_overall": "8",
+          "diff_approach": "8",
+          "diff_drain": "5",
+          "mode": "0",
+          "count_normal": "468",
+          "count_slider": "175",
+          "count_spinner": "1",
+          "submit_date": "2020-11-08 17:30:52",
+          "approved_date": "2026-11-09 10:35:57",
+          "last_update": "2026-11-06 21:07:19",
+          "artist": "Porno Graffitti",
+          "artist_unicode": "ポルノグラフィティ",
+          "title": "Hitori no Yoru",
+          "title_unicode": "ヒトリノ夜",
+          "creator": "fartownik",
+          "creator_id": "56917",
+          "bpm": "174",
+          "source": "グレート・ティーチャー・オニヅカ",
+          "tags": "great teacher onizuka gto opening op second anime japanese rock jrock j-rock jp male vocals vocalist romantist egoist owc2020 qf hd osu! world cup 2020 owc quarterfinals hidden",
+          "genre_id": "4",
+          "language_id": "3",
+          "favourite_count": "81",
+          "rating": "10",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "2827",
+          "passcount": "413",
+          "packs": "LR112,P135",
+          "max_combo": "838",
+          "diff_aim": "3.11889",
+          "diff_speed": "2.3049",
+          "difficultyrating": "5.7973"
+        },
+        {
+          "beatmapset_id": "287740",
+          "beatmap_id": "649117",
+          "approved": "1",
+          "total_length": "243",
+          "hit_length": "227",
+          "version": "AnothEr",
+          "file_md5": "6df99ac63f988737c2544da44b8a74d4",
+          "diff_size": "4",
+          "diff_overall": "9",
+          "diff_approach": "9",
+          "diff_drain": "5.5",
+          "mode": "0",
+          "count_normal": "702",
+          "count_slider": "237",
+          "count_spinner": "2",
+          "submit_date": "2015-02-22 15:44:27",
+          "approved_date": "2026-11-06 19:04:18",
+          "last_update": "2026-10-28 17:37:13",
+          "artist": "miwa",
+          "artist_unicode": "miwa",
+          "title": "chAngE",
+          "title_unicode": "chAngE",
+          "creator": "fartownik",
+          "creator_id": "56917",
+          "bpm": "165",
+          "source": "BLEACH",
+          "tags": "anime japanese ブリーチ opening 12 rock op jrock j-rock",
+          "genre_id": "4",
+          "language_id": "3",
+          "favourite_count": "108",
+          "rating": "9.41667",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "9937",
+          "passcount": "1600",
+          "packs": "S1893",
+          "max_combo": "1210",
+          "diff_aim": "3.4523",
+          "diff_speed": "2.33021",
+          "difficultyrating": "6.21652"
+        },
         {
           "beatmapset_id": "747718",
           "beatmap_id": "1575458",
@@ -67009,6 +67077,23 @@
       ],
       "beatmapsets": [
         {
+          "beatmapset_id": "747718",
+          "title": "Taishou a",
+          "artist": "anNina",
+          "creator": "fartownik",
+          "approved_date": "2026-11-01 21:24:13",
+          "difficulties": [
+            {
+              "beatmap_id": "1575458",
+              "version": "Sin",
+              "difficultyrating": "3.80159",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
+        },
+        {
           "beatmapset_id": "488602",
           "title": "Chuj Kurwa",
           "artist": "Loffciamcore",
@@ -67030,9 +67115,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "766",
-          "playcount": "62291"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "707249",
@@ -67583,35 +67666,50 @@
           "isOwnMapset": true
         },
         {
-          "beatmapset_id": "747718",
-          "title": "Taishou a",
-          "artist": "anNina",
+          "beatmapset_id": "287740",
+          "title": "chAngE",
+          "artist": "miwa",
           "creator": "fartownik",
-          "approved_date": "2026-11-01 21:24:13",
+          "approved_date": "2026-11-06 19:04:18",
           "difficulties": [
             {
-              "beatmap_id": "1575458",
-              "version": "Sin",
-              "difficultyrating": "3.80159",
+              "beatmap_id": "649117",
+              "version": "AnothEr",
+              "difficultyrating": "6.21652",
               "mode": "0",
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "27",
-          "playcount": "1621"
+          "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1296252",
+          "title": "Hitori no Yoru",
+          "artist": "Porno Graffitti",
+          "creator": "fartownik",
+          "approved_date": "2026-11-09 10:35:57",
+          "difficulties": [
+            {
+              "beatmap_id": "2689473",
+              "version": "Insane",
+              "difficultyrating": "5.7973",
+              "mode": "0",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
       "stats": {
-        "totalBeatmaps": 57,
-        "totalBeatmapsets": 19,
-        "ownBeatmapsets": 19,
+        "totalBeatmaps": 59,
+        "totalBeatmapsets": 21,
+        "ownBeatmapsets": 21,
         "guestBeatmapsets": 0,
         "totalGuestDiffs": 0,
-        "ownDifficulties": 57
+        "ownDifficulties": 59
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "743282",
@@ -70581,7 +70679,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 54
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "2127359",
@@ -72372,9 +72470,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "291",
-          "playcount": "235351"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "852683",
@@ -72849,7 +72945,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 40
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "49329",
@@ -74597,7 +74693,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 32
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "4841608",
@@ -76080,7 +76176,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 27
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "3080783",
@@ -77310,7 +77406,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 22
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "3827077",
@@ -78349,9 +78445,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "333",
-          "playcount": "112944"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1602707",
@@ -78551,7 +78645,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 21
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "83268",
@@ -79667,7 +79761,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 20
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "2559349",
@@ -80704,7 +80798,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 19
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "216195",
@@ -81698,7 +81792,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 18
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "1340650",
@@ -82672,7 +82766,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 18
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "42585",
@@ -83584,7 +83678,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 16
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "62856",
@@ -84415,7 +84509,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 15
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "29144",
@@ -85197,7 +85291,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 14
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "1572001",
@@ -85967,7 +86061,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 14
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "3427748",
@@ -86696,7 +86790,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 13
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "39129",
@@ -87374,7 +87468,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 12
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "2260598",
@@ -88044,7 +88138,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 12
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "3111087",
@@ -88600,7 +88694,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 10
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "110904",
@@ -89117,7 +89211,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 9
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "3959601",
@@ -89632,7 +89726,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 9
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "54716",
@@ -90096,7 +90190,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 8
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "44826",
@@ -90501,7 +90595,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 7
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "2064505",
@@ -90855,7 +90949,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 6
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "2648029",
@@ -91207,7 +91301,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 6
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "6825",
@@ -91498,7 +91592,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 5
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "9610",
@@ -91791,7 +91885,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 5
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "112265",
@@ -92031,7 +92125,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 4
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "185417",
@@ -92273,7 +92367,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 4
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "2341745",
@@ -92513,7 +92607,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 4
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "42579",
@@ -92702,7 +92796,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "169570",
@@ -92893,7 +92987,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     },
     {
       "user_id": "1828621",
@@ -93031,7 +93125,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 2
       },
-      "lastUpdated": "2026-11-05T09:15:31.284Z"
+      "lastUpdated": "2026-11-19T10:04:48.076Z"
     }
   ]
 }
