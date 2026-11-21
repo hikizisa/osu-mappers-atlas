@@ -1,0 +1,235 @@
+{
+  "lastUpdated": "2025-08-08T09:30:00.000Z",
+  "totalMappers": 2,
+  "totalBeatmaps": 6,
+  "totalBeatmapsets": 4,
+  "totalGuestDiffs": 2,
+  "mappers": [
+    {
+      "user_id": "194807",
+      "username": "lepidopodus",
+      "aliases": ["lepi", "lepido"],
+      "country": "KR",
+      "pp_rank": "15432",
+      "pp_raw": "4521",
+      "join_date": "2009-03-15 12:30:00",
+      "playcount": "125643",
+      "rankedBeatmaps": 4,
+      "rankedBeatmapsets": 2,
+      "ownBeatmapsets": 2,
+      "guestBeatmapsets": 1,
+      "totalGuestDiffs": 1,
+      "ownDifficulties": 3,
+      "beatmaps": [
+        {
+          "beatmap_id": "14016",
+          "beatmapset_id": "14016",
+          "title": "La Campanella",
+          "artist": "Franz Liszt",
+          "creator": "lepidopodus",
+          "version": "Insane",
+          "approved_date": "2010-05-20 14:22:00",
+          "difficultyrating": "5.89",
+          "playcount": "892341",
+          "favourite_count": "2341",
+          "approved": "1"
+        },
+        {
+          "beatmap_id": "16592",
+          "beatmapset_id": "16592",
+          "title": "Toccata and Fugue and Rock",
+          "artist": "Yuji Masubuchi",
+          "creator": "lepidopodus",
+          "version": "Hard",
+          "approved_date": "2010-07-12 16:45:00",
+          "difficultyrating": "4.23",
+          "playcount": "456789",
+          "favourite_count": "1234",
+          "approved": "1"
+        },
+        {
+          "beatmap_id": "21472",
+          "beatmapset_id": "21472",
+          "title": "Cruel Angel's Thesis (TV Size)",
+          "artist": "Yoko Takahashi",
+          "creator": "lepidopodus",
+          "version": "Normal",
+          "approved_date": "2011-02-08 10:15:00",
+          "difficultyrating": "3.45",
+          "playcount": "1234567",
+          "favourite_count": "5678",
+          "approved": "1"
+        },
+        {
+          "beatmap_id": "88888",
+          "beatmapset_id": "77777",
+          "title": "Guest Map Example",
+          "artist": "Various Artists",
+          "creator": "AnotherMapper",
+          "version": "lepidopodus's Extra",
+          "approved_date": "2011-05-15 18:30:00",
+          "difficultyrating": "6.12",
+          "playcount": "567890",
+          "favourite_count": "2345",
+          "approved": "1"
+        }
+      ],
+      "beatmapsets": [
+        {
+          "beatmapset_id": "14016",
+          "title": "La Campanella",
+          "artist": "Franz Liszt",
+          "creator": "lepidopodus",
+          "approved_date": "2010-05-20 14:22:00",
+          "approved": "1",
+          "favourite_count": "2341",
+          "playcount": "892341",
+          "modes": ["0"],
+          "difficulties": [
+            {
+              "beatmap_id": "14016",
+              "version": "Insane",
+              "difficultyrating": "5.89",
+              "mode": "0",
+              "playcount": "892341",
+              "favourite_count": "2341"
+            }
+          ]
+        },
+        {
+          "beatmapset_id": "16592",
+          "title": "Toccata and Fugue and Rock",
+          "artist": "Yuji Masubuchi",
+          "creator": "lepidopodus",
+          "approved_date": "2010-07-12 16:45:00",
+          "approved": "1",
+          "favourite_count": "6912",
+          "playcount": "1691356",
+          "modes": ["0"],
+          "difficulties": [
+            {
+              "beatmap_id": "21472",
+              "version": "Normal",
+              "difficultyrating": "3.45",
+              "mode": "0",
+              "playcount": "1234567",
+              "favourite_count": "5678"
+            },
+            {
+              "beatmap_id": "16592",
+              "version": "Hard",
+              "difficultyrating": "4.23",
+              "mode": "0",
+              "playcount": "456789",
+              "favourite_count": "1234"
+            }
+          ]
+        }
+      ],
+      "guestDifficulties": [
+        {
+          "beatmap_id": "88888",
+          "beatmapset_id": "77777",
+          "title": "Guest Map Example",
+          "artist": "Various Artists",
+          "creator": "AnotherMapper",
+          "version": "lepidopodus's Extra",
+          "approved_date": "2011-05-15 18:30:00",
+          "difficultyrating": "6.12",
+          "playcount": "567890",
+          "favourite_count": "2345",
+          "approved": "1"
+        }
+      ]
+    },
+    {
+      "user_id": "1574070",
+      "username": "Kloyd",
+      "aliases": ["Kloydie", "Klody"],
+      "country": "KR",
+      "pp_rank": "12345",
+      "pp_raw": "5432",
+      "join_date": "2012-06-10 15:20:00",
+      "playcount": "98765",
+      "rankedBeatmaps": 2,
+      "rankedBeatmapsets": 2,
+      "ownBeatmapsets": 2,
+      "guestBeatmapsets": 0,
+      "totalGuestDiffs": 0,
+      "ownDifficulties": 2,
+      "beatmaps": [
+        {
+          "beatmap_id": "88616",
+          "beatmapset_id": "88616",
+          "title": "Nightmare",
+          "artist": "M2U",
+          "creator": "Kloyd",
+          "version": "Insane",
+          "approved_date": "2013-04-22 11:00:00",
+          "difficultyrating": "5.67",
+          "playcount": "678901",
+          "favourite_count": "3456",
+          "approved": "1"
+        },
+        {
+          "beatmap_id": "99999",
+          "beatmapset_id": "99999",
+          "title": "Another Song",
+          "artist": "Test Artist",
+          "creator": "Kloyd",
+          "version": "Extra",
+          "approved_date": "2013-08-15 14:30:00",
+          "difficultyrating": "6.34",
+          "playcount": "234567",
+          "favourite_count": "1789",
+          "approved": "1"
+        }
+      ],
+      "beatmapsets": [
+        {
+          "beatmapset_id": "88616",
+          "title": "Nightmare",
+          "artist": "M2U",
+          "creator": "Kloyd",
+          "approved_date": "2013-04-22 11:00:00",
+          "approved": "1",
+          "favourite_count": "3456",
+          "playcount": "678901",
+          "modes": ["0"],
+          "difficulties": [
+            {
+              "beatmap_id": "88616",
+              "version": "Insane",
+              "difficultyrating": "5.67",
+              "mode": "0",
+              "playcount": "678901",
+              "favourite_count": "3456"
+            }
+          ]
+        },
+        {
+          "beatmapset_id": "99999",
+          "title": "Another Song",
+          "artist": "Test Artist",
+          "creator": "Kloyd",
+          "approved_date": "2013-08-15 14:30:00",
+          "approved": "1",
+          "favourite_count": "1789",
+          "playcount": "234567",
+          "modes": ["0"],
+          "difficulties": [
+            {
+              "beatmap_id": "99999",
+              "version": "Extra",
+              "difficultyrating": "6.34",
+              "mode": "0",
+              "playcount": "234567",
+              "favourite_count": "1789"
+            }
+          ]
+        }
+      ],
+      "guestDifficulties": []
+    }
+  ]
+}
