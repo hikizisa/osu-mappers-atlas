@@ -2263,7 +2263,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "2557",
+          "playcount": "2566",
           "passcount": "485",
           "packs": "P246,SC108",
           "max_combo": "1649",
@@ -2307,7 +2307,7 @@
           "video": "1",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1918",
+          "playcount": "1927",
           "passcount": "207",
           "packs": "P100,SC108",
           "max_combo": "1061",
@@ -2395,7 +2395,7 @@
           "video": "1",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1711",
+          "playcount": "1720",
           "passcount": "372",
           "packs": "P100,SC108",
           "max_combo": "690",
@@ -2527,7 +2527,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "3997",
+          "playcount": "4060",
           "passcount": "692",
           "packs": "L30,P183",
           "max_combo": "2400",
@@ -2571,7 +2571,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "8533",
+          "playcount": "8614",
           "passcount": "3156",
           "packs": "FM10,SC105",
           "max_combo": "258",
@@ -2615,7 +2615,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "4105",
+          "playcount": "4123",
           "passcount": "427",
           "packs": "FM10,SC105",
           "max_combo": "444",
@@ -2659,7 +2659,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "13141",
+          "playcount": "13231",
           "passcount": "2711",
           "packs": "FM10,SC105",
           "max_combo": "353",
@@ -2703,7 +2703,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "4789",
+          "playcount": "4816",
           "passcount": "699",
           "packs": "FM10,SC105",
           "max_combo": "405",
@@ -2747,7 +2747,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "7552",
+          "playcount": "7606",
           "passcount": "2343",
           "packs": "FM10,SC105",
           "max_combo": "306",
@@ -2791,7 +2791,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "2584",
+          "playcount": "2602",
           "passcount": "436",
           "packs": "FM10,SC105",
           "max_combo": "433",
@@ -2835,7 +2835,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "7597",
+          "playcount": "7651",
           "passcount": "1503",
           "packs": "FM10,SC105",
           "max_combo": "464",
@@ -2879,7 +2879,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "1711",
+          "playcount": "1756",
           "passcount": "208",
           "packs": "FM10,SC105",
           "max_combo": "608",
@@ -2923,7 +2923,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "3412",
+          "playcount": "3475",
           "passcount": "399",
           "packs": "FM10,SC105",
           "max_combo": "446",
@@ -2967,7 +2967,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "4033",
+          "playcount": "4078",
           "passcount": "809",
           "packs": "FM10,SC105",
           "max_combo": "445",
@@ -3011,7 +3011,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "2944",
+          "playcount": "2998",
           "passcount": "664",
           "packs": "FM10,SC105",
           "max_combo": "455",
@@ -3055,7 +3055,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "8236",
+          "playcount": "8317",
           "passcount": "1357",
           "packs": "FM10,SC105",
           "max_combo": "445",
@@ -3099,7 +3099,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "3457",
+          "playcount": "3529",
           "passcount": "552",
           "packs": "FQ90,SC105",
           "max_combo": "1922",
@@ -3143,7 +3143,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "4447",
+          "playcount": "4456",
           "passcount": "704",
           "packs": "FQ90,SC105",
           "max_combo": "1619",
@@ -12404,7 +12404,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "10",
+          "playcount": "2566"
         },
         {
           "beatmapset_id": "959843",
@@ -12449,7 +12451,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "30",
+          "playcount": "7835"
         },
         {
           "beatmapset_id": "1794162",
@@ -12466,7 +12470,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "68",
+          "playcount": "4060"
         },
         {
           "beatmapset_id": "2120935",
@@ -12560,7 +12566,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "168",
+          "playcount": "69267"
         },
         {
           "beatmapset_id": "2116408",
@@ -12584,7 +12592,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "43",
+          "playcount": "7985"
         },
         {
           "beatmapset_id": "2098447",
@@ -23943,7 +23953,7 @@
           "tags": "amats kuroame keywee touyama japanese jp jpop j-pop pop 瀬名航 sena wataru 2022 anime アニメ yuusha yamemasu i'm quitting heroing ed ending",
           "genre_id": "5",
           "language_id": "3",
-          "favourite_count": "31",
+          "favourite_count": "30",
           "rating": "9.01961",
           "storyboard": "0",
           "video": "1",
@@ -23987,13 +23997,13 @@
           "tags": "amats kuroame keywee touyama japanese jp jpop j-pop pop 瀬名航 sena wataru 2022 anime アニメ yuusha yamemasu i'm quitting heroing ed ending",
           "genre_id": "5",
           "language_id": "3",
-          "favourite_count": "31",
+          "favourite_count": "30",
           "rating": "9.01961",
           "storyboard": "0",
           "video": "1",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "14059",
+          "playcount": "14338",
           "passcount": "3803",
           "packs": "S1431",
           "max_combo": "413",
@@ -24031,13 +24041,13 @@
           "tags": "amats kuroame keywee touyama japanese jp jpop j-pop pop 瀬名航 sena wataru 2022 anime アニメ yuusha yamemasu i'm quitting heroing ed ending",
           "genre_id": "5",
           "language_id": "3",
-          "favourite_count": "31",
+          "favourite_count": "30",
           "rating": "9.01961",
           "storyboard": "0",
           "video": "1",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "3916",
+          "playcount": "3943",
           "passcount": "1574",
           "packs": "S1431",
           "max_combo": "371",
@@ -24075,13 +24085,13 @@
           "tags": "amats kuroame keywee touyama japanese jp jpop j-pop pop 瀬名航 sena wataru 2022 anime アニメ yuusha yamemasu i'm quitting heroing ed ending",
           "genre_id": "5",
           "language_id": "3",
-          "favourite_count": "31",
+          "favourite_count": "30",
           "rating": "9.01961",
           "storyboard": "0",
           "video": "1",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "15148",
+          "playcount": "15301",
           "passcount": "5221",
           "packs": "S1431",
           "max_combo": "411",
@@ -27331,7 +27341,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "30",
+          "playcount": "36337"
         },
         {
           "beatmapset_id": "2089743",

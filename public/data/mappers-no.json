@@ -5995,7 +5995,7 @@
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "3817",
+          "playcount": "3853",
           "passcount": "440",
           "packs": "SC104",
           "max_combo": "4232",
@@ -6033,13 +6033,13 @@
           "tags": "english incurso progressive prog brutal technical tech symphonic black death metal marathon daletto iyouka death stream deathstream nyalettowo x3",
           "genre_id": "11",
           "language_id": "2",
-          "favourite_count": "20",
+          "favourite_count": "21",
           "rating": "7.75",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "5707",
+          "playcount": "5797",
           "passcount": "439",
           "packs": "SC103",
           "max_combo": "4861",
@@ -8724,7 +8724,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "23",
+          "playcount": "3853"
         },
         {
           "beatmapset_id": "2139627",
@@ -8741,7 +8743,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "21",
+          "playcount": "5797"
         },
         {
           "beatmapset_id": "2136340",
@@ -14252,13 +14256,13 @@
           "tags": "ヲワカ anhappii rifurein album complete compilation 超best -memories- マジカルミライ 2015 official magical mirai mega39’s 10th アニバーサリーコレクション anniversary collection balloom best ニコニコ niconico electronic japanese rock jrock j-rock vocaloid vocal voice synthesizer genjitsutouhi-p 現実逃避p arcade future tone sound voltex iv heavenly haven hatsune miku: project diva f osu! world cup 2019 owc grandfinals gf nm1",
           "genre_id": "4",
           "language_id": "3",
-          "favourite_count": "349",
+          "favourite_count": "354",
           "rating": "9.91549",
           "storyboard": "0",
           "video": "0",
           "download_unavailable": "0",
           "audio_unavailable": "0",
-          "playcount": "91090",
+          "playcount": "93448",
           "passcount": "10133",
           "packs": "P114",
           "max_combo": "1535",
@@ -15434,7 +15438,9 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true
+          "isOwnMapset": true,
+          "favourite_count": "354",
+          "playcount": "93448"
         },
         {
           "beatmapset_id": "1743421",
