@@ -5,11 +5,11 @@
     "demonym": "Singapore",
     "nativeName": "Singapore"
   },
-  "lastUpdated": "2026-11-10T09:32:30.331Z",
+  "lastUpdated": "2026-11-24T12:15:53.867Z",
   "totalMappers": 15,
-  "totalBeatmaps": 826,
-  "totalBeatmapsets": 235,
-  "totalOwnBeatmapsets": 235,
+  "totalBeatmaps": 829,
+  "totalBeatmapsets": 236,
+  "totalOwnBeatmapsets": 236,
   "totalGuestBeatmapsets": 0,
   "totalGuestDiffs": 0,
   "totalOwnDifficulties": 826,
@@ -14753,9 +14753,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "35",
-          "playcount": "70862"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2138650",
@@ -14800,9 +14798,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "51",
-          "playcount": "24980"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2086348",
@@ -14847,9 +14843,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "37",
-          "playcount": "42296"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2007899",
@@ -14894,9 +14888,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "128",
-          "playcount": "54770"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2071223",
@@ -14934,9 +14926,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "29",
-          "playcount": "13333"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "2023743",
@@ -17729,7 +17719,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 328
       },
-      "lastUpdated": "2026-11-10T09:32:30.331Z"
+      "lastUpdated": "2026-11-24T12:15:53.867Z"
     },
     {
       "user_id": "2193881",
@@ -17738,13 +17728,145 @@
         "lZenxl"
       ],
       "country": "SG",
-      "rankedBeatmaps": 128,
-      "rankedBeatmapsets": 30,
-      "ownBeatmapsets": 30,
+      "rankedBeatmaps": 131,
+      "rankedBeatmapsets": 31,
+      "ownBeatmapsets": 31,
       "guestBeatmapsets": 0,
       "totalGuestDiffs": 0,
       "ownDifficulties": 128,
       "beatmaps": [
+        {
+          "beatmapset_id": "1476711",
+          "beatmap_id": "3030642",
+          "approved": "4",
+          "total_length": "358",
+          "hit_length": "356",
+          "version": "Zero [0.8x Rate]",
+          "file_md5": "07165b6c16ce8468b5480adc5e64515a",
+          "diff_size": "7",
+          "diff_overall": "7",
+          "diff_approach": "5",
+          "diff_drain": "8",
+          "mode": "3",
+          "count_normal": "8609",
+          "count_slider": "18",
+          "count_spinner": "0",
+          "submit_date": "2021-05-29 03:12:31",
+          "approved_date": "2026-11-14 01:09:57",
+          "last_update": "2026-11-10 14:19:28",
+          "artist": "Camellia",
+          "artist_unicode": "かめりあ",
+          "title": "Xeroa (\"preconnaiXance\" Long ver.)",
+          "title_unicode": "Xéroa (\"préconnaiXance\" Long ver.)",
+          "creator": "Evening",
+          "creator_id": "2193881",
+          "bpm": "240.8",
+          "source": "SOUND VOLTEX IV HEAVENLY HAVEN",
+          "tags": "sdvx 4 xroniàl xéro xronial xero the 7th kacオリジナル楽曲コンテスト original song contest electronic instrumental speedcore chordstream",
+          "genre_id": "10",
+          "language_id": "5",
+          "favourite_count": "57",
+          "rating": "9.75",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "118",
+          "passcount": "32",
+          "packs": "LR109",
+          "max_combo": "8772",
+          "diff_aim": null,
+          "diff_speed": null,
+          "difficultyrating": "9.28971"
+        },
+        {
+          "beatmapset_id": "1476711",
+          "beatmap_id": "3030643",
+          "approved": "4",
+          "total_length": "318",
+          "hit_length": "317",
+          "version": "Zero [0.9x Rate]",
+          "file_md5": "c9ad9c9f1bc43abe4afbd5b60e1928fc",
+          "diff_size": "7",
+          "diff_overall": "7",
+          "diff_approach": "5",
+          "diff_drain": "8",
+          "mode": "3",
+          "count_normal": "8609",
+          "count_slider": "18",
+          "count_spinner": "0",
+          "submit_date": "2021-05-29 03:12:31",
+          "approved_date": "2026-11-14 01:09:57",
+          "last_update": "2026-11-10 14:19:28",
+          "artist": "Camellia",
+          "artist_unicode": "かめりあ",
+          "title": "Xeroa (\"preconnaiXance\" Long ver.)",
+          "title_unicode": "Xéroa (\"préconnaiXance\" Long ver.)",
+          "creator": "Evening",
+          "creator_id": "2193881",
+          "bpm": "270.9",
+          "source": "SOUND VOLTEX IV HEAVENLY HAVEN",
+          "tags": "sdvx 4 xroniàl xéro xronial xero the 7th kacオリジナル楽曲コンテスト original song contest electronic instrumental speedcore chordstream",
+          "genre_id": "10",
+          "language_id": "5",
+          "favourite_count": "57",
+          "rating": "9.75",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "37",
+          "passcount": "15",
+          "packs": "LR109",
+          "max_combo": "8756",
+          "diff_aim": null,
+          "diff_speed": null,
+          "difficultyrating": "10.2153"
+        },
+        {
+          "beatmapset_id": "1476711",
+          "beatmap_id": "3030644",
+          "approved": "4",
+          "total_length": "286",
+          "hit_length": "283",
+          "version": "Zero",
+          "file_md5": "1f54e2dcc6928f28c4344a9349e5ac5c",
+          "diff_size": "7",
+          "diff_overall": "7",
+          "diff_approach": "5",
+          "diff_drain": "8",
+          "mode": "3",
+          "count_normal": "8609",
+          "count_slider": "18",
+          "count_spinner": "0",
+          "submit_date": "2021-05-29 03:12:31",
+          "approved_date": "2026-11-14 01:09:57",
+          "last_update": "2026-11-10 14:19:28",
+          "artist": "Camellia",
+          "artist_unicode": "かめりあ",
+          "title": "Xeroa (\"preconnaiXance\" Long ver.)",
+          "title_unicode": "Xéroa (\"préconnaiXance\" Long ver.)",
+          "creator": "Evening",
+          "creator_id": "2193881",
+          "bpm": "301",
+          "source": "SOUND VOLTEX IV HEAVENLY HAVEN",
+          "tags": "sdvx 4 xroniàl xéro xronial xero the 7th kacオリジナル楽曲コンテスト original song contest electronic instrumental speedcore chordstream",
+          "genre_id": "10",
+          "language_id": "5",
+          "favourite_count": "57",
+          "rating": "9.75",
+          "storyboard": "0",
+          "video": "0",
+          "download_unavailable": "0",
+          "audio_unavailable": "0",
+          "playcount": "102",
+          "passcount": "24",
+          "packs": "LR109",
+          "max_combo": "8740",
+          "diff_aim": null,
+          "diff_speed": null,
+          "difficultyrating": "11.1812"
+        },
         {
           "beatmapset_id": "1670397",
           "beatmap_id": "3411674",
@@ -24574,18 +24696,49 @@
             }
           ],
           "isOwnMapset": true
+        },
+        {
+          "beatmapset_id": "1476711",
+          "title": "Xeroa (\"preconnaiXance\" Long ver.)",
+          "artist": "Camellia",
+          "creator": "Evening",
+          "approved_date": "2026-11-14 01:09:57",
+          "difficulties": [
+            {
+              "beatmap_id": "3030642",
+              "version": "Zero [0.8x Rate]",
+              "difficultyrating": "9.28971",
+              "mode": "3",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "3030643",
+              "version": "Zero [0.9x Rate]",
+              "difficultyrating": "10.2153",
+              "mode": "3",
+              "isGuestDiff": false
+            },
+            {
+              "beatmap_id": "3030644",
+              "version": "Zero",
+              "difficultyrating": "11.1812",
+              "mode": "3",
+              "isGuestDiff": false
+            }
+          ],
+          "isOwnMapset": true
         }
       ],
       "guestDifficulties": [],
       "stats": {
-        "totalBeatmaps": 128,
-        "totalBeatmapsets": 30,
-        "ownBeatmapsets": 30,
+        "totalBeatmaps": 131,
+        "totalBeatmapsets": 31,
+        "ownBeatmapsets": 31,
         "guestBeatmapsets": 0,
         "totalGuestDiffs": 0,
-        "ownDifficulties": 128
+        "ownDifficulties": 131
       },
-      "lastUpdated": "2026-11-10T09:32:30.331Z"
+      "lastUpdated": "2026-11-24T12:15:53.867Z"
     },
     {
       "user_id": "1561995",
@@ -29338,9 +29491,7 @@
               "isGuestDiff": false
             }
           ],
-          "isOwnMapset": true,
-          "favourite_count": "29",
-          "playcount": "4667"
+          "isOwnMapset": true
         },
         {
           "beatmapset_id": "1720271",
@@ -30146,7 +30297,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 103
       },
-      "lastUpdated": "2026-11-10T09:32:30.331Z"
+      "lastUpdated": "2026-11-24T12:15:53.867Z"
     },
     {
       "user_id": "2439822",
@@ -34269,7 +34420,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 77
       },
-      "lastUpdated": "2026-11-10T09:32:30.331Z"
+      "lastUpdated": "2026-11-24T12:15:53.867Z"
     },
     {
       "user_id": "65152",
@@ -36251,7 +36402,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 36
       },
-      "lastUpdated": "2026-11-10T09:32:30.331Z"
+      "lastUpdated": "2026-11-24T12:15:53.867Z"
     },
     {
       "user_id": "142413",
@@ -38060,7 +38211,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 33
       },
-      "lastUpdated": "2026-11-10T09:32:30.331Z"
+      "lastUpdated": "2026-11-24T12:15:53.867Z"
     },
     {
       "user_id": "69333",
@@ -39759,7 +39910,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 31
       },
-      "lastUpdated": "2026-11-10T09:32:30.331Z"
+      "lastUpdated": "2026-11-24T12:15:53.867Z"
     },
     {
       "user_id": "43345",
@@ -41089,7 +41240,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 24
       },
-      "lastUpdated": "2026-11-10T09:32:30.331Z"
+      "lastUpdated": "2026-11-24T12:15:53.867Z"
     },
     {
       "user_id": "499843",
@@ -42238,7 +42389,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 21
       },
-      "lastUpdated": "2026-11-10T09:32:30.331Z"
+      "lastUpdated": "2026-11-24T12:15:53.867Z"
     },
     {
       "user_id": "7199159",
@@ -43364,7 +43515,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 20
       },
-      "lastUpdated": "2026-11-10T09:32:30.331Z"
+      "lastUpdated": "2026-11-24T12:15:53.867Z"
     },
     {
       "user_id": "2500099",
@@ -43932,7 +44083,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 10
       },
-      "lastUpdated": "2026-11-10T09:32:30.331Z"
+      "lastUpdated": "2026-11-24T12:15:53.867Z"
     },
     {
       "user_id": "3617847",
@@ -44355,7 +44506,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 7
       },
-      "lastUpdated": "2026-11-10T09:32:30.331Z"
+      "lastUpdated": "2026-11-24T12:15:53.867Z"
     },
     {
       "user_id": "677",
@@ -44625,7 +44776,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 4
       },
-      "lastUpdated": "2026-11-10T09:32:30.331Z"
+      "lastUpdated": "2026-11-24T12:15:53.867Z"
     },
     {
       "user_id": "12213",
@@ -44814,7 +44965,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 3
       },
-      "lastUpdated": "2026-11-10T09:32:30.331Z"
+      "lastUpdated": "2026-11-24T12:15:53.867Z"
     },
     {
       "user_id": "1653858",
@@ -44901,7 +45052,7 @@
         "totalGuestDiffs": 0,
         "ownDifficulties": 1
       },
-      "lastUpdated": "2026-11-10T09:32:30.331Z"
+      "lastUpdated": "2026-11-24T12:15:53.867Z"
     }
   ]
 }
